@@ -3,9 +3,9 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: You
-middle_name: R.
-last_name: Name
+first_name: 奥利飞飞
+middle_name: 
+last_name: 法国攻略
 contact_note: >
   You can even add a little note about which of these is the best way to reach you.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
@@ -14,8 +14,8 @@ footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
-keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
-lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
+keywords: 法国旅游攻略,法国, 法国旅游, 南法, 巴黎, 尼斯, 马赛, 里昂, 里尔, 南法旅游, 法国度假, 南法旅游攻略, jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
+lang: en, cn, fr # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://tianhuanglab.github.io # the base hostname & protocol for your site
@@ -87,8 +87,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio # blog_name will be displayed in your blog page
-blog_description: a simple whitespace theme for academics
+blog_name: 奥利飞飞 # blog_name will be displayed in your blog page
+blog_description: 现居法国马赛，曾在法国巴黎、里尔，荷兰马斯特里赫特住过。去过十几个国家，足迹遍布三大洲。
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
