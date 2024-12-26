@@ -5,7 +5,7 @@ permalink: /paris/
 description: 漫步浪漫巴黎，感受法式风情
 nav: true
 nav_order: 1
-display_categories: [巴黎, 周边地区]
+display_categories: [paris, others]
 horizontal: false
 ---
 
