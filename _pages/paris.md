@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 巴黎
+title: paris
 permalink: /paris/
 description: 漫步浪漫巴黎，感受法式风情
 nav: true
