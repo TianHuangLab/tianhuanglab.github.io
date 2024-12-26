@@ -156,7 +156,7 @@ collections:
     permalink: /:collection/:title/
   paris:
     output: true
-    permalink: /:collection/:title/
+    permalink: /paris/:path/
 
 announcements:
   enabled: true
