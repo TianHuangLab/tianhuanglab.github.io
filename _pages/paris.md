@@ -9,39 +9,57 @@ display_categories: [paris, others]
 horizontal: false
 ---
 
-<!-- pages/paris.md -->
+<!-- pages/projects.md -->
 <div class="paris">
-{%- if site.enable_project_categories and page.display_categories -%}
-  <!-- Display categorized paris -->
-  {%- for category in page.display_categories -%}
-  <h2 class="category">{{ category }}</h2>
-  {%- if page.only_highlights -%}
-    {%- assign categorized_projects = site.paris | where: "highlighted", true | where: "category", category -%}
-  {%- else -%}
-    {%- assign categorized_projects = site.paris | where: "category", category -%}
-  {%- endif -%}
-  {%- assign sorted_projects = categorized_projects | sort: "importance" | sort: "date" -%}
-  <!-- Generate cards for each paris type -->
-  <div class="list-style mx-auto">
-    {%- for project in categorized_projects -%}
-      {% include paris.liquid %}
-    {%- endfor %}
+{% if site.enable_project_categories and page.display_categories %}
+  <!-- Display categorized projects -->
+  {% for category in page.display_categories %}
+  <a id="{{ category }}" href=".#{{ category }}">
+    <h2 class="category">{{ category }}</h2>
+  </a>
+  {% assign categorized_projects = site.paris | where: "category", category %}
+  {% assign sorted_projects = categorized_projects | sort: "importance" %}
+  <!-- Generate cards for each project -->
+  {% if page.horizontal %}
+  <div class="container">
+    <div class="row row-cols-1 row-cols-md-2">
+    {% for project in sorted_projects %}
+      {% include projects_horizontal.liquid %}
+    {% endfor %}
+    </div>
   </div>
+  {% else %}
+  <div class="row row-cols-1 row-cols-md-3">
+    {% for project in sorted_projects %}
+      {% include paris.liquid %}
+    {% endfor %}
+  </div>
+  {% endif %}
   {% endfor %}
 
-{%- else -%}
-<!-- Display paris without categories -->
-  {%- if page.only_highlights -%}
-  {%- assign sorted_projects = site.paris | where: "highlighted", true | sort: "importance" | sort: "date" -%}
-  {%- else -%}
-  {%- assign sorted_projects = site.paris | sort: "importance" | sort: "date" -%}
-  {%- endif -%}
-  <!-- Generate cards for each project -->
-  <div class="list-style mx-auto">
-    {%- for project in sorted_projects -%}
-      {% include paris.liquid %}
-    {%- endfor %}
-  </div>
-{%- endif -%}
+{% else %}
 
+<!-- Display projects without categories -->
+
+{% assign sorted_projects = site.paris | sort: "importance" %}
+
+  <!-- Generate cards for each project -->
+
+{% if page.horizontal %}
+
+  <div class="container">
+    <div class="row row-cols-1 row-cols-md-2">
+    {% for project in sorted_projects %}
+      {% include projects_horizontal.liquid %}
+    {% endfor %}
+    </div>
+  </div>
+  {% else %}
+  <div class="row row-cols-1 row-cols-md-3">
+    {% for project in sorted_projects %}
+      {% include paris.liquid %}
+    {% endfor %}
+  </div>
+  {% endif %}
+{% endif %}
 </div>
