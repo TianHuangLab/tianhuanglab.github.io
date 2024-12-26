@@ -154,6 +154,9 @@ collections:
   projects:
     output: true
     permalink: /:collection/:title/
+  paris:
+    output: true
+    permalink: /:collection/:title/
 
 announcements:
   enabled: true
