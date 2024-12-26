@@ -6,7 +6,7 @@ description: 漫步浪漫巴黎，感受法式风情
 nav: true
 nav_order: 1
 display_categories: [paris, others]
-horizontal: false
+horizontal: true
 ---
 
 <!-- pages/projects.md -->
