@@ -5,11 +5,11 @@ permalink: /paris/
 description: 漫步浪漫巴黎，感受法式风情
 nav: true
 nav_order: 1
-display_categories: [paris, others]
-horizontal: true
+display_categories: [巴黎, 大巴黎周边]
+horizontal: false
 ---
 
-<!-- pages/projects.md -->
+<!-- pages/paris.md -->
 <div class="paris">
 {% if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->
@@ -24,7 +24,7 @@ horizontal: true
   <div class="container">
     <div class="row row-cols-1 row-cols-md-2">
     {% for project in sorted_projects %}
-      {% include paris_horizontal.liquid %}
+      {% include projects_horizontal.liquid %}
     {% endfor %}
     </div>
   </div>
@@ -50,7 +50,7 @@ horizontal: true
   <div class="container">
     <div class="row row-cols-1 row-cols-md-2">
     {% for project in sorted_projects %}
-      {% include paris_horizontal.liquid %}
+      {% include projects_horizontal.liquid %}
     {% endfor %}
     </div>
   </div>
