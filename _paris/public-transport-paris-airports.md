@@ -6,11 +6,28 @@ img: assets/img/12.jpg
 importance: 1
 category: 
 related_publications: true
+toc:
+  sidebar: left
+tags: 法国 巴黎 
 ---
 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
 Make your photos 1/3, 2/3, or full width.
+
+## Adding a Table of Contents
+to the front matter of the post.
+### Example of Sub-Heading 1
+Jean shorts raw denim Vice
+### Example of another Sub-Heading 1
+## Customizing Your Table of Contents
+{:data-toc-text="Customizing"}
+
+If you want to learn more about how to customize the table of contents of your sidebar
+### Example of Sub-Heading 2
+Jean shorts raw denim Vice normcore
+### Example of another Sub-Heading 2
+Jean shorts raw denim Vice normcore
 
 To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
