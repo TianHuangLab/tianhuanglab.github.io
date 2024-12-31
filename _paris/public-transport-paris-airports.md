@@ -22,7 +22,7 @@ tags: 法国 巴黎
 Bon voyage！我们一起轻松探索巴黎吧！
 {% include figure.liquid loading="eager" path="assets/img/1cdg-2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
 
-## 一 机场航站楼全解析
+## 机场航站楼全解析
 
 简单来说，戴高乐机场一共有 **三个航站楼**
 
@@ -54,7 +54,7 @@ T3航站楼规模较小，设施也比较简单，主要服务一些低成本廉
 
 如果你的行程涉及这些航空公司，那T3就是你的出发或到达地。不过，考虑到它的使用范围相对有限，这里就不展开过多介绍啦！
 
-## 二机场内部交通（航站楼间交通）
+## 机场内部交通（航站楼间交通）
 
 戴高乐机场（CDG）内部的交通设计非常高效，主要有**Navette CDGVAL摆渡火车** 和 **机场摆渡巴士（N1、N2）。**以上内部交通方式，均为免费乘坐。
 
@@ -136,7 +136,7 @@ Navette N1 每天 **24小时运营**，班次频繁，大约每 **10至15分钟*
 
 ### 
 
-## 三 机场外部交通（抵达或离开机场）
+## 机场外部交通（抵达或离开机场）
 
 戴高乐机场连接巴黎市区和其他目的地的交通方式多样，以下是主要的选择：
 
@@ -230,7 +230,7 @@ Navette N1 每天 **24小时运营**，班次频繁，大约每 **10至15分钟*
 
 Roissybus 的班次频率较高，特别适合不想换乘、希望直接到达目的地的旅客。建议提前规划好时间，以确保顺利搭乘。
 
-### 3.公交车（线路350号、351号、夜间巴士140号、143号）
+### 3.公交车（350号、351号；夜间线路140号、143号）
 
 对于预算有限、时间较为充裕的旅客，从戴高乐机场到巴黎市区，或者从市区返回机场，可以选择公交车。这种方式相比以上两种方式更加经济划算，车程大约 **1.5-2小时**。
 
@@ -409,88 +409,6 @@ Roissybus 的班次频率较高，特别适合不想换乘、希望直接到达�
 祝你平安落地，安全返程！
 {% include figure.liquid loading="eager" path="assets/img/1cdg-19.png" title="example image" class="img-fluid rounded z-depth-1" %}
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
 
-## Adding a Table of Contents
-to the front matter of the post.
-### Example of Sub-Heading 1
-Jean shorts raw denim Vice
-### Example of another Sub-Heading 1
-## Customizing Your Table of Contents
-{:data-toc-text="Customizing"}
 
-If you want to learn more about how to customize the table of contents of your sidebar
-### Example of Sub-Heading 2
-Jean shorts raw denim Vice normcore
-### Example of another Sub-Heading 2
-Jean shorts raw denim Vice normcore
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
-
-You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
-Say you wanted to write a bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
-
-{% endraw %}
