@@ -6,6 +6,7 @@ img: assets/img/1cdg-0.jpg
 importance: 1
 category: 
 related_publications: false
+related_posts: true
 toc:
   sidebar: left
 tags: 法国 巴黎 
@@ -408,11 +409,3 @@ Roissybus 的班次频率较高，特别适合不想换乘、希望直接到达�
 
 祝你平安落地，安全返程！
 {% include figure.liquid loading="eager" path="assets/img/1cdg-19.png" title="example image" class="img-fluid rounded z-depth-1" %}
-
-  {% if site.related_blog_posts.enabled %}
-    {% if page.related_posts == null or page.related_posts %}
-      {% include related_posts.liquid %}
-    {% endif %}
-  {% endif %}
-
-
