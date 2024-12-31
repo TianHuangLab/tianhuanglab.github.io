@@ -2,7 +2,7 @@
 layout: page
 title: 2025年最新巴黎机场交通攻略
 description: 包含最新通过地铁轻轨、公交、出租、夜间巴士、以及动车抵达巴黎三大机场的交通攻略
-img: assets/img/1cdg-1.jpg
+img: assets/img/1cdg-0.jpg
 importance: 1
 category: 
 related_publications: true
