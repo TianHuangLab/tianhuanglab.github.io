@@ -2,7 +2,7 @@
 layout: page
 title: 2025年最新巴黎机场交通攻略
 description: 包含最新通过地铁轻轨、公交、出租、夜间巴士、以及动车抵达巴黎三大机场的交通攻略
-img: assets/img/12.jpg
+img: assets/img/1cdg-1.jpg
 importance: 1
 category: 
 related_publications: true
@@ -10,6 +10,7 @@ toc:
   sidebar: left
 tags: 法国 巴黎 
 ---
+{% include figure.liquid loading="eager" path="assets/img/1cdg-1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
 初次来巴黎，面对一个比迷宫还复杂的戴高乐机场，是否感到有点慌？人生地不熟、语言不通、该坐什么车进城心里没谱，是不是觉得脑袋嗡嗡的？别担心——2025年看这一篇戴高乐机场攻略就够了！
 
 无论你是家庭出游、预算有限的背包客，还是来度蜜月的新人情侣或一起出行的朋友，都能在这找到最适合自己的交通方式。
@@ -19,19 +20,20 @@ tags: 法国 巴黎
 来巴黎是一个梦幻的开始，而交通问题，看这篇就够了！无论是头一次来这座城市，还是重返这片熟悉的土地，这份轻松、详细又贴心的戴高乐机场交通攻略，绝对是你开启巴黎之旅的完美伙伴。
 
 Bon voyage！我们一起轻松探索巴黎吧！
+{% include figure.liquid loading="eager" path="assets/img/1cdg-2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
 
 ## 一 机场航站楼全解析
 
 简单来说，戴高乐机场一共有 **三个航站楼**
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/649fb446-777f-4356-80be-5d1ce54b5544/a26ec330-a937-45b8-914a-fac566abb5a6/image.png)
+{% include figure.liquid loading="eager" path="assets/img/1cdg-3.png" title="example image" class="img-fluid rounded z-depth-1" %}
 
 ### **T1航站楼**
 
 T1是最初的主航站楼，目前主要提供给星空联盟、寰宇一家联盟的成员使用，主要有中国国际航空*、德国汉莎航空*、瑞士航空*、土耳其航空*、卡塔尔航空*、挪威航空、北欧航空以及长荣航空*等。整个建筑呈飞碟形状，其一到三层都是出发层。T1的四楼是到达大厅，乘客在这里提取行李。
 
 > 📍 **标记航司有运营中欧航线*
-> 
+
 
 ### **T2航站楼**
 
@@ -44,7 +46,7 @@ T2现在是最重要的主航站楼。分成了 2A、2B、2C、2D、2E、2F 六�
 - **2F航站楼（主要为欧洲申根区内航线，因此不设申根区边检，通过安检后即可登机）**：法国航空*、荷兰皇家航空*、意大利航空*等
 
 > 📍 **标记航司有运营中欧航线*
-> 
+{% include figure.liquid loading="eager" path="assets/img/1cdg-4.png" title="example image" class="img-fluid rounded z-depth-1" %}
 
 ### **T3航站楼**
 
@@ -56,7 +58,7 @@ T3航站楼规模较小，设施也比较简单，主要服务一些低成本廉
 
 戴高乐机场（CDG）内部的交通设计非常高效，主要有**Navette CDGVAL摆渡火车** 和 **机场摆渡巴士（N1、N2）。**以上内部交通方式，均为免费乘坐。
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/649fb446-777f-4356-80be-5d1ce54b5544/c63c21a4-c1c7-4565-b5b1-72fd667308d7/image.png)
+{% include figure.liquid loading="eager" path="assets/img/1cdg-5.png" title="example image" class="img-fluid rounded z-depth-1" %}
 
 ### **1. Navette CDGVAL摆渡火车**
 
@@ -70,7 +72,7 @@ CDGVAL 是一条全自动运行的摆渡火车线路，负责连接戴高乐机�
 4. **付费停车场 Px**
 5. **T2航站楼**（RER 和 SNCF火车站）
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/649fb446-777f-4356-80be-5d1ce54b5544/f6a9dab7-3ae6-4a45-b8e7-0394e95fee02/image.png)
+{% include figure.liquid loading="eager" path="assets/img/1cdg-6.png" title="example image" class="img-fluid rounded z-depth-1" %}
 
 **实操指南**：
 
@@ -109,11 +111,11 @@ T2E 航站楼的乘客还可以使用内部摆渡小火车，专门连接登机�
 - **喜来登酒店**
 - **行李寄存处**
 
-### **运营时间及班次**
+**运营时间及班次**
 
 Navette N1 每天 **24小时运营**，班次频繁，大约每 **10至15分钟** 一班车
 
-![Screenshot 2024-12-27 at 22.16.40.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/649fb446-777f-4356-80be-5d1ce54b5544/02e1f81f-e022-4702-ae9f-e7a169a3c383/Screenshot_2024-12-27_at_22.16.40.png)
+{% include figure.liquid loading="eager" path="assets/img/1cdg-7.png" title="example image" class="img-fluid rounded z-depth-1" %}
 
 ### **4.机场摆渡巴士N2**
 
@@ -124,13 +126,13 @@ Navette N1 每天 **24小时运营**，班次频繁，大约每 **10至15分钟*
 - **2F 航站楼**（2号门）
 - **2G 航站楼**（航站楼正前方）
 
-### **运营时间及班次**
+**运营时间及班次**
 
 - 每日运行时间为 **早上 5:30 至晚上 23:00**。
 - 班次频率为每 **8分钟一班**。
 - 完整运行一圈的总耗时为 **15分钟**。
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/649fb446-777f-4356-80be-5d1ce54b5544/302cdaad-0a6e-4415-831d-618e97e0da91/image.png)
+{% include figure.liquid loading="eager" path="assets/img/1cdg-8.png" title="example image" class="img-fluid rounded z-depth-1" %}
 
 ### 
 
@@ -146,13 +148,13 @@ Navette N1 每天 **24小时运营**，班次频繁，大约每 **10至15分钟*
 
 不同的交通工具适合不同需求，无论是追求效率、经济性还是舒适性，都能找到适合自己的出行方式。
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/649fb446-777f-4356-80be-5d1ce54b5544/b2135cfc-0af6-44cd-9ffd-73d8ff4d7f18/image.png)
+{% include figure.liquid loading="eager" path="assets/img/1cdg-9.png" title="example image" class="img-fluid rounded z-depth-1" %}
 
 ### 1.快速城际列车 **RER B 线**
 
 如果你在戴高乐机场与巴黎市中心之间穿梭，**RER B 快速列车**是一个便捷的选择。这条线路连接巴黎市区的多个主要车站，还可以通过换乘前往其他重要目的地，例如巴黎奥利机场（通过 OrlyVal 连接）。
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/649fb446-777f-4356-80be-5d1ce54b5544/53142417-b634-45a2-b94c-16f8b75d813f/image.png)
+{% include figure.liquid loading="eager" path="assets/img/1cdg-10.png" title="example image" class="img-fluid rounded z-depth-1" %}
 
 **机场站点及服务**
 
@@ -192,7 +194,7 @@ Navette N1 每天 **24小时运营**，班次频繁，大约每 **10至15分钟*
 
 如果你需要从巴黎市区前往戴高乐机场，**Roissybus 机场巴士** 是一个高效、便捷的选择。这条线路直接连接巴黎歌剧院（Opéra）和戴高乐机场，全程大约需要 **60 分钟**。
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/649fb446-777f-4356-80be-5d1ce54b5544/4a7ba6de-d7c3-44a2-afb6-a8b8307f5b7a/image.png)
+{% include figure.liquid loading="eager" path="assets/img/1cdg-11.png" title="example image" class="img-fluid rounded z-depth-1" %}
 
 **行程时间**
 
@@ -228,7 +230,7 @@ Navette N1 每天 **24小时运营**，班次频繁，大约每 **10至15分钟*
 
 Roissybus 的班次频率较高，特别适合不想换乘、希望直接到达目的地的旅客。建议提前规划好时间，以确保顺利搭乘。
 
-### 3.公交车（线路350号、351号、夜间运营线路 Noctilien 140号、143号）
+### 3.公交车（线路350号、351号、夜间巴士140号、143号）
 
 对于预算有限、时间较为充裕的旅客，从戴高乐机场到巴黎市区，或者从市区返回机场，可以选择公交车。这种方式相比以上两种方式更加经济划算，车程大约 **1.5-2小时**。
 
@@ -285,7 +287,7 @@ Roissybus 的班次频率较高，特别适合不想换乘、希望直接到达�
 
 戴高乐机场的SNCF火车站位于 **2号航站楼**，介于 **2C、2D、2E** 和 **2F** 之间，方便旅客从多个航站楼前往。这里不仅可以搭乘火车，还能通过多个交通方式轻松到达。
 
-### **如何到达SNCF火车站**
+**如何到达SNCF火车站**
 
 - **CDGVAL免费接驳车**：从 **1号航站楼** 和 **3号航站楼** 出发，可以乘坐CDGVAL接驳车，直接到达火车站。
 - **N1摆渡巴士**：停靠在 **2A、2C、2D、2E** 和 **2F** 号航站楼。
@@ -293,7 +295,7 @@ Roissybus 的班次频率较高，特别适合不想换乘、希望直接到达�
 
 如果你希望将车停得更靠近火车站，可以选择 [**PCD停车场**](https://www.parisaeroport.fr/passagers/parking/paris-charles-de-gaulle/plans-et-parkings)，这里是最方便的停车选择。
 
-### **火车站布局**
+**火车站布局**
 
 火车站分为五个楼层，各自功能分明：
 
@@ -311,45 +313,35 @@ Roissybus 的班次频率较高，特别适合不想换乘、希望直接到达�
 
 ### 5.出租车
 
-如果您计划通过出租车前往或离开巴黎戴高乐机场（CDG），有多种选择可供考虑：
+如果你计划通过出租车前往或离开巴黎戴高乐机场（CDG），有多种选择可供考虑：
 
 **传统出租车：**
 
-巴黎戴高乐机场设有专门的出租车站，您可以在机场的指定区域直接排队乘坐出租车。
+巴黎戴高乐机场设有专门的出租车站，你可以在机场的指定区域直接排队乘坐出租车。
 
-主要的出租车公司包括：
+主要的出租车公司为：
 
-- **Taxis G7 / Alpha Taxis**：预定电话：01 45 85 85 85。
-- **Les Taxis Bleus**：预定电话：01 41 52 54 25。
-- **Taxis Parisiens**：预定电话：01 45 30 30 30。
+- **Taxis G7**：电话预定可以拨打 3607
 
 请注意，出租车费用通常包括起步价、行驶距离和时间等，具体费用可能会因交通状况和时间段而有所变化。
 
-**共享出行服务：**
+**网约车：**
 
-您还可以使用共享出行服务，如优步（Uber）等。
+你还可以使用共享出行服务，如优步**Uber、Bolt、Virtuo**等，现在**G7**也可以通过APP叫车。
 
-在巴黎戴高乐机场，优步提供接送服务。
+要注意的是，优步的上车地点可能因航站楼而异，建议在APP中查看具体的上车地点指示。
 
-您可以通过优步应用预约车辆，司机将在指定地点接您。
+**第三方私营包车公司/机构：**
 
-请注意，优步的上车地点可能因航站楼而异，建议在应用中查看具体的上车地点指示。
+此外，你还可以选择第三方接送服务机构。
 
-[优步](https://www.uber.com/global/zh/r/airports/cdg/?utm_source=chatgpt.com)
-
-**第三方私营专业接送服务：**
-
-此外，您还可以选择专业的接送服务机构。
-
-这些公司提供固定价格的接送服务，您可以提前在其官方网站或手机APP上预订。
-
-例如，从巴黎戴高乐机场到巴黎市中心的费用约为50-70欧元（白天）或70-90欧元（夜间），具体费用可能因车型和服务内容而有所不同。
+在巴黎有大量的机构甚至个人提供巴黎机场接送机服务。不管你是通过何种方式联系到的，你都要提前和该机构说清楚接送机费用和上下车地点，以免后续产生纠纷。
 
 **其他注意事项：**
 
-- **费用**：从巴黎戴高乐机场到市中心的出租车费用大约在50-60欧元之间，具体费用可能因交通状况和时间段而有所变化。
-- **上车地点**：出租车和共享出行服务的上车地点可能因航站楼而异，建议您在出发前确认具体位置。
-- **预订**：如果您希望确保有车可用，尤其是在高峰时段或深夜，建议提前通过电话或手机APP预订车辆。
+- **费用**：从巴黎戴高乐机场到巴黎市中心的费用约为40-70欧元（白天）或60-90欧元（夜间），具体费用可能因车型和服务内容而有所不同。
+- **上车地点**：出租车和网约车的上车地点可能因航站楼而异，建议你在出发前确认具体位置。
+- **预订**：如果你希望确保有车可用，尤其是在高峰时段或深夜，建议到达前通过电话预定出租车或手机APP预订网约车。
 
 ## 三款必备的巴黎交通APP
 
