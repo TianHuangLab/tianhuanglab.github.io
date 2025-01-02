@@ -519,11 +519,11 @@ tags: 法国 巴黎
 
 埃菲尔铁塔**（Tour Eiffel）**，作为巴黎的标志性景点之一，自1889年世界博览会以来便屹立在塞纳河畔，成为了法国的文化象征。这座高达330米的钢铁结构，原本是为了展示法国的工程技术，但如今，它不仅是巴黎最受欢迎的旅游目的地，也是全世界游客心中的“巴黎象征”。每当你站在埃菲尔铁塔下，仰望这座壮丽的建筑，你会感受到历史的沉淀与现代的活力交织在一起。
 {% include figure.liquid loading="eager" path="assets/img/2paris-top-20-1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-{% include figure.liquid loading="eager" path="assets/img/2paris-top-20-2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
 
 参观埃菲尔铁塔时，建议提前在线购票，避免排长队。你可以选择乘坐电梯直达观景层，也可以体验步行爬塔的乐趣，登上每一层都能看到不同角度的巴黎美景。为了最佳体验，早晨或傍晚是最佳时机，此时游客较少，且阳光正好。铁塔夜间的灯光秀也值得一看，每小时整点都会点亮整个铁塔，特别迷人。
 
 埃菲尔铁塔的开放时间通常为每天上午9:00至晚上11:45，夏季时段可能会延长至午夜。
+{% include figure.liquid loading="eager" path="assets/img/2paris-top-20-2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
 
 从2025年1月13日起，巴黎埃菲尔铁塔将采用新的票价体系，详情参考如下：
 
@@ -535,7 +535,7 @@ tags: 法国 巴黎
 
 [请参阅官网](https://www.toureiffel.paris/cn)
 
-另外，铁塔上有多家餐厅可供选择，如果你想留下一个难忘的美食记忆，可以参考铁塔官网餐厅介绍：https://www.toureiffel.paris/fr/restaurants-boutiques
+另外，铁塔上有多家餐厅可供选择，如果你想留下一个难忘的美食记忆，可以参考铁塔官网[餐厅清单](https://www.toureiffel.paris/fr/restaurants-boutiques)
 
 **附近景点：**
 
