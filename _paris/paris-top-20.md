@@ -2,7 +2,7 @@
 layout: page
 title: 巴黎必去景点Top20：从埃菲尔铁塔到卢浮宫
 description: 轻松带你了解景点历史、参观攻略、开放时间及票价信息
-img: assets/img/1cdg-0.jpg
+img: assets/img/2paris-top-20-0.jpg
 importance: 2
 category: 
 related_publications: false
@@ -52,7 +52,7 @@ tags: 法国 巴黎
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [2.2876, 48.8610]
+        "coordinates": [2.2873, 48.8629]
       }
     },
     {
@@ -64,7 +64,7 @@ tags: 法国 巴黎
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [2.2916, 48.8628]
+        "coordinates": [2.2873, 48.8628]
       }
     },
     {
@@ -76,7 +76,7 @@ tags: 法国 巴黎
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [2.2944, 48.8554]
+        "coordinates": [2.2984, 48.8558]
       }
     },
     {
@@ -100,7 +100,7 @@ tags: 法国 巴黎
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [2.3270, 48.8638]
+        "coordinates": [2.3275, 48.8635]
       }
     },
     {
@@ -112,7 +112,7 @@ tags: 法国 巴黎
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [2.3250, 48.8636]
+        "coordinates": [2.3227, 48.8638]
       }
     },
     {
@@ -124,7 +124,7 @@ tags: 法国 巴黎
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [2.3370, 48.8653]
+        "coordinates": [2.3378, 48.8650]
       }
     },
     {
@@ -136,7 +136,7 @@ tags: 法国 巴黎
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [2.3499, 48.8527]
+        "coordinates": [2.3499, 48.8530]
       }
     },
     {
@@ -148,7 +148,7 @@ tags: 法国 巴黎
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [2.3503, 48.8566]
+        "coordinates": [2.3450, 48.8554]
       }
     },
     {
@@ -160,7 +160,7 @@ tags: 法国 巴黎
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [2.3450, 48.8561]
+        "coordinates": [2.3455, 48.8560]
       }
     },
     {
@@ -196,7 +196,7 @@ tags: 法国 巴黎
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [2.3210, 48.8656]
+        "coordinates": [2.3212, 48.8656]
       }
     },
     {
@@ -208,7 +208,7 @@ tags: 法国 巴黎
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [2.3431, 48.8867]
+        "coordinates": [2.3431, 48.8862]
       }
     },
     {
@@ -220,7 +220,7 @@ tags: 法国 巴黎
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [2.3431, 48.8897]
+        "coordinates": [2.3431, 48.8867]
       }
     },
     {
@@ -232,7 +232,7 @@ tags: 法国 巴黎
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [2.3260, 48.8600]
+        "coordinates": [2.3266, 48.8600]
       }
     },
     {
@@ -244,7 +244,7 @@ tags: 法国 巴黎
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [2.3313, 48.8719]
+        "coordinates": [2.3316, 48.8720]
       }
     },
     {
@@ -268,7 +268,7 @@ tags: 法国 巴黎
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [2.3377, 48.8462]
+        "coordinates": [2.3363, 48.8466]
       }
     },
     {
@@ -280,7 +280,7 @@ tags: 法国 巴黎
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [2.3135, 48.8640]
+        "coordinates": [2.1845, 48.5158]
       }
     },
     {
@@ -292,7 +292,7 @@ tags: 法国 巴黎
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [2.3180, 48.8650]
+        "coordinates": [2.3146, 48.8660]
       }
     },
     {
@@ -316,7 +316,7 @@ tags: 法国 巴黎
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [2.3431, 48.8589]
+        "coordinates": [2.3059, 48.8640]
       }
     },
     {
@@ -340,7 +340,7 @@ tags: 法国 巴黎
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [2.3695, 48.8447]
+        "coordinates": [2.8531, 48.8447]
       }
     },
     {
@@ -352,7 +352,7 @@ tags: 法国 巴黎
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [2.3450, 48.8464]
+        "coordinates": [2.3464, 48.8462]
       }
     },
     {
@@ -364,7 +364,7 @@ tags: 法国 巴黎
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [2.3471, 48.8465]
+        "coordinates": [2.3456, 48.8509]
       }
     },
     {
@@ -376,7 +376,7 @@ tags: 法国 巴黎
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [2.3656, 48.8566]
+        "coordinates": [2.3655, 48.8556]
       }
     },
     {
@@ -388,7 +388,7 @@ tags: 法国 巴黎
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [2.3682, 48.8557]
+        "coordinates": [2.3653, 48.8550]
       }
     },
     {
@@ -400,7 +400,7 @@ tags: 法国 巴黎
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [2.3125, 48.8588]
+        "coordinates": [2.3127, 48.8565]
       }
     },
     {
@@ -412,7 +412,7 @@ tags: 法国 巴黎
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [2.3123, 48.8582]
+        "coordinates": [2.3126, 48.8558]
       }
     },
     {
@@ -424,7 +424,7 @@ tags: 法国 巴黎
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [2.3600, 48.8647]
+        "coordinates": [2.1809, 41.3853]
       }
     },
     {
@@ -436,7 +436,7 @@ tags: 法国 巴黎
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [2.3590, 48.8590]
+        "coordinates": [2.3582, 48.8612]
       }
     },
     {
@@ -448,7 +448,7 @@ tags: 法国 巴黎
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [2.8340, 48.4040]
+        "coordinates": [2.6995, 48.4021]
       }
     },
     {
@@ -460,7 +460,7 @@ tags: 法国 巴黎
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [2.7833, 48.8720]
+        "coordinates": [2.7836, 48.8674]
       }
     },
     {
@@ -472,7 +472,7 @@ tags: 法国 巴黎
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [2.3420, 48.8583]
+        "coordinates": [2.3425, 48.8594]
       }
     },
     {
@@ -484,7 +484,7 @@ tags: 法国 巴黎
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [2.3320, 48.8738]
+        "coordinates": [2.3320, 48.8735]
       }
     },
     {
@@ -496,7 +496,7 @@ tags: 法国 巴黎
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [2.3234, 48.8563]
+        "coordinates": [2.3230, 48.8496]
       }
     },
     {
@@ -508,7 +508,7 @@ tags: 法国 巴黎
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [2.3336, 48.8738]
+        "coordinates": [2.3336, 48.8728]
       }
     }
   ]
@@ -529,11 +529,11 @@ tags: 法国 巴黎
 
 {% include figure.liquid loading="eager" path="assets/img/2paris-top-20-3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
 
-票价信息：https://www.toureiffel.paris/cn/rates-opening-times
+票价信息：[https://www.toureiffel.paris/cn/rates-opening-times]
 
 总之，无论是白天享受巴黎的广阔景观，还是在夜晚体验灯光璀璨的浪漫，埃菲尔铁塔都是你来巴黎必不可错过的景点，能带给你难忘的旅行体验。
 
-官网订票：https://www.toureiffel.paris/cn
+官网订票：[https://www.toureiffel.paris/cn]
 
 另外，铁塔上有多家餐厅可供选择，如果你想留下一个难忘的美食记忆，可以参考铁塔官网餐厅介绍：https://www.toureiffel.paris/fr/restaurants-boutiques
 
@@ -660,7 +660,6 @@ https://www.sainte-chapelle.fr/
 {% include figure.liquid loading="eager" path="assets/img/2paris-top-20-15.png" title="example image" class="img-fluid rounded z-depth-1" %}
 {% include figure.liquid loading="eager" path="assets/img/2paris-top-20-16.png" title="example image" class="img-fluid rounded z-depth-1" %}
 
-<--! 15/16 -->
 
 ### **巴黎古监狱（Conciergerie）**
 
