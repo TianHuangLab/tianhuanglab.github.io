@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 巴黎必去景点Top20：从埃菲尔铁塔到卢浮宫
-description: 轻松带你了解景点历史、参观攻略、开放时间及票价信息
+title: 巴黎必去景点Top20｜一文带你玩转浪漫之都 
+description: 巴黎最全终极指南！轻松带你了解景点历史、参观攻略、开放时间及票价信息
 img: assets/img/2paris-top-20-0.jpg
 importance: 2
 category: 
