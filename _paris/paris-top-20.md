@@ -172,7 +172,7 @@ tags: 法国 巴黎
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [2.3211, 48.8696]
+        "coordinates": [2.3077, 48.8698]
       }
     },
     {
@@ -280,7 +280,7 @@ tags: 法国 巴黎
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [2.1845, 48.5158]
+        "coordinates": [2.3123, 48.8662]
       }
     },
     {
@@ -340,7 +340,7 @@ tags: 法国 巴黎
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [2.8531, 48.8447]
+        "coordinates": [2.3688, 48.8529]
       }
     },
     {
