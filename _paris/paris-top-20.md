@@ -657,14 +657,9 @@ tags: 法国 巴黎
 - **10月1日至次年3月31日**：上午9点至下午5点
 - 节假日或特殊日期请参考官网
 - 成人票13欧，26岁以下欧盟学生免费参观
-<div class="row justify-content-sm-center">
-  <div class="col-sm mt-3 mt-md-0">
     {% include figure.liquid loading="eager" path="assets/img/2paris-top-20-15.png" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm mt-3 mt-md-0">
     {% include figure.liquid loading="eager" path="assets/img/2paris-top-20-16.png" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
+
 
 ### **巴黎古监狱**
 
@@ -675,8 +670,14 @@ tags: 法国 巴黎
 票价：成人票13欧，26岁以下欧盟学生免费参观
 
 具体信息请查看官网：https://www.paris-conciergerie.fr/
-{% include figure.liquid loading="eager" path="assets/img/2paris-top-20-17.png" title="example image" class="img-fluid rounded z-depth-1" %}
-{% include figure.liquid loading="eager" path="assets/img/2paris-top-20-18.png" title="example image" class="img-fluid rounded z-depth-1" %}
+<div class="row justify-content-sm-center">
+  <div class="col-sm mt-3 mt-md-0">
+    {% include figure.liquid loading="eager" path="assets/img/2paris-top-20-17.png" title="example image" class="img-fluid rounded z-depth-1" %}
+  </div>
+  <div class="col-sm mt-3 mt-md-0">
+    {% include figure.liquid loading="eager" path="assets/img/2paris-top-20-18.png" title="example image" class="img-fluid rounded z-depth-1" %}
+  </div>
+</div>
 
 ## **4.香榭丽舍大道 & 凯旋门**
 
