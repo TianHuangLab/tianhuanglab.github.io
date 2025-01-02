@@ -424,7 +424,7 @@ tags: 法国 巴黎
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [2.1809, 41.3853]
+        "coordinates": [2.3630, 48.8599]
       }
     },
     {
@@ -529,15 +529,15 @@ tags: 法国 巴黎
 
 {% include figure.liquid loading="eager" path="assets/img/2paris-top-20-3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
 
-票价信息：[https://www.toureiffel.paris/cn/rates-opening-times]
+票价信息,请参阅[官网](https://www.toureiffel.paris/cn/rates-opening-times)
 
 总之，无论是白天享受巴黎的广阔景观，还是在夜晚体验灯光璀璨的浪漫，埃菲尔铁塔都是你来巴黎必不可错过的景点，能带给你难忘的旅行体验。
 
-官网订票：[https://www.toureiffel.paris/cn]
+[请参阅官网](https://www.toureiffel.paris/cn)
 
 另外，铁塔上有多家餐厅可供选择，如果你想留下一个难忘的美食记忆，可以参考铁塔官网餐厅介绍：https://www.toureiffel.paris/fr/restaurants-boutiques
 
-### 附近景点：
+**附近景点：**
 
 ### **夏乐宫**
 
@@ -550,7 +550,7 @@ tags: 法国 巴黎
 关于票价的更多信息：
 
 - **[建筑与遗产博物馆](https://www.citedelarchitecture.fr/en)**（Cité de l'Architecture et du Patrimoine）：常设展览的全票为9欧元，联票（包含临时展览）为12欧元。
-- **[人类博物馆](https://www.museedelhomme.fr/fr)**（Musée de l'Homme）**：全票为15欧元，包括人类画廊、临时展览和科学阳台。
+- **[人类博物馆](https://www.museedelhomme.fr/fr)**（Musée de l'Homme）：全票为15欧元，包括人类画廊、临时展览和科学阳台。
 - **[夏乐宫 - 国家舞蹈剧院](https://theatre-chaillot.fr/fr)**（Chaillot - Théâtre national de la Danse）：票价从几欧元到几十欧元不等，具体价格取决于场次类别和观众类型。
 
 学生、儿童票价均有优惠，具体票价请参阅官网。
@@ -561,7 +561,7 @@ tags: 法国 巴黎
 
 特罗卡德罗广场**（Place du Trocadéro）**，这个位于巴黎第16区的广场，历史悠久，拥有无与伦比的景观视角。广场最初是为1867年巴黎博览会而建，至今仍是观赏埃菲尔铁塔的最佳位置。你可以在这里找到令人惊叹的喷泉、雕塑，尤其是夏天，广场上的水景和埃菲尔铁塔相映成趣，成为了无数游客心目中的巴黎打卡目的地之一。
 
-你可以通过搭乘地铁6号线的Trocadéro站到达，或者选择步行前往，广场周围还有多个咖啡馆和小店。如果不赶时间，你完全可以在这里点上一杯咖啡，想当敌人冲一样享受巴黎的悠闲氛围。
+你可以通过搭乘地铁6号线的Trocadéro站到达，或者选择步行前往，广场周围还有多个咖啡馆和小店。如果不赶时间，你完全可以在这里点上一杯咖啡，像当地人一样享受巴黎的悠闲氛围。
 
 {% include figure.liquid loading="eager" path="assets/img/2paris-top-20-5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
 
@@ -585,11 +585,11 @@ tags: 法国 巴黎
 
 **票价信息**：卢浮宫的门票为22欧元，适用于常规展览和部分临时展览。对于18岁以下的游客，以及欧盟国家的26岁以下年轻人，均可免费入场。每年9月的欧洲文化遗产日，卢浮宫也会提供免费入场的机会，是体验艺术与文化的好时机。
 
-https://www.louvre.fr/visiter/horaires-tarifs
+[请参阅官网](https://www.louvre.fr/visiter/horaires-tarifs)
 {% include figure.liquid loading="eager" path="assets/img/2paris-top-20-8.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
 {% include figure.liquid loading="eager" path="assets/img/2paris-top-20-8a.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
 
-### 附近景点：
+**附近景点：**
 
 ### **杜乐丽花园**
 
@@ -607,7 +607,7 @@ https://www.louvre.fr/visiter/horaires-tarifs
 
 除了莫奈的《睡莲》，馆内还收藏了雷诺阿、塞尚、毕加索等大师的杰作。参观时建议从《睡莲》开始，随后探索其他楼层的藏品。博物馆规模适中，1-2小时足够细细品味，适合旅行时间紧张的游客。
 
-橘园美术馆开放时间为周一至周一日的上午9点至晚上18点，周五延长至晚上21点，另外周二闭馆。成人全价票为12.5欧，团体参观有优惠，18岁以下和26岁及以下学生免费。具体参看橘园官网：https://billetterie.musee-orangerie.fr/fr-FR/accueil-orangerie
+橘园美术馆开放时间为周一至周一日的上午9点至晚上18点，周五延长至晚上21点，另外周二闭馆。成人全价票为12.5欧，团体参观有优惠，18岁以下和26岁及以下学生免费。具体参看橘园[请参阅官网](https://billetterie.musee-orangerie.fr/fr-FR/accueil-orangerie)
 {% include figure.liquid loading="eager" path="assets/img/2paris-top-20-10.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
 
 
@@ -631,7 +631,7 @@ https://www.louvre.fr/visiter/horaires-tarifs
 
 是的，目前巴黎圣母院已经建立了**免费预约系统**，旨在避免参观高峰时的拥堵。建议提前通过官网或APP预约，避免高峰拥堵。如果选择不预约，也可以尝试直接排队，但需视现场人流情况而定。非高峰时段排队约20分钟，节假日可能需1-2小时。节假日人流量大，建议提前预约或选择非高峰时段参观。
 
-圣母院官网：https://www.notredamedeparis.fr/
+[请参阅官网](https://www.notredamedeparis.fr/)
 
 **开放时间**
 
@@ -639,7 +639,7 @@ https://www.louvre.fr/visiter/horaires-tarifs
 - **周四**：8:00-22:00
 - **周六、周日**：8:15-19:30；弥撒：平日8:00、12:00、18:00，周末及节假日有特别活动，具体请参看巴黎圣母院官网。
 
-如果你想了解更多关于巴黎圣母院重建过程的内容，可以参考这个网站：https://rebatirnotredamedeparis.fr/
+如果你想了解更多关于巴黎圣母院重建过程的内容，可以参考这个[网站](https://rebatirnotredamedeparis.fr/)
 
 {% include figure.liquid loading="eager" path="assets/img/2paris-top-20-14.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
 
@@ -649,7 +649,7 @@ https://www.louvre.fr/visiter/horaires-tarifs
 
 该礼拜堂建于13世纪，由法王路易九世兴建，用于存放基督教圣物，如荆棘冠冕。这座哥特式教堂因其令人惊叹的彩绘玻璃窗而闻名，每当阳光穿过那些描绘圣经故事的窗户时，整个内部仿佛被光芒点亮，宛如一场视觉盛宴。
 
-https://www.sainte-chapelle.fr/
+[请参阅官网](https://www.sainte-chapelle.fr/)
 
 **开放时间&票价信息：**
 
@@ -657,9 +657,14 @@ https://www.sainte-chapelle.fr/
 - **10月1日至次年3月31日**：上午9点至下午5点
 - 节假日或特殊日期请参考官网
 - 成人票13欧，26岁以下欧盟学生免费参观
-{% include figure.liquid loading="eager" path="assets/img/2paris-top-20-15.png" title="example image" class="img-fluid rounded z-depth-1" %}
-{% include figure.liquid loading="eager" path="assets/img/2paris-top-20-16.png" title="example image" class="img-fluid rounded z-depth-1" %}
-
+<div class="row justify-content-sm-center">
+  <div class="col-sm mt-3 mt-md-0">
+    {% include figure.liquid loading="eager" path="assets/img/2paris-top-20-15.png" title="example image" class="img-fluid rounded z-depth-1" %}
+  </div>
+  <div class="col-sm mt-3 mt-md-0">
+    {% include figure.liquid loading="eager" path="assets/img/2paris-top-20-16.png" title="example image" class="img-fluid rounded z-depth-1" %}
+  </div>
+</div>
 
 ### **巴黎古监狱（Conciergerie）**
 
@@ -695,12 +700,12 @@ https://www.sainte-chapelle.fr/
 - 10月1日到次年3月31日：周三至周一：10:00 - 22:30；周二：11:00 - 22:30
 - 成人票16欧，26岁以下欧盟学生免费参观
 
-https://www.paris-arc-de-triomphe.fr/
+[请参阅官网](https://www.paris-arc-de-triomphe.fr/)
 {% include figure.liquid loading="eager" path="assets/img/2paris-top-20-20.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
 {% include figure.liquid loading="eager" path="assets/img/2paris-top-20-20a.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
 
 
-附近景点：
+**附近景点：**
 
 ### **协和广场（Place de la Concorde）**
 
@@ -729,7 +734,7 @@ https://www.paris-arc-de-triomphe.fr/
 
 圣心大教堂全年开放，通常每天上午6点半至晚上10点半，但如果你打算进入圆顶，成人票价为6欧元。学生和儿童则享有一定的优惠。
 
-具体详情，请参阅：https://www.sacre-coeur-montmartre.com/informations-pratiques/horaires-et-acces/
+具体详情，[请参阅官网](https://www.sacre-coeur-montmartre.com/informations-pratiques/horaires-et-acces/)
 {% include figure.liquid loading="eager" path="assets/img/2paris-top-20-23.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
 {% include figure.liquid loading="eager" path="assets/img/2paris-top-20-24.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
 
@@ -739,7 +744,7 @@ https://www.paris-arc-de-triomphe.fr/
 
 建议从博物馆入口开始，一层一层地向上参观，最后进入顶层。整个博物馆收藏了最受欢迎的印象派作品，你可以欣赏到雕塑、装饰艺术及19世纪文学相关的珍贵藏品。最后，如果有时间，别忘了在奥赛博物馆的咖啡厅稍作停留，这里不仅提供美味的餐点，还能让你在用餐时欣赏塞纳河的美景。
 
-官网：https://www.musee-orsay.fr/fr
+[请参阅官网](https://www.musee-orsay.fr/fr)
 
 **开放时间和票价信息**
 
@@ -753,7 +758,7 @@ https://www.paris-arc-de-triomphe.fr/
 
 具体可参考官网信息：
 
-https://www.musee-orsay.fr/fr/articles/acces-horaires-tarifs-197704#anchor-navigation-9
+[请参阅官网](https://www.musee-orsay.fr/fr/articles/acces-horaires-tarifs-197704#anchor-navigation-9)
 {% include figure.liquid loading="eager" path="assets/img/2paris-top-20-25.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
 {% include figure.liquid loading="eager" path="assets/img/2paris-top-20-26.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
 
@@ -773,11 +778,10 @@ https://www.musee-orsay.fr/fr/articles/acces-horaires-tarifs-197704#anchor-navig
 
 成人参观歌剧院的票价约为15欧元，优惠票价（如26岁以下欧盟居民）为10欧元。部分展览或特别活动可能另行收费。演出门票根据座位和场次价格有所不同，建议提前预订以确保心仪座位。
 
-https://www.operadeparis.fr/visites/palais-garnier
+[请参阅官网](https://www.operadeparis.fr/visites/palais-garnier)
 
-更多演出信息请查阅歌剧院官网：
+更多演出信息请查阅[歌剧院官网](https://www.operadeparis.fr/)
 
-https://www.operadeparis.fr/
 
 {% include figure.liquid loading="eager" path="assets/img/2paris-top-20-28.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
 
@@ -793,7 +797,7 @@ https://www.operadeparis.fr/
 - **凡尔赛宫（Le Château）**：开放时间9:00 - 17:30，每周一闭馆。
 - **特里亚农宫区（Le Domaine de Trianon）**：开放时间12:00 - 17:30，每周一闭馆。
 - **花园（Les Jardins）和公园（Le Parc）**：开放时间8:00 - 18:00，每日开放。
-- 只参观凡尔赛宫，全价成人票是21欧，整个景区通票是24欧。另外优惠票和其他景区套餐（包含餐饮）等，请参考官网信息：https://www.chateauversailles.fr/preparer-ma-visite/billets-tarifs
+- 只参观凡尔赛宫，全价成人票是21欧，整个景区通票是24欧。另外优惠票和其他景区套餐（包含餐饮）等，[请参阅官网](https://www.chateauversailles.fr/preparer-ma-visite/billets-tarifs)
 {% include figure.liquid loading="eager" path="assets/img/2paris-top-20-29.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
 {% include figure.liquid loading="eager" path="assets/img/2paris-top-20-30.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
 
@@ -805,7 +809,7 @@ https://www.operadeparis.fr/
 
 公园免费参观，开放时间通常为8点至17点。根据季节不同，公园开放时间会有相应地调整。
 
-https://jardin.senat.fr/
+[请参阅官网](https://jardin.senat.fr/)
 {% include figure.liquid loading="eager" path="assets/img/2paris-top-20-31.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
 
 
@@ -819,7 +823,7 @@ https://jardin.senat.fr/
 
 大皇宫开放时间通常为每周二至周日的10:00至20:00，周一休息。另外，巴黎大皇宫的门票价格因活动和展览的不同而有所变化，常规展览的票价大约为12欧元，部分特展票价可能更高，建议提前查询官方网站或电话咨询，以便选择适合自己的门票。此外，如果你计划在短时间内多次游览巴黎大皇宫，可以购买通行证，这样可以更经济实惠地参观多个场馆。
 
-https://www.grandpalais.fr/fr
+[请参阅官网](https://www.grandpalais.fr/fr)
 {% include figure.liquid loading="eager" path="assets/img/2paris-top-20-32.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
 {% include figure.liquid loading="eager" path="assets/img/2paris-top-20-33.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
 
@@ -832,7 +836,7 @@ https://www.grandpalais.fr/fr
 
 小皇宫的开放时间通常为每周二至周日的10:00至18:00，最后入场时间为17:15，其中每周五和周六，开放至20:00。周一休息。值得注意的是，特别的临时展览或活动期间，开放时间可能会有所延长。
 
-小皇宫很棒的一点是，它的永久展览是免费的！只有特别的临时展览或活动会需要门票，具体详情可以参考它的官方网站：https://www.petitpalais.paris.fr/
+小皇宫很棒的一点是，它的永久展览是免费的！只有特别的临时展览或活动会需要门票，具体详情[请参阅官网](https://www.petitpalais.paris.fr/)
 
 {% include figure.liquid loading="eager" path="assets/img/2paris-top-20-34.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
 
@@ -850,7 +854,7 @@ https://www.grandpalais.fr/fr
 - 博物馆 + 展览：11:00 - 21:00
 - 夜间开放：每周四，6楼展览空间（画廊1和2）开放至23:00
 - 闭馆信息：每年5月1日闭馆；12月24日和31日提前至19:00闭馆。
-- 常规票价为15欧，适用于常设展览和临时展览。对于学生、青年和特定群体的优惠票价为12欧。你也可以选择购买包含所有展览的联票。具体信息请参考官网：https://www.centrepompidou.fr/fr/visite/informations-pratiques
+- 常规票价为15欧，适用于常设展览和临时展览。对于学生、青年和特定群体的优惠票价为12欧。你也可以选择购买包含所有展览的联票。具体信息[请参阅官网](https://www.centrepompidou.fr/fr/visite/informations-pratiques)
 {% include figure.liquid loading="eager" path="assets/img/2paris-top-20-35.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
 {% include figure.liquid loading="eager" path="assets/img/2paris-top-20-36.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
 
@@ -864,9 +868,9 @@ https://www.grandpalais.fr/fr
 
 以下我附上两家常见的游船公司的网站，当然你也可以通过搜索引擎找到更定制化的游船项目：
 
-https://www.bateaux-mouches.fr/en/cruise
+[https://www.bateaux-mouches.fr/en/cruise](https://www.bateaux-mouches.fr/en/cruise)
 
-https://www.bateauxparisiens.com/english.html
+[https://www.bateauxparisiens.com/english.html](https://www.bateaux-mouches.fr/en/cruise)
 {% include figure.liquid loading="eager" path="assets/img/2paris-top-20-37.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
 
 ## **13.巴黎巴士底市集**
@@ -879,7 +883,7 @@ https://www.bateauxparisiens.com/english.html
 
 开放时间：周四07:00 – 13:30；周日07:00 – 14:30
 
-关于如何到达及更多其他信息请查阅：https://www.paris.fr/lieux/marche-bastille-5477
+关于如何到达及更多其他信息[请参阅官网](https://www.paris.fr/lieux/marche-bastille-5477)
 {% include figure.liquid loading="eager" path="assets/img/2paris-top-20-38.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
 
 
@@ -893,7 +897,7 @@ https://www.bateauxparisiens.com/english.html
 
 巴士底狱广场全天开放，游客可以随时前来参观。由于这片广场并不涉及固定的营业时间，它是一个开放的公共空间，任何时候都可以感受这个历史与现代交织的地方。
 
-如果你想了解更多关于巴士底狱广场的历史信息，可以参看：https://zh.wikipedia.org/wiki/%E5%B7%B4%E5%A3%AB%E5%BA%95%E5%B9%BF%E5%9C%BA
+如果你想了解更多关于巴士底狱广场的历史信息，可以参看[这篇文章](https://zh.wikipedia.org/wiki/%E5%B7%B4%E5%A3%AB%E5%BA%95%E5%B9%BF%E5%9C%BA)
 {% include figure.liquid loading="eager" path="assets/img/2paris-top-20-39.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
 
 
@@ -910,7 +914,7 @@ https://www.bateauxparisiens.com/english.html
 - 从4月1日到9月30日，开放时间为每天10:00至18:30。
 - 从10月1日到次年3月31日，开放时间为每天10:00至18:00。
 - 注意：最后入场时间为闭馆前45分钟。
-- 参观先贤祠需要购票。成人票价为13欧元，而对于18岁及以下的的游客，免费参观。同时，先贤祠提供多种参观组合，具体信息可以查看官网：https://www.paris-pantheon.fr/
+- 参观先贤祠需要购票。成人票价为13欧元，而对于18岁及以下的的游客，免费参观。同时，先贤祠提供多种参观组合，具体信息[请参阅官网](https://www.paris-pantheon.fr/)
 {% include figure.liquid loading="eager" path="assets/img/2paris-top-20-40.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
 
 **拉丁区（Quartier Latin）**
@@ -932,7 +936,7 @@ https://www.bateauxparisiens.com/english.html
 
 孚日广场东南角的角落的一栋建筑是大文豪[雨果](https://zh.wikipedia.org/wiki/%E9%9B%A8%E6%9E%9C)的故居，现在他的故居已经变成博物馆，里面展示了展示了他曾经生活和创作的痕迹。
 
-想要了解更多关于孚日广场的历史，请参阅：https://zh.wikipedia.org/wiki/%E5%AD%9A%E6%97%A5%E5%B9%BF%E5%9C%BA
+想要了解更多关于孚日广场的历史，[请参阅官网](https://zh.wikipedia.org/wiki/%E5%AD%9A%E6%97%A5%E5%B9%BF%E5%9C%BA)
 {% include figure.liquid loading="eager" path="assets/img/2paris-top-20-43.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
 
 
@@ -948,7 +952,7 @@ https://www.bateauxparisiens.com/english.html
 
 - 周二至周日：10:00 至 18:00，周一闭馆。
 - 常设展览的参观通常免费，但临时特展可能需要购票，价格通常在5欧元至10欧元之间。18岁以下及欧盟学生可享受免费或优惠政策。
-- 部分节假日可能调整开放时间，请提前查询官网：https://www.maisonsvictorhugo.paris.fr/paris
+- 部分节假日可能调整开放时间，[请参阅官网](https://www.maisonsvictorhugo.paris.fr/paris)
 {% include figure.liquid loading="eager" path="assets/img/2paris-top-20-44.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
 
 
@@ -973,7 +977,7 @@ https://www.bateauxparisiens.com/english.html
 
 巴黎军事博物馆和巴黎荣军院全年开放，每天上午10点至下午6点开馆。每年闭馆日期：1月1日、5月1日和12月25日。成人全价票：15欧元；半价票：12欧元（半价票适用范围请参考官网信息）。售票处在博物馆关闭前30分钟关闭。
 
-https://www.musee-armee.fr/zh/%E5%8F%82%E8%A7%82%E6%8C%87%E5%8D%97.html
+[请参阅官网](https://www.musee-armee.fr/zh/%E5%8F%82%E8%A7%82%E6%8C%87%E5%8D%97.html)
 
 ## **17.毕加索美术馆 & 玛黑区**
 
@@ -991,7 +995,7 @@ https://www.musee-armee.fr/zh/%E5%8F%82%E8%A7%82%E6%8C%87%E5%8D%97.html
 - **夜场开放**：每月的第一个周三开放至晚上10点（最后入场时间为晚上9点15分）。
 - **普通成人票**：16欧元；**夜场票**：12欧元（适用于每月第一个周三18:00至22:00的夜场开放）；**家庭票**：每位成人12欧元（适用于1至2位成人陪同一名儿童）
 
-更多信息请查阅：https://www.museepicassoparis.fr/fr
+更多信息[请参阅官网](https://www.museepicassoparis.fr/fr)
 {% include figure.liquid loading="eager" path="assets/img/2paris-top-20-48.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
 {% include figure.liquid loading="eager" path="assets/img/2paris-top-20-48a.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
 48/48a
@@ -1006,9 +1010,9 @@ https://www.musee-armee.fr/zh/%E5%8F%82%E8%A7%82%E6%8C%87%E5%8D%97.html
 
 想要了解更多，请查阅：
 
-https://www.parismarais.com/fr
+[请参阅街区网站](https://www.parismarais.com/fr）
 
-https://www.parismarais.com/map/
+[街区交互地图](https://www.parismarais.com/map/)
 {% include figure.liquid loading="eager" path="assets/img/2paris-top-20-49.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
 {% include figure.liquid loading="eager" path="assets/img/2paris-top-20-50.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
 
@@ -1026,7 +1030,7 @@ https://www.parismarais.com/map/
 - 城堡每日开放，除每周二，1月1日，5月1日，12月25日以外
 - 十月至三月: 9点30至17点(最后入馆时间16点15分)
 - 四月至九月: 9点30至18点(最后入馆时间17点15分)
-- 宫殿票价：全票14欧，优惠票12欧，18岁以下免费。另有其他种类的游览项目供选择，具体请参考：https://www.chateaudefontainebleau.fr/zh-hans/
+- 宫殿票价：全票14欧，优惠票12欧，18岁以下免费。另有其他种类的游览项目供选择，具体[请参阅官网](https://www.chateaudefontainebleau.fr/zh-hans/)
 {% include figure.liquid loading="eager" path="assets/img/2paris-top-20-51.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
 {% include figure.liquid loading="eager" path="assets/img/2paris-top-20-52.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
 
@@ -1042,7 +1046,7 @@ https://www.parismarais.com/map/
 
 巴黎迪士尼票价是根据淡旺季浮动的，固定日期单日入园门票的价格区间在50多欧一直到90多欧，另有多日或者非指定日期门票可供选择，此外还有不同的游览套餐，从门票到包含饮食、酒店住宿的套餐，均可以在迪士尼官网预定：
 
-https://www.disneylandparis.com/fr-fr/calendriers/horaires-parcs/?ecid=SEM_IP_S_9698811409-c-100694707366-159584649-564558465242-Broad&gclsrc=aw.ds&&mkwid=&gad_source=1&gclid=Cj0KCQiAj9m7BhD1ARIsANsIIvChIzcwsFvFEHCM1vIrqab51R8nhr5MD09XnnFrS95BMmTqhmm12D8aAv-6EALw_wcB&pcrid=564558465242&pmt=b&pkw=reservation+disneyland+paris
+[请进官网预订](https://www.disneylandparis.com/fr-fr/calendriers/horaires-parcs/?ecid=SEM_IP_S_9698811409-c-100694707366-159584649-564558465242-Broad&gclsrc=aw.ds&&mkwid=&gad_source=1&gclid=Cj0KCQiAj9m7BhD1ARIsANsIIvChIzcwsFvFEHCM1vIrqab51R8nhr5MD09XnnFrS95BMmTqhmm12D8aAv-6EALw_wcB&pcrid=564558465242&pmt=b&pkw=reservation+disneyland+paris)
 
 注意：建议通过官方正规渠道购买，如果通过第三方渠道代购，需要擦亮眼睛！
 {% include figure.liquid loading="eager" path="assets/img/2paris-top-20-53.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
@@ -1063,7 +1067,7 @@ https://www.disneylandparis.com/fr-fr/calendriers/horaires-parcs/?ecid=SEM_IP_S_
 
 百货的开放时间为每日10:00至20:00，周日有些商店可能休息，建议提前确认具体开放时间。
 
-https://www.dfs.com/cn/samaritaine
+[请参阅官网](https://www.dfs.com/cn/samaritaine)
 {% include figure.liquid loading="eager" path="assets/img/2paris-top-20-55.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
 {% include figure.liquid loading="eager" path="assets/img/2paris-top-20-56.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
 
@@ -1075,7 +1079,7 @@ https://www.dfs.com/cn/samaritaine
 
 老佛爷百货的开放时间为周一至周六10:00至20:30，周日则从11:00开放至20:00。商场的餐厅和某些区域可能有不同的开放时间，建议提前确认。每年年底，老佛爷百货还会装饰节日主题的橱窗，吸引大量游客前来观赏。
 
-https://haussmann.galerieslafayette.com/
+[请参阅官网](https://haussmann.galerieslafayette.com/)
 {% include figure.liquid loading="eager" path="assets/img/2paris-top-20-57.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
 {% include figure.liquid loading="eager" path="assets/img/2paris-top-20-58.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
 
@@ -1088,7 +1092,7 @@ https://haussmann.galerieslafayette.com/
 
 春天百货的开放时间为周一至周六10:00至20:00，周日则从11:00开放至20:00。商场的餐厅和某些区域可能有不同的开放时间，建议提前确认。每年年底，春天百货也会装饰节日主题的橱窗，和隔壁的老佛爷百货比赛创意！
 
-https://www.printemps.com/fr/fr/printemps-paris-haussmann?utm_source=google&utm_medium=organic&utm_campaign=yext_google_my_business
+[请参阅官网](https://www.printemps.com/fr/fr/printemps-paris-haussmann?utm_source=google&utm_medium=organic&utm_campaign=yext_google_my_business)
 {% include figure.liquid loading="eager" path="assets/img/2paris-top-20-59.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
 
 
@@ -1100,7 +1104,7 @@ https://www.printemps.com/fr/fr/printemps-paris-haussmann?utm_source=google&utm_
 
 乐蓬马歇百货的开放时间为周一至周六10:00至19:45，周日则从11:00开放至19:45。商场的餐厅和某些区域可能有不同的开放时间，建议提前确认。
 
-https://www.lebonmarche.com/
+[请参阅官网](https://www.lebonmarche.com/)
 {% include figure.liquid loading="eager" path="assets/img/2paris-top-20-60.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
 
 {% include figure.liquid loading="eager" path="assets/img/2paris-top-20-61.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
