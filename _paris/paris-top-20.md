@@ -23,6 +23,495 @@ tags: 法国 巴黎
 一千個人眼中就有一千個哈姆雷特。
 
 我也从我的观感出发，整理了一份top20巴黎必去景点与博物馆清单，内容涵盖历史背景、参观攻略、开放时间及票价信息。无论你是首次到访，还是计划深度游，都能从中获取实用建议，能在最短的时间内，探索那些“绝不容错过”的目的地。
+
+geojson
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "埃菲尔铁塔",
+        "description": "巴黎最著名的地标，象征着浪漫与现代的结合",
+        "subway": "Bir-Hakeim (Metro Line 6), Trocadéro (Metro Line 9)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.2945, 48.8584]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "夏乐宫",
+        "description": "位于埃菲尔铁塔附近，提供巴黎最美的全景视角",
+        "subway": "Trocadéro (Metro Line 6, 9)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.2876, 48.8610]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "特罗卡德罗广场",
+        "description": "最佳观赏埃菲尔铁塔的地方，景色如画",
+        "subway": "Trocadéro (Metro Line 6, 9)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.2916, 48.8628]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "战神广场",
+        "description": "位于埃菲尔铁塔旁，是一个宽敞的公共绿地",
+        "subway": "École Militaire (Metro Line 8)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.2944, 48.8554]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "卢浮宫",
+        "description": "世界顶级艺术博物馆，收藏了无数珍贵的艺术品",
+        "subway": "Louvre - Rivoli (Metro Line 1), Palais Royal - Musée du Louvre (Metro Line 1, 7)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3376, 48.8606]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "杜乐丽花园",
+        "description": "与卢浮宫连接的优雅花园，是游客和巴黎人休闲的好去处",
+        "subway": "Tuileries (Metro Line 1)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3270, 48.8638]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "橘园美术馆",
+        "description": "拥有重要的印象派和后印象派艺术作品的博物馆",
+        "subway": "Concorde (Metro Line 1, 8, 12)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3250, 48.8636]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "巴黎皇宫花园",
+        "description": "这座历史悠久的花园提供宁静的休息环境",
+        "subway": "Palais Royal - Musée du Louvre (Metro Line 1, 7)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3370, 48.8653]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "巴黎圣母院",
+        "description": "哥特式建筑的瑰宝，是巴黎最具历史意义的建筑之一",
+        "subway": "Cité (Metro Line 4)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3499, 48.8527]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "圣礼拜堂",
+        "description": "一座美丽的哥特式建筑，曾是法国国王的私人礼拜堂",
+        "subway": "Cité (Metro Line 4)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3503, 48.8566]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "巴黎古监狱",
+        "description": "法国革命历史中的重要地点，曾关押政治犯",
+        "subway": "Cité (Metro Line 4)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3450, 48.8561]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "香榭丽舍大道",
+        "description": "全球最著名的街道之一，是巴黎购物和娱乐的中心",
+        "subway": "Champs-Élysées - Clemenceau (Metro Line 1, 13)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3211, 48.8696]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "凯旋门",
+        "description": "巴黎的象征之一，纪念法国革命和帝国战争中的胜利",
+        "subway": "Charles de Gaulle - Étoile (Metro Line 1, 2, 6)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.2950, 48.8738]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "协和广场",
+        "description": "巴黎历史悠久的广场，四周充满了宏伟的建筑",
+        "subway": "Concorde (Metro Line 1, 8, 12)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3210, 48.8656]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "蒙马特高地",
+        "description": "艺术和历史的结合点，提供巴黎最佳的全景",
+        "subway": "Anvers (Metro Line 2)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3431, 48.8867]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "圣心大教堂",
+        "description": "坐落于蒙马特高地的白色大教堂，是巴黎的象征之一",
+        "subway": "Anvers (Metro Line 2)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3431, 48.8897]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "奥赛博物馆",
+        "description": "世界著名的印象派艺术博物馆，收藏着名画家作品",
+        "subway": "Solférino (Metro Line 12)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3260, 48.8600]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "巴黎歌剧院",
+        "description": "法国文化的象征之一，建筑华丽且富有历史",
+        "subway": "Opéra (Metro Line 3, 7, 8)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3313, 48.8719]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "凡尔赛宫",
+        "description": "法国最具历史意义的皇宫之一，富丽堂皇的建筑和花园",
+        "subway": "Versailles Château Rive Gauche (RER C)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.1200, 48.8049]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "卢森堡公园",
+        "description": "巴黎市中心的绿洲，提供宁静的散步环境",
+        "subway": "Luxembourg (RER B)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3377, 48.8462]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "大皇宫",
+        "description": "巴黎的文化宝库，展示着世界级的艺术作品",
+        "subway": "Champ-Elysees Clemenceau (Metro Line 1, 13)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3135, 48.8640]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "小皇宫",
+        "description": "与大皇宫相对，是巴黎的美术馆之一",
+        "subway": "Champ-Elysees Clemenceau (Metro Line 1, 13)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3180, 48.8650]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "蓬皮杜中心",
+        "description": "现代艺术的圣殿，展示着创新的艺术展览",
+        "subway": "Rambuteau (Metro Line 11)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3522, 48.8606]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "塞纳河游船",
+        "description": "享受巴黎风光的最佳方式之一，带你游览沿途美景",
+        "subway": "Pont Neuf (Metro Line 7)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3431, 48.8589]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "巴黎巴士底市集",
+        "description": "热闹的市场和商区，是巴黎的商业中心之一",
+        "subway": "Bastille (Metro Line 1, 5, 8)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3695, 48.8530]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "巴士底狱广场",
+        "description": "历史悠久的广场，是法国革命的见证地之一",
+        "subway": "Bastille (Metro Line 1, 5, 8)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3695, 48.8447]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "先贤祠",
+        "description": "纪念法国伟人的历史建筑，供人瞻仰",
+        "subway": "Place Monge (Metro Line 7)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3450, 48.8464]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "拉丁区",
+        "description": "充满学术与文化氛围的巴黎老城区",
+        "subway": "Saint-Michel (Metro Line 4)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3471, 48.8465]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "孚日广场",
+        "description": "巴黎最古老、最美丽的广场之一",
+        "subway": "Chemin Vert (Metro Line 8)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3656, 48.8566]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "维克多·雨果之家",
+        "description": "纪念法国伟大作家雨果的历史建筑",
+        "subway": "Chemin Vert (Metro Line 8)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3682, 48.8557]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "巴黎荣军院",
+        "description": "巴黎的历史军事地标",
+        "subway": "Invalides (Metro Line 8, 13)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3125, 48.8588]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "巴黎军事博物馆",
+        "description": "收藏法国军事历史的博物馆",
+        "subway": "Invalides (Metro Line 8, 13)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3123, 48.8582]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "毕加索美术馆",
+        "description": "展示毕加索创作的博物馆",
+        "subway": "Saint-Paul (Metro Line 1)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3600, 48.8647]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "玛黑区",
+        "description": "巴黎最具历史感的街区之一",
+        "subway": "Saint-Paul (Metro Line 1)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3590, 48.8590]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "枫丹白露宫",
+        "description": "法国皇室的豪华宫殿",
+        "subway": "Fontainebleau-Avon (SNCF)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.8340, 48.4040]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "巴黎迪士尼乐园",
+        "description": "适合全家游玩的梦幻世界",
+        "subway": "Marne-la-Vallée - Chessy (RER A)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.7833, 48.8720]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "莎玛丽丹百货",
+        "description": "巴黎著名的百货商场，汇聚时尚与奢华",
+        "subway": "Samaritaine (Metro Line 7, 11)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3420, 48.8583]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "老佛爷百货",
+        "description": "奢华与时尚并存的巴黎购物天堂",
+        "subway": "Chaussée d'Antin - La Fayette (Metro Line 7, 9)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3320, 48.8738]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "乐蓬马歇百货",
+        "description": "巴黎的高级百货商场，融合艺术与时尚",
+        "subway": "Sèvres - Babylone (Metro Line 10)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3234, 48.8563]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "春天百货",
+        "description": "高端购物中心，提供奢华时尚和美妆产品",
+        "subway": "Havre-Caumartin (Metro Line 3, 9)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3336, 48.8738]
+      }
+    }
+  ]
+}
+
+
 ## **1.埃菲尔铁塔（Tour Eiffel）**
 
 埃菲尔铁塔，作为巴黎的标志性景点之一，自1889年世界博览会以来便屹立在塞纳河畔，成为了法国的文化象征。这座高达330米的钢铁结构，原本是为了展示法国的工程技术，但如今，它不仅是巴黎最受欢迎的旅游目的地，也是全世界游客心中的“巴黎象征”。每当你站在埃菲尔铁塔下，仰望这座壮丽的建筑，你会感受到历史的沉淀与现代的活力交织在一起。
