@@ -643,7 +643,7 @@ tags: 法国 巴黎
 
 {% include figure.liquid loading="eager" path="assets/img/2paris-top-20-14.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
 
-### 附近景点：
+**附近景点：**
 
 ### **圣礼拜堂（Sainte-Chapelle）**
 
@@ -887,7 +887,7 @@ tags: 法国 巴黎
 {% include figure.liquid loading="eager" path="assets/img/2paris-top-20-38.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
 
 
-### 附近景点：
+**附近景点：**
 
 ### **巴士底狱广场**
 
@@ -1034,9 +1034,9 @@ tags: 法国 巴黎
 {% include figure.liquid loading="eager" path="assets/img/2paris-top-20-51.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
 {% include figure.liquid loading="eager" path="assets/img/2paris-top-20-52.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
 
-## **19.巴黎迪士尼乐园（Parc Disneyland）**
+## **19.巴黎迪士尼乐园**
 
-巴黎迪士尼乐园位于法国巴黎郊区，于1992年开园，是欧洲第一个迪士尼乐园，也是全球第五座迪士尼乐园。这个梦想的世界由迪士尼公司打造，旨在为全球游客提供一个沉浸式的奇幻体验。园区内有多个主题区域，如探险乐园、梦幻乐园等，每个区域都有其独特的迪士尼经典人物和故事。
+巴黎迪士尼乐园 **（Parc Disneyland）**位于法国巴黎郊区，于1992年开园，是欧洲第一个迪士尼乐园，也是全球第五座迪士尼乐园。这个梦想的世界由迪士尼公司打造，旨在为全球游客提供一个沉浸式的奇幻体验。园区内有多个主题区域，如探险乐园、梦幻乐园等，每个区域都有其独特的迪士尼经典人物和故事。
 
 每个喜欢主题公园的人都不应该错过这个梦幻乐园。
 
