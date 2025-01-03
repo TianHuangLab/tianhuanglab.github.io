@@ -5,7 +5,7 @@ permalink: /france-travel/
 description: 法国旅游目的地指南
 nav: true
 nav_order: 3
-display_categories: [阿尔卑斯,诺曼底,布列塔尼,法国西南,法国中部]
+display_categories: []
 horizontal: false
 ---
 
