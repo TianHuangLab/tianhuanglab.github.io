@@ -157,6 +157,9 @@ collections:
   paris:
     output: true
     permalink: /paris/:path/
+  france-travel:
+    output: true
+    permalink: /france-travel/:path/
 
 announcements:
   enabled: true
