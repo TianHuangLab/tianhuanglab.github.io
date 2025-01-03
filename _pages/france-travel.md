@@ -24,7 +24,7 @@ horizontal: false
   <div class="container">
     <div class="row row-cols-1 row-cols-md-2">
     {% for project in sorted_projects %}
-      {% include france-travel.liquid %}
+      {% include projects_horizontal.liquid %}
     {% endfor %}
     </div>
   </div>
@@ -50,7 +50,7 @@ horizontal: false
   <div class="container">
     <div class="row row-cols-1 row-cols-md-2">
     {% for project in sorted_projects %}
-      {% include france-travel.liquid %}
+      {% include projects_horizontal.liquid %}
     {% endfor %}
     </div>
   </div>
