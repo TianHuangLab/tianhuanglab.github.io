@@ -2,14 +2,14 @@
 layout: page
 title: 法国旅游
 permalink: /france-travel/
-description: 法国旅游目的地指南
+description: 法国旅游攻略，分享更多目的地指南、线路攻略及实用信息
 nav: true
 nav_order: 3
-display_categories: []
+display_categories: 
 horizontal: false
 ---
 
-<!-- pages/projects.md -->
+<!-- pages/france-travel.md -->
 <div class="france-travel">
 {% if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->
