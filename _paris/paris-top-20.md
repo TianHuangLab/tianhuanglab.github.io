@@ -28,7 +28,7 @@ tags: 法国 巴黎
 
 首先，我将在地图上点亮这20个（及周边）景点，以方便你衡量它们各自的位置，和相互之间的距离。
 
-```geojson
+```
 {
   "type": "FeatureCollection",
   "features": [
@@ -640,7 +640,7 @@ tags: 法国 巴黎
 - **周四**：8:00-22:00
 - **周六、周日**：8:15-19:30；弥撒：平日8:00、12:00、18:00，周末及节假日有特别活动，具体请参看巴黎圣母院官网。
 
-如果你想了解更多关于巴黎圣母院重建过程的内容，可以参考这个[网站](https://rebatirnotredamedeparis.fr/)
+如果你想了解更多关于巴黎圣母院重建过程的内容，可以参考官网：https://rebatirnotredamedeparis.fr/
 
 {% include figure.liquid loading="eager" path="assets/img/2paris-top-20-14.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
 
@@ -872,7 +872,7 @@ tags: 法国 巴黎
 
 [https://www.bateaux-mouches.fr/en/cruise](https://www.bateaux-mouches.fr/en/cruise)
 
-[https://www.bateauxparisiens.com/english.html](https://www.bateaux-mouches.fr/en/cruise)
+https://www.bateauxparisiens.com/english.html
 {% include figure.liquid loading="eager" path="assets/img/2paris-top-20-37.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
 
 ## **13.巴黎巴士底市集**
@@ -1012,7 +1012,7 @@ tags: 法国 巴黎
 
 想要了解更多，请查阅：
 
-[请参阅街区网站](https://www.parismarais.com/fr）
+[请参阅街区网站]https://www.parismarais.com/fr
 
 [街区交互地图](https://www.parismarais.com/map/)
 {% include figure.liquid loading="eager" path="assets/img/2paris-top-20-49.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
@@ -1044,11 +1044,11 @@ tags: 法国 巴黎
 
 参观巴黎迪士尼乐园时，可以提前规划好游玩路线，确保不会错过经典项目，如飞越太空山、幻想曲旋转木马和加勒比海盗等。乐园内提供多种美食和纪念品，可以根据个人喜好选择。如果带小朋友一起游玩，不妨提前了解适合家庭游客的项目和活动。此外，建议下载官方app，实时查看等候时间和活动安排。
 
-迪士尼乐园通常全年开放，但具体开放时间视季节而定。乐园一般开放时间为9:00 - 22:00；迪士尼影城[**Parc Walt Disney Studios**](https://www.disneylandparis.com/fr-fr/destinations/parc-walt-disney-studios/)开放时间为9:00 - 21:00。
+迪士尼乐园通常全年开放，但具体开放时间视季节而定。乐园一般开放时间为9:00 - 22:00；迪士尼影城[**Parc Walt Disney Studios**](https://www.disneylandparis.com/fr-fr/destinations/parc-walt-disney-studios)开放时间为9:00 - 21:00。
 
 巴黎迪士尼票价是根据淡旺季浮动的，固定日期单日入园门票的价格区间在50多欧一直到90多欧，另有多日或者非指定日期门票可供选择，此外还有不同的游览套餐，从门票到包含饮食、酒店住宿的套餐，均可以在迪士尼官网预定：
 
-[请进官网预订](https://www.disneylandparis.com/fr-fr/calendriers/horaires-parcs/?ecid=SEM_IP_S_9698811409-c-100694707366-159584649-564558465242-Broad&gclsrc=aw.ds&&mkwid=&gad_source=1&gclid=Cj0KCQiAj9m7BhD1ARIsANsIIvChIzcwsFvFEHCM1vIrqab51R8nhr5MD09XnnFrS95BMmTqhmm12D8aAv-6EALw_wcB&pcrid=564558465242&pmt=b&pkw=reservation+disneyland+paris)
+[请进官网预订](https://www.disneylandparis.com)
 
 注意：建议通过官方正规渠道购买，如果通过第三方渠道代购，需要擦亮眼睛！
 {% include figure.liquid loading="eager" path="assets/img/2paris-top-20-53.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
@@ -1106,7 +1106,7 @@ tags: 法国 巴黎
 
 乐蓬马歇百货的开放时间为周一至周六10:00至19:45，周日则从11:00开放至19:45。商场的餐厅和某些区域可能有不同的开放时间，建议提前确认。
 
-[请参阅官网](https://www.lebonmarche.com/)
+[请参阅官网]https://www.lebonmarche.com/
 {% include figure.liquid loading="eager" path="assets/img/2paris-top-20-60.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
 
 {% include figure.liquid loading="eager" path="assets/img/2paris-top-20-61.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
