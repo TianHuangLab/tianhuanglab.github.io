@@ -310,7 +310,7 @@ Roissybus 的班次频率较高，特别适合不想换乘、希望直接到达�
 
 通过这种简洁的布局，无论你是搭乘火车还是其他交通工具，都能轻松找到自己的目的地。
 
-如果你计划搭乘列车直接抵达机场火车站，或者直接从机场出发至法国或欧洲的其他地区，可以查阅[法铁官网](https://www.sncf-connect.com/en-en/)。
+如果你计划搭乘列车直接抵达机场火车站，或者直接从机场出发至法国或欧洲的其他地区，可以查阅法铁官网https://www.sncf-connect.com/en-en/
 
 {% include figure.liquid loading="eager" path="assets/img/1cdg-15.png" title="example image" class="img-fluid rounded z-depth-1" %}
 
