@@ -12,7 +12,6 @@ toc:
 tags: 法国 签证 旅行准备
 map: true
 ---
-**超详细，无需中介，自己DIY搞定法国申根旅游签证！**
 
 如果你计划来一场浪漫的法国之旅，申根签证是绕不过去的第一步。很多人听说申请法国申根签证流程复杂，就先慌了，甚至直接想找中介代办。但其实，我想负责任地和你说，中介也帮不了太多——签证材料、录指纹这些关键环节，还得你自己来。而且通过中介不仅花钱多，还可能泄露个人信息。
 
@@ -36,12 +35,12 @@ map: true
 - 打开官网，点击“创建账号”，输入邮箱、密码，完成注册。
 - 登录后选择“申请新签证”，开始填写表格。
 
-**步骤6-9（见图3-4）：填写第1页，获取FRA号码**
+**步骤6-9**（见图3-4）**：填写第1页，获取FRA号码**
 
 - 在第1页输入基本个人信息（姓名、出生日期、国籍等）。
 - 提交后系统会生成一个**FRA号码**，这个号码很重要，后续预约递签时需要用到，记得保存。
 
-**步骤10（图5）：如果行程未定，可以先跳转签证中心网站预约递签时间（根据你的情况，灵活安排）**
+**步骤10**（图5）：**如果行程未定，可以先跳转签证中心网站预约递签时间（根据你的情况，灵活安排）**
 
 如果你的行程计划还未完全确定，比如酒店和机票没订，可以先获取FRA号码，再跳到预约中智法签递签**（步骤22）**。行程确认后再返回补充表格内容即可。
 
@@ -58,7 +57,7 @@ map: true
 
 - 提供紧急联系人信息，可以是法国当地酒店或者亲友的联系方式。
 
-**步骤15（**见图11**）：完成第6页**
+**步骤15**（见图11）：**完成第6页**
 
 - 这是一个提示页面，无需填写任何内容。直接点击确认即可。
 
@@ -100,7 +99,7 @@ map: true
 > TIPS：如果行程暂时未定，可以先获取FRA号码并预约递签，之后再补充行程信息完成申请表。
 > 
 
-### 参考材料清单 & 填写步骤截图
+### **参考材料清单 & 填写步骤截图**
 {% include figure.liquid loading="eager" path="assets/img/3france-visa-application/3france-visa-application-01.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
 {% include figure.liquid loading="eager" path="assets/img/3france-visa-application/3france-visa-application-1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
 {% include figure.liquid loading="eager" path="assets/img/3france-visa-application/3france-visa-application-2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
