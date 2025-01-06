@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 法国旅行前准备｜经典一站式指南
+title: 法国旅行前准备攻略：一站式指南
 description: 一文涵盖签证、预算、交通、旅行时间、景点、美食、退税和法语等实用内容
 img: assets/img/4france-travel-info/4france-travel-info-0.jpg
 importance: 2
@@ -73,7 +73,8 @@ map: true
 
 **机票：**
 
-<iframe border="0" src="https://tw.trip.com/partners/ad/S854359?Allianceid=5840493&SID=157301299&trip_sub1=" style="width:320px;height:320px" frameborder="0" scrolling="no" style="border:none" id="S854359"></iframe>
+<iframe border="0" src="https://tw.trip.com/partners/ad/S854359?Allianceid=5840493&SID=157301299&trip_sub1=" style="width:320px;height:480px" frameborder="0" scrolling="no" style="border:none" id="S854359"></iframe>
+
 [Trip.com](https://www.trip.com/t/cR25X9g4vZ1)
 
 [skyscanner.com](skyscanner.com)
@@ -81,7 +82,8 @@ map: true
 [kayak.com](kayak.com)
 
 **酒店：**
-<iframe border="0" src="https://www.trip.com/partners/ad/S861212?Allianceid=5840493&SID=157301299&trip_sub1=" style="width:320px;height:320px" frameborder="0" scrolling="no" style="border:none" id="S861212"></iframe>
+<iframe border="0" src="https://tw.trip.com/partners/ad/S861212?Allianceid=5840493&SID=157301299&trip_sub1=" style="width:320px;height:480px" frameborder="0" scrolling="no" style="border:none" id="S861212"></iframe>
+
 [Trip.com](https://www.trip.com/t/ErpefMd4vZ1)
 
 [booking.com](booking.com)
