@@ -2,7 +2,7 @@
 layout: page
 title: 法国旅行前准备｜经典一站式指南
 description: 一文涵盖签证、预算、交通、旅行时间、景点、美食、退税和法语等实用内容
-img: assets/img/3france-visa-application/3france-visa-application-0.jpg
+img: assets/img/4france-travel-info/4france-travel-info-0.jpg
 importance: 2
 category: 
 related_publications: false
@@ -12,6 +12,7 @@ toc:
 tags: 法国 旅行准备 目的地 美食 交通 住宿 购物 法语
 map: true
 ---
+{% include figure.liquid loading="eager" path="assets/img/4france-travel-info/4france-travel-info-1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
 
 ### **一、为什么来法国？**
 
@@ -40,6 +41,7 @@ map: true
 【旅游业】法国是全球旅游主要目的地之一。2023年法国际旅游收入再创新高，达635亿欧元，同比增长约12%（法国旅游发展署数据）。旅游业产值约占国内生产总值的8％，直接、间接创造就业岗位200万个（法国外交部资料）。
 
 【法语】法国的文化底蕴深厚，语言是其重要的特色。法语被广泛使用，是世界上最美丽的语言之一，富有韵律感。法国文化融合了多种艺术形式，从古典到现代，建筑、时尚、美食等都充满创意与优雅。此外，法国人热衷于文学、电影和哲学，给世界带来了无数影响力巨大的作品。
+{% include figure.liquid loading="eager" path="assets/img/4france-travel-info/4france-travel-info-2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
 
 更多详情可参考以下内容：
 
@@ -143,6 +145,7 @@ map: true
 **法国中央高原**：这是一个安静而原始的地区，辽阔的草原、火山地形与古老的村庄为自然爱好者提供了放松的好地方，绝对值得一探。克莱蒙费朗(Clermont-Ferrand)是主要城市之一。
 
 **阿尔卑斯山区**：这里是冬季滑雪的天堂，夏季则适合登山和探险。尚贝里(Chambéry)、安纳西(Annecy)和霞慕尼(Chamonix)等为您提供绝美的山脉景观，适合一年四季的户外活动。无论是挑战极限还是享受宁静的大自然，这里都能给你带来难忘的体验。
+{% include figure.liquid loading="eager" path="assets/img/4france-travel-info/4france-travel-info-3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
 
 ### **九、法国经典美食**
 
@@ -159,6 +162,10 @@ map: true
 - **法式香肠（Saucisson）**：法式香肠种类丰富，味道浓郁，常用来搭配红酒或是加入沙拉中。它是一道非常适合与朋友一起分享的美食。
 - **布列塔尼咸饼（Galette）**：这款咸味可丽饼用荞麦面做成，里面可以加入火腿、奶酪、鸡蛋等配料。它是布列塔尼地区的传统美食，简单又美味。
 - **法国沙拉（Salade Française）**：这道沙拉使用新鲜的绿色蔬菜和简单的调料，清爽又健康。它是法国日常餐桌上的常见菜品，口感清新，非常适合夏季。
+
+{% include figure.liquid loading="eager" path="assets/img/4france-travel-info/4france-travel-info-4.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+{% include figure.liquid loading="eager" path="assets/img/4france-travel-info/4france-travel-info-5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+
 
 ### **十、法国退税**
 
