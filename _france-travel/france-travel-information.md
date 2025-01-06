@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 法国旅游准备全攻略｜经典一站式指南
+title: 法国旅行前准备｜经典一站式指南
 description: 一文涵盖签证、预算、交通、旅行时间、景点、美食、退税和法语等实用内容
 img: assets/img/3france-visa-application/3france-visa-application-0.jpg
 importance: 2
@@ -43,13 +43,13 @@ map: true
 
 更多详情可参考以下内容：
 
-https://zh.wikipedia.org/wiki/%E6%B3%95%E5%9B%BD
+[维基百科-法国](https://zh.wikipedia.org/wiki/%E6%B3%95%E5%9B%BD)
 
-https://baike.baidu.com/item/%E6%B3%95%E5%9B%BD/1173384
+[百度百科-法国](https://baike.baidu.com/item/%E6%B3%95%E5%9B%BD/1173384)
 
-https://www.france.fr/zh-Hans/
+[法国旅游局官网](https://www.france.fr/zh-Hans/)
 
-https://zh.wikipedia.org/wiki/%E6%B3%95%E8%AF%AD
+[维基百科-法语](https://zh.wikipedia.org/wiki/%E6%B3%95%E8%AF%AD)
 
 ### **三、签证**
 
@@ -71,21 +71,20 @@ https://zh.wikipedia.org/wiki/%E6%B3%95%E8%AF%AD
 
 **机票：**
 
-<iframe border="0" src="https://tw.trip.com/partners/ad/S854359?Allianceid=5840493&SID=157301299&trip_sub1=" style="width:900px;height:200px" frameborder="0" scrolling="no" style="border:none" id="S854359"></iframe>
+<iframe border="0" src="https://tw.trip.com/partners/ad/S854359?Allianceid=5840493&SID=157301299&trip_sub1=" style="width:320px;height:320px" frameborder="0" scrolling="no" style="border:none" id="S854359"></iframe>
+[Trip.com](https://www.trip.com/t/cR25X9g4vZ1)
 
-https://www.trip.com/t/cR25X9g4vZ1
+[skyscanner.com](skyscanner.com)
 
-skyscanner.com
-
-kayak.com
+[kayak.com](kayak.com)
 
 **酒店：**
+<iframe border="0" src="https://www.trip.com/partners/ad/S861212?Allianceid=5840493&SID=157301299&trip_sub1=" style="width:320px;height:320px" frameborder="0" scrolling="no" style="border:none" id="S861212"></iframe>
+[Trip.com](https://www.trip.com/t/ErpefMd4vZ1)
 
-https://www.trip.com/t/ErpefMd4vZ1
+[booking.com](booking.com)
 
-booking.com
-
-airbnb.com
+[airbnb.com](airbnb.com)
 
 ### **六、法国出行交通方式**
 
@@ -93,22 +92,22 @@ airbnb.com
 
 在法国，大城市的市内公交或地铁票价通常在2欧元左右，但较小城市的交通费用较低。法国中小城市的公交系统不如巴黎、里昂等大城市发达，很多地方班次较少，甚至有些线路在周末和节假日暂停运营，因此出行前核对公交信息非常重要。
 
-巴黎地区：https://www.ratp.fr/
+巴黎地区[RATP](https://www.ratp.fr/)
 
-马赛地区：https://www.rtm.fr/
+马赛地区[RTM](https://www.rtm.fr/)
 
-里昂地区：https://www.tcl.fr/en
+里昂地区[TCL](https://www.tcl.fr/en)
 
-波尔多地区：https://www.infotbm.com/fr
+波尔多地区[BM](https://www.infotbm.com/fr)
 
-尼斯地区：https://www.lignesdazur.com/en
+尼斯地区[Ligne d’Azur](https://www.lignesdazur.com/en)
 
 另外，鉴于巴黎机场交通较为复杂，可以参考这篇文章[《2025年最新巴黎机场交通攻略》](https://tianhuanglab.github.io/paris/public-transport-paris-airports/)
 
 关于城际交通，法国的火车服务由国家铁路公司SNCF提供。短途旅行多使用TER列车，而跨大区的旅程则多乘坐高铁TGV。您可以在线或通过SNCF官方App购票，电子票方便使用。另一个选择是大巴，您可以通过GOEURO网站查询和预订国内及国际大巴。
 
 1. **火车**：法国的SNCF提供多种火车服务，短途旅行可选TER，长途旅行则推荐高铁TGV。您可以通过[SNCF官网](https://en.oui.sncf/en/)或App预订电子车票，轻松出行。
-2. **大巴**：法国也有很多大巴公司，如FLIXBUS、OUIBUS和ISILINES，适合预算较紧的旅客。可以通过[GOEURO](https://www.goeuro.com/)网站预订。
+2. **大巴**：法国也有很多大巴公司，如FLIXBUS、OUIBUS和ISILINES，适合预算较紧的旅客。可以通过[OMIO](https://www.omio.com/)网站预订。
 3. **租车**：如果您希望更灵活地探索法国，租车是不错的选择。通过各大租车公司，如**Europcar**和**Hertz**，或者通过第三方租车中介类似**租租车**等。自驾可以更方便地规划你在法国的整个旅程，不过要注意的是，在法国开车仍有较多的注意事项，如果有租车计划，建议提前熟悉一下法国本地的交通法规。
 
 ### **七、最佳旅行时间**
@@ -129,7 +128,7 @@ airbnb.com
 
 [《巴黎必去景点Top20｜一文带你玩转浪漫之都》](https://tianhuanglab.github.io/paris/paris-top-20/)
 
-**蔚蓝海岸**：蔚蓝海岸的尼斯和戛纳是度假胜地，阳光明媚的海滩和奢华的氛围吸引着全球游客，让人流连忘返，摩纳哥更是魅力无限。
+**蔚蓝海岸**：蔚蓝海岸的尼斯(Nice)和戛纳(Cannes)是度假胜地，阳光明媚的海滩和奢华的氛围吸引着全球游客，让人流连忘返，摩纳哥(Monaco)更是魅力无限。
 
 **普罗旺斯**：这里的薰衣草田和美丽的葡萄园让人陶醉，阿维尼翁(Avignon)和马赛(Marseille)是最具代表性的城市，完美融合了自然与历史。
 
@@ -148,7 +147,7 @@ airbnb.com
 ### **九、法国经典美食**
 
 - **法式蜗牛（Escargots）**：这道法国经典美食使用蒜香黄油和香草，慢烤蜗牛，味道浓郁、口感丰富。吃上一口，鲜美的肉质和香滑的黄油完美融合，令人难忘。
-- **巴黎炖牛肉（Boeuf Bourguignon）**：这道慢炖菜将牛肉与红酒、香草、洋葱一同炖煮，味道浓厚。它是法国经典的家常菜，温暖又美味。
+- **勃艮第炖牛肉（Boeuf Bourguignon）**：这道慢炖菜将牛肉与红酒、香草、洋葱一同炖煮，味道浓厚。它是法国经典的家常菜，温暖又美味。
 - **法式洋葱汤（Soupe à l’oignon）**：浓郁的洋葱汤，配上烤面包和融化的奶酪，温暖你的胃。无论冬天还是寒冷的晚上，它都是一道让人心情愉快的美食。
 - **可丽饼（Crêpes）**：薄薄的法式煎饼，可以包上各种甜的或咸的配料。无论是巧克力、草莓，还是培根、鸡蛋，它都是法国街头美味的代表。
 - **法式烤鸡（Poulet Rôti）**：外脆内嫩的法式烤鸡，香气四溢。搭配香草和土豆，是家庭聚餐或是特别场合的理想选择。
@@ -176,6 +175,15 @@ airbnb.com
 2. **退税单盖章**：在机场、火车站找到退税机或海关柜台，扫描退税单上的条形码，完成海关审批。海关审批通过后，您可提交退税单并领取退税款。
 3. **获得退税**：若选择信用卡或支付宝退税，退款将在4-6周内到账；若选择现金退税，可前往指定退税柜台领取现金。
 
+[巴黎戴高乐机场和奥利机场退税](https://www.parisaeroport.fr/en/passengers/services/tax-refund)
+[尼斯机场退税](https://www.nice.aeroport.fr/en/guide/tax-refunds-customs)
+马赛-普罗旺斯机场退税：地点在1号航站楼，A大厅，在商店La Brioche Dorée后面（Terminal 1, Hall A, behind "La Brioche Dorée" ）
+
+另外鉴于很多来法国的朋友通过瑞士日内瓦机场、荷兰阿姆斯特丹机场或比利时布鲁塞尔机场登陆申根区，这里我也附上相关机场退税指南：
+[瑞士日内瓦机场退税](https://www.gva.ch/en/Site/Passagers/Shopping/Services/Banques-change-poste/detaxe-objets)
+[荷兰阿姆斯特丹schiphol机场退税](https://www.schiphol.nl/en/at-schiphol/services/tax-refund)
+[比利时布鲁塞尔机场退税](https://www.brusselsairport.be/en/passengers/your-travel-planner/customs/tax-refund)
+
 ### **十一、常用旅游法语**
 
 在法国旅游时，掌握一些基础法语对沟通非常有帮助。这里有10句经典的法语，帮你顺利度过旅行中的各种场景：
@@ -188,6 +196,5 @@ airbnb.com
 - **Merci beaucoup !**（非常感谢！/非常感謝！）
 - **Excusez-moi, où est la station de métro ?**（对不起，地铁站在哪里？/對不起，地鐵站在哪裡？）
 - **Je ne parle pas bien français.**（我法语不好。/我法語不好。）
-- **Pouvez-vous m’aider ?**（您能帮我吗？/您能幫我嗎？）
+- **Pouvez-vous m’aider, s'il vous plaît?**（您能帮我吗？/您能幫我嗎？）
 - **L'addition, s'il vous plaît.**（请结账。/請結帳。）
-- 
