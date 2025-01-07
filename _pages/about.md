@@ -1,7 +1,7 @@
 ---
 layout: about
 title: 关于我
-permalink: /
+permalink: /about
 subtitle: 🌍 生活是一场旅行，旅行是另一种生活 🚶‍♀️
 profile:
   align: right
