@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: default
 title: 首页
 permalink: /
 subtitle: 🌍 生活是一场旅行，旅行是另一种生活 🚶‍♀️
