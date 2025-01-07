@@ -1,20 +1,22 @@
 ---
 layout: about
 title: 关于我
-permalink: /about
+permalink: /
 subtitle: 🌍 生活是一场旅行，旅行是另一种生活 🚶‍♀️
 profile:
   align: right
   image: profile-tian.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>目前居住在法国南部</p>
-    <p>旅游达人和自助旅行</p>
-    <p></p>
+    <p>目前居住在法国南部，享受记录当下</p>
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
+latest_posts:
+  enabled: true
+  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
+  limit: 3
 ---
 嗨！我是奥利飞飞，一个热爱探索的旅游达人，现居法国南部的马赛。几年前，我们从巴黎搬到了这里，在地中海的阳光怀抱中开启了全新的生活篇章。目前，我在一家法国公司担任市场经理，虽然日常“搬砖”，但旅行始终是我的灵魂栖息地。我最享受与家人朋友一起背上行囊去探险，无论是徒步山间、在海边吹风，还是冬天滑雪，每一种体验都充满乐趣。十年来，我走过三大洲，深度游历了亚欧非十几个国家，尤其对法国情有独钟，这片土地还有太多美好值得细细丈量。
 
