@@ -20,6 +20,46 @@
     <!-- Header -->
     {% include header.liquid %}
 
+<!-- Carousel (New Section) -->
+    <div id="homepageCarousel" class="carousel slide mb-5" data-bs-ride="carousel">
+      <div class="carousel-indicators">
+        <button type="button" data-bs-target="#homepageCarousel" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+        <button type="button" data-bs-target="#homepageCarousel" data-bs-slide-to="1" aria-label="Slide 2"></button>
+        <button type="button" data-bs-target="#homepageCarousel" data-bs-slide-to="2" aria-label="Slide 3"></button>
+      </div>
+      <div class="carousel-inner">
+        <div class="carousel-item active">
+          <img src="https://source.unsplash.com/1600x900/?beach" class="d-block w-100" alt="Beautiful Beach">
+          <div class="carousel-caption">
+            <h5>Discover Pristine Beaches</h5>
+            <p>Experience the serenity of the world's finest shorelines.</p>
+          </div>
+        </div>
+        <div class="carousel-item">
+          <img src="https://source.unsplash.com/1600x900/?mountains" class="d-block w-100" alt="Mountain Adventure">
+          <div class="carousel-caption">
+            <h5>Adventure Awaits in Majestic Mountains</h5>
+            <p>Unleash your adventurous spirit amidst breathtaking peaks.</p>
+          </div>
+        </div>
+        <div class="carousel-item">
+          <img src="https://source.unsplash.com/1600x900/?city" class="d-block w-100" alt="Cityscape">
+          <div class="carousel-caption">
+            <h5>Explore Vibrant Cityscapes</h5>
+            <p>Feel the pulse of iconic metropolises around the globe.</p>
+          </div>
+        </div>
+      </div>
+      <button class="carousel-control-prev" type="button" data-bs-target="#homepageCarousel" data-bs-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Previous</span>
+      </button>
+      <button class="carousel-control-next" type="button" data-bs-target="#homepageCarousel" data-bs-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Next</span>
+      </button>
+    </div>
+
     <!-- Content -->
     <div class="container mt-5" role="main">
       {% if page.toc and page.toc.sidebar %}
