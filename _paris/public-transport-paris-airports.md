@@ -4,7 +4,7 @@ title: 2025年最新巴黎机场交通攻略
 description: 最全地铁、轻轨、公交、出租、夜间巴士以及动车抵达巴黎戴高乐机场CDG的交通攻略
 img: assets/img/1cdg-0.jpg
 importance: 1
-category: 
+category: 巴黎
 related_publications: false
 related_posts: true
 toc:
