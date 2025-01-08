@@ -4,7 +4,7 @@ title: 最实用的巴黎公共交通指南｜一文看懂怎么选！
 description: 步行能感受巴黎街头的浪漫，而四通八达的地铁则让各大景点触手可及
 img: assets/img/6paris-public-transportation/6paris-public-transportation-0.jpg
 importance: 4
-category: 
+category: 大巴黎地区
 related_publications: false
 related_posts: true
 toc:
