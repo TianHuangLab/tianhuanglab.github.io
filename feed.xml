@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en, cn, fr"><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="https://tianhuanglab.github.io/feed.xml" rel="self" type="application/atom+xml"/><link href="https://tianhuanglab.github.io/" rel="alternate" type="text/html" hreflang="en, cn, fr"/><updated>2025-01-08T21:36:39+00:00</updated><id>https://tianhuanglab.github.io/feed.xml</id><title type="html">blank</title><subtitle>A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design. </subtitle><entry><title type="html">我心中的格勒诺布尔Top餐厅及甜品店推荐!</title><link href="https://tianhuanglab.github.io/blog/2024/grenoble-top-restaurants/" rel="alternate" type="text/html" title="我心中的格勒诺布尔Top餐厅及甜品店推荐!"/><published>2024-12-29T20:00:00+00:00</published><updated>2024-12-29T20:00:00+00:00</updated><id>https://tianhuanglab.github.io/blog/2024/grenoble-top-restaurants</id><content type="html" xml:base="https://tianhuanglab.github.io/blog/2024/grenoble-top-restaurants/"><![CDATA[<figure> <picture> <source class="responsive-img-srcset" srcset="/assets/img/posts/1grenoble-top-restaurants/1-480.webp 480w,/assets/img/posts/1grenoble-top-restaurants/1-800.webp 800w,/assets/img/posts/1grenoble-top-restaurants/1-1400.webp 1400w," type="image/webp" sizes="95vw"/> <img src="/assets/img/posts/1grenoble-top-restaurants/1.jpg" class="img-fluid rounded z-depth-1" width="100%" height="auto" title="example image" loading="eager" onerror="this.onerror=null; $('.responsive-img-srcset').remove();"/> </picture> </figure> <p>2024年底的滑雪假期，我们选了格勒诺布尔（Grenoble）附近的Lans-en-Vercors雪场。 滑雪期间，带着家人，我们也顺道逛了逛市区，新探索了几家市区的馆子。</p> <p>以下是我几次探索格勒诺布尔时收集的餐厅和甜品店推荐清单，地址及简要介绍附上，帮你轻松规格勒诺布尔之旅 🍴🎿：</p> <pre><code class="language-geojson">{
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en, cn, fr"><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="https://tianhuanglab.github.io/feed.xml" rel="self" type="application/atom+xml"/><link href="https://tianhuanglab.github.io/" rel="alternate" type="text/html" hreflang="en, cn, fr"/><updated>2025-01-08T21:42:53+00:00</updated><id>https://tianhuanglab.github.io/feed.xml</id><title type="html">blank</title><subtitle>A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design. </subtitle><entry><title type="html">我心中的格勒诺布尔Top餐厅及甜品店推荐!</title><link href="https://tianhuanglab.github.io/blog/2024/grenoble-top-restaurants/" rel="alternate" type="text/html" title="我心中的格勒诺布尔Top餐厅及甜品店推荐!"/><published>2024-12-29T20:00:00+00:00</published><updated>2024-12-29T20:00:00+00:00</updated><id>https://tianhuanglab.github.io/blog/2024/grenoble-top-restaurants</id><content type="html" xml:base="https://tianhuanglab.github.io/blog/2024/grenoble-top-restaurants/"><![CDATA[<figure> <picture> <source class="responsive-img-srcset" srcset="/assets/img/posts/1grenoble-top-restaurants/1-480.webp 480w,/assets/img/posts/1grenoble-top-restaurants/1-800.webp 800w,/assets/img/posts/1grenoble-top-restaurants/1-1400.webp 1400w," type="image/webp" sizes="95vw"/> <img src="/assets/img/posts/1grenoble-top-restaurants/1.jpg" class="img-fluid rounded z-depth-1" width="100%" height="auto" title="example image" loading="eager" onerror="this.onerror=null; $('.responsive-img-srcset').remove();"/> </picture> </figure> <p>2024年底的滑雪假期，我们选了格勒诺布尔（Grenoble）附近的Lans-en-Vercors雪场。 滑雪期间，带着家人，我们也顺道逛了逛市区，新探索了几家市区的馆子。</p> <p>以下是我几次探索格勒诺布尔时收集的餐厅和甜品店推荐清单，地址及简要介绍附上，帮你轻松规格勒诺布尔之旅 🍴🎿：</p> <pre><code class="language-geojson">{
   "type": "FeatureCollection",
   "features": [
     {
@@ -10,7 +10,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [5.725, 45.188]
+        "coordinates": [5.7219755, 45.1889637]
       }
     },
     {
@@ -22,7 +22,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [5.731, 45.191]
+        "coordinates": [5.729637622833252, 45.192848205566406]
       }
     },
     {
@@ -34,7 +34,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [5.723, 45.187]
+        "coordinates": [5.730671405792236, 45.18704605102539]
       }
     },
     {
@@ -46,7 +46,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [5.724, 45.190]
+        "coordinates": [5.725951671600342, 45.194984436035156]
       }
     },
     {
@@ -58,7 +58,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [5.731, 45.186]
+        "coordinates": [5.7319523, 45.1910538]
       }
     },
     {
@@ -70,7 +70,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [5.728, 45.190]
+        "coordinates": [5.722383975982666, 45.18553924560547]
       }
     },
     {
@@ -82,7 +82,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [5.729, 45.188]
+        "coordinates": [5.7181159, 45.1886227]
       }
     },
     {
@@ -94,7 +94,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [5.728, 45.194]
+        "coordinates": [5.723228931427002, 45.191036224365234]
       }
     },
     {
@@ -106,7 +106,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [5.729, 45.192]
+        "coordinates": [5.724344253540039, 45.1894416809082]
       }
     },
     {
@@ -118,12 +118,12 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [5.728, 45.189]
+        "coordinates": [5.7260604, 45.1893395]
       }
     }
   ]
 }
-</code></pre> <p>🍽️ 餐厅推荐 <strong>1. Lion et Poisson老味道</strong> 📍 地址：11 Av. Alsace Lorraine, 38000 Grenoble 🌟 很棒的一家中餐厅，值得推荐！ <strong>2. Restaurant l’Épicurien</strong> 📍 地址：1 Place aux Herbes, 38000 Grenoble 🌟经典的装修风格，法餐味道很棒，39欧三道式的菜单性价比也挺高。 <strong>3. Et Si</strong> 📍 地址：16 Rue de Strasbourg, 38000 Grenoble 🌟 一家以创意菜肴著称的餐厅，用新鲜食材带来令人惊喜的风味组合。 <strong>4. Ciel Rooftop Grenoble</strong> 📍 地址：17 Rue Maurice Gignoux, 38000 Grenoble 🌟 享受屋顶上的迷人景观，同时品尝精致的风味美食。 <strong>5. Ciao a Te</strong> 📍 地址：2 Rue de la Paix, 38000 Grenoble 🌟 正宗意大利菜餐厅，可以尝到很多意大利经典菜肴。 <strong>6. Une Semaine Sur Deux</strong> 📍 地址：4 Pl. Championnet, 38000 Grenoble 🌟街边的创意法餐厅，新鲜食材加精致料理，推荐的！ <strong>7. Tchoutchoura</strong> 📍 地址：16 Rue Gabriel Péri, 38000 Grenoble 🌟 主打保加利亚风味美食，反正是别具一格的异域风情与味觉享受。 🍰 甜品店推荐 <strong>1. Pâtisserie Paris Délices</strong> 📍 地址：28 Boulevard Édouard Rey, 38000 Grenoble 🌟 以精致法式糕点和巧克力闻名，适合喜欢甜食的你！ <strong>2. Pâtisserie Sarrazin Marc</strong> 📍 地址：10 Pl. Victor Hugo, 38000 Grenoble 🌟 层次丰富的甜点让人一试难忘，是探索城市时的甜蜜停留点。 <strong>3. Zeit Pâtisserie de Saison</strong> 📍 地址：3 Rue Blanc Fontaine, 38000 Grenoble 🌟 店内装修是我喜欢的风格，而且甜品说实话也非常好吃。</p> <p>这些餐厅和甜品店是我自己探索的高分餐厅和甜点店，如果你在格勒诺布尔，不妨去试几家，你一定会感到惊喜的！ 🍷✨</p> <figure> <picture> <source class="responsive-img-srcset" srcset="/assets/img/posts/1grenoble-top-restaurants/2-480.webp 480w,/assets/img/posts/1grenoble-top-restaurants/2-800.webp 800w,/assets/img/posts/1grenoble-top-restaurants/2-1400.webp 1400w," type="image/webp" sizes="95vw"/> <img src="/assets/img/posts/1grenoble-top-restaurants/2.jpg" class="img-fluid rounded z-depth-1" width="100%" height="auto" title="example image" loading="eager" onerror="this.onerror=null; $('.responsive-img-srcset').remove();"/> </picture> </figure> <figure> <picture> <source class="responsive-img-srcset" srcset="/assets/img/posts/1grenoble-top-restaurants/3-480.webp 480w,/assets/img/posts/1grenoble-top-restaurants/3-800.webp 800w,/assets/img/posts/1grenoble-top-restaurants/3-1400.webp 1400w," type="image/webp" sizes="95vw"/> <img src="/assets/img/posts/1grenoble-top-restaurants/3.jpg" class="img-fluid rounded z-depth-1" width="100%" height="auto" title="example image" loading="eager" onerror="this.onerror=null; $('.responsive-img-srcset').remove();"/> </picture> </figure>]]></content><author><name></name></author><category term="法国生活"/><category term="法国旅行"/><category term="滑雪"/><category term="格勒诺布尔"/><category term="美食"/><category term="餐厅推荐"/><summary type="html"><![CDATA[2024年底重返阿尔卑斯山脚下的美食之都格勒诺布尔，深入体验后精心整理了一份top餐厅和甜品店推荐清单。]]></summary></entry><entry><title type="html">paris</title><link href="https://tianhuanglab.github.io/blog/2024/paris/" rel="alternate" type="text/html" title="paris"/><published>2024-12-25T21:45:00+00:00</published><updated>2024-12-25T21:45:00+00:00</updated><id>https://tianhuanglab.github.io/blog/2024/paris</id><content type="html" xml:base="https://tianhuanglab.github.io/blog/2024/paris/"><![CDATA[<h1 id="巴黎一日游攻略">巴黎一日游攻略</h1> <h2 id="巴黎是一场流动的盛宴">巴黎是一场流动的盛宴</h2> <p>如果你只在巴黎停留一天，请收下这份巴黎一日游经典攻略。</p> <p><a href="https://africa.visa.com/content/dam/VCOM/regional/cemea/generic-cemea/travel-with-visa/destinations/paris/marquee-travel-paris-1920x720.jpg" data-lightbox="roadtrip"><img src="https://africa.visa.com/content/dam/VCOM/regional/cemea/generic-cemea/travel-with-visa/destinations/paris/marquee-travel-paris-1920x720.jpg"/></a></p> <p>以下是行程线路图:</p> <pre><code class="language-geojson">{
+</code></pre> <h3 id="️-餐厅推荐">🍽️ 餐厅推荐</h3> <p><strong>1. Lion et Poisson老味道</strong> 📍 地址：11 Av. Alsace Lorraine, 38000 Grenoble 🌟 很棒的一家中餐厅，值得推荐！ <strong>2. Restaurant l’Épicurien</strong> 📍 地址：1 Place aux Herbes, 38000 Grenoble 🌟经典的装修风格，法餐味道很棒，39欧三道式的菜单性价比也挺高。 <strong>3. Et Si</strong> 📍 地址：16 Rue de Strasbourg, 38000 Grenoble 🌟 一家以创意菜肴著称的餐厅，用新鲜食材带来令人惊喜的风味组合。 <strong>4. Ciel Rooftop Grenoble</strong> 📍 地址：17 Rue Maurice Gignoux, 38000 Grenoble 🌟 享受屋顶上的迷人景观，同时品尝精致的风味美食。 <strong>5. Ciao a Te</strong> 📍 地址：2 Rue de la Paix, 38000 Grenoble 🌟 正宗意大利菜餐厅，可以尝到很多意大利经典菜肴。 <strong>6. Une Semaine Sur Deux</strong> 📍 地址：4 Pl. Championnet, 38000 Grenoble 🌟街边的创意法餐厅，新鲜食材加精致料理，推荐的！ <strong>7. Tchoutchoura</strong> 📍 地址：16 Rue Gabriel Péri, 38000 Grenoble 🌟 主打保加利亚风味美食，反正是别具一格的异域风情与味觉享受。</p> <h3 id="-甜品店推荐">🍰 甜品店推荐</h3> <p><strong>1. Pâtisserie Paris Délices</strong> 📍 地址：28 Boulevard Édouard Rey, 38000 Grenoble 🌟 以精致法式糕点和巧克力闻名，适合喜欢甜食的你！ <strong>2. Pâtisserie Sarrazin Marc</strong> 📍 地址：10 Pl. Victor Hugo, 38000 Grenoble 🌟 层次丰富的甜点让人一试难忘，是探索城市时的甜蜜停留点。 <strong>3. Zeit Pâtisserie de Saison</strong> 📍 地址：3 Rue Blanc Fontaine, 38000 Grenoble 🌟 店内装修是我喜欢的风格，而且甜品说实话也非常好吃。</p> <p>这些餐厅和甜品店是我自己探索的高分餐厅和甜点店，如果你在格勒诺布尔，不妨去试几家，你一定会感到惊喜的！ 🍷✨</p> <figure> <picture> <source class="responsive-img-srcset" srcset="/assets/img/posts/1grenoble-top-restaurants/2-480.webp 480w,/assets/img/posts/1grenoble-top-restaurants/2-800.webp 800w,/assets/img/posts/1grenoble-top-restaurants/2-1400.webp 1400w," type="image/webp" sizes="95vw"/> <img src="/assets/img/posts/1grenoble-top-restaurants/2.jpg" class="img-fluid rounded z-depth-1" width="100%" height="auto" title="example image" loading="eager" onerror="this.onerror=null; $('.responsive-img-srcset').remove();"/> </picture> </figure> <figure> <picture> <source class="responsive-img-srcset" srcset="/assets/img/posts/1grenoble-top-restaurants/3-480.webp 480w,/assets/img/posts/1grenoble-top-restaurants/3-800.webp 800w,/assets/img/posts/1grenoble-top-restaurants/3-1400.webp 1400w," type="image/webp" sizes="95vw"/> <img src="/assets/img/posts/1grenoble-top-restaurants/3.jpg" class="img-fluid rounded z-depth-1" width="100%" height="auto" title="example image" loading="eager" onerror="this.onerror=null; $('.responsive-img-srcset').remove();"/> </picture> </figure>]]></content><author><name></name></author><category term="法国生活"/><category term="法国旅行"/><category term="滑雪"/><category term="格勒诺布尔"/><category term="美食"/><category term="餐厅推荐"/><summary type="html"><![CDATA[2024年底重返阿尔卑斯山脚下的美食之都格勒诺布尔，深入体验后精心整理了一份top餐厅和甜品店推荐清单。]]></summary></entry><entry><title type="html">paris</title><link href="https://tianhuanglab.github.io/blog/2024/paris/" rel="alternate" type="text/html" title="paris"/><published>2024-12-25T21:45:00+00:00</published><updated>2024-12-25T21:45:00+00:00</updated><id>https://tianhuanglab.github.io/blog/2024/paris</id><content type="html" xml:base="https://tianhuanglab.github.io/blog/2024/paris/"><![CDATA[<h1 id="巴黎一日游攻略">巴黎一日游攻略</h1> <h2 id="巴黎是一场流动的盛宴">巴黎是一场流动的盛宴</h2> <p>如果你只在巴黎停留一天，请收下这份巴黎一日游经典攻略。</p> <p><a href="https://africa.visa.com/content/dam/VCOM/regional/cemea/generic-cemea/travel-with-visa/destinations/paris/marquee-travel-paris-1920x720.jpg" data-lightbox="roadtrip"><img src="https://africa.visa.com/content/dam/VCOM/regional/cemea/generic-cemea/travel-with-visa/destinations/paris/marquee-travel-paris-1920x720.jpg"/></a></p> <p>以下是行程线路图:</p> <pre><code class="language-geojson">{
   "type": "FeatureCollection",
   "features": [
     {
@@ -227,16 +227,16 @@ Content 2
 <span class="cp">{%</span><span class="w"> </span><span class="nt">endtab</span><span class="w"> </span><span class="cp">%}</span>
 
 <span class="cp">{%</span><span class="w"> </span><span class="nt">endtabs</span><span class="w"> </span><span class="cp">%}</span>
-</code></pre></div></div> <p>With this you can generate visualizations like:</p> <ul id="log" class="tab" data-tab="ed045624-4df8-4cce-ab63-373259659621" data-name="log"> <li class="active" id="log-php"> <a href="#">php </a> </li> <li id="log-js"> <a href="#">js </a> </li> <li id="log-ruby"> <a href="#">ruby </a> </li> </ul> <ul class="tab-content" id="ed045624-4df8-4cce-ab63-373259659621" data-name="log"> <li class="active"> <div class="language-php highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">var_dump</span><span class="p">(</span><span class="s1">'hello'</span><span class="p">);</span>
+</code></pre></div></div> <p>With this you can generate visualizations like:</p> <ul id="log" class="tab" data-tab="d2ba32e5-235d-44b0-8ea4-f1ce5dc5f097" data-name="log"> <li class="active" id="log-php"> <a href="#">php </a> </li> <li id="log-js"> <a href="#">js </a> </li> <li id="log-ruby"> <a href="#">ruby </a> </li> </ul> <ul class="tab-content" id="d2ba32e5-235d-44b0-8ea4-f1ce5dc5f097" data-name="log"> <li class="active"> <div class="language-php highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">var_dump</span><span class="p">(</span><span class="s1">'hello'</span><span class="p">);</span>
 </code></pre></div></div> </li> <li> <div class="language-javascript highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nx">console</span><span class="p">.</span><span class="nf">log</span><span class="p">(</span><span class="dl">"</span><span class="s2">hello</span><span class="dl">"</span><span class="p">);</span>
 </code></pre></div></div> </li> <li> <div class="language-javascript highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nx">pputs</span> <span class="dl">'</span><span class="s1">hello</span><span class="dl">'</span>
-</code></pre></div></div> </li> </ul> <h2 id="another-example">Another example</h2> <ul id="data-struct" class="tab" data-tab="7a0c10c5-2053-49f3-874d-c8573fe2c1d1" data-name="data-struct"> <li class="active" id="data-struct-yaml"> <a href="#">yaml </a> </li> <li id="data-struct-json"> <a href="#">json </a> </li> </ul> <ul class="tab-content" id="7a0c10c5-2053-49f3-874d-c8573fe2c1d1" data-name="data-struct"> <li class="active"> <div class="language-yaml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="na">hello</span><span class="pi">:</span>
+</code></pre></div></div> </li> </ul> <h2 id="another-example">Another example</h2> <ul id="data-struct" class="tab" data-tab="095b8121-cf95-4c6f-a5bd-d2f118e53a9e" data-name="data-struct"> <li class="active" id="data-struct-yaml"> <a href="#">yaml </a> </li> <li id="data-struct-json"> <a href="#">json </a> </li> </ul> <ul class="tab-content" id="095b8121-cf95-4c6f-a5bd-d2f118e53a9e" data-name="data-struct"> <li class="active"> <div class="language-yaml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="na">hello</span><span class="pi">:</span>
   <span class="pi">-</span> <span class="s2">"</span><span class="s">whatsup"</span>
   <span class="pi">-</span> <span class="s2">"</span><span class="s">hi"</span>
 </code></pre></div></div> </li> <li> <div class="language-json highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="p">{</span><span class="w">
   </span><span class="nl">"hello"</span><span class="p">:</span><span class="w"> </span><span class="p">[</span><span class="s2">"whatsup"</span><span class="p">,</span><span class="w"> </span><span class="s2">"hi"</span><span class="p">]</span><span class="w">
 </span><span class="p">}</span><span class="w">
-</span></code></pre></div></div> </li> </ul> <h2 id="tabs-for-something-else">Tabs for something else</h2> <ul id="something-else" class="tab" data-tab="552e2884-a846-4865-b4e2-be08258d9d9a" data-name="something-else"> <li class="active" id="something-else-text"> <a href="#">text </a> </li> <li id="something-else-quote"> <a href="#">quote </a> </li> <li id="something-else-list"> <a href="#">list </a> </li> </ul> <ul class="tab-content" id="552e2884-a846-4865-b4e2-be08258d9d9a" data-name="something-else"> <li class="active"> <p>Regular text</p> </li> <li> <blockquote> <p>A quote</p> </blockquote> </li> <li> <p>Hipster list</p> <ul> <li>brunch</li> <li>fixie</li> <li>raybans</li> <li>messenger bag</li> </ul> </li> </ul>]]></content><author><name></name></author><category term="sample-posts"/><category term="formatting"/><category term="code"/><summary type="html"><![CDATA[this is what included tabs in a post could look like]]></summary></entry><entry><title type="html">a post with typograms</title><link href="https://tianhuanglab.github.io/blog/2024/typograms/" rel="alternate" type="text/html" title="a post with typograms"/><published>2024-04-29T23:36:10+00:00</published><updated>2024-04-29T23:36:10+00:00</updated><id>https://tianhuanglab.github.io/blog/2024/typograms</id><content type="html" xml:base="https://tianhuanglab.github.io/blog/2024/typograms/"><![CDATA[<p>This is an example post with some <a href="https://github.com/google/typograms/">typograms</a> code.</p> <div class="language-markdown highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="p">```</span><span class="nl">typograms
+</span></code></pre></div></div> </li> </ul> <h2 id="tabs-for-something-else">Tabs for something else</h2> <ul id="something-else" class="tab" data-tab="e270af4f-7252-42ef-bf4e-667e2a4d38dc" data-name="something-else"> <li class="active" id="something-else-text"> <a href="#">text </a> </li> <li id="something-else-quote"> <a href="#">quote </a> </li> <li id="something-else-list"> <a href="#">list </a> </li> </ul> <ul class="tab-content" id="e270af4f-7252-42ef-bf4e-667e2a4d38dc" data-name="something-else"> <li class="active"> <p>Regular text</p> </li> <li> <blockquote> <p>A quote</p> </blockquote> </li> <li> <p>Hipster list</p> <ul> <li>brunch</li> <li>fixie</li> <li>raybans</li> <li>messenger bag</li> </ul> </li> </ul>]]></content><author><name></name></author><category term="sample-posts"/><category term="formatting"/><category term="code"/><summary type="html"><![CDATA[this is what included tabs in a post could look like]]></summary></entry><entry><title type="html">a post with typograms</title><link href="https://tianhuanglab.github.io/blog/2024/typograms/" rel="alternate" type="text/html" title="a post with typograms"/><published>2024-04-29T23:36:10+00:00</published><updated>2024-04-29T23:36:10+00:00</updated><id>https://tianhuanglab.github.io/blog/2024/typograms</id><content type="html" xml:base="https://tianhuanglab.github.io/blog/2024/typograms/"><![CDATA[<p>This is an example post with some <a href="https://github.com/google/typograms/">typograms</a> code.</p> <div class="language-markdown highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="p">```</span><span class="nl">typograms
 </span><span class="sb">+----+
 |    |---&gt; My first diagram!
 +----+</span>
