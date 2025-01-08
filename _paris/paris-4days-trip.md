@@ -4,7 +4,7 @@ title: 巴黎四天三夜经典行程推荐
 description: 带你轻松探索浪漫之都的精华地标，感受艺术与历史的碰撞！
 img: assets/img/5paris-4days-trip/5paris-4days-trip-0.jpg
 importance: 3
-category: 
+category: 巴黎
 related_publications: false
 related_posts: true
 toc:
