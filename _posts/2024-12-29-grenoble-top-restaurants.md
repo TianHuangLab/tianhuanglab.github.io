@@ -5,6 +5,7 @@ date: 2024-12-29 20:00:00
 description: 2024年底重返阿尔卑斯山脚下的美食之都格勒诺布尔，深入体验后精心整理了一份top餐厅和甜品店推荐清单。
 tags: 法国生活 法国旅行 滑雪 格勒诺布尔 美食 餐厅推荐
 categories: 
+thumbnail: assets/img/posts/1grenoble-top-restaurants/0.jpg
 map: true
 ---
 {% include figure.liquid loading="eager" path="assets/img/posts/1grenoble-top-restaurants/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
