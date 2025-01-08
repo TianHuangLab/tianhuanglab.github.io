@@ -125,7 +125,7 @@ Navigo easy 卡不需要任何证件，卡也是不记名的，任何人都可�
 
 - **适用范围**：单程前往机场、郊区（如凡尔赛宫）的交通。因为机场都是在大巴黎zone 5的区域，距离较远。
 
-{% include figure.liquid loading="eager" path="assets/img/6paris-public-transportation/6paris-public-transportation-7.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+{% include figure.liquid loading="eager" path="assets/img/6paris-public-transportation/6paris-public-transportation-2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
 
 另外，大巴黎的公共交通还提供订阅模式，按月或按年付费，可以使用navigo pass，这里我就不展开介绍了。如果你有订阅需求，可以在[官网](https://www.ratp.fr/titres-et-tarifs)查看具体的票价信息。
 
