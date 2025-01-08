@@ -10,7 +10,6 @@ map: true
 ---
 {% include figure.liquid loading="eager" path="assets/img/posts/1grenoble-top-restaurants/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
 
-
 2024年底的滑雪假期，我们选了格勒诺布尔（Grenoble）附近的Lans-en-Vercors雪场。
 滑雪期间，带着家人，我们也顺道逛了逛市区，新探索了几家市区的馆子。
 
@@ -30,7 +29,7 @@ map: true
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [5.725, 45.188]
+        "coordinates": [5.7219755, 45.1889637]
       }
     },
     {
@@ -42,7 +41,7 @@ map: true
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [5.731, 45.191]
+        "coordinates": [5.729637622833252, 45.192848205566406]
       }
     },
     {
@@ -54,7 +53,7 @@ map: true
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [5.723, 45.187]
+        "coordinates": [5.730671405792236, 45.18704605102539]
       }
     },
     {
@@ -66,7 +65,7 @@ map: true
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [5.724, 45.190]
+        "coordinates": [5.725951671600342, 45.194984436035156]
       }
     },
     {
@@ -78,7 +77,7 @@ map: true
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [5.731, 45.186]
+        "coordinates": [5.7319523, 45.1910538]
       }
     },
     {
@@ -90,7 +89,7 @@ map: true
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [5.728, 45.190]
+        "coordinates": [5.722383975982666, 45.18553924560547]
       }
     },
     {
@@ -102,7 +101,7 @@ map: true
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [5.729, 45.188]
+        "coordinates": [5.7181159, 45.1886227]
       }
     },
     {
@@ -114,7 +113,7 @@ map: true
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [5.728, 45.194]
+        "coordinates": [5.723228931427002, 45.191036224365234]
       }
     },
     {
@@ -126,7 +125,7 @@ map: true
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [5.729, 45.192]
+        "coordinates": [5.724344253540039, 45.1894416809082]
       }
     },
     {
@@ -138,14 +137,14 @@ map: true
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [5.728, 45.189]
+        "coordinates": [5.7260604, 45.1893395]
       }
     }
   ]
 }
 ```
 	
-🍽️ 餐厅推荐
+### 🍽️ 餐厅推荐
 **1. Lion et Poisson老味道**
 📍 地址：11 Av. Alsace Lorraine, 38000 Grenoble
 🌟 很棒的一家中餐厅，值得推荐！
@@ -167,7 +166,8 @@ map: true
 **7. Tchoutchoura**
 📍 地址：16 Rue Gabriel Péri, 38000 Grenoble
 🌟 主打保加利亚风味美食，反正是别具一格的异域风情与味觉享受。
-🍰 甜品店推荐
+
+### 🍰 甜品店推荐
 **1. Pâtisserie Paris Délices**
 📍 地址：28 Boulevard Édouard Rey, 38000 Grenoble
 🌟 以精致法式糕点和巧克力闻名，适合喜欢甜食的你！
