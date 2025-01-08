@@ -1,8 +1,8 @@
 ---
 layout: page
-title: 最实用的巴黎公共交通指南｜一文看懂该怎么选！
-description: 步行能让你感受巴黎街头的浪漫，而四通八达的地铁则让各大景点触手可及
-img: assets/img/2paris-top-20-0.jpg
+title: 最实用的巴黎公共交通指南｜一文看懂怎么选！
+description: 步行能感受巴黎街头的浪漫，而四通八达的地铁则让各大景点触手可及
+img: assets/img/6paris-public-transportation/6paris-public-transportation-0.jpg
 importance: 4
 category: 
 related_publications: false
@@ -17,6 +17,7 @@ map: true
 不过，虽然巴黎地铁方便，但是因为它已经有100多年的历史，它已经成为一个庞大复杂的地下交通网络：线路多、站名长、票价规则多样，有时候换乘的指示还会让人犯迷糊。
 
 但别担心，我为你准备了一份简单易懂的攻略，不管是买票、认线路，还是应对换乘，都帮你搞定！让我们一起解锁巴黎地铁的使用秘籍吧 👇
+{% include figure.liquid loading="eager" path="assets/img/6paris-public-transportation/6paris-public-transportation-1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
 
 ---
 
@@ -28,6 +29,7 @@ map: true
 - **购票方式**：人工窗口、自助售票机、官网app（下载链接如下），甚至现在还能通过微信小程序购买（微信直接搜索“巴黎RATP”，不过该方法仍然需要去车站工作人员处兑换纸质票）。
 - **运营时间**：每天早上 5:30 到凌晨 1:15。
 - **查询路线**：除了可以用官方app查询，另外还可以用谷歌地图或者citymapper，非常方便！
+{% include figure.liquid loading="eager" path="assets/img/6paris-public-transportation/6paris-public-transportation-5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
 
 **Bonjour RATP**
 
@@ -41,6 +43,17 @@ RATP iOS 下载链接：[Île-de-France Mobilités（App Store）](https://apps.
 RATP Android 下载链接：[Île-de-France Mobilités（Google Play）](https://play.google.com/store/apps/details?id=com.applidium.vianavigo&hl=en)
 
 这两款app都是官方推出，可以查询交通线路和购买、管理你的票券。
+
+另外，在正式开始交通票介绍前，我想先介绍下巴黎的公共交通圈数（**Zones**）。
+
+它是用来划分大巴黎地区（Île-de-France）的交通区域的。这个系统影响地铁、RER、公交车、和有轨电车的票价及通行范围。以下是对巴黎交通圈数的详细介绍：
+
+**什么是交通圈数？**
+
+- 巴黎公共交通系统将整个地区分为**五个圈（Zones 1-5）**，从市中心向外扩展。
+- **Zone 1-2**：包括巴黎市区及其最靠近的周边地区，覆盖大多数游客会前往的景点，例如卢浮宫、埃菲尔铁塔、凯旋门等。
+- **Zone 3-5**：涵盖远郊地区，比如凡尔赛宫（Zone 4）、戴高乐机场（Zone 5）和迪士尼乐园（Zone 5）。
+{% include figure.liquid loading="eager" path="assets/img/6paris-public-transportation/6paris-public-transportation-7.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
 
 ---
 
@@ -67,6 +80,8 @@ Navigo easy 卡不需要任何证件，卡也是不记名的，任何人都可�
 - 票价和纸质票完全一致
 - 卡里可以同时有普通交通票、机场大巴票、天票等不同类型的票，但不可以同时存半价交通票和普通交通票
 - 90分钟以内，小巴黎的地铁、RER、Tram、公交换乘全部免费。
+{% include figure.liquid loading="eager" path="assets/img/6paris-public-transportation/6paris-public-transportation-6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+
 
 ### 2.纸质票
 
@@ -111,6 +126,8 @@ Navigo easy 卡不需要任何证件，卡也是不记名的，任何人都可�
 
 - **适用范围**：单程前往机场、郊区（如凡尔赛宫）的交通。因为机场都是在大巴黎zone 5的区域，距离较远。
 
+{% include figure.liquid loading="eager" path="assets/img/6paris-public-transportation/6paris-public-transportation-7.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+
 另外，大巴黎的公共交通还提供订阅模式，按月或按年付费，可以使用navigo pass，这里我就不展开介绍了。如果你有订阅需求，可以在[官网](https://www.ratp.fr/titres-et-tarifs)查看具体的票价信息。
 
 ---
@@ -138,3 +155,69 @@ Navigo easy 卡不需要任何证件，卡也是不记名的，任何人都可�
 ---
 
 掌握这些基础知识，巴黎交通就没那么复杂啦。步行感受巴黎的浪漫，地铁则是你的高效出行好帮手！快收藏这份攻略，为你的巴黎之行做好准备吧 🚀
+
+## 巴黎公共交通地铁路线图
+
+地铁 Metro
+
+{% include figure.liquid loading="eager" path="assets/img/6paris-public-transportation/6paris-public-transportation-3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+[点击下载路线图pdf版本](https://www.ratp.fr/sites/default/files/plans-lignes/Plans-essentiels/Plan-Metro.1722015166.pdf)
+
+郊区快线 RER
+{% include figure.liquid loading="eager" path="assets/img/6paris-public-transportation/6paris-public-transportation-4.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+[点击下载路线图pdf版本](https://www.ratp.fr/sites/default/files/plans-lignes/Plans-essentiels/Plan-RER-et-transiliens.1718895311.pdf)
+
+## 其他2款必备的巴黎交通APP
+
+这三款APP，是巴黎交通的“神兵利器”，保证让你顺利到达机场或者顺利出发。
+
+如果你是第一次来巴黎，那么以下三款应用应该都是必备的：
+
+**谷歌地图（Google Maps）**
+
+绝对是旅行的必备神器。在巴黎，你可以用它来查询从戴高乐机场到市区的最佳路线，支持各种交通方式：地铁、公交、出租车，甚至步行。
+
+{% include figure.liquid loading="eager" path="assets/img/1cdg-16.png" title="example image" class="img-fluid rounded z-depth-1" %}
+
+---
+
+**Citymapper**
+
+这款APP的使用方式与Google Maps非常相似，界面设计友好，可以轻松查询巴黎的交通信息。只需输入目的地，系统会自动推荐最佳路线并提供交通换乘建议。
+
+此外，APP每天都会实时更新巴黎地铁、RER等交通线路的运行状态，非常适合首次前往巴黎的游客。在出发前，你还可以通过官方网站提前查询从戴高乐机场到酒店的最佳交通方式，避免旅途中任何不必要的困扰。
+
+{% include figure.liquid loading="eager" path="assets/img/1cdg-18.png" title="example image" class="img-fluid rounded z-depth-1" %}
+
+
+## 补充：巴黎大众交通《防扒手指南》
+
+巴黎公共交通热门的线路上，时不时就会遇到几个想要“帮你拿包”的家伙。那么，怎么才能在享受巴黎的同时，又能避免成为扒手的“目标”呢？下面是我整理的一些实用信息：
+
+**地铁线路有“扒手高发区”**
+
+巴黎的地铁，尤其是1号线、4号线、6号线、7号线、8号线和9号线，是扒手最活跃的地方（根据我的亲身体验，真心提醒大家）。这些地铁线路里，常常可以看到一群看起来很随意、聊天的女生，她们看似无意，实际上已经在观察你了！别被她们表面上的无害迷惑，她们的目标就是那些看起来像无辜游客的你。
+
+**他们的“作案手法”其实很有套路**
+
+当你准备下车，走向站台时，如果看到某些人上楼后又突然折返回去，那很可能你已经被“盯上了”。这些扒手们有时候会等到地铁到站的一瞬间，快速进入车厢，在你没反应过来之前悄悄动手。注意观察身边的人，一旦感到有点不对劲，立即提高警惕！
+
+**避免站在门口，保持包包贴身**
+
+尽量选择坐在车厢里，而不是站在门口。如果你看到一群拿着地图、显得有些不知所措的人向你走来，千万要小心。扒手们通常会通过假装问路，制造混乱来分散你的注意力，而在你分神的一瞬间，包包可能就被“轻松拿走”了。所以，不管是钱包、手机还是其他贵重物品，都要贴身放好。
+
+**小心“伪装游客”**
+
+有时，几个人一组的扒手会装作旅游团的一部分，突然靠近你，问你：“机场怎么去？机场在哪个方向？”你可能还在回答他们的问题，结果其中一位已经悄悄伸手进了你的包包！这些看似无害的问路行为，往往是他们故意制造的一种“混乱情境”，让你掉以轻心。
+
+**切勿提着奢侈品包装袋到处溜达**
+
+如果刚从比如老佛爷百货等商场购物离开，手里有奢侈品的购物袋，切记不要一直大摇大摆地拿在手里过长时间。这样只会让附近游荡寻找目标的扒手将你列为作案目标。
+
+**最后，记住：安全第一！**
+
+在巴黎的大众交通工具上，保持警觉总是明智的选择。记得坐车时，手一直保持在包包上，避免在高发扒手区域暴露贵重物品。这样一来，不仅能让你无忧享受巴黎的美丽，还能保证自己的行李安全，顺利地完成这次旅行。
+
+祝你旅途愉快！
+
+
