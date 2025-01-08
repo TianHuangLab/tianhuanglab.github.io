@@ -36,7 +36,6 @@ map: true
 RATP iOS 下载链接：[Bonjour RATP（App Store）](https://apps.apple.com/fr/app/bonjour-ratp/id507107090)
 
 RATP Android 下载链接：[Bonjour RATP（Google Play）](https://play.google.com/store/search?q=RATP&c=apps&hl=en)
-**Île-de-France Mobilités**
 
 RATP iOS 下载链接：[Île-de-France Mobilités（App Store）](https://apps.apple.com/fr/app/%C3%AEle-de-france-mobilit%C3%A9s/id484527651)
 
