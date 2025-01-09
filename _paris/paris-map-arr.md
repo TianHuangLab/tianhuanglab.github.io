@@ -43,7 +43,7 @@ map: true
 
 **通勤：🌟🌟🌟🌟🌟**
 
-- *适合人群：**预算充足、追求安全和靠近景点的小伙伴。
+**适合人群：** 预算充足、追求安全和靠近景点的小伙伴。
 
 卢浮宫、凯旋门、香榭丽舍大街……这些耳熟能详的景点都集中在这几个区，出行超级方便，治安也让人放心。不过，这里酒店普遍偏贵，房间也不大，适合预算充足、想体验奢华巴黎的游客。
 
@@ -57,7 +57,7 @@ map: true
 
 **通勤：🌟🌟🌟🌟**
 
-- *适合人群：**预算足够，同时喜欢文化氛围、注重体验的游客。
+**适合人群：** 预算足够，同时喜欢文化氛围、注重体验的游客。
 
 想体验“塞纳河左岸的咖啡”浪漫情怀？5、6区就是你的不二之选！这里遍布书店和咖啡馆，满是文艺气息，而且安全性高，酒店价格适中。推荐给喜欢文化探索的小伙伴！
 
@@ -71,7 +71,7 @@ map: true
 
 **通勤：🌟🌟🌟🌟**
 
-- *适合人群：**预算有限，追求城市生活的年轻人。
+**适合人群：** 预算有限，追求城市生活的年轻人。
 
 这两个区是巴黎夜生活的中心，酒吧、俱乐部超多。不过，小偷也不少，醉酒的路人可能会影响体验，建议单独旅行的女生尽量避免深夜独自出行。
 
@@ -85,7 +85,7 @@ map: true
 
 **通勤：🌟🌟🌟🌟🌟**
 
-- *适合人群：**喜欢购物和打卡经典景点的游客。
+**适合人群：** 喜欢购物和打卡经典景点的游客。
 
 埃菲尔铁塔在7区，老佛爷百货、春天百货都在9区，这两个区的观光和购物体验丰富到爆。不过游客多的地方，扒手也不会少，出门一定要看好包包。
 
@@ -99,7 +99,7 @@ map: true
 
 **通勤：🌟🌟🌟**
 
-- *适合人群：**注重安全、计划长期停留的游客。
+**适合人群：** 注重安全、计划长期停留的游客。
 
 这几个区是巴黎治安最好的区域之一，居民以本地人为主，生活氛围安静。这里的酒店价格相对较低（高档酒店除外），空间更大，适合家庭居住。不过，距离市中心景点稍远，不太适合短期停留。
 
@@ -113,7 +113,7 @@ map: true
 
 **通勤：🌟🌟🌟**
 
-- *适合人群：**预算有限，同时追求交通方便的旅行者。
+- **适合人群：** 预算有限，同时追求交通方便的旅行者。
 
 11区和12区交通方便，但人流量大，小偷时有出现。13区是著名的华人区，有许多中餐馆和亚洲超市，预算不高的游客可以考虑住在这里，但需要避开治安较差的南部靠近94省的部分区域。
 
@@ -151,6 +151,79 @@ map: true
 如果你基本确定了你的出行时间和出行线路，那么不妨看看以下我推荐的酒店清单，分高中低三种预算类型。我相信你总能找到最适合你需求的那一家酒店。
 
 ### **高档型酒店**
+<div class="row">
+  <div class="col-md-4">
+    <a href="https://www.trip.com/t/UXPjnRPz8O2">
+      {% include figure.liquid loading="eager" path="https://ak-d.tripcdn.com/images/02240120008pa5umg0A2B_R_600_400_R5.webp" title="Nolinski Paris - Evok Collection" class="img-fluid rounded z-depth-1" %}
+      <p>Nolinski Paris - Evok Collection</p>
+      <p>【1区】离杜乐丽花园500米，5星低调经典奢华</p>
+    </a>
+  </div>
+  <div class="col-md-4">
+    <a href="https://www.trip.com/t/ot0rKaTz8O2">
+      {% include figure.liquid loading="eager" path="https://ak-d.tripcdn.com/images/220d1800000147aay5C3C_R_600_400_R5.webp" title="Grand Hôtel Du Palais Royal" class="img-fluid rounded z-depth-1" %}
+      <p>Grand Hôtel Du Palais Royal</p>
+      <p>【1区】地理位置优越，距离卢浮宫仅200米</p>
+    </a>
+  </div>
+  <div class="col-md-4">
+    <a href="https://www.trip.com/t/KQMxX4Mz8O2">
+      {% include figure.liquid loading="eager" path="https://ak-d.tripcdn.com/images/0225i12000a3uv2xyEE66_W_1280_853_R5.webp?proc=watermark/image_trip1,l_ne,x_16,y_16,w_67,h_16;digimark/t_image,logo_tripbinary;ignoredefaultwm,1A8F" title="Le Burgundy Paris" class="img-fluid rounded z-depth-1" %}
+      <p>Le Burgundy Paris</p>
+      <p>【1区】奢华典范，配泳池、Spa及米其林餐厅</p>
+    </a>
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-md-4">
+    <a href="https://www.trip.com/t/sJg8TRaz8O2">
+      {% include figure.liquid loading="eager" path="https://ak-d.tripcdn.com/images/220r13000000tegnfC345_W_1280_853_R5.webp?proc=watermark/image_trip1,l_ne,x_16,y_16,w_67,h_16;digimark/t_image,logo_tripbinary;ignoredefaultwm,1A8F" title="Hôtel D'Aubusson" class="img-fluid rounded z-depth-1" %}
+      <p>Hôtel D'Aubusson</p>
+      <p>【6区】酒店内有jazz bar和高档餐厅</p>
+    </a>
+  </div>
+  <div class="col-md-4">
+    <a href="https://www.trip.com/t/YbC9fTCD9O2">
+      {% include figure.liquid loading="eager" path="https://ak-d.tripcdn.com/images/220c0g00000082na38462_R_600_400_R5.webp" title="Hôtel Plaza Athénée" class="img-fluid rounded z-depth-1" %}
+      <p>【8区】Hôtel Plaza Athénée</p>
+      <p>风格瑰丽堂皇，地理位置优越</p>
+    </a>
+  </div>
+  <div class="col-md-4">
+    <a href="https://www.trip.com/t/HBzfwFUD9O2">
+      {% include figure.liquid loading="eager" path="https://ak-d.tripcdn.com/images/1mc5d12000dpe7bqtEEDB_Z_320_220_R5_D.webp" title="Norman hôtel - Paris Champs Élysées" class="img-fluid rounded z-depth-1" %}
+      <p>【8区】Norman hôtel - Paris Champs Élysées</p>
+      <p>简约大气现代设计，部分房型配阳台</p>
+    </a>
+  </div>
+
+<div class="row">
+  <div class="col-md-4">
+    <a href="https://www.trip.com/t/9A90XvKD9O2">
+      {% include figure.liquid loading="eager" path="https://ak-d.tripcdn.com/images/0582o12000cv8h7deF2D3_W_1280_853_R5.webp?proc=watermark/image_trip1,l_ne,x_16,y_16,w_67,h_16;digimark/t_image,logo_tripbinary;ignoredefaultwm,1A8F" title="Maison Souquet" class="img-fluid rounded z-depth-1" %}
+      <p>【9区】Maison Souquet</p>
+      <p>古典宫廷风设计，配泳池、Spa等</p>
+    </a>
+  </div>
+</div>
+  <div class="col-md-4">
+    <a href="https://www.trip.com/t/2vDBjffD9O2">
+      {% include figure.liquid loading="eager" path="https://ak-d.tripcdn.com/images/0225712000amp2yjy8E30_W_1280_853_R5.webp?proc=watermark/image_trip1,l_ne,x_16,y_16,w_67,h_16;digimark/t_image,logo_tripbinary;ignoredefaultwm,1A8F" title="Brach Paris" class="img-fluid rounded z-depth-1" %}
+      <p>【16区】Brach Paris - Evok Collection</p>
+      <p>设计独特奢华，离夏乐宫、铁塔很近</p>
+    </a>
+  </div>
+  <div class="col-md-4">
+    <a href="https://www.trip.com/t/ALDR2PnD9O2">
+      {% include figure.liquid loading="eager" path="https://ak-d.tripcdn.com/images/0582512000d8n1avc458F_W_1280_853_R5.webp?proc=watermark/image_trip1,l_ne,x_16,y_16,w_67,h_16;digimark/t_image,logo_tripbinary;ignoredefaultwm,1A8F" title="Hotel Square" class="img-fluid rounded z-depth-1" %}
+      <p>【16区】Hotel Square</p>
+      <p>现代主义设计，塞纳河边一步之遥</p>
+    </a>
+  </div>
+</div>
+
+### **舒适型酒店**
 <div class="row">
   <div class="col-md-4">
     <a href="https://www.trip.com/t/UXPjnRPz8O2">
@@ -223,10 +296,78 @@ map: true
   </div>
 </div>
 
-### **舒适型酒店**
-
 ### **经济型酒店**
+<div class="row">
+  <div class="col-md-4">
+    <a href="https://www.trip.com/t/UXPjnRPz8O2">
+      {% include figure.liquid loading="eager" path="assets/img/5paris-4days-trip/day1.jpg" title="Nolinski Paris - Evok Collection" class="img-fluid rounded z-depth-1" %}
+      <p>Nolinski Paris - Evok Collection</p>
+      <p>图片名称1</p>
+    </a>
+  </div>
+  <div class="col-md-4">
+    <a href="https://www.trip.com/t/ot0rKaTz8O2">
+      {% include figure.liquid loading="eager" path="https://ak-d.tripcdn.com/images/220d1800000147aay5C3C_R_600_400_R5.webp" title="Grand Hôtel Du Palais Royal" class="img-fluid rounded z-depth-1" %}
+      <p>Grand Hôtel Du Palais Royal</p>
+      <p>地理位置优秀；距离卢浮宫仅200米</p>
+    </a>
+  </div>
+  <div class="col-md-4">
+    <a href="https://www.trip.com/t/KQMxX4Mz8O2">
+      {% include figure.liquid loading="eager" path="assets/img/5paris-4days-trip/day1.jpg" title="Le Burgundy Paris" class="img-fluid rounded z-depth-1" %}
+      <p>Le Burgundy Paris</p>
+      <p>图片名称1</p>
+    </a>
+  </div>
+</div>
 
+<div class="row">
+  <div class="col-md-4">
+    <a href="https://www.trip.com/t/sJg8TRaz8O2">
+      {% include figure.liquid loading="eager" path="https://ak-d.tripcdn.com/images/220r13000000tegnfC345_W_1280_853_R5.webp?proc=watermark/image_trip1,l_ne,x_16,y_16,w_67,h_16;digimark/t_image,logo_tripbinary;ignoredefaultwm,1A8F" title="Hôtel D'Aubusson" class="img-fluid rounded z-depth-1" %}
+      <p>Hôtel D'Aubusson</p>
+      <p>酒店内有jazz bar；提供机场接送服务</p>
+    </a>
+  </div>
+  <div class="col-md-4">
+    <a href="链接地址5">
+      {% include figure.liquid loading="eager" path="assets/img/5paris-4days-trip/day1.jpg" title="图片名称5" class="img-fluid rounded z-depth-1" %}
+      <p>Hôtel D'Aubusson</p>
+      <p>图片名称1</p>
+    </a>
+  </div>
+  <div class="col-md-4">
+    <a href="链接地址6">
+      {% include figure.liquid loading="eager" path="assets/img/5paris-4days-trip/day1.jpg" title="图片名称6" class="img-fluid rounded z-depth-1" %}
+      <p>Hôtel D'Aubusson</p>
+      <p>图片名称1</p>
+    </a>
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-md-4">
+    <a href="链接地址7">
+      {% include figure.liquid loading="eager" path="assets/img/5paris-4days-trip/day1.jpg" title="图片名称7" class="img-fluid rounded z-depth-1" %}
+      <p>Hôtel D'Aubusson</p>
+      <p>图片名称1</p>
+    </a>
+  </div>
+  <div class="col-md-4">
+    <a href="链接地址8">
+      {% include figure.liquid loading="eager" path="assets/img/5paris-4days-trip/day1.jpg" title="图片名称8" class="img-fluid rounded z-depth-1" %}
+      <p>Hôtel D'Aubusson</p>
+      <p>图片名称1</p>
+    </a>
+  </div>
+  <div class="col-md-4">
+    <a href="链接地址9">
+      {% include figure.liquid loading="eager" path="assets/img/5paris-4days-trip/day1.jpg" title="图片名称9" class="img-fluid rounded z-depth-1" %}
+      <p>Hôtel D'Aubusson</p>
+      <p>图片名称1</p>
+    </a>
+  </div>
+</div>
 
 希望这份指南能帮你找到合适的住宿区域，住得安全、玩得开心！
 
