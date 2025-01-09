@@ -2,7 +2,7 @@
 layout: page
 title: 巴黎住宿安全指南｜区域推荐与避坑攻略
 description: 
-img: assets/img/5paris-4days-trip/5paris-4days-trip-0.jpg
+img: assets/img/7paris-map-arr/7paris-map-arr-4.jpg
 importance: 5
 category: 巴黎
 related_publications: false
@@ -12,6 +12,8 @@ toc:
 tags: 法国 巴黎 住宿 酒店
 map: true
 ---
+{% include figure.liquid loading="eager" path="assets/img/7paris-map-arr/7paris-map-arr-6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+
 去巴黎旅行，风景当然是重头戏，但选择一个舒适又安全的住宿地点，绝对能让你的旅行体验更加完美！巴黎的20个区*呈螺旋状从市中心向外延伸，每个区的治安、性价比和交通便利程度各有千秋。
 
 别担心，我为你整理了一份轻松易懂的住宿区域指南，帮你挑选最适合自己的区域，同时避开那些让人头疼的“踩雷区”！
@@ -20,6 +22,7 @@ map: true
 
 > *这20个区我们简称“小巴黎”，邮编是以75开头的，分别为75001-75020。相对的，巴黎周边的地区，邮编以77、78、91、92、93、94等开头的，我们一般称为“大巴黎”，距离小巴黎市区相对较远。
 > 
+{% include figure.liquid loading="eager" path="assets/img/7paris-map-arr/7paris-map-arr-2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
 
 ---
 
@@ -28,6 +31,7 @@ map: true
 
 我将从安全性、性价比和交通便利性三个维度，为你细细盘点巴黎20个区的住宿推荐和避坑建议。
 
+{% include figure.liquid loading="eager" path="assets/img/7paris-map-arr/7paris-map-arr-1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
 
 ---
 
@@ -122,6 +126,14 @@ map: true
 这些区治安堪忧，尤其是10区靠近火车站，周边环境混乱；18区的蒙马特高地白天还算安全，但晚上非常危险。17、19和20区有大量移民和无业人员，治安状况相对比较糟糕，建议尽量避开。
 
 ---
+<div class="row justify-content-sm-center">
+  <div class="col-sm mt-3 mt-md-0">
+    {% include figure.liquid loading="eager" path="assets/img/7paris-map-arr/7paris-map-arr-5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+  </div>
+  <div class="col-sm mt-3 mt-md-0">
+    {% include figure.liquid loading="eager" path="assets/img/7paris-map-arr/7paris-map-arr-3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+  </div>
+</div>
 
 ## **住宿推荐区域总结**
 
@@ -143,16 +155,22 @@ map: true
   <div class="col-md-4">
     <a href="https://www.trip.com/t/UXPjnRPz8O2">
       {% include figure.liquid loading="eager" path="assets/img/5paris-4days-trip/day1.jpg" title="Nolinski Paris - Evok Collection" class="img-fluid rounded z-depth-1" %}
+      <p>Nolinski Paris - Evok Collection</p>
+      <p>图片名称1</p>
     </a>
   </div>
   <div class="col-md-4">
     <a href="https://www.trip.com/t/ot0rKaTz8O2">
       {% include figure.liquid loading="eager" path="https://ak-d.tripcdn.com/images/220d1800000147aay5C3C_R_600_400_R5.webp" title="Grand Hôtel Du Palais Royal" class="img-fluid rounded z-depth-1" %}
+      <p>Grand Hôtel Du Palais Royal</p>
+      <p>地理位置优秀；距离卢浮宫仅200米</p>
     </a>
   </div>
   <div class="col-md-4">
     <a href="https://www.trip.com/t/KQMxX4Mz8O2">
       {% include figure.liquid loading="eager" path="assets/img/5paris-4days-trip/day1.jpg" title="Le Burgundy Paris" class="img-fluid rounded z-depth-1" %}
+      <p>Le Burgundy Paris</p>
+      <p>图片名称1</p>
     </a>
   </div>
 </div>
@@ -160,17 +178,23 @@ map: true
 <div class="row">
   <div class="col-md-4">
     <a href="https://www.trip.com/t/sJg8TRaz8O2">
-      {% include figure.liquid loading="eager" path="https://ak-d.tripcdn.com/images/220r13000000tegnfC345_W_1280_853_R5.webp?proc=watermark/image_trip1,l_ne,x_16,y_16,w_67,h_16;digimark/t_image,logo_tripbinary;ignoredefaultwm,1A8F" title="Hôtel D'Aubusson 酒店内有jazz bar；提供机场接送服务" class="img-fluid rounded z-depth-1" %}
+      {% include figure.liquid loading="eager" path="https://ak-d.tripcdn.com/images/220r13000000tegnfC345_W_1280_853_R5.webp?proc=watermark/image_trip1,l_ne,x_16,y_16,w_67,h_16;digimark/t_image,logo_tripbinary;ignoredefaultwm,1A8F" title="Hôtel D'Aubusson" class="img-fluid rounded z-depth-1" %}
+      <p>Hôtel D'Aubusson</p>
+      <p>酒店内有jazz bar；提供机场接送服务</p>
     </a>
   </div>
   <div class="col-md-4">
     <a href="链接地址5">
       {% include figure.liquid loading="eager" path="assets/img/5paris-4days-trip/day1.jpg" title="图片名称5" class="img-fluid rounded z-depth-1" %}
+      <p>Hôtel D'Aubusson</p>
+      <p>图片名称1</p>
     </a>
   </div>
   <div class="col-md-4">
     <a href="链接地址6">
       {% include figure.liquid loading="eager" path="assets/img/5paris-4days-trip/day1.jpg" title="图片名称6" class="img-fluid rounded z-depth-1" %}
+      <p>Hôtel D'Aubusson</p>
+      <p>图片名称1</p>
     </a>
   </div>
 </div>
@@ -179,16 +203,22 @@ map: true
   <div class="col-md-4">
     <a href="链接地址7">
       {% include figure.liquid loading="eager" path="assets/img/5paris-4days-trip/day1.jpg" title="图片名称7" class="img-fluid rounded z-depth-1" %}
+      <p>Hôtel D'Aubusson</p>
+      <p>图片名称1</p>
     </a>
   </div>
   <div class="col-md-4">
     <a href="链接地址8">
       {% include figure.liquid loading="eager" path="assets/img/5paris-4days-trip/day1.jpg" title="图片名称8" class="img-fluid rounded z-depth-1" %}
+      <p>Hôtel D'Aubusson</p>
+      <p>图片名称1</p>
     </a>
   </div>
   <div class="col-md-4">
     <a href="链接地址9">
       {% include figure.liquid loading="eager" path="assets/img/5paris-4days-trip/day1.jpg" title="图片名称9" class="img-fluid rounded z-depth-1" %}
+      <p>Hôtel D'Aubusson</p>
+      <p>图片名称1</p>
     </a>
   </div>
 </div>
