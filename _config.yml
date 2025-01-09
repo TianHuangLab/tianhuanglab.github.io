@@ -160,6 +160,9 @@ collections:
   france-travel:
     output: true
     permalink: /france-travel/:path/
+  south-of-france:
+    output: true
+    permalink: /south-of-france/:path/
 
 announcements:
   enabled: true
