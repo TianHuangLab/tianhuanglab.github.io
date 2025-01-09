@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 巴黎住宿安全指南｜区域推荐与避坑攻略
-description: 
+description: 全面解析巴黎20个区的住宿优劣，另附推荐酒店清单，带你轻松玩转巴黎！
 img: assets/img/7paris-map-arr/7paris-map-arr-4.jpg
 importance: 5
 category: 巴黎
