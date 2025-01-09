@@ -1,9 +1,9 @@
 ---
 layout: page
 title: 南法
-permalink: /french-riviera/
+permalink: /south-of-france/
 description: 探秘普罗旺斯、蔚蓝海岸
-nav: false
+nav: true
 nav_order: 2
 display_categories: [普罗旺斯, 蔚蓝海岸]
 horizontal: false
@@ -17,7 +17,7 @@ horizontal: false
   <a id="{{ category }}" href=".#{{ category }}">
     <h2 class="category">{{ category }}</h2>
   </a>
-  {% assign categorized_projects = site.projects | where: "category", category %}
+  {% assign categorized_projects = site.south-of-france | where: "category", category %}
   {% assign sorted_projects = categorized_projects | sort: "importance" %}
   <!-- Generate cards for each project -->
   {% if page.horizontal %}
@@ -41,7 +41,7 @@ horizontal: false
 
 <!-- Display projects without categories -->
 
-{% assign sorted_projects = site.projects | sort: "importance" %}
+{% assign sorted_projects = site.south-of-france | sort: "importance" %}
 
   <!-- Generate cards for each project -->
 
