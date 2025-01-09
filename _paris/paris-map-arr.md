@@ -16,7 +16,7 @@ map: true
 
 别担心，我为你整理了一份轻松易懂的住宿区域指南，帮你挑选最适合自己的区域，同时避开那些让人头疼的“踩雷区”！
 
-最后，我会整理一份酒店推荐清单，涵盖高档型、舒适型和经济型，满足你不同预算和需求的选择。
+最后，我整理了一份酒店推荐清单，涵盖高档型、舒适型和经济型，满足你不同预算和需求的选择。
 
 > *这20个区我们简称“小巴黎”，邮编是以75开头的，分别为75001-75020。相对的，巴黎周边的地区，邮编以77、78、91、92、93、94等开头的，我们一般称为“大巴黎”，距离小巴黎市区相对较远。
 > 
@@ -24,20 +24,10 @@ map: true
 ---
 
 
-
 ## **巴黎住宿区域速览**
 
-**推荐区域：1、2、4-9、14-16区**
+我将从安全性、性价比和交通便利性三个维度，为你细细盘点巴黎20个区的住宿推荐和避坑建议。
 
-✅ **这些区域总体治安较好**，适合游客和家庭出行。
-
-**避雷区域：10、17-20区**
-
-❌ **这些区治安堪忧**，单独出行尤其是女生建议远离。
-
-接下来，我们从安全性、性价比和交通便利性三个维度，为你细细盘点巴黎20个区的住宿推荐和避坑建议。
-
-1
 
 ---
 
@@ -133,7 +123,7 @@ map: true
 
 ---
 
-### **住宿推荐区域总结**
+## **住宿推荐区域总结**
 
 **推荐区域：1、2、4-9、14-16区**
 
@@ -145,37 +135,68 @@ map: true
 
 巴黎虽然浪漫，但在选择住宿时一定要考虑安全性和便利性。**推荐优先选择1、2、4-9、14-16区，避开10、17-20区。**如果预算有限，可以选择11-13区，但一定要注意避开治安不好的路段。
 
-### **巴黎高档型酒店推荐**
+## **巴黎酒店推荐**
+如果你基本确定了你的出行时间和出行线路，那么不妨看看以下我推荐的酒店清单，分高中低三种预算类型。我相信你总能找到最适合你需求的那一家酒店。
 
-<div class="row text-center">
-  <!-- 图片 1 -->
+### **高档型酒店**
+<div class="row">
   <div class="col-md-4">
-    <a href="https://example.com/image1-link">
-      {% include figure.liquid loading="eager" path="assets/img/5paris-4days-trip/day1.jpg" title="Image 1" class="img-fluid rounded z-depth-1" %}
+    <a href="https://www.trip.com/t/UXPjnRPz8O2">
+      {% include figure.liquid loading="eager" path="assets/img/5paris-4days-trip/day1.jpg" title="Nolinski Paris - Evok Collection" class="img-fluid rounded z-depth-1" %}
     </a>
-    <p>图片 1 名字</p>
   </div>
-
-  <!-- 图片 2 -->
   <div class="col-md-4">
-    <a href="https://example.com/image2-link">
-      {% include figure.liquid loading="eager" path="assets/img/5paris-4days-trip/day2.jpg" title="Image 2" class="img-fluid rounded z-depth-1" %}
+    <a href="https://www.trip.com/t/ot0rKaTz8O2">
+      {% include figure.liquid loading="eager" path="https://ak-d.tripcdn.com/images/220d1800000147aay5C3C_R_600_400_R5.webp" title="Grand Hôtel Du Palais Royal" class="img-fluid rounded z-depth-1" %}
     </a>
-    <p>图片 2 名字</p>
   </div>
-
-  <!-- 图片 3 -->
   <div class="col-md-4">
-    <a href="https://example.com/image3-link">
-      {% include figure.liquid loading="eager" path="assets/img/5paris-4days-trip/day3.jpg" title="Image 3" class="img-fluid rounded z-depth-1" %}
+    <a href="https://www.trip.com/t/KQMxX4Mz8O2">
+      {% include figure.liquid loading="eager" path="assets/img/5paris-4days-trip/day1.jpg" title="Le Burgundy Paris" class="img-fluid rounded z-depth-1" %}
     </a>
-    <p>图片 3 名字</p>
   </div>
 </div>
 
+<div class="row">
+  <div class="col-md-4">
+    <a href="https://www.trip.com/t/sJg8TRaz8O2">
+      {% include figure.liquid loading="eager" path="https://ak-d.tripcdn.com/images/220r13000000tegnfC345_W_1280_853_R5.webp?proc=watermark/image_trip1,l_ne,x_16,y_16,w_67,h_16;digimark/t_image,logo_tripbinary;ignoredefaultwm,1A8F" title="Hôtel D'Aubusson 酒店内有jazz bar；提供机场接送服务" class="img-fluid rounded z-depth-1" %}
+    </a>
+  </div>
+  <div class="col-md-4">
+    <a href="链接地址5">
+      {% include figure.liquid loading="eager" path="assets/img/5paris-4days-trip/day1.jpg" title="图片名称5" class="img-fluid rounded z-depth-1" %}
+    </a>
+  </div>
+  <div class="col-md-4">
+    <a href="链接地址6">
+      {% include figure.liquid loading="eager" path="assets/img/5paris-4days-trip/day1.jpg" title="图片名称6" class="img-fluid rounded z-depth-1" %}
+    </a>
+  </div>
+</div>
 
-### **巴黎舒适型酒店推荐**
+<div class="row">
+  <div class="col-md-4">
+    <a href="链接地址7">
+      {% include figure.liquid loading="eager" path="assets/img/5paris-4days-trip/day1.jpg" title="图片名称7" class="img-fluid rounded z-depth-1" %}
+    </a>
+  </div>
+  <div class="col-md-4">
+    <a href="链接地址8">
+      {% include figure.liquid loading="eager" path="assets/img/5paris-4days-trip/day1.jpg" title="图片名称8" class="img-fluid rounded z-depth-1" %}
+    </a>
+  </div>
+  <div class="col-md-4">
+    <a href="链接地址9">
+      {% include figure.liquid loading="eager" path="assets/img/5paris-4days-trip/day1.jpg" title="图片名称9" class="img-fluid rounded z-depth-1" %}
+    </a>
+  </div>
+</div>
 
-### **巴黎经济型酒店推荐**
+### **舒适型酒店**
+
+### **经济型酒店**
+
 
 希望这份指南能帮你找到合适的住宿区域，住得安全、玩得开心！
+
