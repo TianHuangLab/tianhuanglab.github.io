@@ -72,8 +72,9 @@ map: true
 机票和酒店是非常个性化的选择，你可以根据你的需要和预算，去选择适合的航班和住宿。这里我分享几个常见的旅行预订网站供你参考。
 
 **机票：**
-
-<iframe border="0" src="https://tw.trip.com/partners/ad/S854359?Allianceid=5840493&SID=157301299&trip_sub1=" style="width:320px;height:480px" frameborder="0" scrolling="no" style="border:none" id="S854359"></iframe>
+<div style="width:100%; max-width:600px; margin:0 auto; text-align:center;">
+  <iframe border="0" src="https://tw.trip.com/partners/ad/S854359?Allianceid=5840493&SID=157301299&trip_sub1=" style="width:320px;height:480px" frameborder="0" scrolling="no" style="border:none" id="S854359"></iframe>
+</div>
 
 [Trip.com](https://www.trip.com/t/cR25X9g4vZ1)
 
@@ -82,7 +83,9 @@ map: true
 [kayak.com](kayak.com)
 
 **酒店：**
-<iframe border="0" src="https://tw.trip.com/partners/ad/S861212?Allianceid=5840493&SID=157301299&trip_sub1=" style="width:320px;height:480px" frameborder="0" scrolling="no" style="border:none" id="S861212"></iframe>
+<div class="row justify-content-sm-center">
+  <iframe border="0" src="https://tw.trip.com/partners/ad/S861212?Allianceid=5840493&SID=157301299&trip_sub1=" style="width:320px;height:480px" frameborder="0" scrolling="no" style="border:none" id="S861212"></iframe>
+</div>
 
 [Trip.com](https://www.trip.com/t/ErpefMd4vZ1)
 
