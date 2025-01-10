@@ -179,8 +179,8 @@ map: true
   <div class="col-md-4">
     <a href="https://www.trip.com/t/sJg8TRaz8O2">
       {% include figure.liquid loading="eager" path="https://ak-d.tripcdn.com/images/220r13000000tegnfC345_W_1280_853_R5.webp?proc=watermark/image_trip1,l_ne,x_16,y_16,w_67,h_16;digimark/t_image,logo_tripbinary;ignoredefaultwm,1A8F" title="Hôtel D'Aubusson" class="img-fluid rounded z-depth-1" %}
-      <p>Hôtel D'Aubusson</p>
-      <p>【6区】酒店内有jazz bar和高档餐厅</p>
+      <p>【6区】Hôtel D'Aubusson</p>
+      <p>酒店内有jazz bar和高档餐厅</p>
     </a>
   </div>
   <div class="col-md-4">
