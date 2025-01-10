@@ -197,6 +197,7 @@ map: true
       <p>简约大气现代设计，部分房型配阳台</p>
     </a>
   </div>
+</div>
 
 <div class="row">
   <div class="col-md-4">
@@ -226,72 +227,72 @@ map: true
 ### **舒适型酒店**
 <div class="row">
   <div class="col-md-4">
-    <a href="https://www.trip.com/t/UXPjnRPz8O2">
-      {% include figure.liquid loading="eager" path="assets/img/5paris-4days-trip/day1.jpg" title="Nolinski Paris - Evok Collection" class="img-fluid rounded z-depth-1" %}
-      <p>Nolinski Paris - Evok Collection</p>
-      <p>图片名称1</p>
+    <a href="https://www.trip.com/t/XoblmauX9O2">
+      {% include figure.liquid loading="eager" path="https://ak-d.tripcdn.com/images/220t0w000000k6pu79DD1_W_1280_853_R5.webp?proc=watermark/image_trip1,l_ne,x_16,y_16,w_67,h_16;digimark/t_image,logo_tripbinary;ignoredefaultwm,1A8F" title="Hôtel Mathis Elysées" class="img-fluid rounded z-depth-1" %}
+      <p>【8区】Hôtel Mathis Elysées</p>
+      <p>香街边，爱丽舍宫近在咫尺</p>
     </a>
   </div>
   <div class="col-md-4">
-    <a href="https://www.trip.com/t/ot0rKaTz8O2">
-      {% include figure.liquid loading="eager" path="https://ak-d.tripcdn.com/images/220d1800000147aay5C3C_R_600_400_R5.webp" title="Grand Hôtel Du Palais Royal" class="img-fluid rounded z-depth-1" %}
-      <p>Grand Hôtel Du Palais Royal</p>
-      <p>地理位置优秀；距离卢浮宫仅200米</p>
+    <a href="https://www.trip.com/t/64fH656Y9O2">
+      {% include figure.liquid loading="eager" path="https://ak-d.tripcdn.com/images/022401200096fea9n8460_W_1280_853_R5.webp?proc=watermark/image_trip1,l_ne,x_16,y_16,w_67,h_16;digimark/t_image,logo_tripbinary;ignoredefaultwm,1A8F" title="Hôtel Saint-Pétersbourg Opéra & Spa" class="img-fluid rounded z-depth-1" %}
+      <p>【9区】Hôtel Saint-Pétersbourg Opéra & Spa</p>
+      <p>古典现代的精致结合，配Spa</p>
     </a>
   </div>
   <div class="col-md-4">
-    <a href="https://www.trip.com/t/KQMxX4Mz8O2">
-      {% include figure.liquid loading="eager" path="assets/img/5paris-4days-trip/day1.jpg" title="Le Burgundy Paris" class="img-fluid rounded z-depth-1" %}
-      <p>Le Burgundy Paris</p>
-      <p>图片名称1</p>
-    </a>
-  </div>
-</div>
-
-<div class="row">
-  <div class="col-md-4">
-    <a href="https://www.trip.com/t/sJg8TRaz8O2">
-      {% include figure.liquid loading="eager" path="https://ak-d.tripcdn.com/images/220r13000000tegnfC345_W_1280_853_R5.webp?proc=watermark/image_trip1,l_ne,x_16,y_16,w_67,h_16;digimark/t_image,logo_tripbinary;ignoredefaultwm,1A8F" title="Hôtel D'Aubusson" class="img-fluid rounded z-depth-1" %}
-      <p>Hôtel D'Aubusson</p>
-      <p>酒店内有jazz bar；提供机场接送服务</p>
-    </a>
-  </div>
-  <div class="col-md-4">
-    <a href="链接地址5">
-      {% include figure.liquid loading="eager" path="assets/img/5paris-4days-trip/day1.jpg" title="图片名称5" class="img-fluid rounded z-depth-1" %}
-      <p>Hôtel D'Aubusson</p>
-      <p>图片名称1</p>
-    </a>
-  </div>
-  <div class="col-md-4">
-    <a href="链接地址6">
-      {% include figure.liquid loading="eager" path="assets/img/5paris-4days-trip/day1.jpg" title="图片名称6" class="img-fluid rounded z-depth-1" %}
-      <p>Hôtel D'Aubusson</p>
-      <p>图片名称1</p>
+    <a href="https://www.trip.com/t/2WwGRXZY9O2">
+      {% include figure.liquid loading="eager" path="https://ak-d.tripcdn.com/images/220t0u000000iudf6663B_W_1280_853_R5.webp?proc=watermark/image_trip1,l_ne,x_16,y_16,w_67,h_16;digimark/t_image,logo_tripbinary;ignoredefaultwm,1A8F" title="Hôtel Bienvenue" class="img-fluid rounded z-depth-1" %}
+      <p>【9区】Hôtel Bienvenue</p>
+      <p>地理位置佳，现代和复古设计结合，闹中取静</p>
     </a>
   </div>
 </div>
 
 <div class="row">
   <div class="col-md-4">
-    <a href="链接地址7">
-      {% include figure.liquid loading="eager" path="assets/img/5paris-4days-trip/day1.jpg" title="图片名称7" class="img-fluid rounded z-depth-1" %}
-      <p>Hôtel D'Aubusson</p>
-      <p>图片名称1</p>
+    <a href="https://www.trip.com/t/hdqnYqqY9O2">
+      {% include figure.liquid loading="eager" path="https://ak-d.tripcdn.com/images/0223q12000af3n41z2E7A_W_1280_853_R5.webp?proc=watermark/image_trip1,l_ne,x_16,y_16,w_67,h_16;digimark/t_image,logo_tripbinary;ignoredefaultwm,1A8F" title="Alyss Saphir Cambronne Eiffel" class="img-fluid rounded z-depth-1" %}
+      <p>【15区】Alyss Saphir Cambronne Eiffel</p>
+      <p>经典巴黎街区，商务设计，交通方便</p>
     </a>
   </div>
   <div class="col-md-4">
-    <a href="链接地址8">
-      {% include figure.liquid loading="eager" path="assets/img/5paris-4days-trip/day1.jpg" title="图片名称8" class="img-fluid rounded z-depth-1" %}
-      <p>Hôtel D'Aubusson</p>
-      <p>图片名称1</p>
+    <a href="https://www.trip.com/t/tNbrfE6Z9O2">
+      {% include figure.liquid loading="eager" path="https://ak-d.tripcdn.com/images/0220f12000cia2ngyB78A_W_1280_853_R5.webp?proc=watermark/image_trip1,l_ne,x_16,y_16,w_67,h_16;digimark/t_image,logo_tripbinary;ignoredefaultwm,1A8F" title="FIAP Paris" class="img-fluid rounded z-depth-1" %}
+      <p>【14区】FIAP Paris</p>
+      <p>靠近拉丁区，现代化和商务设计</p>
     </a>
   </div>
   <div class="col-md-4">
-    <a href="链接地址9">
-      {% include figure.liquid loading="eager" path="assets/img/5paris-4days-trip/day1.jpg" title="图片名称9" class="img-fluid rounded z-depth-1" %}
-      <p>Hôtel D'Aubusson</p>
-      <p>图片名称1</p>
+    <a href="https://www.trip.com/t/QQaSRvHZ9O2">
+      {% include figure.liquid loading="eager" path="https://ak-d.tripcdn.com/images/0585l12000epoykhjF706_W_1280_853_R5.webp?proc=watermark/image_trip1,l_ne,x_16,y_16,w_67,h_16;digimark/t_image,logo_tripbinary;ignoredefaultwm,1A8F" title="Longchamp Elysées" class="img-fluid rounded z-depth-1" %}
+      <p>【16区】Longchamp Elysées</p>
+      <p>近夏乐宫和铁塔，配小花园</p>
+    </a>
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-md-4">
+    <a href="https://www.trip.com/t/pT89SfPZ9O2">
+      {% include figure.liquid loading="eager" path="https://ak-d.tripcdn.com/images/22090l000000cxhr62DE3_W_1280_853_R5.webp?proc=watermark/image_trip1,l_ne,x_16,y_16,w_67,h_16;digimark/t_image,logo_tripbinary;ignoredefaultwm,1A8F" title="Pavillon Monceau" class="img-fluid rounded z-depth-1" %}
+      <p>【17区】Pavillon Monceau</p>
+      <p>古典宫廷风设计，交通方便</p>
+    </a>
+  </div>
+  <div class="col-md-4">
+    <a href="https://www.trip.com/t/6vHX0qWZ9O2">
+      {% include figure.liquid loading="eager" path="https://ak-d.tripcdn.com/images/0220412000b01p9sz21C6_W_1280_853_R5.webp?proc=watermark/image_trip1,l_ne,x_16,y_16,w_67,h_16;digimark/t_image,logo_tripbinary;ignoredefaultwm,1A8F" title="Zoku Paris" class="img-fluid rounded z-depth-1" %}
+      <p>【17区】Zoku Paris</p>
+      <p>现代风设计，公寓式酒店，配城市空中露台</p>
+    </a>
+  </div>
+  <div class="col-md-4">
+    <a href="https://www.trip.com/t/eU49hGdZ9O2">
+      {% include figure.liquid loading="eager" path="https://ak-d.tripcdn.com/images/0221e120009st19aeB32D_W_1280_853_R5.webp?proc=watermark/image_trip1,l_ne,x_16,y_16,w_67,h_16;digimark/t_image,logo_tripbinary;ignoredefaultwm,1A8F" title="Hotel Splendor Elysées" class="img-fluid rounded z-depth-1" %}
+      <p>【17区】Hotel Splendor Elysées</p>
+      <p>脑洞大开的奇幻设计风格，配自助早餐</p>
     </a>
   </div>
 </div>
