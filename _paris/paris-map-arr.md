@@ -300,75 +300,52 @@ map: true
 ### **经济型酒店**
 <div class="row">
   <div class="col-md-4">
-    <a href="https://www.trip.com/t/UXPjnRPz8O2">
-      {% include figure.liquid loading="eager" path="assets/img/5paris-4days-trip/day1.jpg" title="Nolinski Paris - Evok Collection" class="img-fluid rounded z-depth-1" %}
-      <p>Nolinski Paris - Evok Collection</p>
-      <p>图片名称1</p>
+    <a href="https://www.trip.com/t/Gaq4mwlZ9O2">
+      {% include figure.liquid loading="eager" path="https://ak-d.tripcdn.com/images/0585312000d8mtee5B4E0_W_1280_853_R5.webp?proc=watermark/image_trip1,l_ne,x_16,y_16,w_67,h_16;digimark/t_image,logo_tripbinary;ignoredefaultwm,1A8F" title="Home Latin" class="img-fluid rounded z-depth-1" %}
+      <p>【5区】Home Latin</p>
+      <p>位于拉丁区，近先贤祠和卢森堡公园</p>
     </a>
   </div>
   <div class="col-md-4">
-    <a href="https://www.trip.com/t/ot0rKaTz8O2">
-      {% include figure.liquid loading="eager" path="https://ak-d.tripcdn.com/images/220d1800000147aay5C3C_R_600_400_R5.webp" title="Grand Hôtel Du Palais Royal" class="img-fluid rounded z-depth-1" %}
-      <p>Grand Hôtel Du Palais Royal</p>
-      <p>地理位置优秀；距离卢浮宫仅200米</p>
+    <a href="https://www.trip.com/t/ce2MW2uZ9O2">
+      {% include figure.liquid loading="eager" path="https://ak-d.tripcdn.com/images/0585712000dsfsu2y937D_W_1280_853_R5.webp?proc=watermark/image_trip1,l_ne,x_16,y_16,w_67,h_16;digimark/t_image,logo_tripbinary;ignoredefaultwm,1A8F" title="Hotel Sacha" class="img-fluid rounded z-depth-1" %}
+      <p>【9区】Hotel Sacha</p>
+      <p>高性价比的四星酒店且交通便利，房间配小阳台</p>
     </a>
   </div>
   <div class="col-md-4">
-    <a href="https://www.trip.com/t/KQMxX4Mz8O2">
-      {% include figure.liquid loading="eager" path="assets/img/5paris-4days-trip/day1.jpg" title="Le Burgundy Paris" class="img-fluid rounded z-depth-1" %}
-      <p>Le Burgundy Paris</p>
-      <p>图片名称1</p>
+    <a href="https://www.trip.com/t/dGmZXB0a9O2">
+      {% include figure.liquid loading="eager" path="https://ak-d.tripcdn.com/images/0224y120009stoet5C070_R_600_400_R5.webp" title="ibis Budget Porte D'Orleans" class="img-fluid rounded z-depth-1" %}
+      <p>【14区】ibis Budget Porte D'Orleans</p>
+      <p>连锁经济型酒店标杆，温馨简单</p>
     </a>
   </div>
 </div>
 
 <div class="row">
   <div class="col-md-4">
-    <a href="https://www.trip.com/t/sJg8TRaz8O2">
-      {% include figure.liquid loading="eager" path="https://ak-d.tripcdn.com/images/220r13000000tegnfC345_W_1280_853_R5.webp?proc=watermark/image_trip1,l_ne,x_16,y_16,w_67,h_16;digimark/t_image,logo_tripbinary;ignoredefaultwm,1A8F" title="Hôtel D'Aubusson" class="img-fluid rounded z-depth-1" %}
-      <p>Hôtel D'Aubusson</p>
-      <p>酒店内有jazz bar；提供机场接送服务</p>
+    <a href="https://www.trip.com/t/St25be6a9O2">
+      {% include figure.liquid loading="eager" path="https://ak-d.tripcdn.com/images/0582x12000duozkmy4D3B_W_1280_853_R5.webp?proc=watermark/image_trip1,l_ne,x_16,y_16,w_67,h_16;digimark/t_image,logo_tripbinary;ignoredefaultwm,1A8F" title="Hotel F1 Paris Porte de Châtillon" class="img-fluid rounded z-depth-1" %}
+      <p>【14区】Hotel F1 Paris Porte de Châtillon</p>
+      <p>连锁酒店，有家庭房，交通便利</p>
     </a>
   </div>
   <div class="col-md-4">
-    <a href="链接地址5">
-      {% include figure.liquid loading="eager" path="assets/img/5paris-4days-trip/day1.jpg" title="图片名称5" class="img-fluid rounded z-depth-1" %}
-      <p>Hôtel D'Aubusson</p>
-      <p>图片名称1</p>
+    <a href="https://www.trip.com/t/cDeo6rDa9O2">
+      {% include figure.liquid loading="eager" path="https://ak-d.tripcdn.com/images/0584a12000gnd5aah4D1D_W_1280_853_R5.webp?proc=watermark/image_trip1,l_ne,x_16,y_16,w_67,h_16;digimark/t_image,logo_tripbinary;ignoredefaultwm,1A8F" title="Hôtel 31 - Paris Tour Eiffel" class="img-fluid rounded z-depth-1" %}
+      <p>【15区】Hôtel 31 - Paris Tour Eiffel</p>
+      <p>三星级酒店，靠近埃菲尔铁塔</p>
     </a>
   </div>
   <div class="col-md-4">
-    <a href="链接地址6">
-      {% include figure.liquid loading="eager" path="assets/img/5paris-4days-trip/day1.jpg" title="图片名称6" class="img-fluid rounded z-depth-1" %}
-      <p>Hôtel D'Aubusson</p>
-      <p>图片名称1</p>
+    <a href="https://www.trip.com/t/nPyKY5La9O2">
+      {% include figure.liquid loading="eager" path="https://ak-d.tripcdn.com/images/0222f12000eslczxyD3E8_W_1280_853_R5.webp?proc=watermark/image_trip1,l_ne,x_16,y_16,w_67,h_16;digimark/t_image,logo_tripbinary;ignoredefaultwm,1A8F" title="UCPA SPORT STATION HOSTEL PARIS" class="img-fluid rounded z-depth-1" %}
+      <p>【19区】UCPA SPORT STATION HOSTEL PARIS</p>
+      <p>青旅，配餐厅、吧台、攀岩墙等各种休闲设施</p>
     </a>
   </div>
 </div>
 
-<div class="row">
-  <div class="col-md-4">
-    <a href="链接地址7">
-      {% include figure.liquid loading="eager" path="assets/img/5paris-4days-trip/day1.jpg" title="图片名称7" class="img-fluid rounded z-depth-1" %}
-      <p>Hôtel D'Aubusson</p>
-      <p>图片名称1</p>
-    </a>
-  </div>
-  <div class="col-md-4">
-    <a href="链接地址8">
-      {% include figure.liquid loading="eager" path="assets/img/5paris-4days-trip/day1.jpg" title="图片名称8" class="img-fluid rounded z-depth-1" %}
-      <p>Hôtel D'Aubusson</p>
-      <p>图片名称1</p>
-    </a>
-  </div>
-  <div class="col-md-4">
-    <a href="链接地址9">
-      {% include figure.liquid loading="eager" path="assets/img/5paris-4days-trip/day1.jpg" title="图片名称9" class="img-fluid rounded z-depth-1" %}
-      <p>Hôtel D'Aubusson</p>
-      <p>图片名称1</p>
-    </a>
-  </div>
-</div>
 
-希望这份指南能帮你找到合适的住宿区域，住得安全、玩得开心！
+希望这份指南能帮你找到合适的住宿区域，住得安全、舒心，玩得开心！
 
