@@ -207,7 +207,7 @@ map: true
       <p>古典宫廷风设计，配泳池、Spa等</p>
     </a>
   </div>
-</div>
+
   <div class="col-md-4">
     <a href="https://www.trip.com/t/2vDBjffD9O2">
       {% include figure.liquid loading="eager" path="https://ak-d.tripcdn.com/images/0225712000amp2yjy8E30_W_1280_853_R5.webp?proc=watermark/image_trip1,l_ne,x_16,y_16,w_67,h_16;digimark/t_image,logo_tripbinary;ignoredefaultwm,1A8F" title="Brach Paris" class="img-fluid rounded z-depth-1" %}
