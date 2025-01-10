@@ -42,8 +42,8 @@ map: true
     - 4月-10月（旺季）：9:00到18:30（18点是最后入场时间）
     - 11月-3月（淡季）：9:00到17:30（17点是最后入场时间）
     - 每周一闭馆，假期如1月1日、5月1日、圣诞节也不开放。
-- **门票价格（单位：欧元💶）：**
-    - **通票：旺季，淡季24欧**（包括主宫殿、花园、大特里亚农、小特里亚农等）
+- **门票价格：**
+    - **通票：旺季32欧，淡季24欧**（包括主宫殿、花园、大特里亚农、小特里亚农等）。[官网门票预订点击这里](https://en.chateauversailles.fr/plan-your-visit/tickets-and-prices)
     - **主宫殿票：21欧**（持Museum Pass可免费参观主宫殿）
     - **特里亚农宫票：12欧**（包含大小特里亚农、花园和王后的小庄园）
     
@@ -55,31 +55,26 @@ map: true
 
 凡尔赛宫实在是太大了，认真逛一圈至少得一天。如果你时间不够，只有半天的话，我建议直接参观主宫殿就好，真的不亏！
 
-- **全景路线推荐：** 主宫殿 → 后花园 → 大特里亚农宫 → 小特里亚农宫
 - **只逛主宫殿：** 除了内部的镜厅、礼拜堂外，从窗户和阳台还能俯瞰花园里的托勒喷泉和阿波罗喷泉，绝美。
+{% include figure.liquid loading="eager" path="assets/img/8visit-versailles/8visit-versailles-4a.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
 
-<div class="row justify-content-sm-center">
-  <div class="col-sm mt-3 mt-md-0">
-    {% include figure.liquid loading="eager" path="assets/img/8visit-versailles/8visit-versailles-4a.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm mt-3 mt-md-0">
-    {% include figure.liquid loading="eager" path="assets/img/8visit-versailles/8visit-versailles-4.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
+- **全景路线推荐：** 主宫殿 → 凡尔赛花园&公园 → 大特里亚农宫 → 小特里亚农宫
+{% include figure.liquid loading="eager" path="assets/img/8visit-versailles/8visit-versailles-4.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+
 
 **主宫殿必打卡亮点：**
 
-1. **镜厅**：凡尔赛宫最有名的大厅，超级豪华，拍照必去！
+**镜厅**：凡尔赛宫最有名的大厅，超级豪华，拍照必去！
 {% include figure.liquid loading="eager" path="assets/img/8visit-versailles/8visit-versailles-5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}    
 
-2. **皇家礼拜堂**：金碧辉煌，穹顶上的绘画更是美得令人屏息。
+**皇家礼拜堂**：金碧辉煌，穹顶上的绘画更是美得令人屏息。
 {% include figure.liquid loading="eager" path="assets/img/8visit-versailles/8visit-versailles-6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}    
 
-5. **国王大套房**：国王会客用的地方，每间厅都用一位古典神命名，很有趣。
+**国王大套房**：国王会客用的地方，每间厅都用一位古典神命名，很有趣。
 
 {% include figure.liquid loading="eager" path="assets/img/8visit-versailles/8visit-versailles-7.jpg" title="example image" class="img-fluid rounded z-depth-1" %}    
 
-7. **王后大套房**：这部分是展示王后生活的空间，一共四个厅。
+**王后大套房**：这部分是展示王后生活的空间，一共四个厅。
 {% include figure.liquid loading="eager" path="assets/img/8visit-versailles/8visit-versailles-8.jpg" title="example image" class="img-fluid rounded z-depth-1" %}    
 
 在主宫殿里逛一圈后，还能顺便透过窗户看看后花园，超美的视觉享受！
@@ -87,7 +82,7 @@ map: true
 
 ---
 
-### **4️⃣ 超实用Tips：**
+### **4️⃣ 超实用Tips**
 
 - **快速入场小秘诀：**
     - **预订宫廷早餐或午餐**，这样可以免排队直接进入宫殿。[点击这里了解餐馆信息](https://bienvenue.chateauversailles.fr/en/palace/restaurants-shops#!panel-199)
@@ -102,8 +97,8 @@ map: true
     
 {% include figure.liquid loading="eager" path="assets/img/8visit-versailles/8visit-versailles-9.jpg" title="example image" class="img-fluid rounded z-depth-1" %}    
 
-
 赶紧出发去凡尔赛宫，亲身体验这座法兰西的宫廷奇迹吧！💃
+
 ---
 
 如果你想了解更多巴黎景点和路线，可以查阅以下内容：
