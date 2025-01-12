@@ -13,7 +13,7 @@ tags: 法国 巴黎
 map: true
 ---
 
-### 枫丹白露宫旅游攻略：历史、游玩体验、交通一网打尽！
+**枫丹白露宫旅游攻略：历史、游玩体验、交通一网打尽！**
 
 枫丹白露宫（Château de Fontainebleau）是除凡尔赛宫外，巴黎近郊最具魅力的皇家宫殿之一，藏着法国几代君主的故事，也是文艺复兴到拿破仑时期的历史见证。从巴黎出发，短短一个小时的路程，就能进入这片充满历史、艺术和自然的迷人世界。如果你计划一趟充实又惬意的法国小镇之旅，枫丹白露一定是首选。
 {% include figure.liquid loading="eager" path="assets/img/9visit-fontainebleau/9visit-fontainebleau-1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
@@ -39,7 +39,7 @@ map: true
 
 ---
 
-### 实用攻略：购票、讲解器和参观建议
+### 购票、讲解器和参观建议
 
 - **门票**
     
@@ -58,7 +58,7 @@ map: true
 
 ---
 
-### 交通攻略：如何从巴黎到达枫丹白露
+### 如何从巴黎到达枫丹白露
 
 从巴黎出发，前往枫丹白露的交通非常方便。以下是详细路线：
 
@@ -96,7 +96,7 @@ map: true
     
 - **中国馆**
     
-    如果中国馆开放，一定要预定或购买解说游览（通常只有法语讲解）。它是了解中法文化交流史的绝佳窗口，藏品极为珍贵，令人赞叹。
+    如果中国馆开放，一定要预定或购买解说游览（通常只有法语讲解）。它是了解中华文物流散在欧洲的很好的一个窗口，很小众但是仍旧是向公众开放的，并且可近距离观赏文物，里面的藏品都极为珍贵，代表着悠久的文化历史，令人感叹！
 {% include figure.liquid loading="eager" path="assets/img/9visit-fontainebleau/9visit-fontainebleau-5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
 
 ---
