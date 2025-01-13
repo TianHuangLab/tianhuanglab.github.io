@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 巴黎迪士尼乐园游玩攻略——玩转巴黎的魔法世界！
+title: 巴黎迪士尼乐园游玩攻略｜玩转巴黎的魔法世界！
 description: 你准备好来一场超梦幻的迪士尼冒险了吗？交通、线路玩法、门票一文全搞定。
 img: assets/img/10visit-disneyland-paris/10visit-disneyland-paris-0.jpg
 importance: 3
