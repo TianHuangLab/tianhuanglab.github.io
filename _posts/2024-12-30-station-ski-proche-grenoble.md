@@ -7,5 +7,5 @@ tags: 法国生活 法国旅行 滑雪 格勒诺布尔 雪站推荐
 categories: 
 thumbnail: assets/img/posts/1grenoble-top-restaurants/1.jpg
 map: true
-nav: false
+published: false
 ---
