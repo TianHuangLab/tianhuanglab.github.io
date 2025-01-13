@@ -13,7 +13,7 @@ tags: 法国 巴黎 线路攻略 行程
 map: true
 ---
 
-Hello，你准备好来一场超梦幻的迪士尼冒险了吗？
+Hello，来一场超梦幻的迪士尼冒险，你准备好了吗？
 
 在巴黎这个全球最浪漫的城市，也是全球6大拥有迪士尼乐园的城市之一。巴黎的迪士尼乐园绝对不容错过！无论你是第一次来，还是已经打卡过其他地方的迪士尼园区，这里都有别具一格的魅力等着你探索。
 
@@ -105,10 +105,9 @@ Hello，你准备好来一场超梦幻的迪士尼冒险了吗？
     
     这是巴黎迪士尼独有的表演，感受狮子王的英勇，记得提前30分钟到达剧场排队哦！
 
-{% include video.liquid path="assets/img/10visit-disneyland-paris/10visit-disneyland-paris-12.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
-
-    更多园区活动，请查阅[官网介绍](https://www.disneylandparis.com/en-int/destinations/disneyland-park/)
+{% include video.liquid path="assets/img/10visit-disneyland-paris/10visit-disneyland-paris-12.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=false %}
     
+更多园区活动，请查阅[官网介绍](https://www.disneylandparis.com/en-int/destinations/disneyland-park/)
 
 ## 迪士尼门票——怎么买最划算？
 
@@ -130,11 +129,10 @@ Hello，你准备好来一场超梦幻的迪士尼冒险了吗？
 
 如果你想通过便捷的方式预订酒店，可以在像[**trip.com**](https://www.trip.com/t/Cfd2GEeTCO2)或booking.com等平台上查看评价并预订，确保享受最佳价格。建议提前几个月预订，尤其是在旅游高峰期，越早预定，选择越丰富，价格也更加划算哦。
 
-如果你计划在巴黎地区住宿，可以查阅以下攻略：
-
-[《巴黎住宿安全指南｜区域推荐与避坑攻略》](https://aolitravel.com/paris/paris-map-arr/)
 {% include figure.liquid loading="eager" path="assets/img/10visit-disneyland-paris/10visit-disneyland-paris-14.jpg" title="disneyland-paris" class="img-fluid rounded z-depth-1" %}
 
+如果你计划在巴黎地区住宿，可以查阅以下攻略：
+[《巴黎住宿安全指南｜区域推荐与避坑攻略》](https://aolitravel.com/paris/paris-map-arr/)
 
 ## 游玩小贴士——畅游无忧！
 
