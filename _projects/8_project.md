@@ -6,6 +6,7 @@ img: assets/img/9.jpg
 importance: 2
 category: france
 giscus_comments: true
+published: false
 ---
 
 Every project has a beautiful feature showcase page.
