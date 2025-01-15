@@ -3,8 +3,8 @@ layout: post
 title: 我心中的格勒诺布尔Top餐厅及甜品店推荐!
 date: 2024-12-29 20:00:00
 description: 2024年底重返阿尔卑斯山脚下的美食之都格勒诺布尔，深入体验后精心整理了一份top餐厅和甜品店推荐清单。
-tags: 法国生活 法国旅行 格勒诺布尔 餐厅推荐
-categories: 
+tags: 法国 格勒诺布尔 阿尔卑斯
+categories: 美食与餐厅推荐
 thumbnail: assets/img/posts/1grenoble-top-restaurants/0.jpg
 map: true
 ---
