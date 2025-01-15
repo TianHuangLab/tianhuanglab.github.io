@@ -2,7 +2,7 @@
 layout: page
 title: 马赛城市住宿指南｜帮你轻松规划马赛之旅
 description: 为你推荐最佳街区与住宿，找到完美落脚地，尽享历史、艺术与海滩的多重魅力！
-img: assets/img/13marseille-quartier-hotel/13marseille-quartier-hotel-1.jpg
+img: assets/img/13marseille-quartier-hotel/13marseille-quartier-hotel-1a.jpg
 importance: 2
 category: 普罗旺斯
 related_publications: false
@@ -14,7 +14,7 @@ map: true
 published: true
 ---
 
-来马赛旅游，却不知道住哪里好？别担心，今天这篇攻略就来帮你盘一盘！马赛不仅是法国第二大城市，它的历史和文化也超级丰富。从古老的**马赛老港**到现代化的**若列特区**，每个街区都有不同的魅力，住宿选择自然也非常多样。你喜欢古老的港口氛围，还是想体验街头艺术的热情？还是想住在海滩旁，享受阳光和沙滩？
+来马赛旅游，却不知道住哪里好？别担心，今天这篇攻略就来帮你盘一盘！马赛不仅是法国第二大城市，而且它的历史和文化也超级丰富。从古老的**马赛老港**到现代化的**若列特区**，每个街区都有不同的魅力，住宿选择自然也非常多样。你喜欢古老的港口氛围，还是想体验街头艺术的热情？还是想住在海滩旁，享受阳光和沙滩？
 
 马赛的不同街区，总有一个能让你找到完美的落脚地。无论你是文化爱好者，还是海滨度假控，这里都有适合你的住宿选择，马上开始计划你的马赛之旅吧！
 
@@ -36,7 +36,7 @@ published: true
 - **舒适型酒店**：[Grand Hôtel Beauvau Marseille Vieux-Port - MGallery](https://www.trip.com/t/GnMgFqBwDO2)
 
 你也可以点击搜索街区所有酒店：[马赛老港酒店](https://www.trip.com/t/IRyPlxCwDO2)
-{% include figure.liquid loading="eager" path="assets/img/13marseille-quartier-hotel/13marseille-quartier-hotel-1a.jpg" title="marseille-trip-hotel-aolitravel.com" class="img-fluid rounded z-depth-1" %}
+{% include figure.liquid loading="eager" path="assets/img/13marseille-quartier-hotel/13marseille-quartier-hotel-1.jpg" title="marseille-trip-hotel-aolitravel.com" class="img-fluid rounded z-depth-1" %}
 
 ---
 
@@ -59,7 +59,7 @@ published: true
 
 ### 3. 若列特区（Quartier La Joliette）
 
-**👉文化历史**：**若列特区**（La Joliette）位于马赛的商业中心，是马赛现代化变革的标志之一。曾经是一个工业区，现在已经转型为时尚、充满活力的商业区。这里有许多现代化的建筑、博物馆和艺术空间，比如[**MuCEM](https://www.mucem.org/)（马赛欧洲和地中海文明博物馆）**，它展示了马赛的历史和地中海地区的文化。若列特区是马赛商业与文化的交汇点，也是探索现代马赛的理想地方。🏢🌇
+**👉文化历史**：**若列特区**（La Joliette）位于马赛的商业中心，是马赛现代化变革的标志之一。曾经是一个工业区，现在已经转型为时尚、充满活力的商业区。这里有许多现代化的建筑、博物馆和艺术空间，比如[MuCEM（马赛欧洲和地中海文明博物馆）](https://www.mucem.org/)，它展示了马赛的历史和地中海地区的文化。若列特区是马赛商业与文化的交汇点，也是探索现代马赛的理想地方。🏢🌇
 
 **👉地点与如何到达**：若列特区位于市中心的南部，**Joliette地铁站**（2号线）是最近的车站，从这里可以轻松步行到达该区的各大景点。公交车方面，可以乘坐**35路、82路**等，停靠**La Joliette**站。自驾前往也十分方便，区内有多个停车场可供停车。
 
@@ -96,7 +96,7 @@ published: true
 
 **👉地点与如何到达**：普拉多与海滩区位于马赛的第8区，最近的地铁站是**Rond-Point du Prado站**（1号线），从这里可以再乘坐公交车到达海滩区。如果你想直接到达沙滩，也可以19路或83公交在**Plage du Prado公交站**下车。如果你自驾，则可以通过7区的Corniche Président John Fitzgerald Kennedy沿海公路抵达，同时可以一路欣赏沿海风光；或者也可以通过Avenue du Prado抵达。
 
-**👉住在这里的好处与游览推荐**：住在普拉多区，你可以享受阳光、沙滩和海水的乐趣。这里有许多水上活动，如帆板和潜水，适合喜欢海上运动的游客。此外，普拉多区也有很多餐厅和酒吧，提供地道的地中海美食。你还可以漫步到[**博雷利公园（Parc Borély）**](https://www.marseille.fr/environnement/parcs-et-jardins-du-8e-arrondissement)，马赛市内最有名的公园，享受宁静的绿意。
+**👉住在这里的好处与游览推荐**：住在普拉多区，你可以享受阳光、沙滩和海水的乐趣。这里有许多水上活动，如帆板和潜水，适合喜欢海上运动的游客。此外，普拉多区也有很多餐厅和酒吧，提供地道的地中海美食。你还可以漫步到[博雷利公园（Parc Borély）](https://www.marseille.fr/environnement/parcs-et-jardins-du-8e-arrondissement)，马赛市内最有名的公园，享受宁静的绿意。
 
 **👉推荐住宿**：
 
