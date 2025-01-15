@@ -14,17 +14,21 @@ map: true
 published: true
 ---
 尼斯，这座坐落在法国蔚蓝海岸的美丽城市，历史悠久，魅力无穷。如果你已经去了巴黎，那么你在法国接下来的旅行目的地，我强烈推荐尼斯！
+
 从古希腊时期到今天，尼斯一直是地中海的文化交汇点。它曾是罗马帝国的一个重要城市，后成为萨沃伊王朝的领土，直到19世纪加入法国。由于其得天独厚的地理位置，尼斯自古就是一个繁忙的港口和贸易中心，也早早吸引了不少艺术家和贵族。
+
 在19世纪末到20世纪初，尼斯成为欧洲的热门度假胜地，吸引了大量富裕游客。今天，尼斯不仅是法国的第五大城市，也是全球游客热爱的度假天堂，凭借温暖的气候、迷人的海岸线和丰富的文化遗产，成为了蔚蓝海岸最闪亮的明星。
+[维基百科-尼斯](https://zh.wikipedia.org/wiki/%E5%B0%BC%E6%96%AF)
+[百度百科-尼斯](https://baike.baidu.com/item/%E5%B0%BC%E6%96%AF/4665)
 {% include figure.liquid loading="eager" path="assets/img/12nice-top-18-things-to-do/12nice-top-18-things-to-do-1a.jpg" title="nice-trip-aolitravel.com" class="img-fluid rounded z-depth-1" %}
 
 ### 1. 超人气#ILoveNice地标
 
-如果你来尼斯，一定不能错过的地标之一就是位于普罗旺斯的#ILoveNice字母墙。这个巨大的“ILoveNice”字母标志成为了尼斯的一个超级热门打卡地，吸引着来自全球的游客。这个地标不仅仅是一个拍照的好地方，还是尼斯的象征，代表了这座城市的悠闲、阳光和美丽。
+如果你来尼斯，一定不能错过的地标之一就是位于普罗旺斯的#ILoveNice字母墙。这个巨大的“ILoveNice”字母标志成为了尼斯的一个超级热门打卡地，吸引着来自全球的游客。这个地标不仅仅是一个拍照的好地方，还是尼斯的网红打卡地，代表了这座城市的色彩斑澜、阳光和美丽。
 
 **文化历史**：尼斯一直以来都是法国最受欢迎的旅游目的地之一，#ILoveNice的设计灵感来自于尼斯的独特风情和历史。这座城市位于法国南部，拥有超过千年的历史，曾是法国皇室和贵族的度假胜地，历史与现代交织，赋予了这个地方无限魅力。
 
-**地点与如何到达**：#ILoveNice地标位于尼斯市中心，靠近海滨大道。最近的地铁站是"Masséna站"，步行约5分钟即可到达，或者你也可以乘坐公交车到"Promenade des Anglais"站。对于自驾游客，直接导航至市中心，停车场不远，非常方便。
+**地点与如何到达**：#ILoveNice地标位于尼斯市中心，靠近海滨大道，城堡山脚下。最近的地铁站是"Masséna站"，步行约5分钟即可到达，或者你也可以乘坐公交车到"Promenade des Anglais"站。对于自驾游客，直接导航至市中心，停车场不远，非常方便。
 
 **如何游览**：拍一张创意十足的照片，留下美好回忆。可以在周围的咖啡馆坐下休息，享受尼斯的阳光和海风。
 
@@ -39,9 +43,9 @@ published: true
 
 **文化历史**：城堡山曾是尼斯的一个古老城堡遗址，这座城堡在17世纪被摧毁，如今只剩下部分遗迹，但仍能感受到曾经的辉煌。今天的城堡山成为了一个公共公园，绿树成荫，是游客和当地居民日常散步、野餐的好去处。
 
-**地点与如何到达**：城堡山位于尼斯老城区的东南角，距离最近的地铁站"Opéra-Vieille Ville站"步行约15分钟。你也可以选择搭乘公交车到"Place Garibaldi"站，再步行前往山顶。如果自驾，路面停车较为有限，但附近有公共停车场。
+**地点与如何到达**：城堡山位于尼斯老城区的东南角，距离最近的地铁站"Opéra-Vieille Ville站"步行约15分钟。你也可以选择搭乘公交车到“Place Garibaldi”站或海滨大道边的“Cours Saleya”站，再步行前往山顶。如果自驾，路面停车较为有限，但附近有公共停车场。
 
-**如何游览**：你可以步行攀登，沿途欣赏美丽的花园和古老的建筑。也可以选择搭乘电梯，这样可以节省体力，快速抵达山顶，享受无与伦比的景观。
+**如何游览**：你可以步行攀登，沿途欣赏美丽的花园和古老的建筑。也可以选择搭乘电梯（地址：1 Rue des Ponchettes, 06300 Nice），这样可以节省体力，快速抵达山顶，享受无与伦比的景观。
 
 **门票**：免费。
 
@@ -56,7 +60,7 @@ published: true
 
 **地点与如何到达**：尼斯老城位于市中心，最近的地铁站是"Opéra-Vieille Ville站"，从这里步行约5分钟即可到达。老城不大，可以轻松步行游览，充满魅力的街道让你每走一步都有新发现。
 
-**如何游览**：建议你悠闲地在街道上漫步，停下来品尝当地美食，比如尼斯沙拉或传统的"Socca"（鹰嘴豆饼）。你还可以参观圣雷斯托尔大教堂和其他历史建筑，享受宁静又热闹的老城区生活。
+**如何游览**：建议你悠闲地在街道上漫步，停下来品尝当地美食，比如尼斯沙拉或传统的"Socca"（鹰嘴豆饼）。你还可以参观尼斯主座大教堂（Cathédrale Sainte-Réparate de Nice）和其他历史建筑，享受宁静又热闹的老城区生活。
 
 **门票**：免费。
 
@@ -98,11 +102,11 @@ Lympia港口（Port Lympia）是尼斯一个古老而富有魅力的港口，坐
 
 **文化历史**：圣弗朗索瓦塔建于18世纪，最初作为军事用途的瞭望塔。随着时间的推移，它逐渐成为了尼斯的一个旅游热点。塔内不仅有历史的痕迹，还有一些展示尼斯历史文化的展览，讲述着这座城市的故事。
 
-**地点与如何到达**：圣弗朗索瓦塔位于尼斯老城的西部，靠近港口。最近的地铁站是"Opéra-Vieille Ville站"，从这里步行大约15分钟即可到达。如果乘坐公交，可以选择"Place Garibaldi"站下车，再步行前往。
+**地点与如何到达**：圣弗朗索瓦塔位于尼斯老城的西部，靠近港口。最近的地铁站是"Opéra-Vieille Ville站"，从这里步行大约15分钟即可到达；另外，轻轨在Cathédrale - Vieille Ville下车，步行约4分钟。如果乘坐公交，可以选择"Place Garibaldi"站下车，再步行前往。
 
 **如何游览**：你可以登上塔顶，感受360度的壮丽视野。在塔下，有许多小街道和咖啡馆，适合你放松休息，享受周围的美景。
 
-**门票**：门票约为5欧元，建议提前查看开放时间和日期。
+**门票**：门票约为5欧元，建议提前[查看官网](https://www.nice.fr/fr/culture/patrimoine/la-tour-saint-francois?type=articles)确认开放时间和日期。
 
 {% include figure.liquid loading="eager" path="assets/img/12nice-top-18-things-to-do/12nice-top-18-things-to-do-6.jpg" title="nice-trip-aolitravel.com" class="img-fluid rounded z-depth-1" %}
 ---
@@ -126,13 +130,13 @@ Lympia港口（Port Lympia）是尼斯一个古老而富有魅力的港口，坐
 
 马蒂斯博物馆（Musée Matisse）是世界著名艺术家亨利·马蒂斯的故居，位于尼斯的西北部。博物馆收藏了马蒂斯的绘画、雕塑以及他的个人物品，是了解这位艺术大师的理想场所。
 
-**文化历史**：亨利·马蒂斯是20世纪最重要的艺术家之一，他的作品在全球范围内有着极大的影响力。马蒂斯在尼斯居住多年，受到地中海阳光和尼斯风景的启发，创作了大量富有色彩和生命力的作品。马蒂斯博物馆开设于1963年，馆内展示了他不同时期的艺术作品，包括油画、剪纸以及雕塑。
+**文化历史**：[亨利·马蒂斯](https://zh.wikipedia.org/wiki/%E4%BA%A8%E5%88%A9%C2%B7%E9%A9%AC%E8%92%82%E6%96%AF)是20世纪最重要的艺术家之一，他的作品在全球范围内有着极大的影响力。马蒂斯在尼斯居住多年，受到地中海阳光和尼斯风景的启发，创作了大量富有色彩和生命力的作品。马蒂斯博物馆开设于1963年，馆内展示了他不同时期的艺术作品，包括油画、剪纸以及雕塑。
 
 **地点与如何到达**：博物馆位于尼斯市北部的加尔多门（Cimiez），最近的地铁站是"Libération站"，从站点可以搭乘公交车或者步行前往，车程大约10分钟。如果自驾，博物馆周围有免费停车位。
 
 **如何游览**：建议你从博物馆的主要入口进入，参观展览区，深入了解马蒂斯的艺术世界。博物馆周围还有美丽的花园，可以在参观结束后到花园里走一走，享受宁静的氛围。
 
-**门票**：成人门票约10欧元，学生和18岁以下游客免费。
+**门票**：成人门票约10欧元，学生和18岁以下游客免费；另外有多种票券可以选择，比如4天尼斯9个博物馆的联票，票价15欧。[查看官网](https://www.musee-matisse-nice.org/en/)
 
 {% include figure.liquid loading="eager" path="assets/img/12nice-top-18-things-to-do/12nice-top-18-things-to-do-8.jpg" title="nice-trip-aolitravel.com" class="img-fluid rounded z-depth-1" %}
 ---
@@ -147,7 +151,7 @@ Lympia港口（Port Lympia）是尼斯一个古老而富有魅力的港口，坐
 
 **如何游览**：博物馆分为多个展厅，每个展厅展示不同风格的艺术作品。可以在这里花上几个小时，细细品味每一件展品。不要错过博物馆顶层的观景台，从这里你可以俯瞰整个尼斯市区。
 
-**门票**：成人票大约10欧元，18岁以下免票。
+**门票**：成人票大约10欧元，18岁以下免票；另外有多种票券可以选择，比如4天尼斯9个博物馆的联票，票价15欧。[查看官网](https://www.mamac-nice.org/en/)
 
 {% include figure.liquid loading="eager" path="assets/img/12nice-top-18-things-to-do/12nice-top-18-things-to-do-9.jpg" title="nice-trip-aolitravel.com" class="img-fluid rounded z-depth-1" %}
 ---
@@ -191,7 +195,7 @@ Jacques Chirac步道（Promenade Jacques Chirac）是尼斯一条风景如画的
 
 **如何游览**：在修道院内可以参观教堂、花园和博物馆，感受这个地方的宁静与庄严。修道院的花园非常美丽，适合散步和静坐，享受周围的自然环境。
 
-**门票**：约5欧元。
+
 {% include figure.liquid loading="eager" path="assets/img/12nice-top-18-things-to-do/12nice-top-18-things-to-do-12.jpg" title="nice-trip-aolitravel.com" class="img-fluid rounded z-depth-1" %}
 ---
 
@@ -220,7 +224,7 @@ Le Plongeoir是尼斯一个非常独特的餐厅，坐落在悬崖上的一座�
 
 **如何游览**：可以提前预定餐位，享受一顿地道的法式餐点。在餐厅露台上，你可以眺望到地中海的美景，享受独特的用餐体验。如果没有用餐，也可以在餐厅的周围散步，欣赏这个独特的建筑和景色。
 
-**门票**：餐厅消费约40-60欧元每人。
+**门票**：餐厅消费约40-60欧元每人。餐厅目前临时关闭，后续开放日期仍未公布。具体详情请[查看官网](https://www.leplongeoir.com/)
 
 {% include figure.liquid loading="eager" path="assets/img/12nice-top-18-things-to-do/12nice-top-18-things-to-do-14.jpg" title="nice-trip-aolitravel.com" class="img-fluid rounded z-depth-1" %}
 ---
@@ -235,7 +239,7 @@ Le Plongeoir是尼斯一个非常独特的餐厅，坐落在悬崖上的一座�
 
 **如何游览**：公园内有丰富的动植物资源，可以参观热带植物区、鸟类区以及大水族馆，感受大自然的魅力。这里也有儿童游乐设施，非常适合带小朋友一起游玩。
 
-**门票**：成人票约5欧元，儿童和学生有折扣。
+**门票**：成人票约5.5欧元，儿童和学生有折扣。[官网](https://www.parc-phoenix.org/le-parc/infos-pratiques/)
 
 {% include figure.liquid loading="eager" path="assets/img/12nice-top-18-things-to-do/12nice-top-18-things-to-do-15.jpg" title="nice-trip-aolitravel.com" class="img-fluid rounded z-depth-1" %}
 ---
@@ -265,7 +269,7 @@ Gairaut瀑布（Cascade de Gairaut）是一个藏在尼斯周围自然景观中�
 
 **如何游览**：在博物馆中可以详细了解夏加尔的艺术世界，观赏他丰富的作品。博物馆内有专门的解说，帮助你更好地理解每幅作品的背景和创作过程。
 
-**门票**：成人票约10欧元，18岁以下免票。
+**门票**：成人票约10欧元，18岁以下免票。[查看官网](https://musees-nationaux-alpesmaritimes.fr/chagall/en/practical-information)
 
 {% include figure.liquid loading="eager" path="assets/img/12nice-top-18-things-to-do/12nice-top-18-things-to-do-17.jpg" title="nice-trip-aolitravel.com" class="img-fluid rounded z-depth-1" %}
 ---
