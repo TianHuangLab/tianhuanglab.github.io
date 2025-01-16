@@ -7,7 +7,7 @@
 # bluesky_url: # your bluesky URL
 # dblp_url: # your DBLP profile url
 # discord_id: # your discord id (18-digit unique numerical identifier)
-email: tianhuang.cn@gmail.com # your email address
+email: contact@aolitravel.com # your email address
 # facebook_id: # your facebook id
 # flickr_id: # your flickr id
 # github_username: # your GitHub user name
@@ -37,7 +37,7 @@ email: tianhuang.cn@gmail.com # your email address
 # stackoverflow_id: # your stackoverflow id
 # telegram_username: # your Telegram user name
 # unsplash_id: # your unsplash id
-wechat_qr: assets/img/wechat-qr.jpg # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
+# wechat_qr: assets/img/wechat-qr.jpg # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 # whatsapp_number: 33783271988 # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 # wikidata_id: # your wikidata id
 # wikipedia_id: # your wikipedia id (Case sensitive)
@@ -49,3 +49,11 @@ custom_social: # can be any name here other than the ones already defined above
   logo:  https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/XiaohongshuLOGO.svg/1200px-XiaohongshuLOGO.svg.png # can be png, svg, jpg
   title: 小红书
   url: https://www.xiaohongshu.com/user/profile/5d60e23d000000000101a268
+custom_social: # can be any name here other than the ones already defined above
+  logo:  https://w7.pngwing.com/pngs/955/412/png-transparent-social-media-wechat-computer-icons-chat-leaf-text-smiley-thumbnail.png # can be png, svg, jpg
+  title: 微信
+  url: https://aolitravel.com/assets/img/wechat-qr.jpg
+custom_social: # can be any name here other than the ones already defined above
+  logo:  https://e7.pngegg.com/pngimages/130/743/png-clipart-line-messaging-apps-logo-sticker-line-text-rectangle-thumbnail.png # can be png, svg, jpg
+  title: Line
+  url: https://line.me/ti/p/D5k4ktW8ZJ
