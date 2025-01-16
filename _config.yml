@@ -138,7 +138,7 @@ disqus_shortname: al-folio # put your disqus shortname
 
 newsletter:
   enabled: true
-  endpoint: https://app.loops.so/api/newsletter-form/cm5z6jizt04ook6uk1g3wx755 # your loops endpoint (e.g., https://app.loops.so/api/newsletter-form/YOUR-ENDPOINT)
+  endpoint: cm5z6jizt04ook6uk1g3wx755 # your loops endpoint (e.g., https://app.loops.so/api/newsletter-form/YOUR-ENDPOINT)
   # https://loops.so/docs/forms/custom-form
 
 # -----------------------------------------------------------------------------
