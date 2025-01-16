@@ -37,8 +37,8 @@ email: contact@aolitravel.com # your email address
 # stackoverflow_id: # your stackoverflow id
 # telegram_username: # your Telegram user name
 # unsplash_id: # your unsplash id
-# wechat_qr: assets/img/wechat-qr.jpg # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
-# whatsapp_number: 33783271988 # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
+wechat_qr: https://aolitravel.com/assets/img/wechat-qr.jpg # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
+whatsapp_number: 0033783271988 # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 # wikidata_id: # your wikidata id
 # wikipedia_id: # your wikipedia id (Case sensitive)
 # work_url: # work page URL
@@ -46,14 +46,9 @@ email: contact@aolitravel.com # your email address
 # youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 # zotero_username: # your zotero username
 custom_social: # can be any name here other than the ones already defined above
-  logo:  https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/XiaohongshuLOGO.svg/1200px-XiaohongshuLOGO.svg.png # can be png, svg, jpg
+  logo:  https://play-lh.googleusercontent.com/sUL1hTZqchkdsp3ztEjhEDLT0GRVYmAqofufLPExT8B-mCkesiVaF0LezXgA4O5RnyM=s160-rw # can be png, svg, jpg
   title: 小红书
   url: https://www.xiaohongshu.com/user/profile/5d60e23d000000000101a268
-custom_social: # can be any name here other than the ones already defined above
-  logo:  https://w7.pngwing.com/pngs/955/412/png-transparent-social-media-wechat-computer-icons-chat-leaf-text-smiley-thumbnail.png # can be png, svg, jpg
-  title: 微信
-  url: https://aolitravel.com/assets/img/wechat-qr.jpg
-custom_social: # can be any name here other than the ones already defined above
-  logo:  https://e7.pngegg.com/pngimages/130/743/png-clipart-line-messaging-apps-logo-sticker-line-text-rectangle-thumbnail.png # can be png, svg, jpg
+  logo:  https://play-lh.googleusercontent.com/74iMObG1vsR3Kfm82RjERFhf99QFMNIY211oMvN636_gULghbRBMjpVFTjOK36oxCbs=w240-h480-rw # can be png, svg, jpg
   title: Line
   url: https://line.me/ti/p/D5k4ktW8ZJ
