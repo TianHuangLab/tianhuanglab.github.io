@@ -197,7 +197,3 @@ thumbnail: assets/img/14-french-12-misunderstanding/aolitravel.com-14-french-12-
 [《尼斯最强旅行指南｜Top 18必游景点全攻略》](https://aolitravel.com/south-of-france/nice-top-18-things-to-do/)
 
 [《马赛城市住宿指南｜帮你轻松规划马赛之旅》](https://aolitravel.com/south-of-france/marseille-quartier-hotel-recommandation/)
-
-**Blog**
-
-[《我心中的格勒诺布尔Top餐厅及甜品店推荐!》](https://aolitravel.com/blog/2024/grenoble-top-restaurants/)
