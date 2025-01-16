@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 法国人真的每天都啃法棍？揭秘12个关于法国生活的迷思，你信了吗？🇫🇷
-date: 2024-12-29 20:00:00
+date: 2025-01-16 10:00:00
 description: 从法棍到法式优雅，这篇文章将带你轻松解锁法国生活中那些让人又爱又困惑的12个有趣真相，刷新你对浪漫法国的印象！✨🥖
 tags: 法国
 categories: 文化与历史
@@ -138,11 +138,11 @@ thumbnail: assets/img/14-french-12-misunderstanding/aolitravel.com-14-french-12-
 
 ### 11. **法国人是不是天天罢工？🚇**
 
-法国的确是“抗议大国”，**罢工（Grève）**文化在国际上都非常有名，但这并不意味着他们天天罢工。罢工在法国更多是一种表达意见的合法手段，尤其是在面对与劳动权益或社会政策相关的问题时。虽然罢工可能导致交通或公共服务受影响，但法国社会对此表现得十分包容，甚至认为这是一种“民主自由的体现”。因为对人本身和人的权利的思考的历史从文艺复兴运动就开始了，几百年来一直都在法国延续，各类思潮如启蒙运动、[法国大革命](https://zh.wikipedia.org/zh-hans/%E6%B3%95%E5%9B%BD%E5%A4%A7%E9%9D%A9%E5%91%BD)等，有时候这也是我们戏称法国是“革命老区”。
+法国的确是“抗议大国”，**罢工（Grève）**文化在国际上都非常有名，但这并不意味着他们天天罢工。罢工在法国更多是一种表达意见的合法手段，尤其是在面对与劳动权益或社会政策相关的问题时。虽然罢工可能导致交通或公共服务受影响，但法国社会对此表现得十分包容，甚至认为这是一种“民主自由的体现”。因为对人本身和人的权利的思考的历史从文艺复兴运动就开始了，几百年来一直都在法国延续，各类思潮如启蒙运动、[法国大革命](https://zh.wikipedia.org/zh-hans/%E6%B3%95%E5%9B%BD%E5%A4%A7%E9%9D%A9%E5%91%BD)等，有时候这也是我们戏称法国是“革命老区”的原因。
 
 **📌 注释：**
 
-法国的罢工文化起源于19世纪工业革命时期，当时工人为了争取更好的工资和工作条件开始组织抗议。这种传统如今已成为法国社会文化的重要组成部分，同时也表明了劳动者的权利意识和社会参与感。13
+法国的罢工文化起源于19世纪工业革命时期，当时工人为了争取更好的工资和工作条件开始组织抗议。这种传统如今已成为法国社会文化的重要组成部分，同时也表明了劳动者的权利意识和社会参与感。
 {% include figure.liquid loading="eager" path="assets/img/14-french-12-misunderstanding/aolitravel.com-14-french-12-misunderstanding-13.jpg" title="aolitravel.com-french-culture-12-misunderstanding" class="img-fluid rounded z-depth-1" %}
 
 ---
@@ -154,7 +154,7 @@ thumbnail: assets/img/14-french-12-misunderstanding/aolitravel.com-14-french-12-
 
 📌 注释：
 
-法国的时尚文化可以追溯到17世纪，路易十四统治时期更是将巴黎确立为欧洲的时尚中心。如今，法国的[**高级定制（Haute Couture）](https://zh.wikipedia.org/wiki/%E9%AB%98%E7%BA%A7%E5%AE%9A%E5%88%B6%E6%9C%8D%E8%A3%85)与成衣（Prêt-à-porter）**产业在全球享有盛名，巴黎更是许多时尚爱好者心目中的“时尚之都”。至今，巴黎时装周都是世界四大时装周之一。
+法国的时尚文化可以追溯到17世纪，路易十四统治时期更是将巴黎确立为欧洲的时尚中心。如今，法国的[高级定制（Haute Couture）](https://zh.wikipedia.org/wiki/%E9%AB%98%E7%BA%A7%E5%AE%9A%E5%88%B6%E6%9C%8D%E8%A3%85)与成衣（Prêt-à-porter）产业在全球享有盛名，巴黎更是许多时尚爱好者心目中的“时尚之都”。至今，巴黎时装周都是世界四大时装周之一。
 {% include figure.liquid loading="eager" path="assets/img/14-french-12-misunderstanding/aolitravel.com-14-french-12-misunderstanding-15.jpg" title="aolitravel.com-french-culture-12-misunderstanding" class="img-fluid rounded z-depth-1" %}
 
 ---
