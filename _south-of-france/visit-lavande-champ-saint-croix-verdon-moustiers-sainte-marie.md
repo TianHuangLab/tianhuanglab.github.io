@@ -2,7 +2,7 @@
 layout: page
 title: 南法圣十字湖和看薰衣草最美攻略｜详细停车地点分享
 description: 来和我一起探索普罗旺斯的薰衣草花海和圣十字湖的美丽蓝色！🌸💙
-img: assets/img/15visit-champ-lavande-saint-croix-verdon-moustiers-sainte-marie/visit-champ-lavande-saint-croix-verdon-moustiers-sainte-marie-0.jpg
+img: assets/img/15visit-champ-lavande-saint-croix-verdon-moustiers-sainte-marie/visit-champ-lavande-saint-croix-verdon-moustiers-sainte-marie-2.jpg
 importance: 3
 category: 普罗旺斯
 related_publications: false
@@ -13,14 +13,14 @@ tags: 法国 薰衣草 圣十字湖 陶瓷小镇 线路攻略 行程
 map: true
 published: true
 ---
+{% include figure.liquid loading="eager" path="assets/img/15visit-champ-lavande-saint-croix-verdon-moustiers-sainte-marie/visit-champ-lavande-saint-croix-verdon-moustiers-sainte-marie-1.jpg" title="visit-champ-lavande-saint-croix-verdon-moustiers-sainte-marie" class="img-fluid rounded z-depth-1" %}
 
 嗨！🌸 你是不是也一直梦想着在南法普罗旺斯，体验一场薰衣草与圣十字湖的完美之旅呢？春夏季节是最佳时机，我们今天就来聊聊怎么用一天时间玩转从薰衣草的浪漫紫到圣十字湖的优雅蓝的奇妙之旅，走起！🚗
-{% include figure.liquid loading="eager" path="assets/img/15visit-champ-lavande-saint-croix-verdon-moustiers-sainte-marie/visit-champ-lavande-saint-croix-verdon-moustiers-sainte-marie-1.jpg" title="visit-champ-lavande-saint-croix-verdon-moustiers-sainte-marie" class="img-fluid rounded z-depth-1" %}
 
 ### 🗓️ 适合的时间
 
 薰衣草的花期大概从每年的6月中开始，到8月中左右结束。特别是6月底到7月中，是薰衣草的盛花期，整个普罗旺斯变成了紫色的海洋，简直浪漫到爆！💜✨
-{% include figure.liquid loading="eager" path="assets/img/15visit-champ-lavande-saint-croix-verdon-moustiers-sainte-marie/visit-champ-lavande-saint-croix-verdon-moustiers-sainte-marie-2.jpg" title="visit-champ-lavande-saint-croix-verdon-moustiers-sainte-marie" class="img-fluid rounded z-depth-1" %}
+{% include figure.liquid loading="eager" path="assets/img/15visit-champ-lavande-saint-croix-verdon-moustiers-sainte-marie/visit-champ-lavande-saint-croix-verdon-moustiers-sainte-marie-0.jpg" title="visit-champ-lavande-saint-croix-verdon-moustiers-sainte-marie" class="img-fluid rounded z-depth-1" %}
 
 ### 🛣️ 旅行路线推荐
 
@@ -38,13 +38,13 @@ published: true
 
 ### 🌸 薰衣草赏花地停车点推荐
 
-### 第一站：瓦伦索勒小镇
+**第一站：瓦伦索勒小镇**
 
 一进入瓦伦索勒小镇，就能看到大片的薰衣草花田。强烈推荐你停车在以下这个地方，轻松拍下绝美的薰衣草风光：
 
 - 📍 **Lawendowy parking** （Rte de Manosque, 04210 Valensole）
 
-### 第二站：更宁静的赏花点
+**第二站：更宁静的赏花点**
 
 如果你想避开人群，来点更私密的赏花体验，可以考虑这个地方：
 
