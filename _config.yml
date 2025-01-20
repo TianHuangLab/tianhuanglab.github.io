@@ -90,7 +90,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: 奥利飞飞 # blog_name will be displayed in your blog page
-blog_description: 现居法国马赛，曾在法国巴黎、里尔，荷兰马斯特里赫特住过。去过十几个国家，足迹遍布三大洲。
+blog_description: 现常驻南法，几年前从巴黎搬到了这里，在地中海的阳光怀抱中开启了全新的生活篇章。深度走过十几个国家，足迹遍布三大洲。爱好山里徒步、海边吹风、冬天滑雪。超懂法国，想要走遍欧洲，记录分享日常生活和足迹。
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
