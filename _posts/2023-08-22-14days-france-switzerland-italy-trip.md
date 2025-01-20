@@ -51,32 +51,6 @@ published: true
 途经[施皮茨（Spiez）](https://www.myswitzerland.com/zh-hans/destinations/spiez/?_gl=1*1dn9nhu*_up*MQ..*_ga*OTQxNTk3NjcuMTczNzA2MDIxNw..*_ga_F6N1LVHY7B*MTczNzA2MDIxNi4xLjAuMTczNzA2MDc4MS4wLjAuMTM5ODk0Mjg4MQ..)时，我们被这座位于图恩湖（Lake Thun）畔的小镇迷住了。施皮茨城堡历史悠久，可追溯到13世纪，是这里的标志性建筑。而图恩湖的清澈湖水与周围青翠的山坡交相辉映，安静而美丽。下午到达布里恩茨小镇，并在这里的一个民宿入住。布里恩茨湖（Lake Brienz）则以它深邃的蓝色闻名，湖边的木雕艺术小店让这里充满了瑞士的传统魅力。
 {% include figure.liquid loading="eager" path="assets/img/post3-14days-alps-france-switzerland-italy-trip/14days-alps-france-switzerland-italy-trip-6.jpg" title="aolitravel.com-france-italy-switzerland-trip" class="img-fluid rounded z-depth-1" %}
 
-<div class="row justify-content-center align-items-center">
-  <div class="col-sm-6 mt-3 mt-md-0">
-    <div class="d-flex justify-content-center">
-      {% include figure.liquid 
-        loading="eager" 
-        path="assets/img/post3-14days-alps-france-switzerland-italy-trip/14days-alps-france-switzerland-italy-trip-6a.jpg" 
-        title="aolitravel.com-france-italy-switzerland-trip" 
-        class="img-fluid rounded z-depth-1" 
-        style="height: 300px; object-fit: cover;" 
-      %}
-    </div>
-  </div>
-  <div class="col-sm-6 mt-3 mt-md-0">
-    <div class="d-flex justify-content-center">
-      {% include figure.liquid 
-        loading="eager" 
-        path="assets/img/post3-14days-alps-france-switzerland-italy-trip/14days-alps-france-switzerland-italy-trip-6b.jpg" 
-        title="aolitravel.com-france-italy-switzerland-trip" 
-        class="img-fluid rounded z-depth-1" 
-        style="height: 300px; object-fit: cover;" 
-      %}
-    </div>
-  </div>
-</div>
-
-
 ---
 
 ### 第3天：从布里恩茨到龙疆和卢塞恩的短途旅行⛰️
@@ -168,9 +142,9 @@ published: true
 </div>
 
 午后继续乘船前往瓦伦纳（Varenna），这座小镇相对安静，五彩缤纷的房屋映衬在蓝绿色的湖水中，犹如一幅画。🍝 晚餐则在回到科莫镇后的一家传统意大利餐馆完成，一份新鲜的湖鱼搭配意式白酒，这一天真是无与伦比的享受。
-<!-- 
+
 {% include figure.liquid loading="eager" path="assets/img/post3-14days-alps-france-switzerland-italy-trip/14days-alps-france-switzerland-italy-trip-16.jpg" title="aolitravel.com-france-italy-switzerland-trip" class="img-fluid rounded z-depth-1" %}
--->
+
 ---
 
 ### 第8天：游览马焦雷湖和周边小镇 🏖️
@@ -181,7 +155,7 @@ published: true
 {% include figure.liquid loading="eager" path="assets/img/post3-14days-alps-france-switzerland-italy-trip/14days-alps-france-switzerland-italy-trip-17.jpg" title="aolitravel.com-france-italy-switzerland-trip" class="img-fluid rounded z-depth-1" %}
 
 之后就返回科莫湖附近的住宿地点。傍晚时分，在湖边静坐，目送夕阳西沉，这一天的心情特别宁静平和，可能是因为这一天都沉醉在这美丽的景色中了吧😂。
-{% include figure.liquid loading="eager" path="assets/img/post3-14days-alps-france-switzerland-italy-trip/14days-alps-france-switzerland-italy-trip-18.jpg" title="aolitravel.com-france-italy-switzerland-trip" class="img-fluid rounded z-depth-1" %}
+{% include figure.liquid loading="eager" path="https://images.unsplash.com/photo-1606521276375-5fbc52665c8a?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" title="aolitravel.com-france-italy-switzerland-trip" class="img-fluid rounded z-depth-1" %}
 
 ---
 
@@ -190,7 +164,15 @@ published: true
 起点：科莫湖 | 终点：霞慕尼 | 路程：270公里 | 大约耗时：4小时
 
 🚗 今天是穿越国境的一天，从意大利回到法国阿尔卑斯山脚下的[霞慕尼（Chamonix）](https://www.france.fr/zh-Hans/article/48071/)。霞慕尼是攀登勃朗峰（Mont Blanc）的门户，整个小镇洋溢着浓厚的户外探险气息。到达后我们入住了附近一个小镇的木屋民宿，窗外就是壮阔无比的山峰。
-{% include figure.liquid loading="eager" path="assets/img/post3-14days-alps-france-switzerland-italy-trip/14days-alps-france-switzerland-italy-trip-19.jpg" title="aolitravel.com-france-italy-switzerland-trip" class="img-fluid rounded z-depth-1" %}
+<div class="row justify-content-sm-center">
+  <div class="col-sm mt-3 mt-md-0">
+    {% include figure.liquid loading="eager" path="assets/img/post3-14days-alps-france-switzerland-italy-trip/14days-alps-france-switzerland-italy-trip-19.jpg" title="aolitravel.com-france-italy-switzerland-trip" class="img-fluid rounded z-depth-1" %}
+  </div>
+  <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="https://images.unsplash.com/photo-1696965443339-bf4dde70a569?q=80&w=2660&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+" title="aolitravel.com-france-italy-switzerland-trip" class="img-fluid rounded z-depth-1" %}
+  </div>
+</div>
 
 晚上步行游览霞慕尼镇中心，这里不仅有各种户外装备店，还有许多舒适的餐馆。我们尝试了传统的法国的山羊奶酪🧀️，虽然口味并不太适应，但毕竟也是品尝了原产地的特色，也算是不虚此行。
 {% include figure.liquid loading="eager" path="assets/img/post3-14days-alps-france-switzerland-italy-trip/14days-alps-france-switzerland-italy-trip-20.jpg" title="aolitravel.com-france-italy-switzerland-trip" class="img-fluid rounded z-depth-1" %}
@@ -287,7 +269,7 @@ published: true
 🌄 最后一天，怀着依依不舍的心情踏上回家的路。一路上，我们再次欣赏了法国南部的田园风光，阳光洒在金黄的田野上，窗外的风景如诗如画。经过2小时的驾驶，终于抵达熟悉的马赛，旅途也正式画上句号。
 
 🚪 回到家后，我们打开从旅途中带回的奶酪、巧克力和果酱，仿佛这些小小的纪念品还带着阿尔卑斯的气息。回想起过去两周的奇妙旅程，每一个地点、每一顿美食、每一帧风景，都让人感叹生活的美好。接下来就是整理照片和撰写游记了，希望能把这份感动分享给更多人！❤️
-{% include figure.liquid loading="eager" path="assets/img/post3-14days-alps-france-switzerland-italy-trip/14days-alps-france-switzerland-italy-trip-30.jpg" title="aolitravel.com-france-italy-switzerland-trip" class="img-fluid rounded z-depth-1" %}
+{% include figure.liquid loading="eager" path="https://images.unsplash.com/photo-1613828802410-edbb5e3402d3?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" title="aolitravel.com-france-italy-switzerland-trip" class="img-fluid rounded z-depth-1" %}
 
 ---
 
