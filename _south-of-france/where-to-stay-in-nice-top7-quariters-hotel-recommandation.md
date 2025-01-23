@@ -17,7 +17,7 @@ published: true
 
 尼斯，法国南部的度假天堂，以其湛蓝的地中海、迷人的老街区和浪漫的文化氛围吸引着无数旅行者。然而，选择一个完美的住宿区域，能让你的尼斯之旅更加难忘！无论你想感受**老城区（Vieux Nice）** 的历史与活力，还是在**英格兰大道（Promenade des Anglais）** 俯瞰无敌海景，每个街区都各有千秋，值得你探索。
 
-🛏️**从奢华到亲民，每个街区都有惊喜等你发现**
+以下我按街区推荐了几个覆盖高档到经济型的酒店，每个街区都有惊喜等你发现！
 
 无论是宁静的**西梅区（Cimiez）**，还是适合购物狂欢的**尚-梅德森区（Jean-Medecin）**，你都能找到适合自己风格的下榻之地！本文将从文化历史、交通便利性、住宿推荐等多个角度，为你深度解析尼斯七大住宿区的独特魅力，让你轻松找到最适合自己的住宿区域，享受最棒的假期体验！🌟
 
@@ -25,13 +25,13 @@ published: true
 
 [《尼斯最强旅行指南｜Top 18必游景点全攻略》](https://aolitravel.com/south-of-france/nice-top-18-things-to-do/)
 
-{% include figure.liquid loading="eager" path="assets/img/16nice-7quartiers-where-to-stay-hotel-recommendation/aolitravel.com-7-quartiers-where-to-stay-nice-1.jpg" title="where-to-stay-in-nice-trip-hotel-aolitravel.com" class="img-fluid rounded z-depth-1" %}
+{% include figure.liquid loading="eager" path="assets/img/16nice-7quartiers-where-to-stay-hotel-recommendation/aolitravel.com-7-quartiers-where-to-stay-nice-1a.png" title="where-to-stay-in-nice-trip-hotel-aolitravel.com" class="img-fluid rounded z-depth-1" %}
 
 ---
 
 ### 1. 老城区（Vieux Nice）- 历史街区
 
-**文化历史**：尼斯老城区**Old Town**，又叫**Vieux-Nice**，是这座城市的历史心脏，也是尼斯最具历史韵味的区域之一，走在这里，你仿佛穿越回到了过去。这里充满了色彩斑斓的老建筑、迷人的小巷和热闹的市场，是感受尼斯本土文化的最佳去处。老城区的历史可以追溯到中世纪，曾是尼斯的商业和社会中心。你可以在**Cours Saleya**市场找到新鲜的水果、花卉和当地美食，而[**尼斯圣雷米大教堂（Cathédrale Sainte-Réparate）**](https://cathedrale-nice.fr/)则是这里不容错过的历史遗迹。
+**文化历史**：尼斯老城区**Old Town**，法语**Vieux-Nice**，是这座城市的历史心脏，也是尼斯最具历史韵味的区域之一，走在这里，你仿佛穿越回到了过去。这里充满了色彩斑斓的老建筑、迷人的小巷和热闹的市场，是感受尼斯本土文化的最佳去处。老城区的历史可以追溯到中世纪，曾是尼斯的商业和社会中心。你可以在**Cours Saleya**市场找到新鲜的水果、花卉和当地美食，而[**尼斯圣雷米大教堂（Cathédrale Sainte-Réparate）**](https://cathedrale-nice.fr/)则是这里不容错过的历史遗迹。
 
 **地点与如何到达**：尼斯老城位于尼斯市中心，距离**英国人海滨大道**（Promenade des Anglais）非常近，步行即可到达。最近的公交车站是**Opéra-Vieille Ville**，也有多条公交线路（如**公交 100 路**）经过这里。如果开车前来，周围有多个停车场，但由于老城区街道狭窄，建议尽量选择公共交通。
 
@@ -95,7 +95,7 @@ published: true
 
 **地点与如何到达**：Jean-Medecin大街贯穿尼斯市中心，最近的1号线地铁站是**Jean Médecin Station**，非常方便。如果你从市中心出发，可以步行前往。停车的话，周围有**Parking Palais de la Méditerranée**或**Parking Massena**停车场。
 
-**住在这里的好处**：住在尚-梅德森区，你可以轻松体验尼斯的繁华都市生活。这里的购物、餐饮选择多样，适合喜欢现代生活节奏的游客。白天可以在购物中心尽情购物，，周围有尼斯最大的购物中心**Nice Etoile**，晚上则可以享受周围丰富的餐饮和夜生活。同时，这个区域靠近尼斯的许多文化景点，比如**尼斯现当代美术馆（Musée d'Art Moderne et d'Art Contemporain）**，你可以在繁忙的购物后，悠闲地参观艺术展览。
+**住在这里的好处**：住在尚-梅德森区，你可以轻松体验尼斯的繁华都市生活。这里的购物、餐饮选择多样，适合喜欢现代生活节奏的游客。白天可以在购物中心尽情购物，周围有尼斯最大的购物中心**Nice Etoile**，晚上则可以享受周围丰富的餐饮和夜生活。同时，这个区域靠近尼斯的许多文化景点，比如**尼斯现当代美术馆（Musée d'Art Moderne et d'Art Contemporain）**，你可以在繁忙的购物后，悠闲地参观艺术展览。
 
 **必做的事**：逛逛**Jean-Medecin大道**的各大购物中心，购买最新潮的时尚单品。品尝当地的**尼斯美食**，如**Pissaladière**和**Socca**。如果你喜欢艺术，尼斯现当代艺术博物馆也是一个很好的选择。
 
@@ -181,7 +181,7 @@ published: true
 
 ### 6. **甘贝塔区（Gambetta）- 预算友好的住宿区域**
 
-**文化历史**：[甘贝塔区](https://www.google.com/maps/place/Gambetta,+06000+Nice/@43.6972977,7.2488153,16.27z/data=!4m6!3m5!1s0x12cdd0126f3c7dd9:0xf49138e45efd04d1!8m2!3d43.6982145!4d7.2531489!16s%2Fg%2F1tgfst_g?entry=ttu&g_ep=EgoyMDI1MDEyMC4wIKXMDSoASAFQAw%3D%3D)位于尼斯的市中心靠东的地方，毗邻Jean-Medecin区，是一个充满本土生活氛围的地方，适合预算有限的旅行者。这里没有过多的奢华景点，但有浓厚的当地生活气息，街道两旁是各种小餐馆、市场和商店。甘贝塔区相对宁静，但交通便利，生活设施齐全。适合那些希望享受尼斯的同时又不想花费过多的游客。这个地区周围也有一些文化和历史景点，如**尼斯音乐厅**，虽然相对不如市中心繁华，但却充满了本地特色。
+**文化历史**：甘贝塔区位于尼斯的市中心靠东的地方，毗邻Jean-Medecin区，是一个充满本土生活氛围的地方，适合预算有限的旅行者。这里没有过多的奢华景点，但有浓厚的当地生活气息，街道两旁是各种小餐馆、市场和商店。甘贝塔区相对宁静，但交通便利，生活设施齐全。适合那些希望享受尼斯的同时又不想花费过多的游客。这个地区周围也有一些文化和历史景点，如**尼斯音乐厅**，虽然相对不如市中心繁华，但却充满了本地特色。
 
 **地点与如何到达**：这里距离尼斯市中心约10分钟步行路程。最近的地铁站是**Gambetta**站，步行即到，公交也非常方便，您可以选择乘坐公交车抵达。如果自驾的话，可以停放在附近的**Parking Gambetta**。
 
