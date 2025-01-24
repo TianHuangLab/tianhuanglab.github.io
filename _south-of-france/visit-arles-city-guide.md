@@ -1,9 +1,9 @@
 ---
 layout: page
-title: 阿尔勒城市旅行指南｜探索普罗旺斯的历史与魅力
+title: 阿尔勒城市旅行指南｜探索普罗旺斯的魅力
 description: 作为普罗旺斯的历史与文化之都，这里因梵高而出名，因历史而伟大！
 img: assets/img/18visit-arles-city-guide/aolitravel.com-18visit-arles-city-guide-0.webp
-importance: 1
+importance: 5
 category: 普罗旺斯
 related_publications: false
 related_posts: true
@@ -47,7 +47,7 @@ published: true
     
     具体票价项目请查阅[阿尔勒旅游局官网](https://arlestourisme.tickeasy.com/en-GB/family?famillesParentes=1832040084910400002)。
 {% include figure.liquid loading="eager" path="assets/img/18visit-arles-city-guide/aolitravel.com-18visit-arles-city-guide-4a.jpg" title="Arles-city-guide-aolitravel.com" class="img-fluid rounded z-depth-1"  alt="阿尔勒城市旅行指南 Alres complete city guide"%}
-{% include figure.liquid loading="eager" path="assets/img/18visit-arles-city-guide/aolitravel.com-18visit-arles-city-guide-4b.jpg" title="Arles-city-guide-aolitravel.com" class="img-fluid rounded z-depth-1"  alt="阿尔勒城市旅行指南 Alres complete city guide"%}
+{% include figure.liquid loading="eager" path="assets/img/18visit-arles-city-guide/aolitravel.com-visit-arles-city-guide-4b.jpg" title="Arles-city-guide-aolitravel.com" class="img-fluid rounded z-depth-1"  alt="阿尔勒城市旅行指南 Alres complete city guide"%}
 
 
 ### 小建议
