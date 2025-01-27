@@ -60,10 +60,22 @@ MuCEM的全称是“欧洲与地中海文明博物馆”（Musée des Civilisati
 ### 实用建议：规划你的参观路线
 
 为了更好地感受圣让堡与MuCEM的魅力，我推荐以下路线：
+从accès panier一侧的天桥进入-〉
+参观标号2、3、4、5的地标建筑，分别为圣让小教堂、圣让堡展览和票务中心等，穿插着沿着圣让堡城墙360度欣赏马赛风景-〉
+通过天桥，进入地标6，马赛地中海文明博物馆的顶楼-〉
+通过博物馆内电梯下到底楼，从博物馆出口出来-〉
+沿着博物馆外宽阔的步行道，边欣赏风景，边步行，直到马赛主座教堂脚下
 {% include figure.liquid loading="eager" path="assets/img/post4-marseille-fort-saint-jean-mucem-old-port-vieux-port/aolitravel.com-marseille-fort-saint-jean-mucem-old-port-0.png" title="marseille-fort-saint-jean-mucem-review" class="img-fluid rounded z-depth-1" alt="马赛必打卡！从圣让堡到地中海文明博物馆（MuCEM），探寻历史与现代的精彩碰撞"%}
-1. **从圣让堡开始**：通过慢慢步行，感受历史的厚重与沉淀。
-{% include figure.liquid loading="eager" path="assets/img/post4-marseille-fort-saint-jean-mucem-old-port-vieux-port/aolitravel.com-marseille-fort-saint-jean-mucem-old-port-12.png" title="marseille-restaurant-copains-avis-review" class="img-fluid rounded z-depth-1" alt="马赛必打卡！从圣让堡到地中海文明博物馆（MuCEM），探寻历史与现代的精彩碰撞"%}
-2. **穿过步行桥**：这不仅是物理空间的连接，更是精神上的过渡。
+第一站-**从圣让堡开始**：通过慢慢步行，感受历史的厚重与沉淀。出发地点📍：16 Esp. de la Tourette, 13002 Marseille
+<div class="row justify-content-sm-center">
+  <div class="col-sm mt-3 mt-md-0">
+    {% include figure.liquid loading="eager" path="assets/img/post4-marseille-fort-saint-jean-mucem-old-port-vieux-port/aolitravel.com-marseille-fort-saint-jean-mucem-old-port-1.png" title="marseille-fort-saint-jean-mucem-review" class="img-fluid rounded z-depth-1" alt="马赛必打卡！从圣让堡到地中海文明博物馆（MuCEM），探寻历史与现代的精彩碰撞"%}
+  </div>
+  <div class="col-sm mt-3 mt-md-0">
+    {% include figure.liquid loading="eager" path="assets/img/post4-marseille-fort-saint-jean-mucem-old-port-vieux-port/aolitravel.com-marseille-fort-saint-jean-mucem-old-port-2.png" title="marseille-fort-saint-jean-mucem-review" class="img-fluid rounded z-depth-1" alt="马赛必打卡！从圣让堡到地中海文明博物馆（MuCEM），探寻历史与现代的精彩碰撞"%}
+  </div>
+</div>
+第二站-**穿过步行桥**：这不仅是物理空间的连接，更是精神上的过渡。
 <div class="row justify-content-sm-center">
   <div class="col-sm mt-3 mt-md-0">
     {% include figure.liquid loading="eager" path="assets/img/post4-marseille-fort-saint-jean-mucem-old-port-vieux-port/aolitravel.com-marseille-fort-saint-jean-mucem-old-port-3.png" title="marseille-fort-saint-jean-mucem-review" class="img-fluid rounded z-depth-1" alt="马赛必打卡！从圣让堡到地中海文明博物馆（MuCEM），探寻历史与现代的精彩碰撞"%}
@@ -72,7 +84,7 @@ MuCEM的全称是“欧洲与地中海文明博物馆”（Musée des Civilisati
     {% include figure.liquid loading="eager" path="assets/img/post4-marseille-fort-saint-jean-mucem-old-port-vieux-port/aolitravel.com-marseille-fort-saint-jean-mucem-old-port-4.png" title="marseille-fort-saint-jean-mucem-review" class="img-fluid rounded z-depth-1" alt="马赛必打卡！从圣让堡到地中海文明博物馆（MuCEM），探寻历史与现代的精彩碰撞"%}
   </div>
 </div> 
-3. **进入圣让堡中庭**:沿着城墙360度参观马赛风景
+第三站-**进入圣让堡中庭**:沿着城墙360度参观马赛风景
 <div class="row justify-content-sm-center">
   <div class="col-sm mt-3 mt-md-0">
     {% include figure.liquid loading="eager" path="assets/img/post4-marseille-fort-saint-jean-mucem-old-port-vieux-port/aolitravel.com-marseille-fort-saint-jean-mucem-old-port-5.png" title="marseille-fort-saint-jean-mucem-review" class="img-fluid rounded z-depth-1" alt="马赛必打卡！从圣让堡到地中海文明博物馆（MuCEM），探寻历史与现代的精彩碰撞"%}
@@ -89,16 +101,9 @@ MuCEM的全称是“欧洲与地中海文明博物馆”（Musée des Civilisati
     {% include figure.liquid loading="eager" path="assets/img/post4-marseille-fort-saint-jean-mucem-old-port-vieux-port/aolitravel.com-marseille-fort-saint-jean-mucem-old-port-8.png" title="marseille-fort-saint-jean-mucem-review" class="img-fluid rounded z-depth-1" alt="马赛必打卡！从圣让堡到地中海文明博物馆（MuCEM），探寻历史与现代的精彩碰撞"%}
   </div>
 </div>
-4. **MuCEM展览与屋顶观景台**：细细品味展览的内容，同时在屋顶观景台欣赏美景。
-<div class="row justify-content-sm-center">
-  <div class="col-sm mt-3 mt-md-0">
-    {% include figure.liquid loading="eager" path="assets/img/post4-marseille-fort-saint-jean-mucem-old-port-vieux-port/aolitravel.com-marseille-fort-saint-jean-mucem-old-port-1.png" title="marseille-fort-saint-jean-mucem-review" class="img-fluid rounded z-depth-1" alt="马赛必打卡！从圣让堡到地中海文明博物馆（MuCEM），探寻历史与现代的精彩碰撞"%}
-  </div>
-  <div class="col-sm mt-3 mt-md-0">
-    {% include figure.liquid loading="eager" path="assets/img/post4-marseille-fort-saint-jean-mucem-old-port-vieux-port/aolitravel.com-marseille-fort-saint-jean-mucem-old-port-2.png" title="marseille-fort-saint-jean-mucem-review" class="img-fluid rounded z-depth-1" alt="马赛必打卡！从圣让堡到地中海文明博物馆（MuCEM），探寻历史与现代的精彩碰撞"%}
-  </div>
-</div>
-5. 从**MuCEM**屋顶观景台坐电梯下来，然后从**MuCEM底楼门口的出口出来，向[马赛主座教堂（Cathédrale La Major）](https://www.marseille-tourisme.com/decouvrez-marseille/culture-et-patrimoine/sites-et-monuments/la-cathedrale-de-la-major/)方向一路参观过去。
+第四站-**MuCEM展览与屋顶观景台** ：细细品味展览的内容，同时在屋顶观景台欣赏美景。
+{% include figure.liquid loading="eager" path="assets/img/post4-marseille-fort-saint-jean-mucem-old-port-vieux-port/aolitravel.com-marseille-fort-saint-jean-mucem-old-port-12.png" title="marseille-restaurant-copains-avis-review" class="img-fluid rounded z-depth-1" alt="马赛必打卡！从圣让堡到地中海文明博物馆（MuCEM），探寻历史与现代的精彩碰撞"%}
+第五站-从MuCEM屋顶观景台坐电梯下来，然后从**MuCEM底楼门口的出口出来，向[马赛主座教堂（Cathédrale La Major）](https://www.marseille-tourisme.com/decouvrez-marseille/culture-et-patrimoine/sites-et-monuments/la-cathedrale-de-la-major/)方向一路参观过去。
 <div class="row justify-content-sm-center">
   <div class="col-sm mt-3 mt-md-0">
     {% include figure.liquid loading="eager" path="assets/img/post4-marseille-fort-saint-jean-mucem-old-port-vieux-port/aolitravel.com-marseille-fort-saint-jean-mucem-old-port-15.png" title="marseille-fort-saint-jean-mucem-review" class="img-fluid rounded z-depth-1" alt="马赛必打卡！从圣让堡到地中海文明博物馆（MuCEM），探寻历史与现代的精彩碰撞"%}
