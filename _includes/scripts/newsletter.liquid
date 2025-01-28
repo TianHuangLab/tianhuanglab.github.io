@@ -14,7 +14,7 @@
       class="newsletter-form-input"
       name="newsletter-form-input"
       type="email"
-      placeholder="user@example.com"
+      placeholder="留下邮箱！订阅更多实用攻略和精彩旅程✨"
       required=""
     >
 
@@ -31,7 +31,7 @@
       class="newsletter-loading-button"
       style="justify-content: {% if include.left %}flex-start{% elsif include.right %}flex-end{% else %}center{% endif %}"
     >
-      Please wait...
+      请等待一会儿 Please wait...
     </button>
   </form>
 
@@ -39,14 +39,14 @@
     class="newsletter-success"
     style="justify-content: {% if include.left %}flex-start{% elsif include.right %}flex-end{% else %}center{% endif %}"
   >
-    <p class="newsletter-success-message">You're subscribed!</p>
+    <p class="newsletter-success-message">订阅成功！You're subscribed!</p>
   </div>
 
   <div
     class="newsletter-error"
     style="justify-content: {% if include.left %}flex-start{% elsif include.right %}flex-end{% else %}center{% endif %}"
   >
-    <p class="newsletter-error-message">Oops! Something went wrong, please try again</p>
+    <p class="newsletter-error-message">出错了，请重新再试试！Oops! Something went wrong, please try again</p>
   </div>
 
   <button
