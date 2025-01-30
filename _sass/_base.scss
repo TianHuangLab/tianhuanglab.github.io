@@ -1342,3 +1342,22 @@ ninja-keys::part(ninja-input-wrapper) {
   background-color: var(--global-theme-color);
   color: var(--global-text-color);
 }
+
+.watermarked {
+  position: relative;
+  display: inline-block;
+}
+
+.watermarked::after {
+  content: "© aolitravel.com"; /* 这里可以改成你的水印文字 */
+  position: absolute;
+  bottom: 10px;
+  right: 10px;
+  background: rgba(0, 0, 0, 0.5);
+  color: white;
+  padding: 5px 10px;
+  font-size: 15px;
+  font-family: Arial, sans-serif;
+  border-radius: 5px;
+  pointer-events: none; /* 防止水印影响用户交互 */
+}
