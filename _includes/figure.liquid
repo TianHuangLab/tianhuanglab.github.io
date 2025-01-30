@@ -2,15 +2,6 @@
 {% assign parts = include.path | split: '.' %}
 {% assign ext = parts.last %}
 
-
-<!-- 🔴 修改部分开始：添加水印图片路径 -->
-{% assign watermark_img = img_path | append: "-watermarked." | append: ext %}
-<!-- 🔴 修改部分结束 -->
-
-<!-- 🔴 修改部分开始：用 <a> 标签包裹 <figure>，使其可下载 -->
-<a href="{{ watermark_img | relative_url }}" download>
-<!-- 🔴 修改部分结束 -->
-
 <figure
   class="watermarked"
   {% if include.slot %}
@@ -92,7 +83,3 @@
     <figcaption class="caption">{{ include.caption }}</figcaption>
   {% endif %}
 </figure>
-
-<!-- 🔴 修改部分开始：关闭 <a> 标签 -->
-</a>
-<!-- 🔴 修改部分结束 -->
