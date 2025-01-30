@@ -1349,14 +1349,14 @@ ninja-keys::part(ninja-input-wrapper) {
 }
 
 .watermarked::after {
-  content: "© aolitravel.com"; /* 这里可以改成你的水印文字 */
+  content: "aolitravel.com"; /* 这里可以改成你的水印文字 */
   position: absolute;
   bottom: 10px;
   right: 10px;
-  background: rgba(0, 0, 0, 0.5);
+  background: rgba(0, 0, 0, 0);
   color: white;
   padding: 5px 10px;
-  font-size: 15px;
+  font-size: 12px;
   font-family: Arial, sans-serif;
   border-radius: 5px;
   pointer-events: none; /* 防止水印影响用户交互 */
