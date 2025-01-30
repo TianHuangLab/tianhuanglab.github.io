@@ -1,0 +1,238 @@
+---
+layout: page
+title: 法国文化小课堂｜礼仪、语言、饮食文化、餐馆用餐指南
+description: 从法国人的社交礼仪到餐桌上的精致美食，从法语的魅力到米其林餐厅的秘密，这篇文章带你全方位了解法国的文化与生活，感受法式浪漫与优雅的真谛！
+img: assets/img/19french-culture-101-etiquette-language-culinary-dining-guide.webp/aolitravel.com-french-culture-101-etiquette-language-culinary-dining-guide-17.webp
+importance: 3
+category: 
+related_publications: false
+related_posts: true
+toc:
+  sidebar: left
+tags: 法国 旅行准备 目的地 美食 交通 住宿 购物 法语
+map: true
+---
+{% include figure.liquid loading="eager" path="assets/img/19french-culture-101-etiquette-language-culinary-dining-guide.webp/aolitravel.com-french-culture-101-etiquette-language-culinary-dining-guide-1.webp" title="aolitravel.com-french-culture-101-etiquette-language-culinary-dining-guide" class="img-fluid rounded z-depth-1 watermarked" alt="法国文化小课堂｜礼仪、语言、饮食文化、餐馆用餐指南"%}
+
+想象一下，你漫步在巴黎街头，面包房的黄油香与咖啡馆的浓缩咖啡气息交织，耳边飘过轻柔的法语对话，身着风衣的法国人向你微笑致意——这不仅是电影场景，更是法国人刻在骨子里的生活艺术。
+
+✨ 无论是初次踏入这片浪漫土地的旅行者，还是痴迷于法式风情的文化爱好者，总会好奇：为什么法国人能在举手投足间将优雅演绎得如此自然？答案藏在他们的社交礼仪、语言哲学和舌尖上的味道里。
+
+本文将带你解锁法式生活的“通关秘籍”：揭秘法国人如何用一句“Bonjour”打开社交结界，探索400种奶酪背后的饮食信仰，拆解法语中隐藏的幽默智慧，甚至教你像本地人一样在米其林餐厅点餐。无论你是计划一场法国之旅，还是想在家中复刻法式情调，这些文化密码都可以成为你的灵感地图！
+{% include figure.liquid loading="eager" path="assets/img/19french-culture-101-etiquette-language-culinary-dining-guide.webp/aolitravel.com-french-culture-101-etiquette-language-culinary-dining-guide-2.webp" title="aolitravel.com-french-culture-101-etiquette-language-culinary-dining-guide" class="img-fluid rounded z-depth-1 watermarked" alt="法国文化小课堂｜礼仪、语言、饮食文化、餐馆用餐指南"%}
+
+
+---
+
+## 1. 社交礼仪
+
+### 生活礼仪
+
+在法国，生活礼仪是社交互动中不可或缺的一部分。法国人非常重视礼貌和尊重，无论是在公共场合还是私人聚会中，礼貌用语如“Bonjour”（你好）、“Merci”（谢谢）和“Au revoir”（再见）都是必不可少的。👋
+
+法国人从小就被教育要注重礼仪，尤其是在公共场合。例如，在进入商店、咖啡馆或餐馆时，法国人通常会先向店员或服务员打招呼，说一声“Bonjour”。这种习惯不仅体现了对他人的尊重，也展示了法国人对社交礼仪的重视。
+
+在公共场合，法国人通常会保持一定的距离，避免过于亲密的接触。例如，在排队时，他们会保持适当的距离，不会紧贴前面的人。此外，法国人非常注重个人隐私，因此在交谈中避免过于私密的问题，如收入、年龄等。
+
+在家庭聚会中，主人通常会为客人准备丰盛的食物和饮料，客人则应该尽量准时到达，并带上一些小礼物，如一束鲜花或一瓶葡萄酒。🌹🍷 法国人非常重视家庭聚会，尤其是在节日和特殊场合，如圣诞节、复活节和生日等。在这些场合，家庭成员通常会聚在一起，享用美食、交流感情。
+
+当然，随着现代社会节奏的加快，以及人们居住地距离的增加，很多在熟悉的朋友之间的聚会，也可以稍微晚到5-10分钟，这也慢慢地成为一种普遍可接受的社会规则。
+{% include figure.liquid loading="eager" path="assets/img/19french-culture-101-etiquette-language-culinary-dining-guide.webp/aolitravel.com-french-culture-101-etiquette-language-culinary-dining-guide-3.webp" title="aolitravel.com-french-culture-101-etiquette-language-culinary-dining-guide" class="img-fluid rounded z-depth-1 watermarked" alt="法国文化小课堂｜礼仪、语言、饮食文化、餐馆用餐指南"%}
+
+
+### 饮食礼仪
+
+法国的饮食礼仪非常讲究，尤其是在正式场合。用餐时，法国人通常会使用多套餐具，从外到内依次使用。餐巾通常放在膝盖上，用餐结束后再放回桌上。
+
+在餐桌上，法国人非常注重交谈，通常有外国人在场时，他们会避免谈论敏感话题，如政治和宗教。相反，他们更喜欢谈论文化、艺术和美食。🍽️ 法国人认为，用餐不仅是享受美食的时刻，也是交流感情、增进友谊的机会。
+
+此外，法国人非常重视餐桌礼仪，如不发出咀嚼声、不将手肘放在桌上等。在正式场合，用餐时通常会有多道菜，每道菜之间会有短暂的休息时间，供客人交流和放松。
+
+在法国，用餐的顺序通常是开胃菜、主菜、奶酪、甜点和咖啡。开胃菜通常是冷盘或汤，主菜则是肉类或鱼类，奶酪是法国餐桌上不可或缺的一部分，甜点则是餐后的享受。最后，一杯咖啡或茶为这顿美味的餐点画上句号。通常，除了主菜之外，一般其他顺序的菜式可以按需要跳过。
+{% include figure.liquid loading="eager" path="assets/img/19french-culture-101-etiquette-language-culinary-dining-guide.webp/aolitravel.com-french-culture-101-etiquette-language-culinary-dining-guide-4.webp" title="aolitravel.com-french-culture-101-etiquette-language-culinary-dining-guide" class="img-fluid rounded z-depth-1 watermarked" alt="法国文化小课堂｜礼仪、语言、饮食文化、餐馆用餐指南"%}
+
+
+### 送礼习惯
+
+在法国，送礼是一种表达尊重和感激的方式。常见的礼物包括鲜花、葡萄酒、巧克力和书籍。🎁
+
+在送花时，需要注意花的种类和颜色。例如，红玫瑰通常代表爱情，而黄玫瑰则可能代表不忠。因此，在选择花束时，最好选择中性或普遍受欢迎的花卉，如百合或郁金香。
+
+在送葡萄酒时，选择一瓶高质量的法国葡萄酒是非常受欢迎的。法国人非常自豪于他们的葡萄酒文化，因此一瓶好的葡萄酒不仅能表达心意，还能展示你对法国文化的了解和尊重。🍷
+
+在送巧克力时，选择一些高品质的法国巧克力品牌，如[Valrhona](https://www.valrhona.com/fr-FR)或[La Maison du Chocolat](https://www.lamaisonduchocolat.com/fr_fr)，是非常不错的选择。法国巧克力以其细腻的口感和丰富的风味而闻名，是送礼的理想选择。🍫
+
+此外，书籍也是法国人喜欢的礼物之一。法国是一个文化底蕴深厚的国家，书籍在法国人的生活中占有重要地位。选择一本经典的法国文学作品或一本关于法国文化的书籍，不仅能表达心意，还能展示你对法国文化的兴趣和尊重。
+{% include figure.liquid loading="eager" path="assets/img/19french-culture-101-etiquette-language-culinary-dining-guide.webp/aolitravel.com-french-culture-101-etiquette-language-culinary-dining-guide-5.webp" title="aolitravel.com-french-culture-101-etiquette-language-culinary-dining-guide" class="img-fluid rounded z-depth-1 watermarked" alt="法国文化小课堂｜礼仪、语言、饮食文化、餐馆用餐指南"%}
+
+---
+
+## 2. 语言
+
+### 法语起源
+
+[法语](https://zh.wikipedia.org/wiki/%E6%B3%95%E8%AF%AD)起源于拉丁语，是罗曼语族中的一种语言。随着罗马帝国的扩张，拉丁语逐渐传播到高卢地区（今法国），并与当地的高卢语融合，形成了早期的法语。📜
+
+在中世纪，法语逐渐发展成为欧洲的文学和外交语言。许多著名的文学作品，如《罗兰之歌》和《特洛伊传奇》，都是用古法语写成的。随着时间的推移，法语逐渐演变，形成了现代法语。
+{% include figure.liquid loading="eager" path="assets/img/19french-culture-101-etiquette-language-culinary-dining-guide.webp/aolitravel.com-french-culture-101-etiquette-language-culinary-dining-guide-6.webp" title="aolitravel.com-french-culture-101-etiquette-language-culinary-dining-guide" class="img-fluid rounded z-depth-1 watermarked" alt="法国文化小课堂｜礼仪、语言、饮食文化、餐馆用餐指南"%}
+
+### 法语使用地区
+
+法语是世界上使用最广泛的语言之一，全球有超过2.75亿人使用法语。除了法国本土，法语还在加拿大、比利时、瑞士、卢森堡、摩纳哥、非洲多个国家以及加勒比海地区广泛使用。🌍
+
+在加拿大，法语是魁北克省的官方语言，约有700万人使用法语。在比利时，法语是瓦隆大区的官方语言，约有400万人使用法语。在瑞士，法语是四个官方语言之一，约有200万人使用法语。
+{% include figure.liquid loading="eager" path="assets/img/19french-culture-101-etiquette-language-culinary-dining-guide.webp/aolitravel.com-french-culture-101-etiquette-language-culinary-dining-guide-7.webp" title="aolitravel.com-french-culture-101-etiquette-language-culinary-dining-guide" class="img-fluid rounded z-depth-1 watermarked" alt="法国文化小课堂｜礼仪、语言、饮食文化、餐馆用餐指南"%}
+
+### 旅游法语
+
+对于前往法国旅游的游客来说，掌握一些基本的法语短语是非常有帮助的。例如，“Bonjour”（你好）、“Merci”（谢谢）、“Où est la gare?”（火车站在哪里？）和“Combien ça coûte?”（这个多少钱？）等短语可以帮助你更好地与当地人交流。🗺️
+
+此外，了解一些法国的文化习俗和礼仪也能让你的旅行更加顺利。例如，在进入商店或餐馆时，通常会说“Bonjour”来打招呼，离开时则说“Au revoir”。
+
+更多旅游法语内容可以参考我的这篇攻略：
+
+[https://aolitravel.com/france-travel/france-travel-information/#十一常用旅游法语](https://aolitravel.com/france-travel/france-travel-information/#%E5%8D%81%E4%B8%80%E5%B8%B8%E7%94%A8%E6%97%85%E6%B8%B8%E6%B3%95%E8%AF%AD)
+
+### 法语歌曲
+
+法语歌曲在世界音乐舞台上占有重要地位。从经典的香颂到现代的流行音乐，法语歌曲以其优美的旋律和深情的歌词而闻名。🎶
+
+著名的法语歌手包括Édith Piaf、Charles Aznavour、Françoise Hardy和Stromae等。Édith Piaf的《La Vie en Rose》和Charles Aznavour的《La Bohème》是法语歌曲中的经典之作，深受全球听众的喜爱。
+
+法语作为全世界使用人数最多的语言之一，法语歌曲每年推陈出新的频率也很高，更多流行的法语歌曲可以参考各大欧美音乐软件的推荐榜单，比如[spotify](https://open.spotify.com/)或[deezer](https://www.deezer.com/en/)，或者也可查看常见的[网易云音乐](https://music.163.com/)、[QQ音乐](https://y.qq.com/)等。
+{% include figure.liquid loading="eager" path="assets/img/19french-culture-101-etiquette-language-culinary-dining-guide.webp/aolitravel.com-french-culture-101-etiquette-language-culinary-dining-guide-8.webp" title="aolitravel.com-french-culture-101-etiquette-language-culinary-dining-guide" class="img-fluid rounded z-depth-1 watermarked" alt="法国文化小课堂｜礼仪、语言、饮食文化、餐馆用餐指南"%}
+
+### 法式幽默和喜剧
+
+法式幽默以其机智和讽刺而著称。法国人喜欢通过双关语、文字游戏和讽刺来表达幽默。例如，法国著名的喜剧演员Louis de Funès以其夸张的表演和机智的台词而闻名。😄
+
+在法国，幽默通常体现在日常对话中，法国人喜欢通过幽默来缓解紧张的气氛或表达对某件事的看法。因此，在与法国人交流时，理解他们的幽默感是非常重要的。
+
+在法国，脱口秀也是相当的流行，有很多著名的脱口秀节目，比如瑞士蒙特勒举办的[蒙特勒喜剧节](https://montreuxcomedy.com/fr)。
+
+另外更多法语脱口秀演员可以参考这个[清单](https://www.rireetchansons.fr/humoristes/genre-humoriste-francais)。
+{% include figure.liquid loading="eager" path="assets/img/19french-culture-101-etiquette-language-culinary-dining-guide.webp/aolitravel.com-french-culture-101-etiquette-language-culinary-dining-guide-9.webp" title="aolitravel.com-french-culture-101-etiquette-language-culinary-dining-guide" class="img-fluid rounded z-depth-1 watermarked" alt="法国文化小课堂｜礼仪、语言、饮食文化、餐馆用餐指南"%}
+
+---
+
+## 3. 饮食文化
+
+### 法国美食体系
+
+[法国美食](https://zh.wikipedia.org/zh-cn/%E6%B3%95%E5%9C%8B%E8%8F%9C)以其精致和多样性而闻名于世。法国菜被认为是世界上最高级的菜系之一，其烹饪技巧和食材选择都非常讲究。🍴
+
+法国美食体系包括多个地区菜系，如普罗旺斯菜、勃艮第菜和诺曼底菜等。每个地区都有其独特的烹饪风格和特色菜肴。例如，普罗旺斯菜以其丰富的香草和橄榄油而闻名，而勃艮第菜则以红酒炖牛肉和蜗牛为特色。（[了解更多](https://aolitravel.com/france-travel/france-travel-information/#%E4%B9%9D%E6%B3%95%E5%9B%BD%E7%BB%8F%E5%85%B8%E7%BE%8E%E9%A3%9F)）
+{% include figure.liquid loading="eager" path="assets/img/19french-culture-101-etiquette-language-culinary-dining-guide.webp/aolitravel.com-french-culture-101-etiquette-language-culinary-dining-guide-10.webp" title="aolitravel.com-french-culture-101-etiquette-language-culinary-dining-guide" class="img-fluid rounded z-depth-1 watermarked" alt="法国文化小课堂｜礼仪、语言、饮食文化、餐馆用餐指南"%}
+
+### 开胃酒文化
+
+在法国，开胃酒（Apéritif）是餐前的一种传统饮品，通常与小吃一起享用。常见的开胃酒包括香槟、白葡萄酒、苦艾酒和茴香酒等。🍸
+
+开胃酒不仅是一种饮品，更是一种社交活动。在餐前，法国人通常会与朋友或家人一起享用开胃酒，放松心情，增进感情。开胃酒文化体现了法国人对生活的热爱和对美食的追求。
+{% include figure.liquid loading="eager" path="assets/img/19french-culture-101-etiquette-language-culinary-dining-guide.webp/aolitravel.com-french-culture-101-etiquette-language-culinary-dining-guide-11.webp" title="aolitravel.com-french-culture-101-etiquette-language-culinary-dining-guide" class="img-fluid rounded z-depth-1 watermarked" alt="法国文化小课堂｜礼仪、语言、饮食文化、餐馆用餐指南"%}
+
+### 奶酪文化
+
+法国是奶酪的王国，拥有超过400种不同的奶酪。每个地区都有其独特的奶酪品种，如卡门贝尔奶酪、罗克福尔奶酪和布里奶酪等。🧀
+
+在法国，奶酪通常是餐后的一道重要菜肴。法国人非常重视奶酪的品质和风味，通常会搭配葡萄酒或面包一起享用。奶酪文化不仅体现了法国人对美食的热爱，也展示了他们对传统和地域特色的尊重。（[常见奶酪清单](https://aolitravel.com/france-travel/france-travel-information/#%E4%B9%9D%E6%B3%95%E5%9B%BD%E7%BB%8F%E5%85%B8%E7%BE%8E%E9%A3%9F)）
+{% include figure.liquid loading="eager" path="assets/img/19french-culture-101-etiquette-language-culinary-dining-guide.webp/aolitravel.com-french-culture-101-etiquette-language-culinary-dining-guide-12.webp" title="aolitravel.com-french-culture-101-etiquette-language-culinary-dining-guide" class="img-fluid rounded z-depth-1 watermarked" alt="法国文化小课堂｜礼仪、语言、饮食文化、餐馆用餐指南"%}
+
+### 葡萄酒和烈酒
+
+法国是世界上最大的葡萄酒生产国之一，拥有多个著名的葡萄酒产区，如波尔多、勃艮第和香槟等。🍷
+
+法国葡萄酒以其丰富的口感和复杂的风味而闻名。每个产区的葡萄酒都有其独特的风味特点，如波尔多葡萄酒通常具有浓郁的果香和单宁，而勃艮第葡萄酒则以细腻的口感和优雅的风味著称。
+
+除了葡萄酒，法国还以其烈酒而闻名，如干邑白兰地和卡尔瓦多斯苹果白兰地等。这些烈酒通常作为餐后酒享用，具有浓郁的香气和复杂的口感。
+<div class="row justify-content-sm-center">
+  <div class="col-sm mt-3 mt-md-0">
+    {% include figure.liquid loading="eager" path="assets/img/19french-culture-101-etiquette-language-culinary-dining-guide.webp/aolitravel.com-french-culture-101-etiquette-language-culinary-dining-guide-13.webp" title="aolitravel.com-french-culture-101-etiquette-language-culinary-dining-guide" class="img-fluid rounded z-depth-1 watermarked" alt="法国文化小课堂｜礼仪、语言、饮食文化、餐馆用餐指南"%}
+  </div>
+  <div class="col-sm mt-3 mt-md-0">
+    {% include figure.liquid loading="eager" path="assets/img/19french-culture-101-etiquette-language-culinary-dining-guide.webp/aolitravel.com-french-culture-101-etiquette-language-culinary-dining-guide-13a.webp" title="aolitravel.com-french-culture-101-etiquette-language-culinary-dining-guide" class="img-fluid rounded z-depth-1 watermarked" alt="法国文化小课堂｜礼仪、语言、饮食文化、餐馆用餐指南"%}
+  </div>
+</div>
+
+### 巧克力文化
+
+法国巧克力以其高品质和精致的制作工艺而闻名。法国有许多著名的巧克力品牌，如Valrhona、La Maison du Chocolat和Michel Cluizel等。🍫
+
+法国巧克力不仅是一种甜点，更是一种艺术品。巧克力师傅们通过精湛的技艺，将巧克力制作成各种形状和口味，如松露巧克力、夹心巧克力和巧克力棒等。
+
+在法国，巧克力不仅是日常生活中的一种享受，也是节日和特殊场合的重要礼物。例如，在情人节，巧克力是表达爱意的经典礼物。
+{% include figure.liquid loading="eager" path="assets/img/19french-culture-101-etiquette-language-culinary-dining-guide.webp/aolitravel.com-french-culture-101-etiquette-language-culinary-dining-guide-14.webp" title="aolitravel.com-french-culture-101-etiquette-language-culinary-dining-guide" class="img-fluid rounded z-depth-1 watermarked" alt="法国文化小课堂｜礼仪、语言、饮食文化、餐馆用餐指南"%}
+
+---
+
+## 4. 餐馆用餐指南
+
+### 常见用餐步骤
+
+在法国餐馆用餐时，通常会有多个步骤，包括开胃菜、主菜、奶酪、甜点和咖啡。🍽️
+
+首先，服务员会为你提供菜单和酒单。你可以选择开胃菜，如经典的鹅肝酱或蜗牛，现代餐馆中前菜的选择更为丰富，然后选择主菜，如牛排、鸡肉、羊肉或鱼。主菜之后，通常会有一道奶酪拼盘（可选），供你选择不同的奶酪品种。
+
+甜点通常是餐后的最后一道菜，根据餐馆不同，会有很多选择，如巧克力慕斯或焦糖布丁。最后，你可以选择一杯咖啡或茶来结束这顿美味的餐点。
+{% include figure.liquid loading="eager" path="assets/img/19french-culture-101-etiquette-language-culinary-dining-guide.webp/aolitravel.com-french-culture-101-etiquette-language-culinary-dining-guide-15.webp" title="aolitravel.com-french-culture-101-etiquette-language-culinary-dining-guide" class="img-fluid rounded z-depth-1 watermarked" alt="法国文化小课堂｜礼仪、语言、饮食文化、餐馆用餐指南"%}
+
+### 米其林餐馆体系
+
+[米其林指南](https://guide.michelin.com/fr/fr)是世界上最著名的餐馆评级系统之一，由法国轮胎制造商米其林公司于1900年创立。米其林指南通过匿名评审的方式，对全球的餐馆进行评级，分为一星、二星和三星。🌟
+
+米其林星级餐馆以其卓越的烹饪技艺和高品质的服务而闻名。获得米其林星级的餐馆通常需要经过严格的评审过程，包括食材的选择、烹饪技巧、菜品的创新性和服务的质量等。
+
+在法国，有许多著名的米其林星级餐馆，如巴黎的Guy Savoy和Paul Bocuse等。这些餐馆不仅提供美味的菜肴，还为客人提供独特的用餐体验，展示了法国美食的精髓。
+
+更多关于美食的推荐，可以参考我的[博客](https://aolitravel.com/blog/)。我会经常分享我在法国各地的用餐体验。
+{% include figure.liquid loading="eager" path="assets/img/19french-culture-101-etiquette-language-culinary-dining-guide.webp/aolitravel.com-french-culture-101-etiquette-language-culinary-dining-guide-16.webp" title="aolitravel.com-french-culture-101-etiquette-language-culinary-dining-guide" class="img-fluid rounded z-depth-1 watermarked" alt="法国文化小课堂｜礼仪、语言、饮食文化、餐馆用餐指南"%}
+
+---
+
+通过以上详细的介绍，相信你对法国的社交礼仪、语言、饮食文化和餐馆用餐指南有了更深入的了解。无论你是计划前往法国旅行，还是对法国文化感兴趣，我希望这些信息都能为你提供宝贵的参考。
+{% include figure.liquid loading="eager" path="assets/img/19french-culture-101-etiquette-language-culinary-dining-guide.webp/aolitravel.com-french-culture-101-etiquette-language-culinary-dining-guide-17.webp" title="aolitravel.com-french-culture-101-etiquette-language-culinary-dining-guide" class="img-fluid rounded z-depth-1 watermarked" alt="法国文化小课堂｜礼仪、语言、饮食文化、餐馆用餐指南"%}
+
+
+想了解更多法国的旅行灵感？快来探索我的其他旅游攻略吧！😊🇫🇷
+
+**法国旅游**
+
+[《法国旅行前准备攻略：一站式指南》](https://aolitravel.com/france-travel/france-travel-information/)
+
+[《法国旅行入门攻略：申根旅游签证申请指南》](https://aolitravel.com/france-travel/france-visa-information/)
+
+**巴黎**
+
+[《巴黎住宿安全指南｜区域推荐与避坑攻略》](https://aolitravel.com/paris/paris-map-arr/)
+
+[《巴黎必去景点Top20｜一文带你玩转浪漫之都》](https://aolitravel.com/paris/paris-top-20/)
+
+[《2025年最新巴黎机场交通攻略》](https://aolitravel.com/paris/public-transport-paris-airports/)
+
+[《巴黎四天三夜经典行程推荐》](https://aolitravel.com/paris/paris-4days-trip/)
+
+[《最实用的巴黎公共交通指南｜一文看懂怎么选！》](https://aolitravel.com/paris/paris-public-transportation/)
+
+[《巴黎迪士尼乐园游玩攻略｜玩转巴黎的魔法世界！》](https://aolitravel.com/paris/visit-disneyland-paris/)
+
+[《必看！凡尔赛宫游览全攻略｜半天&一天行程完美规划》](https://aolitravel.com/paris/visit-versailles/)
+
+[《枫丹白露宫一日游攻略：解锁皇室秘境！》](https://aolitravel.com/paris/visit-fontainebleau/)
+
+**南法**
+
+[《南法马赛一日游攻略｜本地向导经典路线推荐》](https://aolitravel.com/south-of-france/marseille-1day-trip/)
+
+[《马赛城市住宿指南｜帮你轻松规划马赛之旅》](https://aolitravel.com/south-of-france/marseille-quartier-hotel-recommandation/)
+
+[《马赛必打卡！Top15景点全攻略｜本地向导推荐指南》](https://aolitravel.com/south-of-france/visit-marseille-top15-things-to-do/)
+
+[《南法圣十字湖和看薰衣草最美攻略｜详细停车地点分享》](https://aolitravel.com/south-of-france/visit-lavande-champ-saint-croix-verdon-moustiers-sainte-marie/#%EF%B8%8F-%E7%9C%8B%E6%B9%96%E6%94%BB%E7%95%A5)
+
+[《尼斯最强旅行指南｜Top 18必游景点全攻略》](https://aolitravel.com/south-of-france/nice-top-18-things-to-do/)
+
+[《尼斯住宿全攻略｜7大街区带你解锁南法度假魅力 🌊》](https://aolitravel.com/south-of-france/where-to-stay-in-nice-top7-quariters-hotel-recommandation/)
+
+**Blog**
+
+[更多关于我的生活记录和感受](https://aolitravel.com/blog/)
