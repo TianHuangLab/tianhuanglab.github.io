@@ -1,16 +1,15 @@
 ---
 layout: page
 title: 法国文化小课堂｜礼仪、语言、饮食文化、餐馆用餐指南
-description: 从法国人的社交礼仪到餐桌上的精致美食，从法语的魅力到米其林餐厅的秘密，这篇文章带你全方位了解法国的文化与生活，感受法式浪漫与优雅的真谛！
-img: assets/img/19french-culture-101-etiquette-language-culinary-dining-guide.webp/aolitravel.com-french-culture-101-etiquette-language-culinary-dining-guide-17.webp
+description: 从社交礼仪到美食，从法语魅力到法式幽默，带你全方位感受法式优雅、领略地道法国文化与生活！
+img: assets/img/19french-culture-101-etiquette-language-culinary-dining-guide.webp/aolitravel.com-french-culture-101-etiquette-language-culinary-dining-guide-8.webp
 importance: 3
 category: 
 related_publications: false
 related_posts: true
 toc:
   sidebar: left
-tags: 法国 旅行准备 目的地 美食 交通 住宿 购物 法语
-map: true
+tags: 法国文化 旅行准备 礼仪 语言 饮食文化 餐馆 用餐指南 
 ---
 {% include figure.liquid loading="eager" path="assets/img/19french-culture-101-etiquette-language-culinary-dining-guide.webp/aolitravel.com-french-culture-101-etiquette-language-culinary-dining-guide-1.webp" title="aolitravel.com-french-culture-101-etiquette-language-culinary-dining-guide" class="img-fluid rounded z-depth-1 watermarked" alt="法国文化小课堂｜礼仪、语言、饮食文化、餐馆用餐指南"%}
 
