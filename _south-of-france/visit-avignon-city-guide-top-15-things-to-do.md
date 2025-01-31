@@ -2,7 +2,7 @@
 layout: page
 title: 阿维尼翁旅行指南｜探索教皇之城🏰 15大必游景点
 description: 走进历史悠久的阿维尼翁，漫步在教皇宫殿、浪漫桥梁和古老城墙之间，解锁这座南法文化瑰宝的全部精彩！
-img: assets/img/21avignon-city-guide-top-15-things-to-do/visit-avignon-city-guide-top-15-things-to-do-1.webp
+img: assets/img/21avignon-city-guide-top-15-things-to-do/visit-avignon-city-guide-top-15-things-to-do-0.webp
 importance: 6
 category: 普罗旺斯
 related_publications: false
@@ -14,7 +14,7 @@ map: true
 published: true
 ---
 
-{% include figure.liquid loading="eager" path="assets/img/21avignon-city-guide-top-15-things-to-do/visit-avignon-city-guide-top-15-things-to-do-1.webp" title="avignon-city-guide-aolitravel.com" class="img-fluid rounded z-depth-1"  alt="阿维尼翁城市旅行指南 avignon complete city guide top 15 things to do"%}
+{% include figure.liquid loading="eager" path="assets/img/21avignon-city-guide-top-15-things-to-do/visit-avignon-city-guide-top-15-things-to-do-0.webp" title="avignon-city-guide-aolitravel.com" class="img-fluid rounded z-depth-1"  alt="阿维尼翁城市旅行指南 avignon complete city guide top 15 things to do"%}
 
 **阿维尼翁，这座拥有辉煌教皇历史的南法明珠，每一块石板路都承载着浓厚的文化气息！** 坐落在罗讷河畔，这里曾是14世纪教皇的避风港，如今却成为游客们梦寐以求的旅游胜地。无论是世界遗产级的**教皇宫**（Palais des Papes）、传说中的**圣贝内泽桥**（Pont Saint-Bénézet），还是热闹非凡的阿维尼翁戏剧节，阿维尼翁都能让你沉醉在历史与艺术的交汇之中。
 
@@ -40,7 +40,15 @@ published: true
 - 如何到达：阿维尼翁主教座堂就在教皇宫的旁边，步行几分钟即可到达。如果搭乘公交，可参考教皇宫的路线。如果自驾游，则可以直接停在教皇宫的停车场。
 - 如何游览：进入教堂后，不妨慢慢欣赏教堂里的壁画和石雕。教堂外的露台是绝佳的拍照地点，罗纳河风光尽收眼底。这里也常举办音乐会，如果赶上演出，千万别错过。
 - 门票：参观主教座堂免费，但特别展览可能会收取费用。
-{% include figure.liquid loading="eager" path="assets/img/21avignon-city-guide-top-15-things-to-do/visit-avignon-city-guide-top-15-things-to-do-2.webp" title="avignon-city-guide-aolitravel.com" class="img-fluid rounded z-depth-1"  alt="阿维尼翁城市旅行指南 avignon complete city guide top 15 things to do"%}
+
+<div class="row justify-content-sm-center">
+  <div class="col-sm mt-3 mt-md-0">
+    {% include figure.liquid loading="eager" path="assets/img/21avignon-city-guide-top-15-things-to-do/visit-avignon-city-guide-top-15-things-to-do-2a.webp" title="avignon-city-guide-aolitravel.com" class="img-fluid rounded z-depth-1"  alt="阿维尼翁城市旅行指南 avignon complete city guide top 15 things to do"%}
+  </div>
+  <div class="col-sm mt-3 mt-md-0">
+    {% include figure.liquid loading="eager" path="assets/img/21avignon-city-guide-top-15-things-to-do/visit-avignon-city-guide-top-15-things-to-do-2b.webp" title="avignon-city-guide-aolitravel.com" class="img-fluid rounded z-depth-1"  alt="阿维尼翁城市旅行指南 avignon complete city guide top 15 things to do"%}
+  </div>
+</div>
 
 ---
 
@@ -73,7 +81,7 @@ published: true
 - 如何到达：从教皇宫步行约10分钟即可到达。如果乘坐公交车，可以选择 **Place de l’Horloge站**。
 - 如何游览：建议找一家街边咖啡馆坐下，点一杯咖啡或红酒，静静观察来来往往的行人。如果你对当地的历史感兴趣，可以花点时间参观钟楼旁边的市政厅和歌剧院。
 - 广场免费开放，周边餐厅消费视你的选择而定。
-{% include figure.liquid loading="eager" path="assets/img/21avignon-city-guide-top-15-things-to-do/visit-avignon-city-guide-top-15-things-to-do-5.webp" title="avignon-city-guide-aolitravel.com" class="img-fluid rounded z-depth-1"  alt="阿维尼翁城市旅行指南 avignon complete city guide top 15 things to do"%}
+{% include figure.liquid loading="eager" path="assets/img/21avignon-city-guide-top-15-things-to-do/visit-avignon-city-guide-top-15-things-to-do-5.jpg" title="avignon-city-guide-aolitravel.com" class="img-fluid rounded z-depth-1"  alt="阿维尼翁城市旅行指南 avignon complete city guide top 15 things to do"%}
 
 ---
 
@@ -111,7 +119,14 @@ published: true
 **门票：**
 
 外部参观免费，演出门票根据节目而定，价格通常在15至50欧元之间。
-{% include figure.liquid loading="eager" path="assets/img/21avignon-city-guide-top-15-things-to-do/visit-avignon-city-guide-top-15-things-to-do-7.webp" title="avignon-city-guide-aolitravel.com" class="img-fluid rounded z-depth-1"  alt="阿维尼翁城市旅行指南 avignon complete city guide top 15 things to do"%}
+<div class="row justify-content-sm-center">
+  <div class="col-sm mt-3 mt-md-0">
+    {% include figure.liquid loading="eager" path="assets/img/21avignon-city-guide-top-15-things-to-do/visit-avignon-city-guide-top-15-things-to-do-7a.webp" title="avignon-city-guide-aolitravel.com" class="img-fluid rounded z-depth-1"  alt="阿维尼翁城市旅行指南 avignon complete city guide top 15 things to do"%}
+  </div>
+  <div class="col-sm mt-3 mt-md-0">
+    {% include figure.liquid loading="eager" path="assets/img/21avignon-city-guide-top-15-things-to-do/visit-avignon-city-guide-top-15-things-to-do-7b.webp" title="avignon-city-guide-aolitravel.com" class="img-fluid rounded z-depth-1"  alt="阿维尼翁城市旅行指南 avignon complete city guide top 15 things to do"%}
+  </div>
+</div>
 
 ---
 
@@ -252,25 +267,25 @@ published: true
 
 每年七月，阿维尼翁摇身一变成为全球戏剧艺术的璀璨舞台。作为欧洲最具影响力的表演艺术节之一，[阿维尼翁戏剧节（Festival d'Avignon）](https://festival-avignon.com/)创办于1947年，由法国著名导演让·维拉尔（Jean Vilar）发起。起初，这只是一次实验性的小型戏剧展演，如今已经发展为涵盖戏剧、舞蹈、音乐、视觉艺术等多领域的国际盛会，吸引了世界各地的艺术家和观众。
 
-### **文化与历史**
+**文化与历史**
 
 戏剧节起源于战后复兴时期，当时让·维拉尔希望通过艺术唤起人们对文化的热爱并促成社会的团结。他选择阿维尼翁作为举办地，不仅因为这座城市的历史底蕴与宗教文化浓厚，更因其教皇宫等场所为表演提供了独特的氛围。戏剧节的标志性舞台设在教皇宫的大庭院（Cour d'Honneur），这里宏伟的哥特式建筑与先锋戏剧相互辉映，形成一种别具一格的戏剧体验。如今，这里已成为艺术家们心目中的“圣地”。
 
-### **地址与如何到达**
+**地址与如何到达**
 
 阿维尼翁戏剧节的表演活动分布在全城，核心场地包括教皇宫、阿维尼翁剧院和钟楼广场等地点。主要剧场均位于老城，步行即可轻松抵达。如果从其他城市前来，建议乘坐高铁（TGV），阿维尼翁TGV站距离市中心仅15分钟车程。公交线路L1、L3等可以方便地通往主要表演场地。自驾游客可以将车辆停在 **Parking des Italiens**，再搭乘免费的接驳巴士进入老城。
 
-### **如何参与与游览**
+**如何参与与游览**
 
 阿维尼翁戏剧节分为“官方单元”（Festival In）和“边缘单元”（Festival Off）。官方单元专注于大型剧目，地点多为历史建筑，如教皇宫大庭院。而边缘单元则更加自由，覆盖街头表演、小型剧场和实验性艺术表演，为艺术家提供展示创意的舞台。两部分共计超过1000场演出，让整个城市沉浸在艺术的海洋中。
 
 对于观众来说，提前规划行程尤为重要。可以通过戏剧节的官方网站查阅节目单，并提前预订票务，热门表演往往一票难求。如果没有买到官方单元的门票，不妨漫步街头，感受边缘单元的多元活力。从实验性的小型演出到随处可见的街头艺术，随时都可能被新奇创意吸引停下脚步。
 
-### **门票与实用信息**
+**门票与实用信息**
 
 阿维尼翁戏剧节的票价根据演出类型和场地不同而有所差异。官方单元门票通常在25至80欧元之间，而边缘单元则更加亲民，大部分表演价格在10至20欧元。值得一提的是，部分街头表演和小型艺术展览是免费的，尤其适合预算有限的旅行者。建议购买一份戏剧节通票，既方便又划算。
 
-### **不可错过的体验**
+**不可错过的体验**
 
 来到阿维尼翁戏剧节，除了欣赏高水平的演出，还可以参加艺术家见面会、剧场导览、幕后工作坊等活动，深入了解戏剧制作的全过程。如果你是一位艺术爱好者，这里提供了一个绝佳的机会与你崇拜的艺术家零距离接触。夜晚的阿维尼翁灯火辉煌，街头艺人热情洋溢，整个城市仿佛变成了一座不夜城，每一个转角都有惊喜等待你去发现。
 <div class="row justify-content-sm-center">
