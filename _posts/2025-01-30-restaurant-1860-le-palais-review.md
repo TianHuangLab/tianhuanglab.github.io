@@ -19,45 +19,45 @@ published: true
   </div>
 </div>
 
-## 🏛️ 餐厅历史与氛围
+### 🏛️ 餐厅历史与氛围
 
 这家餐厅可不是普通的法餐厅，它藏身于马赛著名的 **Palais de la Bourse（证券宫）** 内，这座建筑可是 19 世纪的老牌地标。**1860 Le Palais Restaurant** 的名字也正是来自它的历史背景，充满了浓厚的法式复古氛围。走进餐厅，高高的天花板、精致的装修、考究的灯光设计，营造出既典雅又时尚的用餐环境。整个空间宽敞大气，既保留了老建筑的优雅，又融入了非常靓丽的现代元素，让人在享受美食的同时，也能感受到历史的沉淀。
 
 地址：9 La Canebière Vieux Port, 13001 Marseille
 
-官网：https://1860lepalais.fr/
+官网：[https://1860lepalais.fr/](https://1860lepalais.fr/)
 <div class="row justify-content-sm-center">
   <div class="col-sm mt-3 mt-md-0">
     {% include figure.liquid loading="eager" path="assets/img/post6-marseille-1860lepalais-restaurant-review/aolitravel.com-marseille-1860lepalais-restaurant-review-avis-7.webp" title="marseille-1860-Le-Palais-Restaurant-avis-review" class="img-fluid rounded z-depth-1" alt="马赛老港边1860 Le Palais Restaurant法餐厅体验"%}
   </div>
   <div class="col-sm mt-3 mt-md-0">
-    {% include figure.liquid loading="eager" path="assets/img/post6-marseille-1860lepalais-restaurant-review/aolitravel.com-marseille-1860lepalais-restaurant-review-avis-8.webp" title="marseille-1860-Le-Palais-Restaurant-avis-review" class="img-fluid rounded z-depth-1" alt="马赛老港边1860 Le Palais Restaurant法餐厅体验"%}
+    {% include figure.liquid loading="eager" path="assets/img/post6-marseille-1860lepalais-restaurant-review/aolitravel.com-marseille-1860lepalais-restaurant-review-avis-8.jpg" title="marseille-1860-Le-Palais-Restaurant-avis-review" class="img-fluid rounded z-depth-1" alt="马赛老港边1860 Le Palais Restaurant法餐厅体验"%}
   </div>
 </div>
 
-## 🍽️ 我们点的四道菜
+### 🍽️ 我们点的四道菜
 
-### 🥩 阿根廷肋眼牛排（NOIX D’ENTRECÔTE ARGENTINE）
+🥩 **阿根廷肋眼牛排（NOIX D’ENTRECÔTE ARGENTINE）**
 
 这道牛排一上桌就香气四溢，外皮煎得微微焦脆，里面还是粉嫩多汁的状态，切开后肉汁缓缓流出，光是看着就让人食欲大增。简单的调味就足够突出牛肉本身的风味，搭配香脆的薯角和烤蔬菜，口感层次丰富。
 {% include figure.liquid loading="eager" path="assets/img/post6-marseille-1860lepalais-restaurant-review/aolitravel.com-marseille-1860lepalais-restaurant-review-avis-2.webp" title="marseille-1860-Le-Palais-Restaurant-avis-review" class="img-fluid rounded z-depth-1" alt="马赛老港边1860 Le Palais Restaurant法餐厅体验"%}
 
-### 🍖 10小时慢煮羊膝（SOURIS D’AGNEAU « 350 GR » CONFITE 10 HEURES）
+🍖 **10小时慢煮羊膝（SOURIS D’AGNEAU « 350 GR » CONFITE 10 HEURES）**
 
 慢煮10小时的羊膝完全不需要刀叉，轻轻一拨就骨肉分离，软烂得让人惊喜。羊肉吸满了香料和酱汁的味道，带着一丝微微的甜味，搭配绵密的土豆泥，每一口都超满足。
 {% include figure.liquid loading="eager" path="assets/img/post6-marseille-1860lepalais-restaurant-review/aolitravel.com-marseille-1860lepalais-restaurant-review-avis-4.webp" title="marseille-1860-Le-Palais-Restaurant-avis-review" class="img-fluid rounded z-depth-1" alt="马赛老港边1860 Le Palais Restaurant法餐厅体验"%}
 
-### 🐠 今日鲜鱼配烟熏南瓜（POISSON DU JOUR AVEC BUTTERNUT FUMÉ）
+🐠 **今日鲜鱼配烟熏南瓜（POISSON DU JOUR AVEC BUTTERNUT FUMÉ）**
 
 和上一道鱼料理不同，这道菜搭配的是烟熏奶油南瓜，南瓜绵密香甜，又带着一丝烟熏气息，和鱼肉的鲜嫩形成了很有趣的对比。感觉像是在吃一道法餐版的“红烧鱼”，但味道更加清新优雅。3
 {% include figure.liquid loading="eager" path="assets/img/post6-marseille-1860lepalais-restaurant-review/aolitravel.com-marseille-1860lepalais-restaurant-review-avis-3.webp" title="marseille-1860-Le-Palais-Restaurant-avis-review" class="img-fluid rounded z-depth-1" alt="马赛老港边1860 Le Palais Restaurant法餐厅体验"%}
 
-### 🐟 今日鲜鱼铁板烧（POISSON DU JOUR À LA PLANCHA）
+🐟 **今日鲜鱼铁板烧（POISSON DU JOUR À LA PLANCHA）**
 
 当天的新鲜海鱼，简单用铁板煎制，鱼皮香脆，鱼肉嫩滑，带着淡淡的海水咸香。挤上一点柠檬汁，再蘸点橄榄油，味道清爽又不失层次。喜欢吃海鲜的朋友一定会爱上这道菜！1
 {% include figure.liquid loading="eager" path="assets/img/post6-marseille-1860lepalais-restaurant-review/aolitravel.com-marseille-1860lepalais-restaurant-review-avis-1.webp" title="marseille-1860-Le-Palais-Restaurant-avis-review" class="img-fluid rounded z-depth-1" alt="马赛老港边1860 Le Palais Restaurant法餐厅体验"%}
 
-## 🍰 甜点也很出彩！
+### 🍰 甜点也很出彩！
 
 吃完正餐，当然要来点甜点！这家餐厅的甜品做得相当精致，像焦糖布丁、巧克力熔岩蛋糕、法式水果挞，每一样都颜值高、味道佳。
 <div class="row justify-content-sm-center">
@@ -75,15 +75,15 @@ published: true
     {% include figure.liquid loading="eager" path="assets/img/post6-marseille-1860lepalais-restaurant-review/aolitravel.com-marseille-1860lepalais-restaurant-review-avis-11.webp" title="marseille-1860-Le-Palais-Restaurant-avis-review" class="img-fluid rounded z-depth-1" alt="马赛老港边1860 Le Palais Restaurant法餐厅体验"%}
   </div>
   <div class="col-sm mt-3 mt-md-0">
-    {% include figure.liquid loading="eager" path="assets/img/post6-marseille-1860lepalais-restaurant-review/aolitravel.com-marseille-1860lepalais-restaurant-review-avis-12.webp" title="marseille-1860-Le-Palais-Restaurant-avis-review" class="img-fluid rounded z-depth-1" alt="马赛老港边1860 Le Palais Restaurant法餐厅体验"%}
+    {% include figure.liquid loading="eager" path="assets/img/post6-marseille-1860lepalais-restaurant-review/aolitravel.com-marseille-1860lepalais-restaurant-review-avis-12.jpg" title="marseille-1860-Le-Palais-Restaurant-avis-review" class="img-fluid rounded z-depth-1" alt="马赛老港边1860 Le Palais Restaurant法餐厅体验"%}
   </div>
 </div>
 
-## 🎉 除夕夜不一样的体验
+### 🎉 除夕夜不一样的体验
 
 虽然没吃上中餐，但这顿法餐依旧让我们过了个温馨的除夕夜。其实，不管在哪里吃饭，最重要的还是和家人在一起的那种感觉。换个角度想，过年吃法餐也是一次特别的体验，既满足了味蕾，又多了一次难忘的记忆。
 
-## 💡 总结：值得一试！
+### 💡 总结：值得一试！
 
 **1860 Le Palais Restaurant** 这家餐厅环境不错，服务也很贴心，菜品更是没得挑。如果你想换换口味，尝试一下精致的法式料理，这里绝对不会让你失望！
 
@@ -137,6 +137,3 @@ published: true
 
 [《尼斯住宿全攻略｜7大街区带你解锁南法度假魅力 🌊》](https://aolitravel.com/south-of-france/where-to-stay-in-nice-top7-quariters-hotel-recommandation/)
 
-**Blog**
-
-[更多关于我的生活记录和感受](https://aolitravel.com/blog/)
