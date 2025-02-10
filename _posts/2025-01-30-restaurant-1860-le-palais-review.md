@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 美食地图系列｜马赛老港边1860 Le Palais Restaurant法餐厅体验
-date: 2025-01-30 20:00:00
+title: 美食地图系列｜马赛老港边1860 Le Palais Restaurant法餐厅初体验
+date: 2025-02-01 20:00:00
 description: 除夕夜换个口味，在马赛的百年历史建筑中的法餐厅 1860 Le Palais 来一场味蕾盛宴，精致菜品+典雅时尚的氛围=难忘的体验！🇫🇷✨
 tags: 法国 马赛 普罗旺斯
 categories: 美食与餐厅推荐
