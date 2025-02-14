@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 蔚蓝海岸尼斯、摩纳哥、戛纳最强三日游攻略，一路畅享南法风情
-description: 漫步尼斯海滨、探索摩纳哥奢华、登顶埃兹鹰巢村、打卡芒通柠檬小镇，再去戛纳感受电影节魅力！三日南法之行梦幻又难忘！
+title: 蔚蓝海岸尼斯、摩纳哥、戛纳最强三日游攻略
+description: 漫步尼斯海滨、探索摩纳哥奢华、登顶埃兹鹰巢村、打卡芒通柠檬小镇，再去戛纳感受电影节魅力！
 img: assets/img/22nice-eze-monaco-menton-cannes-3days-trip/aolitravel.com-nice-eze-monaco-menton-cannes-3days-trip-0.png
 importance: 3
 category: 蔚蓝海岸
@@ -16,7 +16,7 @@ published: true
 
 <div class="row justify-content-sm-center">
   <div class="col-sm mt-3 mt-md-0">
-    {% include figure.liquid loading="eager" path="assets/img/22nice-eze-monaco-menton-cannes-3days-trip/aolitravel.com-nice-eze-monaco-menton-cannes-3days-trip-1.jpg" title="aolitravel.com-nice-eze-monaco-menton-cannes-3days-trip" class="img-fluid rounded z-depth-1"  alt="蔚蓝海岸三日游尼斯、摩纳哥、埃兹、芒通、戛纳攻略nice-eze-monaco-menton-cannes-3days-trip"%}
+    {% include figure.liquid loading="eager" path="assets/img/22nice-eze-monaco-menton-cannes-3days-trip/aolitravel.com-nice-eze-monaco-menton-cannes-3days-trip-1.png" title="aolitravel.com-nice-eze-monaco-menton-cannes-3days-trip" class="img-fluid rounded z-depth-1"  alt="蔚蓝海岸三日游尼斯、摩纳哥、埃兹、芒通、戛纳攻略nice-eze-monaco-menton-cannes-3days-trip"%}
   </div>
   <div class="col-sm mt-3 mt-md-0">
     {% include figure.liquid loading="eager" path="assets/img/22nice-eze-monaco-menton-cannes-3days-trip/aolitravel.com-nice-eze-monaco-menton-cannes-3days-trip-2.png" title="aolitravel.com-nice-eze-monaco-menton-cannes-3days-trip" class="img-fluid rounded z-depth-1"  alt="蔚蓝海岸三日游尼斯、摩纳哥、埃兹、芒通、戛纳攻略nice-eze-monaco-menton-cannes-3days-trip"%}
@@ -73,14 +73,9 @@ published: true
 **1. 埃兹小镇（Èze Village）**
 
 早上从尼斯出发，乘坐82路或112路公交车前往埃兹小镇（约30分钟车程）。这座中世纪小镇坐落在悬崖上，被誉为“鹰巢村”。小镇的街道蜿蜒曲折，两旁是石头砌成的房屋和精致的小店。最值得一去的是山顶的异国植物园（Jardin Exotique），这里种满了仙人掌和多肉植物，还能俯瞰地中海的美景。
-<div class="row justify-content-sm-center">
-  <div class="col-sm mt-3 mt-md-0">
-    {% include figure.liquid loading="eager" path="assets/img/22nice-eze-monaco-menton-cannes-3days-trip/aolitravel.com-nice-eze-monaco-menton-cannes-3days-trip-6.jpg" title="aolitravel.com-nice-eze-monaco-menton-cannes-3days-trip" class="img-fluid rounded z-depth-1"  alt="蔚蓝海岸三日游尼斯、摩纳哥、埃兹、芒通、戛纳攻略nice-eze-monaco-menton-cannes-3days-trip"%}
-  </div>
-  <div class="col-sm mt-3 mt-md-0">
-    {% include figure.liquid loading="eager" path="assets/img/22nice-eze-monaco-menton-cannes-3days-trip/aolitravel.com-nice-eze-monaco-menton-cannes-3days-trip-7.jpg" title="aolitravel.com-nice-eze-monaco-menton-cannes-3days-trip" class="img-fluid rounded z-depth-1"  alt="蔚蓝海岸三日游尼斯、摩纳哥、埃兹、芒通、戛纳攻略nice-eze-monaco-menton-cannes-3days-trip"%}
-  </div>
-</div>
+{% include figure.liquid loading="eager" path="assets/img/22nice-eze-monaco-menton-cannes-3days-trip/aolitravel.com-nice-eze-monaco-menton-cannes-3days-trip-6.jpg" title="aolitravel.com-nice-eze-monaco-menton-cannes-3days-trip" class="img-fluid rounded z-depth-1"  alt="蔚蓝海岸三日游尼斯、摩纳哥、埃兹、芒通、戛纳攻略nice-eze-monaco-menton-cannes-3days-trip"%}
+{% include figure.liquid loading="eager" path="assets/img/22nice-eze-monaco-menton-cannes-3days-trip/aolitravel.com-nice-eze-monaco-menton-cannes-3days-trip-7.jpg" title="aolitravel.com-nice-eze-monaco-menton-cannes-3days-trip" class="img-fluid rounded z-depth-1"  alt="蔚蓝海岸三日游尼斯、摩纳哥、埃兹、芒通、戛纳攻略nice-eze-monaco-menton-cannes-3days-trip"%}
+
 **2. 摩纳哥（Monaco）**
 
 从埃兹小镇乘坐112路公交车，约20分钟就能到达摩纳哥。这个袖珍小国虽然面积不大，但奢华程度令人惊叹。
@@ -100,8 +95,9 @@ published: true
 
 **3. 芒通（Menton）**
 
-下午从摩纳哥乘坐火车前往芒通（约15分钟车程）。这座小城以柠檬闻名，每年2月还会举办柠檬节。芒通的建筑以橙黄色为主，搭配蔚蓝的地中海，特别适合拍照。推荐打卡地点：
-
+下午从摩纳哥乘坐火车前往芒通（约15分钟车程）。这座小城以柠檬闻名，每年2月还会举办柠檬节。芒通的建筑以橙黄色为主，搭配蔚蓝的地中海，特别适合拍照。
+{% include figure.liquid loading="eager" path="assets/img/22nice-eze-monaco-menton-cannes-3days-trip/aolitravel.com-nice-eze-monaco-menton-cannes-3days-trip-11.jpg" title="aolitravel.com-nice-eze-monaco-menton-cannes-3days-trip" class="img-fluid rounded z-depth-1"  alt="蔚蓝海岸三日游尼斯、摩纳哥、埃兹、芒通、戛纳攻略nice-eze-monaco-menton-cannes-3days-trip"%}
+推荐打卡地点：
 - **圣米歇尔大教堂（Basilique Saint-Michel）**：巴洛克风格的教堂，非常壮观。
 - **老城（Vieux Menton）**：狭窄的街道和彩色的房屋，充满了南法风情。
 - **让·科克托博物馆（Musée Jean Cocteau）**：如果你是艺术爱好者，一定不要错过。
@@ -110,14 +106,9 @@ published: true
 
 - 芒通的柠檬制品（如柠檬酒、柠檬糖）是很好的伴手礼。
 - 傍晚返回尼斯，结束一天的行程。
-<div class="row justify-content-sm-center">
-  <div class="col-sm mt-3 mt-md-0">
-    {% include figure.liquid loading="eager" path="assets/img/22nice-eze-monaco-menton-cannes-3days-trip/aolitravel.com-nice-eze-monaco-menton-cannes-3days-trip-10.jpg" title="aolitravel.com-nice-eze-monaco-menton-cannes-3days-trip" class="img-fluid rounded z-depth-1"  alt="蔚蓝海岸三日游尼斯、摩纳哥、埃兹、芒通、戛纳攻略nice-eze-monaco-menton-cannes-3days-trip"%}
-  </div>
-  <div class="col-sm mt-3 mt-md-0">
-    {% include figure.liquid loading="eager" path="assets/img/22nice-eze-monaco-menton-cannes-3days-trip/aolitravel.com-nice-eze-monaco-menton-cannes-3days-trip-11.jpg" title="aolitravel.com-nice-eze-monaco-menton-cannes-3days-trip" class="img-fluid rounded z-depth-1"  alt="蔚蓝海岸三日游尼斯、摩纳哥、埃兹、芒通、戛纳攻略nice-eze-monaco-menton-cannes-3days-trip"%}
-  </div>
-</div>
+
+{% include figure.liquid loading="eager" path="assets/img/22nice-eze-monaco-menton-cannes-3days-trip/aolitravel.com-nice-eze-monaco-menton-cannes-3days-trip-10.jpg" title="aolitravel.com-nice-eze-monaco-menton-cannes-3days-trip" class="img-fluid rounded z-depth-1"  alt="蔚蓝海岸三日游尼斯、摩纳哥、埃兹、芒通、戛纳攻略nice-eze-monaco-menton-cannes-3days-trip"%}
+
 ---
 
 ### **第三天：戛纳，感受电影之城的魅力**
