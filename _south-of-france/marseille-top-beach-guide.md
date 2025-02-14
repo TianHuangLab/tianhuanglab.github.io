@@ -106,18 +106,18 @@ Plage des Catalans位于马赛7区，是离老港最近的沙滩，步行即可�
 
 ---
 
-### **马赛沙滩游玩小贴士**
+### **5. 马赛沙滩游玩小贴士**
 
 1. **防晒必备**：南法的阳光非常强烈，记得带好防晒霜、帽子和墨镜。
 2. **提前规划**：夏季是马赛沙滩的旺季，建议早上或傍晚前往，避开中午的高温和人流。
 3. **环保出行**：马赛的沙滩非常干净，请大家自觉带走垃圾，保护这片美丽的海岸线。
-4. **尝试当地美食**：沙滩附近有很多餐厅和常设的小吃摊，推荐尝尝特调的鸡尾酒、马赛鱼汤（Bouillabaisse）和法式三明治（Pan Bagnat）。10a/10
+4. **尝试当地美食**：沙滩附近有很多餐厅和常设的小吃摊，推荐尝尝特调的鸡尾酒、马赛鱼汤（Bouillabaisse）和法式三明治（Pan Bagnat）。
 {% include figure.liquid loading="eager" path="assets/img/23marseille-top-beach-guide/aolitravel.com-marseille-top-beach-guide-10a.webp" title="aolitravel.com-marseille-top-beach-guide" class="img-fluid rounded z-depth-1"  alt="南法马赛城市沙滩指南marseille-top-beach-guide"%}
 {% include figure.liquid loading="eager" path="assets/img/23marseille-top-beach-guide/aolitravel.com-marseille-top-beach-guide-10.webp" title="aolitravel.com-marseille-top-beach-guide" class="img-fluid rounded z-depth-1"  alt="南法马赛城市沙滩指南marseille-top-beach-guide"%}
 
 ---
 
-## **总结**
+**总结**
 
 马赛的城市沙滩不仅是当地人生活的一部分，也是游客感受南法风情的重要窗口。无论是热闹的Plage de Prado，还是安静的Plage de la Lave，每一片沙滩都有其独特的魅力。如果你来马赛，别忘了抽出一天时间，去沙滩上晒晒太阳、听听海浪声，感受这座城市的悠闲与浪漫。
 {% include figure.liquid loading="eager" path="assets/img/23marseille-top-beach-guide/aolitravel.com-marseille-top-beach-guide-11.webp" title="aolitravel.com-marseille-top-beach-guide" class="img-fluid rounded z-depth-1"  alt="南法马赛城市沙滩指南marseille-top-beach-guide"%}
