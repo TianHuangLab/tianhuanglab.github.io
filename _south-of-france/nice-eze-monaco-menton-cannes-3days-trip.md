@@ -14,7 +14,7 @@ map: true
 published: true
 ---
 
-{% include figure.liquid loading="eager" path="assets/img/22nice-eze-monaco-menton-cannes-3days-trip/aolitravel.com-nice-eze-monaco-menton-cannes-3days-trip-0.png" title="aolitravel.com-nice-eze-monaco-menton-cannes-3days-trip" class="img-fluid rounded z-depth-1"  alt="蔚蓝海岸三日游尼斯、摩纳哥、埃兹、芒通、戛纳攻略nice-eze-monaco-menton-cannes-3days-trip"%}
+{% include figure.liquid loading="eager" path="assets/img/22nice-eze-monaco-menton-cannes-3days-trip/aolitravel.com-nice-eze-monaco-menton-cannes-3days-trip-0a.webp" title="aolitravel.com-nice-eze-monaco-menton-cannes-3days-trip" class="img-fluid rounded z-depth-1"  alt="蔚蓝海岸三日游尼斯、摩纳哥、埃兹、芒通、戛纳攻略nice-eze-monaco-menton-cannes-3days-trip"%}
 
 说到蔚蓝海岸（Côte d’Azur），你脑海中闪过的第一印象一定是法国尼斯（Nice）。这座位于法国东南部的城市，坐落在天使湾（Baie des Anges）旁，是法国第五大都市圈的核心。尼斯不仅是世界顶级的度假胜地，更是蔚蓝海岸的灵魂所在。一年四季，这里都吸引着无数游客，尤其是夏季，海滩上人潮涌动，住宿价格也水涨船高。如果你想要最好的游玩体验和出行性价比，我强烈推荐4-6月或9-10月前往尼斯旅游。
 
