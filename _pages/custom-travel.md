@@ -36,25 +36,6 @@ body {
   border-radius: 5px;
 }
 
-/* 图片轮播 */
-.carousel-container {
-  display: flex;
-  overflow-x: auto;
-  scroll-behavior: smooth;
-  white-space: nowrap;
-  padding: 20px;
-  margin: 20px 0;
-}
-
-.carousel-container img {
-  width: 100%;
-  max-width: 400px;
-  height: auto;
-  margin: 0 10px;
-  border-radius: 5px;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-}
-
 /* 卡片式布局 */
 .card-container {
   display: flex;
@@ -131,7 +112,7 @@ body {
 
 <script>
   const accessKey = "0Ukx3h0_C18RepNO7qXDQeFSfYQHh7Mr57cNmAN8X-M";
-  const searchQueries = ["france", "french travel", "paris city", "provence city", "france nice", "alps view", "french historical monuments", "marseille city", "lyon city", "france culture"];
+  const searchQueries = ["france", "french travel", "paris city", "provence city", "france nice", "alps view", "french monuments", "french heritage", "lyon city", "france culture"];
   const carouselContainer = document.getElementById("carousel");
 
   async function fetchUnsplashImages() {
@@ -245,7 +226,7 @@ body {
 
 <label for="interests">🎯 特别兴趣：</label><br> <input type="checkbox" name="interests" value="历史遗迹"> 历史遗迹<br> <input type="checkbox" name="interests" value="自然风光"> 自然风光<br> <input type="checkbox" name="interests" value="购物"> 购物<br> <input type="checkbox" name="interests" value="夜生活"> 夜生活<br> <input type="checkbox" name="interests" value="摄影"> 摄影<br><br>
 
-<label for="message">📝 其他需求或备注：</label><br>
+<label for="message">📝 其他需求或备注其他联系方式，如微信或Line：</label><br>
 
 <textarea id="message" name="message" rows="4" placeholder="请提供其他特殊需求或偏好"></textarea><br><br> <button type="submit" style="background-color: #ff4d4d; color: white; padding: 10px 20px; font-size: 16px; border: none; cursor: pointer;"> 🚀 提交需求，获取定制行程 </button> </form>
 
@@ -255,19 +236,19 @@ body {
 
 🇫🇷 量身定制 · 深度体验 —— 让你的法国之行不只是打卡，而是一次真正的沉浸式旅行！
 
-✅ 地道视角，告别千篇一律的跟团行程
+### 地道视角，告别千篇一律的跟团行程
 👉 作为一名长期旅居法国的旅行达人，我用本地人的视角，带你发现最真实的法国风情。
 
-✅ 精准推荐，避坑省钱，最大化旅行体验
+### 精准推荐，避坑省钱，最大化旅行体验
 👉 无需在攻略海洋中迷失，我帮你筛选最值得去的地方，让你花更少的钱，玩得更尽兴！
 
-✅ 个性化规划，满足你的独特旅行偏好
+### 个性化规划，满足你的独特旅行偏好
 👉 无论是浪漫法式度假、美食探索、亲子游、文化艺术，还是户外冒险，我都能为你量身打造专属行程。
 
-✅ 1000+ 旅行者真实体验，好评如潮！
+### 1000+ 旅行者真实体验，好评如潮！
 👉 已帮助上千名旅行者规划他们的法国之旅，让旅行变得简单又难忘！
 
-🎒 还在犹豫？ 现在就填写下方表单，告诉我你的旅行需求，让我们一起开启这段法式美好之旅！ 💙✨
+🎒 还在犹豫？ 现在就填写上方表单，告诉我你的旅行需求，让我们一起开启这段法式美好之旅！ 💙✨
 
 📩 任何问题，欢迎随时联系我：contact@aolitravel.com
 
