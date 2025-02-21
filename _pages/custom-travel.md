@@ -101,9 +101,11 @@ body {
 }
 </style>
 
+<!--
 <div class="hero">
-  <h1>🇫🇷 嗨！我是奥利飞飞，欢迎来到 Aoli Travel！</h1>
+  <h1>欢迎来到 Aoli Travel！我的同名旅行品牌，带你探索最地道的法国之旅！</h1>
 </div>
+-->
 
 ## 🇫🇷 嗨！欢迎来到 Aoli Travel —— 我的同名旅行品牌，带你探索最地道的法国之旅！
 
@@ -123,31 +125,62 @@ body {
 
 ## 🎥 **先来感受一下旅行的美好！**  
 
-> 这里是 **滚动图片展示区域**（可插入 HTML / CSS 代码）  
+## 🇫🇷 法国旅行灵感 🎉
 
-<div class="scrolling-banner">
-  <img src="https://source.unsplash.com/1600x900/?paris,france" alt="巴黎浪漫街巷">
-  <img src="https://source.unsplash.com/1600x900/?provence,france" alt="普罗旺斯薰衣草田">
-  <img src="https://source.unsplash.com/1600x900/?nice,france" alt="尼斯蔚蓝海岸">
-  <img src="https://source.unsplash.com/1600x900/?alps,france" alt="阿尔卑斯雪山">
-  <img src="https://source.unsplash.com/1600x900/?frenchfood" alt="法国美食">
+<div class="carousel-container" id="carousel">
+  <!-- 图片将由 JavaScript 动态填充 -->
 </div>
 
+<script>
+  const accessKey = "0Ukx3h0_C18RepNO7qXDQeFSfYQHh7Mr57cNmAN8X-M";
+  const searchQueries = ["paris", "provence", "nice", "alps", "french food"];
+  const carouselContainer = document.getElementById("carousel");
+
+  async function fetchUnsplashImages() {
+    try {
+      for (let query of searchQueries) {
+        let response = await fetch(`https://api.unsplash.com/photos/random?query=${query}&client_id=${accessKey}&orientation=landscape`);
+        let data = await response.json();
+        let img = document.createElement("img");
+        img.src = data.urls.regular; 
+        img.alt = query;
+        img.style.width = "100%";
+        img.style.maxWidth = "400px";
+        img.style.height = "auto";
+        img.style.margin = "0 10px";
+        img.style.borderRadius = "5px";
+        img.style.boxShadow = "0 2px 4px rgba(0, 0, 0, 0.1)";
+        carouselContainer.appendChild(img);
+      }
+    } catch (error) {
+      console.error("Unsplash 图片加载失败", error);
+    }
+  }
+
+  fetchUnsplashImages();
+</script>
+
+
 <style>
-.scrolling-banner {
-  display: flex;
-  overflow-x: auto;
-  scroll-behavior: smooth;
-  white-space: nowrap;
-}
-.scrolling-banner img {
-  width: 100%;
-  max-width: 500px;
-  height: auto;
-  margin-right: 10px;
-  border-radius: 10px;
-}
+  .carousel-container {
+    display: flex;
+    overflow-x: auto;
+    scroll-behavior: smooth;
+    white-space: nowrap;
+    padding: 20px;
+    margin: 20px 0;
+  }
+
+  .carousel-container img {
+    width: 100%;
+    max-width: 400px;
+    height: auto;
+    margin: 0 10px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
 </style>
+
 ---
 
 ## ✨ **选择你的旅行风格**  
