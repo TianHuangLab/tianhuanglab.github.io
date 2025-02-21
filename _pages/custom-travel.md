@@ -6,6 +6,104 @@ description: 轻松定制你的法国旅行计划，让探索变得简单、纯�
 nav: true
 nav_order: 6
 ---
+<style>
+/* 页面整体样式 */
+body {
+  font-family: 'Helvetica Neue', Arial, sans-serif;
+  background-color: #ffffff;
+  color: #333333;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+/* 标题部分 */
+.hero {
+  position: relative;
+  background: url('https://source.unsplash.com/1600x900/?france,travel') no-repeat center center/cover;
+  height: 300px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #ffffff;
+  text-shadow: 1px 1px 5px rgba(0, 0, 0, 0.5);
+}
+
+.hero h1 {
+  font-size: 2em;
+  background: rgba(0, 0, 0, 0.3);
+  padding: 10px 20px;
+  border-radius: 5px;
+}
+
+/* 图片轮播 */
+.carousel-container {
+  display: flex;
+  overflow-x: auto;
+  scroll-behavior: smooth;
+  white-space: nowrap;
+  padding: 20px;
+  margin: 20px 0;
+}
+
+.carousel-container img {
+  width: 100%;
+  max-width: 400px;
+  height: auto;
+  margin: 0 10px;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+/* 卡片式布局 */
+.card-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+  margin: 20px 0;
+}
+
+.card {
+  background: #f9f9f9;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  padding: 15px;
+  width: 220px;
+  text-align: center;
+}
+
+.card img {
+  width: 100%;
+  border-radius: 5px;
+}
+
+.card h3 {
+  margin: 10px 0;
+  font-size: 1.1em;
+}
+
+/* 按钮 */
+.button {
+  background: #ff4d4d;
+  color: #ffffff;
+  padding: 10px 20px;
+  font-size: 16px;
+  text-decoration: none;
+  border-radius: 5px;
+  display: inline-block;
+  margin: 20px 0;
+  transition: background 0.3s;
+}
+
+.button:hover {
+  background: #e63939;
+}
+</style>
+
+<div class="hero">
+  <h1>🇫🇷 嗨！我是奥利飞飞，欢迎来到 Aoli Travel！</h1>
+</div>
 
 ## 🇫🇷 嗨！欢迎来到 Aoli Travel —— 我的同名旅行品牌，带你探索最地道的法国之旅！
 
@@ -50,6 +148,35 @@ nav_order: 6
   border-radius: 10px;
 }
 </style>
+---
+
+## ✨ **选择你的旅行风格**  
+
+<div class="card-container">
+  <div class="card">
+    <img src="https://source.unsplash.com/300x200/?romantic,paris" alt="浪漫旅行">
+    <h3>🌹 浪漫之旅</h3>
+    <p>带上你的另一半，在巴黎的街头漫步，感受最纯粹的浪漫。</p>
+  </div>
+
+  <div class="card">
+    <img src="https://source.unsplash.com/300x200/?family,travel" alt="亲子游">
+    <h3>👨‍👩‍👧‍👦 亲子游</h3>
+    <p>带上孩子，一起探索法国的博物馆、动物园和童话小镇。</p>
+  </div>
+
+  <div class="card">
+    <img src="https://source.unsplash.com/300x200/?frenchfood,wine" alt="美食之旅">
+    <h3>🍷 美食探索</h3>
+    <p>品尝世界级的红酒、美味的法餐，体验地道的法国味道。</p>
+  </div>
+
+  <div class="card">
+    <img src="https://source.unsplash.com/300x200/?mountain,hiking" alt="户外探险">
+    <h3>⛰️ 户外探险</h3>
+    <p>从阿尔卑斯山滑雪到蔚蓝海岸潜水，感受极限运动的魅力！</p>
+  </div>
+</div>
 
 ---
 
