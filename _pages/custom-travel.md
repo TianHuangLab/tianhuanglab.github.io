@@ -3,7 +3,7 @@ layout: page
 permalink: /custom-travel/
 title: 定制行程
 description: 轻松定制你的法国旅行计划，让探索变得简单、纯粹、充满惊喜！填写你的旅行需求，我将为你生成一份免费的简单旅行计划！
-nav: true
+nav: false
 nav_order: 6
 ---
 <style>
