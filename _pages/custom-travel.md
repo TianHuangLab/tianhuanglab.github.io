@@ -107,7 +107,7 @@ body {
 </div>
 -->
 
-## 🇫🇷 嗨！欢迎来到 Aoli Travel —— 我的同名旅行品牌，带你探索最地道的法国之旅！
+## 🇫🇷 欢迎来到 Aoli Travel — 我的同名旅行品牌，带你探索最地道的法国之旅！
 
 🌍 **热爱旅行的人，终将在路上相遇**  
 
@@ -115,15 +115,13 @@ body {
 几年前，我和家人从巴黎搬到了法国南部，在这里享受着地中海的温暖阳光、无边蔚蓝的海岸线，以及随时都能启程的自由！  
 
 🏕️ **背起行囊，去感受世界的呼吸**  
-无论是**阿尔卑斯山的白雪皑皑**，还是**普罗旺斯薰衣草田的浪漫紫海**，或是**巴黎街头的文艺氛围**，法国的每一处都值得细细品味。  
-过去十多年，我走过**三大洲十多个国家**，但**法国始终让我流连忘返**，这里的文化、风景、美食、生活方式，让人忍不住想一次次深入探索。  
+无论是**阿尔卑斯山**的白雪皑皑，还是**普罗旺斯**薰衣草田的浪漫紫海，或是**巴黎**街头的文艺氛围，法国的每一处都值得细细品味。  
+过去十多年，我走过**三大洲十多个国家**，但**法国**始终让我流连忘返，这里的文化、风景、美食、生活方式，让人忍不住想一次次深入探索。  
 
 📌 **如果你也向往法国，但不想踩坑、不想浪费时间查攻略，欢迎来找我！**  
-我会用最地道的视角、最真实的体验，帮你定制一场**适合你的完美法国之旅**。  
+我会用最地道的视角、最真实的体验，帮你定制一场适合你的完美法国之旅。  
 
 ---
-
-## 🎥 **先来感受一下旅行的美好！**  
 
 ## 🇫🇷 法国旅行灵感 🎉
 
@@ -133,7 +131,7 @@ body {
 
 <script>
   const accessKey = "0Ukx3h0_C18RepNO7qXDQeFSfYQHh7Mr57cNmAN8X-M";
-  const searchQueries = ["paris", "provence", "nice", "alps", "french food"];
+  const searchQueries = ["france", "french travel", "paris city", "provence city", "france nice", "alps view", "french historical monuments", "marseille city", "lyon city", "france culture"];
   const carouselContainer = document.getElementById("carousel");
 
   async function fetchUnsplashImages() {
@@ -181,7 +179,7 @@ body {
   }
 </style>
 
----
+<!--
 
 ## ✨ **选择你的旅行风格**  
 
@@ -211,15 +209,16 @@ body {
   </div>
 </div>
 
+-->
 ---
 
 ## ✨ **专属你的法国旅行定制**  
 > **⏳ 只需 1 分钟填写，帮你规划一次完美旅行！**  
 
 📌 **你是否遇到这些旅行烦恼？**  
-- **第一次来法国，不知道怎么玩？** 🤔  
-- **想深度体验，却不想踩坑？** 😩  
-- **网上攻略太多，反而看花了眼？** 😵  
+**第一次来法国，不知道怎么玩？** 🤔  
+**想深度体验，却不想踩坑？** 😩  
+**网上攻略太多，反而看花了眼？** 😵  
 
 📝 **别担心！填写你的需求，我来帮你搞定👇**  
 
@@ -227,55 +226,48 @@ body {
 
 ## 🛫 **填写你的旅行需求**  
 
-<form action="https://formspree.io/f/YOUR_FORM_ID" method="POST">
-  <label for="name">👤 你的姓名：</label><br>
-  <input type="text" id="name" name="name" required><br><br>
+<form action="https://formspree.io/f/YOUR_FORM_ID" method="POST"> <label for="name">👤 您的姓名：</label><br> <input type="text" id="name" name="name" required><br><br>
+<label for="email">📧 您的邮箱：</label><br> <input type="email" id="email" name="email" required><br><br>
 
-  <label for="email">📧 你的邮箱：</label><br>
-  <input type="email" id="email" name="email" required><br><br>
+<label for="destination">📍 目的地城市：</label><br> <input type="text" id="destination" name="destination" placeholder="例如：巴黎、普罗旺斯" required><br><br>
 
-  <label for="city">📍 你想去的城市：</label><br>
-  <select id="city" name="city" required>
-    <option value="巴黎">巴黎</option>
-    <option value="普罗旺斯">普罗旺斯</option>
-    <option value="尼斯">尼斯</option>
-    <option value="波尔多">波尔多</option>
-    <option value="阿尔萨斯">阿尔萨斯</option>
-    <option value="其他">其他（请备注）</option>
-  </select><br><br>
+<label for="start_date">🗓️ 出发日期：</label><br> <input type="date" id="start_date" name="start_date" required><br><br>
 
-  <label for="days">📅 预计行程天数：</label><br>
-  <input type="number" id="days" name="days" min="1" max="30" required> 天<br><br>
+<label for="end_date">🗓️ 返回日期：</label><br> <input type="date" id="end_date" name="end_date" required><br><br>
 
-  <label for="budget">💰 预算范围：</label><br>
-  <select id="budget" name="budget" required>
-    <option value="经济型（€1000-€3000）">经济型（€1000-€3000）</option>
-    <option value="标准型（€3000-€6000）">标准型（€3000-€6000）</option>
-    <option value="豪华型（€6000+）">豪华型（€6000+）</option>
-  </select><br><br>
+<label for="budget">💰 预算范围（欧元）：</label><br> <select id="budget" name="budget" required> <option value="1000-3000">经济型（€1000-€3000）</option> <option value="3000-6000">标准型（€3000-€6000）</option> <option value="6000+">豪华型（€6000以上）</option> </select><br><br>
 
-  <label for="style">🎭 你的旅行风格：</label><br>
-  <input type="checkbox" name="style" value="浪漫"> 浪漫之旅 🌹<br>
-  <input type="checkbox" name="style" value="亲子"> 亲子游 👨‍👩‍👧‍👦<br>
-  <input type="checkbox" name="style" value="美食"> 美食探索 🍷<br>
-  <input type="checkbox" name="style" value="文化"> 文化艺术 🎭<br>
-  <input type="checkbox" name="style" value="户外"> 户外探险 ⛰️<br><br>
+<label for="travel_style">🎭 旅行风格：</label><br> <select id="travel_style" name="travel_style" required> <option value="浪漫之旅">浪漫之旅 🌹</option> <option value="亲子游">亲子游 👨‍👩‍👧‍👦</option> <option value="美食探索">美食探索 🍷</option> <option value="文化艺术">文化艺术 🎭</option> <option value="户外探险">户外探险 ⛰️</option> </select><br><br>
 
-  <label for="message">📝 其他需求：</label><br>
-  <textarea id="message" name="message" rows="4"></textarea><br><br>
+<label for="accommodation">🏨 住宿偏好：</label><br> <select id="accommodation" name="accommodation" required> <option value="经济型酒店">经济型酒店</option> <option value="三星级酒店">三星级酒店</option> <option value="四星级酒店">四星级酒店</option> <option value="五星级酒店">五星级酒店</option> <option value="民宿">民宿</option> <option value="公寓">公寓</option> </select><br><br>
 
-  <button type="submit" style="background-color: #ff4d4d; color: white; padding: 10px 20px; font-size: 16px; border: none; cursor: pointer;">
-    🚀 提交需求，获取定制行程
-  </button>
-</form>
+<label for="transportation">🚗 交通方式偏好：</label><br> <select id="transportation" name="transportation" required> <option value="公共交通">公共交通</option> <option value="租车">租车</option> <option value="私人司机">私人司机</option> <option value="自行车">自行车</option> </select><br><br>
+
+<label for="interests">🎯 特别兴趣：</label><br> <input type="checkbox" name="interests" value="历史遗迹"> 历史遗迹<br> <input type="checkbox" name="interests" value="自然风光"> 自然风光<br> <input type="checkbox" name="interests" value="购物"> 购物<br> <input type="checkbox" name="interests" value="夜生活"> 夜生活<br> <input type="checkbox" name="interests" value="摄影"> 摄影<br><br>
+
+<label for="message">📝 其他需求或备注：</label><br>
+
+<textarea id="message" name="message" rows="4" placeholder="请提供其他特殊需求或偏好"></textarea><br><br> <button type="submit" style="background-color: #ff4d4d; color: white; padding: 10px 20px; font-size: 16px; border: none; cursor: pointer;"> 🚀 提交需求，获取定制行程 </button> </form>
 
 ---
 
 ## 🌟 **为什么选择我？**  
-✅ **地道视角，告别千篇一律的旅游团行程**  
-✅ **精准推荐，避免踩坑，帮你节省时间 & 预算**  
-✅ **随时沟通，有问必答，打造属于你的个性化旅程**  
-✅ **已经帮助 1000+ 旅行者深度体验法国**  
 
-🎒 **还在犹豫？** 来吧，让我们一起探索法国的美好！ 💙✨  
+🇫🇷 量身定制 · 深度体验 —— 让你的法国之行不只是打卡，而是一次真正的沉浸式旅行！
+
+✅ 地道视角，告别千篇一律的跟团行程
+👉 作为一名长期旅居法国的旅行达人，我用本地人的视角，带你发现最真实的法国风情。
+
+✅ 精准推荐，避坑省钱，最大化旅行体验
+👉 无需在攻略海洋中迷失，我帮你筛选最值得去的地方，让你花更少的钱，玩得更尽兴！
+
+✅ 个性化规划，满足你的独特旅行偏好
+👉 无论是浪漫法式度假、美食探索、亲子游、文化艺术，还是户外冒险，我都能为你量身打造专属行程。
+
+✅ 1000+ 旅行者真实体验，好评如潮！
+👉 已帮助上千名旅行者规划他们的法国之旅，让旅行变得简单又难忘！
+
+🎒 还在犹豫？ 现在就填写下方表单，告诉我你的旅行需求，让我们一起开启这段法式美好之旅！ 💙✨
+
+📩 任何问题，欢迎随时联系我：contact@aolitravel.com
 
