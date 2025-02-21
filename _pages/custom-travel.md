@@ -2,7 +2,7 @@
 layout: page
 permalink: /custom-travel/
 title: 定制行程
-description: 轻松定制你的法国旅行计划，让探索变得简单、纯粹、充满惊喜！填写你的旅行需求，我将为你生成一份免费的简单旅行计划！
+description: 轻松定制你的法国旅行计划，带你探索最地道的法国之旅，让旅程变得简单、纯粹、充满惊喜！
 nav: false
 nav_order: 6
 ---
@@ -88,7 +88,7 @@ body {
 </div>
 -->
 
-## 🇫🇷 欢迎来到 Aoli Travel — 我的同名旅行品牌，带你探索最地道的法国之旅！
+## 🇫🇷 欢迎来到 Aoli Travel — 填写你的旅行需求，我将为你生成一份免费的简单旅行计划！
 
 🌍 **热爱旅行的人，终将在路上相遇**  
 
@@ -207,7 +207,7 @@ body {
 
 ## 🛫 **填写你的旅行需求**  
 
-<form action="https://formspree.io/f/YOUR_FORM_ID" method="POST"> <label for="name">👤 您的姓名：</label><br> <input type="text" id="name" name="name" required><br><br>
+<form action="https://formspree.io/f/xdkajnbd" method="POST"> <label for="name">👤 您的姓名：</label><br> <input type="text" id="name" name="name" required><br><br>
 <label for="email">📧 您的邮箱：</label><br> <input type="email" id="email" name="email" required><br><br>
 
 <label for="destination">📍 目的地城市：</label><br> <input type="text" id="destination" name="destination" placeholder="例如：巴黎、普罗旺斯" required><br><br>
@@ -228,7 +228,7 @@ body {
 
 <label for="message">📝 其他需求或备注其他联系方式，如微信或Line：</label><br>
 
-<textarea id="message" name="message" rows="4" placeholder="请提供其他特殊需求或偏好"></textarea><br><br> <button type="submit" style="background-color: #ff4d4d; color: white; padding: 10px 20px; font-size: 16px; border: none; cursor: pointer;"> 🚀 提交需求，获取定制行程 </button> </form>
+<textarea id="message" name="message" rows="4" placeholder="请提供其他特殊需求或偏好"></textarea><br><br> <button type="submit" style="background-color: #b509ac; color: white; padding: 10px 20px; font-size: 16px; border: none; cursor: pointer;"> 🚀 提交需求，获取定制行程 </button> </form>
 
 ---
 
@@ -236,19 +236,20 @@ body {
 
 🇫🇷 量身定制 · 深度体验 —— 让你的法国之行不只是打卡，而是一次真正的沉浸式旅行！
 
-### 地道视角，告别千篇一律的跟团行程
+**地道视角，告别千篇一律的跟团行程**
 👉 作为一名长期旅居法国的旅行达人，我用本地人的视角，带你发现最真实的法国风情。
 
-### 精准推荐，避坑省钱，最大化旅行体验
+**精准推荐，避坑省钱，最大化旅行体验**
 👉 无需在攻略海洋中迷失，我帮你筛选最值得去的地方，让你花更少的钱，玩得更尽兴！
 
-### 个性化规划，满足你的独特旅行偏好
+**个性化规划，满足你的独特旅行偏好**
 👉 无论是浪漫法式度假、美食探索、亲子游、文化艺术，还是户外冒险，我都能为你量身打造专属行程。
 
-### 1000+ 旅行者真实体验，好评如潮！
+**1000+ 旅行者真实体验，好评如潮！**
 👉 已帮助上千名旅行者规划他们的法国之旅，让旅行变得简单又难忘！
 
 🎒 还在犹豫？ 现在就填写上方表单，告诉我你的旅行需求，让我们一起开启这段法式美好之旅！ 💙✨
 
 📩 任何问题，欢迎随时联系我：contact@aolitravel.com
 
+{% include figure.liquid loading="eager" path="assets/img/19french-culture-101-etiquette-language-culinary-dining-guide.webp/aolitravel.com-french-culture-101-etiquette-language-culinary-dining-guide-1.webp" title="aolitravel.com-french-culture-101-etiquette-language-culinary-dining-guide" class="img-fluid rounded z-depth-1 watermarked" alt="法国旅行定制行程france-custom-travel"%}
