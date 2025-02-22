@@ -206,7 +206,10 @@ body {
 ---
 
 ## 🛫 **填写你的旅行需求**  
+<iframe data-tally-src="https://tally.so/embed/3xllLG?alignLeft=1&transparentBackground=1&dynamicHeight=1" loading="lazy" width="100%" height="1120" frameborder="0" marginheight="0" marginwidth="0" title="✈️ 法国（欧洲）旅行定制需求表单"></iframe>
+<script>var d=document,w="https://tally.so/widgets/embed.js",v=function(){"undefined"!=typeof Tally?Tally.loadEmbeds():d.querySelectorAll("iframe[data-tally-src]:not([src])").forEach((function(e){e.src=e.dataset.tallySrc}))};if("undefined"!=typeof Tally)v();else if(d.querySelector('script[src="'+w+'"]')==null){var s=d.createElement("script");s.src=w,s.onload=v,s.onerror=v,d.body.appendChild(s);}</script>
 
+<!--
 <form action="https://formspree.io/f/xdkajnbd" method="POST"> <label for="name">👤 您的姓名：</label><br> <input type="text" id="name" name="name" required><br><br>
 <label for="email">📧 您的邮箱：</label><br> <input type="email" id="email" name="email" required><br><br>
 
@@ -229,6 +232,7 @@ body {
 <label for="message">📝 其他需求或备注其他联系方式，如微信或Line：</label><br>
 
 <textarea id="message" name="message" rows="4" placeholder="请提供其他特殊需求或偏好"></textarea><br><br> <button type="submit" style="background-color: #b509ac; color: white; padding: 10px 20px; font-size: 16px; border: none; cursor: pointer;"> 🚀 提交需求，获取定制行程 </button> </form>
+-->
 
 ---
 
