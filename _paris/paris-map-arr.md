@@ -2,7 +2,7 @@
 layout: page
 title: 巴黎住宿安全指南｜区域推荐与避坑攻略
 description: 全面解析巴黎20个区的住宿优劣，另附推荐酒店清单，带你轻松玩转巴黎！
-img: assets/img/7paris-map-arr/7paris-map-arr-4.jpg
+img: assets/img/7paris-map-arr/7paris-map-arr-6.jpg
 importance: 5
 category: 巴黎
 related_publications: false
@@ -12,7 +12,7 @@ toc:
 tags: 法国 巴黎 住宿 酒店
 map: true
 ---
-{% include figure.liquid loading="eager" path="assets/img/7paris-map-arr/7paris-map-arr-6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+{% include figure.liquid loading="eager" path="assets/img/7paris-map-arr/7paris-map-arr-4.jpg" title="paris hotels" class="img-fluid rounded z-depth-1" %}
 
 去巴黎旅行，风景当然是重头戏，但选择一个舒适又安全的住宿地点，绝对能让你的旅行体验更加完美！巴黎的20个区*呈螺旋状从市中心向外延伸，每个区的治安、性价比和交通便利程度各有千秋。
 
@@ -31,7 +31,7 @@ map: true
 
 我将从安全性、性价比和交通便利性三个维度，为你细细盘点巴黎20个区的住宿推荐和避坑建议。
 
-{% include figure.liquid loading="eager" path="assets/img/7paris-map-arr/7paris-map-arr-1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+{% include figure.liquid loading="eager" path="assets/img/7paris-map-arr/7paris-map-arr-1.jpg" title="paris hotels" class="img-fluid rounded z-depth-1" %}
 
 ---
 
@@ -349,3 +349,57 @@ map: true
 
 希望这份指南能帮你找到合适的住宿区域，住得安全、舒心，玩得开心！
 
+---
+想了解更多法国的旅行灵感？快来探索我的其他旅游攻略吧！😊🇫🇷
+
+**法国旅游**
+
+[《法国旅行前准备攻略：一站式指南》](https://aolitravel.com/france-travel/france-travel-information/)
+
+[《法国旅行入门攻略：申根旅游签证申请指南》](https://aolitravel.com/france-travel/france-visa-information/)
+
+[《法国文化小课堂｜礼仪、语言、饮食文化、餐馆用餐指南》](https://aolitravel.com/france-travel/french-culture-101-etiquette-language-culinary-dining-guide/)
+
+[《法国TOP20滑雪胜地全攻略 ❄️｜探秘阿尔卑斯顶级滑雪天堂》](https://aolitravel.com/france-travel/french-top-20-ski-resort-guides/)
+
+**巴黎**
+
+[《巴黎住宿安全指南｜区域推荐与避坑攻略》](https://aolitravel.com/paris/paris-map-arr/)
+
+[《巴黎必去景点Top20｜一文带你玩转浪漫之都》](https://aolitravel.com/paris/paris-top-20/)
+
+[《2025年最新巴黎机场交通攻略》](https://aolitravel.com/paris/public-transport-paris-airports/)
+
+[《巴黎四天三夜经典行程推荐》](https://aolitravel.com/paris/paris-4days-trip/)
+
+[《最实用的巴黎公共交通指南｜一文看懂怎么选！》](https://aolitravel.com/paris/paris-public-transportation/)
+
+[《巴黎中餐馆卷王争霸赛｜干饭人速存！》](https://aolitravel.com/paris/paris-top-50-chinese-restaurants-1/)
+
+[《巴黎迪士尼乐园游玩攻略｜玩转巴黎的魔法世界！》](https://aolitravel.com/paris/visit-disneyland-paris/)
+
+[《必看！凡尔赛宫游览全攻略｜半天&一天行程完美规划》](https://aolitravel.com/paris/visit-versailles/)
+
+[《枫丹白露宫一日游攻略：解锁皇室秘境！》](https://aolitravel.com/paris/visit-fontainebleau/)
+
+**南法**
+
+[《南法马赛一日游攻略｜本地向导经典路线推荐》](https://aolitravel.com/south-of-france/marseille-1day-trip/)
+
+[《马赛城市住宿指南｜帮你轻松规划马赛之旅》](https://aolitravel.com/south-of-france/marseille-quartier-hotel-recommandation/)
+
+[《马赛必打卡！Top15景点全攻略｜本地向导推荐指南》](https://aolitravel.com/south-of-france/visit-marseille-top15-things-to-do/)
+
+[《南法圣十字湖和看薰衣草最美攻略｜详细停车地点分享》](https://aolitravel.com/south-of-france/visit-lavande-champ-saint-croix-verdon-moustiers-sainte-marie/#%EF%B8%8F-%E7%9C%8B%E6%B9%96%E6%94%BB%E7%95%A5)
+
+[《阿尔勒城市旅行指南｜探索普罗旺斯的魅力》](https://aolitravel.com/south-of-france/visit-arles-city-guide/)
+
+[《尼斯最强旅行指南｜Top 18必游景点全攻略》](https://aolitravel.com/south-of-france/nice-top-18-things-to-do/)
+
+[《尼斯住宿全攻略｜7大街区带你解锁南法度假魅力 🌊》](https://aolitravel.com/south-of-france/where-to-stay-in-nice-top7-quariters-hotel-recommandation/)
+
+[《蔚蓝海岸尼斯、摩纳哥、戛纳最强三日游攻略》](https://aolitravel.com/south-of-france/nice-eze-monaco-menton-cannes-3days-trip/)
+
+**Blog**
+
+[更多关于我的生活记录和感受](https://aolitravel.com/blog/)
