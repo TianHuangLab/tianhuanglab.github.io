@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 巴黎中餐馆卷王争霸赛｜附地址、交通、电话，干饭人速存！
-description: 别再问我巴黎中餐哪家强！快来看看我私藏的50家人气最旺的中餐馆（上）
+title: 巴黎中餐馆卷王争霸赛｜干饭人速存！
+description: 别再问巴黎中餐哪家强！快来看看我整理的50家人气最旺的中餐馆（上篇）
 img: assets/img/24paris-top-chinese-restaurants-a/aolitravel.com-paris-chinese-top-50-restaurants-0c.webp
 importance: 6
 category: 巴黎
@@ -239,6 +239,7 @@ map: true
   ]
 }
 ```
+---
 
 ### 1. **天赐重庆火锅 Tianci Fondue Chongqing**
 
@@ -252,8 +253,8 @@ map: true
 
 🌶️菜系：重庆老火锅
 
-重庆人看了直呼“巴适得板”！🔥 牛油锅底加了醪糟越煮越香，毛肚七上八下涮完脆到飞起，鸭血嫩得像果冻！🍲 香油碟配蒜泥是灵魂，辣到嘶哈时来碗冰粉直接复活！📍 13区Place d'Italie地铁站出来走5分钟，红灯笼门头超显眼～📞 建议提前预约，不然排队到隔壁奶茶店都打烊！
-{% include figure.liquid loading="eager" path="assets/img/24paris-top-chinese-restaurants-a/aolitravel.com-paris-chinese-top-50-restaurants-1.webp" title="paris-top-chinese-restaurants" class="img-fluid rounded z-depth-1" alt="巴黎人气中餐馆paris-top-chinese-restaurants"%}
+重庆人看了直呼“巴适得板”！🔥 牛油锅底加了醪糟越煮越香，毛肚七上八下涮完脆到飞起，鸭血嫩得像果冻！🍲 香油碟配蒜泥是灵魂，辣到嘶哈时来碗冰粉直接复活！📍 从地铁站走过来几分钟，中式门头超显眼、大气～📞 建议提前预约，不然高峰时期排队到隔壁奶茶店都打烊！
+{% include figure.liquid loading="eager" path="assets/img/24paris-top-chinese-restaurants-a/aolitravel.com-paris-chinese-top-50-restaurants-1.webp" title="paris-top-chinese-restaurants" class="img-fluid rounded z-depth-1 d-block mx-auto" alt="巴黎人气中餐馆paris-top-chinese-restaurants"%}
 
 ---
 
@@ -270,7 +271,7 @@ map: true
 🍧菜系：中式甜品、奶茶、茶饮
 
 巴黎甜妹的下午茶天花板！🍰 杨枝甘露里芒果多到溢出屏幕，桂花酒酿冰汤圆糯叽叽还能拉丝！📸 雕花木窗+水墨屏风，随手一拍就是《梦华录》剧照！📍 9区Le Peletier站步行3分钟，吃完顺路逛老佛爷消食～💡 隐藏吃法：抹茶千层配茉莉奶绿，苦甜CP锁死！
-{% include figure.liquid loading="eager" path="assets/img/24paris-top-chinese-restaurants-a/aolitravel.com-paris-chinese-top-50-restaurants-2.webp" title="paris-top-chinese-restaurants" class="img-fluid rounded z-depth-1" alt="巴黎人气中餐馆paris-top-chinese-restaurants"%}
+{% include figure.liquid loading="eager" path="assets/img/24paris-top-chinese-restaurants-a/aolitravel.com-paris-chinese-top-50-restaurants-2.webp" title="paris-top-chinese-restaurants" class="img-fluid rounded z-depth-1 d-block mx-auto" alt="巴黎人气中餐馆paris-top-chinese-restaurants"%}
 
 ---
 
@@ -287,7 +288,7 @@ map: true
 🌶️菜系：川菜+甜品跨界王
 
 辣子鸡配冰豆花，当代年轻人的“冰火两重天”！🔥 辣子鸡炸得酥脆到骨头都能嚼，吃完辣来份红糖糍粑冰粉，直接体验“从火焰山到北极”！🍨 5区学霸们的食堂，拉丁区逛累了过来人均20欧吃到扶墙～📍 Maubert地铁站出来右拐就是，📞 周三有学生折扣，带学生证冲就完事！
-{% include figure.liquid loading="eager" path="assets/img/24paris-top-chinese-restaurants-a/aolitravel.com-paris-chinese-top-50-restaurants-3.webp" title="paris-top-chinese-restaurants" class="img-fluid rounded z-depth-1" alt="巴黎人气中餐馆paris-top-chinese-restaurants"%}
+{% include figure.liquid loading="eager" path="assets/img/24paris-top-chinese-restaurants-a/aolitravel.com-paris-chinese-top-50-restaurants-3.webp" title="paris-top-chinese-restaurants" class="img-fluid rounded z-depth-1 d-block mx-auto" alt="巴黎人气中餐馆paris-top-chinese-restaurants"%}
 
 ---
 
@@ -304,7 +305,7 @@ map: true
 🍲菜系：自助火锅、中式烧烤、川菜、自助
 
 锅门永存！🔥 锅色天香的自助火锅+烧烤组合，简直是“选择困难症患者”的福音！💰 人均30欧就能吃到扶墙出，肥牛、虾滑、腌羊肉无限续，老板真的不亏吗？📍 地址在11区Charonne地铁站旁，夜宵党狂喜到凌晨！📞 提前电话订座还能避开排队，周末约饭直接冲！
-{% include figure.liquid loading="eager" path="assets/img/24paris-top-chinese-restaurants-a/aolitravel.com-paris-chinese-top-50-restaurants-4.webp" title="paris-top-chinese-restaurants" class="img-fluid rounded z-depth-1" alt="巴黎人气中餐馆paris-top-chinese-restaurants"%}
+{% include figure.liquid loading="eager" path="https://www.lespetitestables.com/wp-content/uploads/les4amis_lespetitestables_salle2-970x646.jpg" title="paris-top-chinese-restaurants" class="img-fluid rounded z-depth-1" alt="巴黎人气中餐馆paris-top-chinese-restaurants"%}
 
 ---
 
@@ -321,7 +322,7 @@ map: true
 🥟菜系：川菜、手工饺子
 
 隐藏的“干饭神店”！🥟 手工饺子皮薄馅大，酸菜猪肉馅一口爆汁，蘸上辣油直接香迷糊了！📞 老板超热情，电话里还会教你点隐藏菜单！💡 推荐韭菜盒子和酱骨架，碳水快乐直接拉满！
-{% include figure.liquid loading="eager" path="assets/img/24paris-top-chinese-restaurants-a/aolitravel.com-paris-chinese-top-50-restaurants-5.webp" title="paris-top-chinese-restaurants" class="img-fluid rounded z-depth-1" alt="巴黎人气中餐馆paris-top-chinese-restaurants"%}
+{% include figure.liquid loading="eager" path="assets/img/24paris-top-chinese-restaurants-a/aolitravel.com-paris-chinese-top-50-restaurants-5.webp" title="paris-top-chinese-restaurants" class="img-fluid rounded z-depth-1 d-block mx-auto" alt="巴黎人气中餐馆paris-top-chinese-restaurants"%}
 
 ---
 
@@ -338,7 +339,7 @@ map: true
 🌶️菜系：重庆火锅
 
 巴黎火锅界“顶流”刘一手，全球第977家门店！🔥 牛油锅底辣到嘶哈却停不下筷子，必点招牌毛肚和鸭血，脆嫩到怀疑人生！📍 10区Bonne Nouvelle地铁站旁，红灯笼招牌超显眼！📞 记得提前预约，不然排队到emo！🍻 搭配冰镇酸梅汤，解辣神器YYDS！
-{% include figure.liquid loading="eager" path="assets/img/24paris-top-chinese-restaurants-a/aolitravel.com-paris-chinese-top-50-restaurants-6.webp" title="paris-top-chinese-restaurants" class="img-fluid rounded z-depth-1" alt="巴黎人气中餐馆paris-top-chinese-restaurants"%}
+{% include figure.liquid loading="eager" path="assets/img/24paris-top-chinese-restaurants-a/aolitravel.com-paris-chinese-top-50-restaurants-6.webp" title="paris-top-chinese-restaurants" class="img-fluid rounded z-depth-1 d-block mx-auto" alt="巴黎人气中餐馆paris-top-chinese-restaurants"%}
 
 ---
 
@@ -389,8 +390,15 @@ map: true
 🍢菜系：新疆菜、烧烤、大盘鸡
 
 新疆胃的快乐老家！🐑 大盘鸡配皮带面直接香到跺脚，羊肉串肥瘦相间还滋滋冒油，一口梦回乌鲁木齐夜市！🌶️ 隐藏吃法：馕包炒米粉，碳水+辣酱双倍暴击！📍 cadet地铁站旁，红绿民族风装修超吸睛～📞 周末爆满，建议提前call老板留座！
-{% include figure.liquid loading="eager" path="assets/img/24paris-top-chinese-restaurants-a/aolitravel.com-paris-chinese-top-50-restaurants-9.webp" title="paris-top-chinese-restaurants" class="img-fluid rounded z-depth-1" alt="巴黎人气中餐馆paris-top-chinese-restaurants"%}
-{% include figure.liquid loading="eager" path="assets/img/24paris-top-chinese-restaurants-a/aolitravel.com-paris-chinese-top-50-restaurants-9a.webp" title="paris-top-chinese-restaurants" class="img-fluid rounded z-depth-1" alt="巴黎人气中餐馆paris-top-chinese-restaurants"%}
+
+<div class="row justify-content-sm-center">
+  <div class="col-sm mt-3 mt-md-0">
+    {% include figure.liquid loading="eager" path="assets/img/24paris-top-chinese-restaurants-a/aolitravel.com-paris-chinese-top-50-restaurants-9.webp" title="paris-top-chinese-restaurants" class="img-fluid rounded z-depth-1" alt="巴黎人气中餐馆paris-top-chinese-restaurants"%}
+  </div>
+  <div class="col-sm mt-3 mt-md-0">
+    {% include figure.liquid loading="eager" path="assets/img/24paris-top-chinese-restaurants-a/aolitravel.com-paris-chinese-top-50-restaurants-9a.webp" title="paris-top-chinese-restaurants" class="img-fluid rounded z-depth-1" alt="巴黎人气中餐馆paris-top-chinese-restaurants"%}
+  </div>
+</div>
 
 ---
 
@@ -407,7 +415,7 @@ map: true
 🌶️菜系：川菜、创意融合
 
 三国主题川菜馆，做地道川菜！🗡️ 冒菜、水煮牛肉、辣子鸡、蹄花、沸腾鱼、芋儿鸡等，都是国内川菜馆的水准，拍照发圈分分钟99+赞！
-{% include figure.liquid loading="eager" path="assets/img/24paris-top-chinese-restaurants-a/aolitravel.com-paris-chinese-top-50-restaurants-10.webp" title="paris-top-chinese-restaurants" class="img-fluid rounded z-depth-1" alt="巴黎人气中餐馆paris-top-chinese-restaurants"%}
+{% include figure.liquid loading="eager" path="assets/img/24paris-top-chinese-restaurants-a/aolitravel.com-paris-chinese-top-50-restaurants-10.webp" title="paris-top-chinese-restaurants" class="img-fluid rounded z-depth-1 d-block mx-auto" alt="巴黎人气中餐馆paris-top-chinese-restaurants"%}
 
 ---
 
@@ -475,7 +483,7 @@ map: true
 🌶️菜系：火锅
 
 巴黎老牌火锅王者！👑 牛油锅底越煮越香，麻辣牛肉裹满辣椒面，挑战你的吃辣天花板！🍧 解辣必点红糖糍粑，一口回血再战！📍 2区火锅店天花板之一，红灯笼门头超好认～📞 周末排队1小时起，建议错峰冲！
-{% include figure.liquid loading="eager" path="assets/img/24paris-top-chinese-restaurants-a/aolitravel.com-paris-chinese-top-50-restaurants-14.webp" title="paris-top-chinese-restaurants" class="img-fluid rounded z-depth-1" alt="巴黎人气中餐馆paris-top-chinese-restaurants"%}
+{% include figure.liquid loading="eager" path="assets/img/24paris-top-chinese-restaurants-a/aolitravel.com-paris-chinese-top-50-restaurants-14.webp" title="paris-top-chinese-restaurants" class="img-fluid rounded z-depth-1 d-block mx-auto" alt="巴黎人气中餐馆paris-top-chinese-restaurants"%}
 
 ---
 
@@ -526,7 +534,7 @@ map: true
 🍻菜系：奶茶、甜点、烧烤
 
 巴黎版“江湖小酒馆”！🍶 东北风味！辣卤拼盘配梅子酒，毛豆花生是免费续盘的神！🌶️ 必点脑花烤苕皮，软糯麻辣直接封神！📍 吃完还能逛路边摊消食～
-{% include figure.liquid loading="eager" path="assets/img/24paris-top-chinese-restaurants-a/aolitravel.com-paris-chinese-top-50-restaurants-17.webp" title="paris-top-chinese-restaurants" class="img-fluid rounded z-depth-1" alt="巴黎人气中餐馆paris-top-chinese-restaurants"%}
+{% include figure.liquid loading="eager" path="assets/img/24paris-top-chinese-restaurants-a/aolitravel.com-paris-chinese-top-50-restaurants-17.webp" title="paris-top-chinese-restaurants" class="img-fluid rounded z-depth-1 d-block mx-auto" alt="巴黎人气中餐馆paris-top-chinese-restaurants"%}
 
 ---
 
@@ -611,7 +619,7 @@ map: true
 🍡菜系：串串、自助
 
 地道四川风味！🍖 羊肉串肥瘦相间滋滋冒油，烤面包片刷了蜂蜜撒芝麻，甜咸党直接和解！📍 店内整体装修风格有国内大排档的亲切感～🍻 晚上变身小酒馆，青岛啤酒配毛豆，吹牛吹到打烊！
-{% include figure.liquid loading="eager" path="assets/img/24paris-top-chinese-restaurants-a/aolitravel.com-paris-chinese-top-50-restaurants-22.webp" title="paris-top-chinese-restaurants" class="img-fluid rounded z-depth-1" alt="巴黎人气中餐馆paris-top-chinese-restaurants"%}
+{% include figure.liquid loading="eager" path="assets/img/24paris-top-chinese-restaurants-a/aolitravel.com-paris-chinese-top-50-restaurants-22.webp" title="paris-top-chinese-restaurants" class="img-fluid rounded z-depth-1 d-block mx-auto" alt="巴黎人气中餐馆paris-top-chinese-restaurants"%}
 
 ---
 
@@ -668,6 +676,8 @@ map: true
 
 上半场25家神店够你从火锅卷王涮到甜品天堂了吧？这25家中餐馆，不仅是美食地标，更是中华文化的驿站🍲💥 **但巴黎的中餐江湖才露半边天！** 下篇我将解锁另外25家巴黎人气超高的中餐馆🔥。 赶紧跟着去打卡吧！
 {% include figure.liquid loading="eager" path="assets/img/24paris-top-chinese-restaurants-a/aolitravel.com-paris-chinese-top-50-restaurants-0.webp" title="paris-top-chinese-restaurants" class="img-fluid rounded z-depth-1" alt="巴黎人气中餐馆paris-top-chinese-restaurants"%}
+
+---
 
 想了解更多法国的旅行灵感？快来探索我的其他旅游攻略吧！😊🇫🇷
 
