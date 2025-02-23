@@ -305,7 +305,7 @@ map: true
 🍲菜系：自助火锅、中式烧烤、川菜、自助
 
 锅门永存！🔥 锅色天香的自助火锅+烧烤组合，简直是“选择困难症患者”的福音！💰 人均30欧就能吃到扶墙出，肥牛、虾滑、腌羊肉无限续，老板真的不亏吗？📍 地址在11区Charonne地铁站旁，夜宵党狂喜到凌晨！📞 提前电话订座还能避开排队，周末约饭直接冲！
-{% include figure.liquid loading="eager" path="https://www.lespetitestables.com/wp-content/uploads/les4amis_lespetitestables_salle2-970x646.jpg" title="paris-top-chinese-restaurants" class="img-fluid rounded z-depth-1" alt="巴黎人气中餐馆paris-top-chinese-restaurants"%}
+{% include figure.liquid loading="eager" path="assets/img/24paris-top-chinese-restaurants-a/aolitravel.com-paris-chinese-top-50-restaurants-4.webp" title="paris-top-chinese-restaurants" class="img-fluid rounded z-depth-1 d-block mx-auto" alt="巴黎人气中餐馆paris-top-chinese-restaurants"%}
 
 ---
 
@@ -322,7 +322,7 @@ map: true
 🥟菜系：川菜、手工饺子
 
 隐藏的“干饭神店”！🥟 手工饺子皮薄馅大，酸菜猪肉馅一口爆汁，蘸上辣油直接香迷糊了！📞 老板超热情，电话里还会教你点隐藏菜单！💡 推荐韭菜盒子和酱骨架，碳水快乐直接拉满！
-{% include figure.liquid loading="eager" path="assets/img/24paris-top-chinese-restaurants-a/aolitravel.com-paris-chinese-top-50-restaurants-5.webp" title="paris-top-chinese-restaurants" class="img-fluid rounded z-depth-1 d-block mx-auto" alt="巴黎人气中餐馆paris-top-chinese-restaurants"%}
+{% include figure.liquid loading="eager" path="https://www.lespetitestables.com/wp-content/uploads/les4amis_lespetitestables_salle2-970x646.jpg" title="paris-top-chinese-restaurants" class="img-fluid rounded z-depth-1 d-block mx-auto" alt="巴黎人气中餐馆paris-top-chinese-restaurants"%}
 
 ---
 
