@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 巴黎中餐馆卷王争霸赛｜干饭人速存！
-description: 别再问巴黎中餐哪家强！快来看看我整理的50家人气最旺的中餐馆（上篇）
+title: 巴黎中餐馆卷王争霸赛（上篇）干饭人速存！
+description: 别再问巴黎中餐哪家强！快来看看我整理的50家人气最旺的中餐馆
 img: assets/img/24paris-top-chinese-restaurants-a/aolitravel.com-paris-chinese-top-50-restaurants-0c.webp
 importance: 6
 category: 巴黎
