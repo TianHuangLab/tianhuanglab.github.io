@@ -8,16 +8,23 @@ categories: 美食与餐厅推荐
 thumbnail: assets/img/post7-dan-b-restaurant-michelin-1-star-review/south-france-dan-b-restaurant-michelin-1-star-review-3.webp
 published: true
 ---
-{% include figure.liquid loading="eager" path="assets/img/post7-dan-b-restaurant-michelin-1-star-review/south-france-dan-b-restaurant-michelin-1-star-review-1.webp" title="dan-b-Restaurant-avis-review" class="img-fluid rounded z-depth-1" alt="dan-b-Restaurant米其林一星餐厅体验"%}
+
+<div class="row justify-content-sm-center">
+  <div class="col-sm mt-3 mt-md-0">
+    {% include figure.liquid loading="eager" path="assets/img/post7-dan-b-restaurant-michelin-1-star-review/south-france-dan-b-restaurant-michelin-1-star-review-1.webp" title="dan-b-Restaurant-avis-review" class="img-fluid rounded z-depth-1" alt="dan-b-Restaurant米其林一星餐厅体验"%}
+  </div>
+  <div class="col-sm mt-3 mt-md-0">
+    {% include figure.liquid loading="eager" path="assets/img/post7-dan-b-restaurant-michelin-1-star-review/south-france-dan-b-restaurant-michelin-1-star-review-1a.webp" title="dan-b-Restaurant-avis-review" class="img-fluid rounded z-depth-1" alt="dan-b-Restaurant米其林一星餐厅体验"%}
+  </div>
+</div>
 
 如果你正在南法旅行，想找一家**既有米其林品质，又能让你彻底放松**的法餐厅，那么**Dan B.** 绝对值得你列入美食清单！✨ 这家米其林一星餐厅坐落在**普罗旺斯地区艾克斯（Aix-en-Provence）附近的Ventabren村庄**，依山而建，视野开阔，远眺普罗旺斯的田园风光。
 
 试想一下，你坐在**阳光洒落的露台**上，眼前是湛蓝的贝尔湖（Étang de Berre）和阿尔克河谷（Vallée de l'Arc），微风轻轻拂面，桌上摆着精致的法式美食——这就是Dan B.想要给食客们带来的独特体验：**美食、风景、悠闲，三者兼得**！
-{% include figure.liquid loading="eager" path="assets/img/post7-dan-b-restaurant-michelin-1-star-review/south-france-dan-b-restaurant-michelin-1-star-review-1a.webp" title="dan-b-Restaurant-avis-review" class="img-fluid rounded z-depth-1" alt="dan-b-Restaurant米其林一星餐厅体验"%}
 
 ---
 
-## 餐厅环境：现代风格 × 普罗旺斯田园气息
+### 餐厅环境：现代风格 × 普罗旺斯田园气息
 
 **Dan B.** 由主厨 **Dan Bessoudo** 创立，他曾在瑞士、巴黎、莫斯科和斯德哥尔摩等地的高级餐厅磨练技艺，最终选择回到**南法的家乡**，在这个小小的山顶村庄实现自己的美食梦想。
 
@@ -32,20 +39,27 @@ published: true
 {% include figure.liquid loading="eager" path="assets/img/post7-dan-b-restaurant-michelin-1-star-review/south-france-dan-b-restaurant-michelin-1-star-review-2.webp" title="dan-b-Restaurant-avis-review" class="img-fluid rounded z-depth-1" alt="dan-b-Restaurant米其林一星餐厅体验"%}
 
 📍 **餐厅内部环境**
-{% include figure.liquid loading="eager" path="assets/img/post7-dan-b-restaurant-michelin-1-star-review/south-france-dan-b-restaurant-michelin-1-star-review-3.webp" title="dan-b-Restaurant-avis-review" class="img-fluid rounded z-depth-1" alt="dan-b-Restaurant米其林一星餐厅体验"%}
+
+<div class="row justify-content-sm-center">
+  <div class="col-sm mt-3 mt-md-0">
+    {% include figure.liquid loading="eager" path="assets/img/post7-dan-b-restaurant-michelin-1-star-review/south-france-dan-b-restaurant-michelin-1-star-review-3.webp" title="dan-b-Restaurant-avis-review" class="img-fluid rounded z-depth-1" alt="dan-b-Restaurant米其林一星餐厅体验"%}
+  </div>
+  <div class="col-sm mt-3 mt-md-0">
+    {% include figure.liquid loading="eager" path="assets/img/post7-dan-b-restaurant-michelin-1-star-review/south-france-dan-b-restaurant-michelin-1-star-review-3a.webp" title="dan-b-Restaurant-avis-review" class="img-fluid rounded z-depth-1" alt="dan-b-Restaurant米其林一星餐厅体验"%}
+  </div>
+</div>
 
 整体氛围非常适合情侣约会、朋友聚餐，或者像我这样来这里为家人庆祝生日。💛
-{% include figure.liquid loading="eager" path="assets/img/post7-dan-b-restaurant-michelin-1-star-review/south-france-dan-b-restaurant-michelin-1-star-review-3a.webp" title="dan-b-Restaurant-avis-review" class="img-fluid rounded z-depth-1" alt="dan-b-Restaurant米其林一星餐厅体验"%}
 
 ---
 
-## 生日庆祝 & “Origine” 6道式套餐
+### 生日庆祝 & “Origine” 6道式套餐
 
 这次来到Dan B.，因为是家人生日，所以我们特别挑选了**Origine – 6 moments**套餐（定价125€）**。**这是一份六道式的主厨精选菜单，融合了南法当地新鲜食材和现代法餐的精致工艺，每一道菜都像艺术品一样，令人惊艳。
 
 让我们一起来回顾一下这场**美味的味觉旅行**吧！🚀
 
-### **开胃小点(mise-en-bouche)：唤醒味蕾**
+**开胃小点(mise-en-bouche)：唤醒味蕾**
 
 法餐的精髓之一，就是在正式进入正餐之前，会用几款小点心来**唤醒味蕾**。首先第一道开胃小点如下：
 
@@ -55,43 +69,57 @@ published: true
 
 ---
 
-### **开胃菜两道(Appetizer)：好的开始成功的一半**
+**开胃菜两道(Appetizer)：好的开始成功的一半**
 
-{% include figure.liquid loading="eager" path="assets/img/post7-dan-b-restaurant-michelin-1-star-review/south-france-dan-b-restaurant-michelin-1-star-review-5.webp" title="dan-b-Restaurant-avis-review" class="img-fluid rounded z-depth-1" alt="dan-b-Restaurant米其林一星餐厅体验"%}
+<div class="row justify-content-sm-center">
+  <div class="col-sm mt-3 mt-md-0">
+    {% include figure.liquid loading="eager" path="assets/img/post7-dan-b-restaurant-michelin-1-star-review/south-france-dan-b-restaurant-michelin-1-star-review-5.webp" title="dan-b-Restaurant-avis-review" class="img-fluid rounded z-depth-1" alt="dan-b-Restaurant米其林一星餐厅体验"%}
+  </div>
+  <div class="col-sm mt-3 mt-md-0">
+    {% include figure.liquid loading="eager" path="assets/img/post7-dan-b-restaurant-michelin-1-star-review/south-france-dan-b-restaurant-michelin-1-star-review-6.webp" title="dan-b-Restaurant-avis-review" class="img-fluid rounded z-depth-1" alt="dan-b-Restaurant米其林一星餐厅体验"%}
+  </div>
+</div>
 
-生蚝口味的奶油组合真的很妙！大海的鲜味和奶油的丝滑在嘴里融合，咸甜交织，每一口都是意想不到的惊喜！ 🦪
+第一道：生蚝口味的奶油组合真的很妙！大海的鲜味和奶油的丝滑在嘴里融合，咸甜交织，每一口都是意想不到的惊喜！ 🦪
 
-{% include figure.liquid loading="eager" path="assets/img/post7-dan-b-restaurant-michelin-1-star-review/south-france-dan-b-restaurant-michelin-1-star-review-6.webp" title="dan-b-Restaurant-avis-review" class="img-fluid rounded z-depth-1" alt="dan-b-Restaurant米其林一星餐厅体验"%}
-
-小巧精致的开胃小点，每一样都像艺术品！另外还有章鱼搭配蛋黄，鲜美又有层次，咬一口，味蕾瞬间苏醒！🍳
+第二道：小巧精致的开胃小点，每一样都像艺术品！另外还有章鱼搭配蛋黄，鲜美又有层次，咬一口，味蕾瞬间苏醒！🍳
 
 ---
 
-### **前菜(entrée)：地中海海鲜**
+**前菜(entrée)：地中海海鲜**
 
 作为地中海沿岸的法餐厅，海鲜自然是主角之一。
-
-{% include figure.liquid loading="eager" path="assets/img/post7-dan-b-restaurant-michelin-1-star-review/south-france-dan-b-restaurant-michelin-1-star-review-7.webp" title="dan-b-Restaurant-avis-review" class="img-fluid rounded z-depth-1" alt="dan-b-Restaurant米其林一星餐厅体验"%}
+<div class="row justify-content-sm-center">
+  <div class="col-sm mt-3 mt-md-0">
+    {% include figure.liquid loading="eager" path="assets/img/post7-dan-b-restaurant-michelin-1-star-review/south-france-dan-b-restaurant-michelin-1-star-review-7.webp" title="dan-b-Restaurant-avis-review" class="img-fluid rounded z-depth-1" alt="dan-b-Restaurant米其林一星餐厅体验"%}
+  </div>
+  <div class="col-sm mt-3 mt-md-0">
+    {% include figure.liquid loading="eager" path="assets/img/post7-dan-b-restaurant-michelin-1-star-review/south-france-dan-b-restaurant-michelin-1-star-review-7b.webp" title="dan-b-Restaurant-avis-review" class="img-fluid rounded z-depth-1" alt="dan-b-Restaurant米其林一星餐厅体验"%}
+  </div>
+</div>
 
 第一道菜很精致，蟹肉的鲜美配上南瓜的甜味，味道很有层次感！摆盘也很艺术，简约中透着高级感。
 
-{% include figure.liquid loading="eager" path="assets/img/post7-dan-b-restaurant-michelin-1-star-review/south-france-dan-b-restaurant-michelin-1-star-review-7b.webp" title="dan-b-Restaurant-avis-review" class="img-fluid rounded z-depth-1" alt="dan-b-Restaurant米其林一星餐厅体验"%}
-
 第二道菜的生鱼片切得很薄，搭配柠檬皮和香草，感觉清新又有点微酸的口感。葡萄叶的加入很特别，带来一点独特的香气和苦味，非常有趣！
 
-### **主菜(plat)：普罗旺斯风味**
+**主菜(plat)：普罗旺斯风味**
 
-{% include figure.liquid loading="eager" path="assets/img/post7-dan-b-restaurant-michelin-1-star-review/south-france-dan-b-restaurant-michelin-1-star-review-7a.webp" title="dan-b-Restaurant-avis-review" class="img-fluid rounded z-depth-1" alt="dan-b-Restaurant米其林一星餐厅体验"%}
+<div class="row justify-content-sm-center">
+  <div class="col-sm mt-3 mt-md-0">
+    {% include figure.liquid loading="eager" path="assets/img/post7-dan-b-restaurant-michelin-1-star-review/south-france-dan-b-restaurant-michelin-1-star-review-7a.webp" title="dan-b-Restaurant-avis-review" class="img-fluid rounded z-depth-1" alt="dan-b-Restaurant米其林一星餐厅体验"%}
+  </div>
+  <div class="col-sm mt-3 mt-md-0">
+    {% include figure.liquid loading="eager" path="assets/img/post7-dan-b-restaurant-michelin-1-star-review/south-france-dan-b-restaurant-michelin-1-star-review-7c.webp" title="dan-b-Restaurant-avis-review" class="img-fluid rounded z-depth-1" alt="dan-b-Restaurant米其林一星餐厅体验"%}
+  </div>
+</div>
 
 第一道菜是鹅肝搭配白芦笋，鹅肝炙烤后的焦香加上酱汁的浓郁，特别滑嫩！整体颜色偏淡，口感很丰富。
-
-{% include figure.liquid loading="eager" path="assets/img/post7-dan-b-restaurant-michelin-1-star-review/south-france-dan-b-restaurant-michelin-1-star-review-7c.webp" title="dan-b-Restaurant-avis-review" class="img-fluid rounded z-depth-1" alt="dan-b-Restaurant米其林一星餐厅体验"%}
 
 第二道菜是干贝，煎得很漂亮，外焦里嫩，加上奶油泡沫和蔬菜，看着就很法式。清爽和浓郁的结合，对我来说是道挺舒服的菜！
 
 ---
 
-### **开胃甜点(pré-dessert)：经典与创新的完美融合**
+**开胃甜点(pré-dessert)：经典与创新的完美融合**
 
 {% include figure.liquid loading="eager" path="assets/img/post7-dan-b-restaurant-michelin-1-star-review/south-france-dan-b-restaurant-michelin-1-star-review-8.webp" title="dan-b-Restaurant-avis-review" class="img-fluid rounded z-depth-1" alt="dan-b-Restaurant米其林一星餐厅体验"%}
 
@@ -103,7 +131,7 @@ published: true
 
 ---
 
-### **正式甜点(dessert)：一场味觉的梦幻收尾**
+**正式甜点(dessert)：一场味觉的梦幻收尾**
 
 {% include figure.liquid loading="eager" path="assets/img/post7-dan-b-restaurant-michelin-1-star-review/south-france-dan-b-restaurant-michelin-1-star-review-9.webp" title="dan-b-Restaurant-avis-review" class="img-fluid rounded z-depth-1" alt="dan-b-Restaurant米其林一星餐厅体验"%}
 
@@ -113,7 +141,7 @@ published: true
 
 ---
 
-## 🧐 Dan B. 体验总结
+### 🧐 Dan B. 体验总结
 
 **环境**：**超美景观** + **现代法式设计**，每个角落都值得拍照 📸
 
