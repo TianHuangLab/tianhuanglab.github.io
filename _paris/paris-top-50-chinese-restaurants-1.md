@@ -675,6 +675,7 @@ map: true
 ---
 
 上半场25家神店够你从火锅卷王涮到甜品天堂了吧？这25家中餐馆，不仅是美食地标，更是中华文化的驿站🍲💥 **但巴黎的中餐江湖才露半边天！** 下篇我将解锁另外25家巴黎人气超高的中餐馆🔥。 赶紧跟着去打卡吧！
+点击查看[《巴黎中餐馆卷王争霸赛（下篇）｜干饭人速存！》](https://aolitravel.com/paris/paris-top-50-chinese-restaurants-2/)
 {% include figure.liquid loading="eager" path="assets/img/24paris-top-chinese-restaurants-a/aolitravel.com-paris-chinese-top-50-restaurants-0.webp" title="paris-top-chinese-restaurants" class="img-fluid rounded z-depth-1" alt="巴黎人气中餐馆paris-top-chinese-restaurants"%}
 
 ---
