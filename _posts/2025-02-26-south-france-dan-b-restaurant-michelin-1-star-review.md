@@ -45,7 +45,7 @@ published: true
     {% include figure.liquid loading="eager" path="assets/img/post7-dan-b-restaurant-michelin-1-star-review/south-france-dan-b-restaurant-michelin-1-star-review-3.webp" title="dan-b-Restaurant-avis-review" class="img-fluid rounded z-depth-1" alt="dan-b-Restaurant米其林一星餐厅体验"%}
   </div>
   <div class="col-sm mt-3 mt-md-0">
-    {% include figure.liquid loading="eager" path="assets/img/post7-dan-b-restaurant-michelin-1-star-review/south-france-dan-b-restaurant-michelin-1-star-review-3a.webp" title="dan-b-Restaurant-avis-review" class="img-fluid rounded z-depth-1" alt="dan-b-Restaurant米其林一星餐厅体验"%}
+    {% include figure.liquid loading="eager" path="assets/img/post7-dan-b-restaurant-michelin-1-star-review/south-france-dan-b-restaurant-michelin-1-star-review-3b.webp" title="dan-b-Restaurant-avis-review" class="img-fluid rounded z-depth-1" alt="dan-b-Restaurant米其林一星餐厅体验"%}
   </div>
 </div>
 
@@ -63,7 +63,14 @@ published: true
 
 法餐的精髓之一，就是在正式进入正餐之前，会用几款小点心来**唤醒味蕾**。首先第一道开胃小点如下：
 
-{% include figure.liquid loading="eager" path="assets/img/post7-dan-b-restaurant-michelin-1-star-review/south-france-dan-b-restaurant-michelin-1-star-review-4.webp" title="dan-b-Restaurant-avis-review" class="img-fluid rounded z-depth-1" alt="dan-b-Restaurant米其林一星餐厅体验"%}
+<div class="row justify-content-sm-center">
+  <div class="col-sm mt-3 mt-md-0">
+    {% include figure.liquid loading="eager" path="assets/img/post7-dan-b-restaurant-michelin-1-star-review/south-france-dan-b-restaurant-michelin-1-star-review-4.webp" title="dan-b-Restaurant-avis-review" class="img-fluid rounded z-depth-1" alt="dan-b-Restaurant米其林一星餐厅体验"%}
+  </div>
+  <div class="col-sm mt-3 mt-md-0">
+    {% include figure.liquid loading="eager" path="assets/img/post7-dan-b-restaurant-michelin-1-star-review/south-france-dan-b-restaurant-michelin-1-star-review-4a.webp" title="dan-b-Restaurant-avis-review" class="img-fluid rounded z-depth-1" alt="dan-b-Restaurant米其林一星餐厅体验"%}
+  </div>
+</div>
 
 这道奶油汤口感细腻，入口即化，搭配上点缀的绿色芹菜汁，增加了一丝清新草本风味。整体味道温和，很有层次感！ 🌿
 
@@ -119,25 +126,20 @@ published: true
 
 ---
 
-**开胃甜点(pré-dessert)：经典与创新的完美融合**
-
-{% include figure.liquid loading="eager" path="assets/img/post7-dan-b-restaurant-michelin-1-star-review/south-france-dan-b-restaurant-michelin-1-star-review-8.webp" title="dan-b-Restaurant-avis-review" class="img-fluid rounded z-depth-1" alt="dan-b-Restaurant米其林一星餐厅体验"%}
+**甜点(dessert)：经典与创新的完美融合**
 
 作为一顿完美法餐的收尾，甜点自然是不能马虎的！
+<div class="row justify-content-sm-center">
+  <div class="col-sm mt-3 mt-md-0">
+    {% include figure.liquid loading="eager" path="assets/img/post7-dan-b-restaurant-michelin-1-star-review/south-france-dan-b-restaurant-michelin-1-star-review-8.webp" title="dan-b-Restaurant-avis-review" class="img-fluid rounded z-depth-1" alt="dan-b-Restaurant米其林一星餐厅体验"%}
+  </div>
+  <div class="col-sm mt-3 mt-md-0">
+    {% include figure.liquid loading="eager" path="assets/img/post7-dan-b-restaurant-michelin-1-star-review/south-france-dan-b-restaurant-michelin-1-star-review-9.webp" title="dan-b-Restaurant-avis-review" class="img-fluid rounded z-depth-1" alt="dan-b-Restaurant米其林一星餐厅体验"%}
+  </div>
+</div>
+首先，开胃甜点(pré-dessert)的是巧克力塔搭配一个粉色甜点。巧克力塔口感浓郁，配上海盐的点缀，甜中带咸很有层次。旁边那团粉色甜点酸甜清爽，像是在巧克力的浓郁里开了一道清新的小口子。
 
-开胃的是巧克力塔搭配一个粉色甜点。
-
-巧克力塔口感浓郁，配上海盐的点缀，甜中带咸很有层次。旁边那团粉色甜点酸甜清爽，像是在巧克力的浓郁里开了一道清新的小口子。
-
----
-
-**正式甜点(dessert)：一场味觉的梦幻收尾**
-
-{% include figure.liquid loading="eager" path="assets/img/post7-dan-b-restaurant-michelin-1-star-review/south-france-dan-b-restaurant-michelin-1-star-review-9.webp" title="dan-b-Restaurant-avis-review" class="img-fluid rounded z-depth-1" alt="dan-b-Restaurant米其林一星餐厅体验"%}
-
-最后的正式甜点是绿色冰沙搭配透明脆片。
-
-这道简直是大自然的味道，很有创意，青绿色的冰沙透着一股清凉的草本气息。搭配上透明的薄脆，口感上有了层次，吃起来超级清爽！
+最后的正式甜点是绿色冰沙搭配透明脆片。这道简直是大自然的味道，很有创意，青绿色的冰沙透着一股清凉的草本气息。搭配上透明的薄脆，口感上有了层次，吃起来超级清爽！
 
 ---
 
