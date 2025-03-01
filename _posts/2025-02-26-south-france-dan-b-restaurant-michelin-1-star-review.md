@@ -36,18 +36,17 @@ published: true
 - 晴天时，玻璃窗会打开，让微风穿堂而过，带来沁人心脾的清新感
 
 📍 **餐厅外观**
-{% include figure.liquid loading="eager" path="assets/img/post7-dan-b-restaurant-michelin-1-star-review/south-france-dan-b-restaurant-michelin-1-star-review-2.webp" title="dan-b-Restaurant-avis-review" class="img-fluid rounded z-depth-1" alt="dan-b-Restaurant米其林一星餐厅体验"%}
-
-📍 **餐厅内部环境**
-
 <div class="row justify-content-sm-center">
   <div class="col-sm mt-3 mt-md-0">
-    {% include figure.liquid loading="eager" path="assets/img/post7-dan-b-restaurant-michelin-1-star-review/south-france-dan-b-restaurant-michelin-1-star-review-3.webp" title="dan-b-Restaurant-avis-review" class="img-fluid rounded z-depth-1" alt="dan-b-Restaurant米其林一星餐厅体验"%}
+    {% include figure.liquid loading="eager" path="assets/img/post7-dan-b-restaurant-michelin-1-star-review/south-france-dan-b-restaurant-michelin-1-star-review-2.webp" title="dan-b-Restaurant-avis-review" class="img-fluid rounded z-depth-1" alt="dan-b-Restaurant米其林一星餐厅体验"%}
   </div>
   <div class="col-sm mt-3 mt-md-0">
     {% include figure.liquid loading="eager" path="assets/img/post7-dan-b-restaurant-michelin-1-star-review/south-france-dan-b-restaurant-michelin-1-star-review-3b.webp" title="dan-b-Restaurant-avis-review" class="img-fluid rounded z-depth-1" alt="dan-b-Restaurant米其林一星餐厅体验"%}
   </div>
 </div>
+
+📍 **餐厅内部环境**
+{% include figure.liquid loading="eager" path="assets/img/post7-dan-b-restaurant-michelin-1-star-review/south-france-dan-b-restaurant-michelin-1-star-review-3.webp" title="dan-b-Restaurant-avis-review" class="img-fluid rounded z-depth-1" alt="dan-b-Restaurant米其林一星餐厅体验"%}
 
 整体氛围非常适合情侣约会、朋友聚餐，或者像我这样来这里为家人庆祝生日。💛
 
@@ -98,7 +97,7 @@ published: true
 作为地中海沿岸的法餐厅，海鲜自然是主角之一。
 <div class="row justify-content-sm-center">
   <div class="col-sm mt-3 mt-md-0">
-    {% include figure.liquid loading="eager" path="assets/img/post7-dan-b-restaurant-michelin-1-star-review/south-france-dan-b-restaurant-michelin-1-star-review-7.webp" title="dan-b-Restaurant-avis-review" class="img-fluid rounded z-depth-1" alt="dan-b-Restaurant米其林一星餐厅体验"%}
+    {% include figure.liquid loading="eager" path="assets/img/post7-dan-b-restaurant-michelin-1-star-review/south-france-dan-b-restaurant-michelin-1-star-review-7-h.webp" title="dan-b-Restaurant-avis-review" class="img-fluid rounded z-depth-1" alt="dan-b-Restaurant米其林一星餐厅体验"%}
   </div>
   <div class="col-sm mt-3 mt-md-0">
     {% include figure.liquid loading="eager" path="assets/img/post7-dan-b-restaurant-michelin-1-star-review/south-france-dan-b-restaurant-michelin-1-star-review-7b.webp" title="dan-b-Restaurant-avis-review" class="img-fluid rounded z-depth-1" alt="dan-b-Restaurant米其林一星餐厅体验"%}
@@ -113,7 +112,7 @@ published: true
 
 <div class="row justify-content-sm-center">
   <div class="col-sm mt-3 mt-md-0">
-    {% include figure.liquid loading="eager" path="assets/img/post7-dan-b-restaurant-michelin-1-star-review/south-france-dan-b-restaurant-michelin-1-star-review-7a.webp" title="dan-b-Restaurant-avis-review" class="img-fluid rounded z-depth-1" alt="dan-b-Restaurant米其林一星餐厅体验"%}
+    {% include figure.liquid loading="eager" path="assets/img/post7-dan-b-restaurant-michelin-1-star-review/south-france-dan-b-restaurant-michelin-1-star-review-7a-h.webp" title="dan-b-Restaurant-avis-review" class="img-fluid rounded z-depth-1" alt="dan-b-Restaurant米其林一星餐厅体验"%}
   </div>
   <div class="col-sm mt-3 mt-md-0">
     {% include figure.liquid loading="eager" path="assets/img/post7-dan-b-restaurant-michelin-1-star-review/south-france-dan-b-restaurant-michelin-1-star-review-7c.webp" title="dan-b-Restaurant-avis-review" class="img-fluid rounded z-depth-1" alt="dan-b-Restaurant米其林一星餐厅体验"%}
