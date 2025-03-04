@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 里昂必打卡18大景点：从历史古迹到现代艺术，玩转法国“光之城”！
+title: 里昂必打卡18大景点：从古迹到艺术，玩转法国“光之城”！
 description: 想要深度探索里昂？这篇攻略带你逛遍18个经典景点，绝对让你爱上这座法国美食之都！
 img: assets/img/28visit-lyon-top-18-things-to-do/visit-lyon-top-18-things-to-do-0.webp
 importance: 4
