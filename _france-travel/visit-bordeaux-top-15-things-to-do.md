@@ -21,7 +21,7 @@ tags: 法国旅行 旅行准备 波尔多 攻略
 这篇攻略为你精心挑选了波尔多市内外的15个必打卡景点，每一个都充满了独特的魅力。无论你是第一次来波尔多，还是已经对这座城市有所了解，这些景点都会让你重新发现它的美。
 
 首先，我先介绍波尔多市内景点：
-{% include figure.liquid loading="eager" path="assets/img/27visit-bordeaux-top-15-things-to-do/visit-bordeaux-top-15-things-to-do-1a.webp" title="aolitravel.com-visit-bordeaux-top-15-things-to-do" class="img-fluid rounded z-depth-1 watermarked" alt="aolitravel.com-波尔多旅游指南"%}
+{% include figure.liquid loading="eager" path="assets/img/27visit-bordeaux-top-15-things-to-do/visit-bordeaux-top-15-things-to-do-1a.png" title="aolitravel.com-visit-bordeaux-top-15-things-to-do" class="img-fluid rounded z-depth-1 watermarked" alt="aolitravel.com-波尔多旅游指南"%}
 
 ---
 
@@ -144,7 +144,7 @@ CAPC当代艺术博物馆位于波尔多市中心的旧仓库内，是法国最�
 
 介绍完波尔多市内的景点，接下来我再介绍几个波尔多大区内非常知名的景点。
 
-{% include figure.liquid loading="eager" path="assets/img/27visit-bordeaux-top-15-things-to-do/visit-bordeaux-top-15-things-to-do-1b.webp" title="aolitravel.com-visit-bordeaux-top-15-things-to-do" class="img-fluid rounded z-depth-1 watermarked" alt="aolitravel.com-波尔多旅游指南"%}
+{% include figure.liquid loading="eager" path="assets/img/27visit-bordeaux-top-15-things-to-do/visit-bordeaux-top-15-things-to-do-1b.png" title="aolitravel.com-visit-bordeaux-top-15-things-to-do" class="img-fluid rounded z-depth-1 watermarked" alt="aolitravel.com-波尔多旅游指南"%}
 
 ---
 
