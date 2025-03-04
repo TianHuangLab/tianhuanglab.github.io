@@ -14,6 +14,8 @@ tags: 法国 旅行准备 购物
 {% include figure.liquid loading="eager" path="assets/img/26france-outlet-village-guide/france-outlet-shopping-mall-village-guide-1.webp" title="aolitravel.com-french-outlet-village-guide" class="img-fluid rounded z-depth-1 watermarked" alt="法国打折村指南french-outlet-village-guide"%}
 宝子们！今天给大家整理了一份超全的法国打折村攻略，从巴黎到南法、香槟区再到里昂，跟着我一起“剁手”不迷路！以下信息结合了最新资讯和本地人私藏玩法，记得收藏转发哦～✨
 
+---
+
 ### **1. 大巴黎必逛：La Vallée Village 河谷购物村**
 
 **背景 & 开业时间**
@@ -84,7 +86,7 @@ tags: 法国 旅行准备 购物
 
 更多关于南法打折村的攻略，可以参考我的这篇文章：
 
-[《**南法普罗旺斯Miramas打折村剁手行程攻略**》](https://zhuanlan.zhihu.com/p/11822346758)
+[《南法普罗旺斯Miramas打折村剁手行程攻略》](https://zhuanlan.zhihu.com/p/11822346758)
 
 **营业时间 & 地址**
 
@@ -142,7 +144,7 @@ tags: 法国 旅行准备 购物
 
 **背景 & 开业时间**
 
-2018年开业的里昂奥莱，主打“都市工业风”，品牌偏重法意设计师款，适合追求小众独特的你！10
+2018年开业的里昂奥莱，主打“都市工业风”，品牌偏重法意设计师款，适合追求小众独特的你！
 {% include figure.liquid loading="eager" path="assets/img/26france-outlet-village-guide/france-outlet-shopping-mall-village-guide-10.webp" title="aolitravel.com-french-outlet-village-guide" class="img-fluid rounded z-depth-1 watermarked" alt="法国打折村指南french-outlet-village-guide"%}
 
 **营业时间 & 地址**
