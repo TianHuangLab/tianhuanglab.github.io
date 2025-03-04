@@ -3,7 +3,7 @@ layout: page
 title: 法国打折村「不完全指南」带你省钱买大牌！
 description: 法国的打折村在哪？到底值不值得去？这篇超实用攻略，带你解锁本地人都爱的折扣圣地🛍️
 img: assets/img/26france-outlet-village-guide/france-outlet-shopping-mall-village-guide-0.webp
-importance: 4
+importance: 7
 category: 
 related_publications: false
 related_posts: true
