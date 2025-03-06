@@ -24,6 +24,60 @@ nav_order: 5
     <img src="https://source.unsplash.com/600x400/?provence" alt="旅游图片3" style="width: 100%; max-width: 600px; height: auto; object-fit: cover; border-radius: 5px;">
 </div>
 
+<div class="carousel-container" id="carousel">
+  <!-- 图片将由 JavaScript 动态填充 -->
+</div>
+
+<script>
+  const accessKey = "0Ukx3h0_C18RepNO7qXDQeFSfYQHh7Mr57cNmAN8X-M";
+  const searchQueries = ["france", "french travel", "paris city", "provence city", "france nice", "alps view", "french monuments", "french heritage", "lyon city", "france culture"];
+  const carouselContainer = document.getElementById("carousel");
+
+  async function fetchUnsplashImages() {
+    try {
+      for (let query of searchQueries) {
+        let response = await fetch(`https://api.unsplash.com/photos/random?query=${query}&client_id=${accessKey}&orientation=landscape`);
+        let data = await response.json();
+        let img = document.createElement("img");
+        img.src = data.urls.regular; 
+        img.alt = query;
+        img.style.width = "100%";
+        img.style.maxWidth = "500px";
+        img.style.height = "300px";
+        img.style.margin = "0 10px";
+        img.style.borderRadius = "5px";
+        img.style.boxShadow = "0 2px 4px rgba(0, 0, 0, 0.1)";
+        carouselContainer.appendChild(img);
+      }
+    } catch (error) {
+      console.error("Unsplash 图片加载失败", error);
+    }
+  }
+
+  fetchUnsplashImages();
+</script>
+
+
+<style>
+  .carousel-container {
+    display: flex;
+    overflow-x: auto;
+    scroll-behavior: smooth;
+    white-space: nowrap;
+    padding: 20px;
+    margin: 20px 0;
+  }
+
+  .carousel-container img {
+    width: 100%;
+    max-width: 400px;
+    height: auto;
+    margin: 0 10px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+</style>
+
 ---
 
 ## 🏕️ 旅游行程信息
