@@ -163,6 +163,9 @@ collections:
   south-of-france:
     output: true
     permalink: /south-of-france/:path/
+  tours:
+    output: true
+    permalink: /tours/:path/
   custom-travel:
     output: true
     permalink: /custom-travel/:path/
