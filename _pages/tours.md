@@ -80,74 +80,89 @@ map: true
       </ul>
     </div>
     <div style="width: 40%;" class="col-sm mt-3 mt-md-0">
-      <pre style="white-space: pre-wrap; word-wrap: break-word;">
+        <!-- 地图容器 -->
+        <div id="map"></div>
 
-  {
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "马赛老港",
-        "description": "马赛最具历史意义的港口，风景优美，周边有许多餐厅和咖啡馆。"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [5.3764, 43.2965]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "卡西斯小镇",
-        "description": "风景如画的小镇，适合漫步探索，并前往观景点欣赏美景。"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [5.536, 43.214]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "马赛守护圣母大教堂",
-        "description": "马赛的地标建筑，可俯瞰整座城市和地中海的壮丽景色。"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [5.3686, 43.2922]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "马赛龙骧宫",
-        "description": "华丽的建筑与壮观的喷泉，是马赛文化与历史的重要象征。"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [5.3831, 43.2964]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "行程路线",
-        "description": "从马赛老港出发，途经卡西斯小镇，最终返回马赛。"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [5.3764, 43.2965],
-          [5.536, 43.214],
-          [5.3686, 43.2922],
-          [5.3831, 43.2964]
-        ]
-      }
-    }
-  ]
-}
-       </pre>
+        <!-- 在网页中嵌入 GeoJSON 数据 -->
+        <script>
+            // 创建地图，设置初始视野
+            var map = L.map('map').setView([43.2965, 5.3764], 12); // 初始坐标和缩放级别
+
+            // 添加 OSM（OpenStreetMap）瓦片图层
+            L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+                attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+            }).addTo(map);
+
+            // GeoJSON 数据
+            var geojsonData = {
+                "type": "FeatureCollection",
+                "features": [
+                    {
+                        "type": "Feature",
+                        "properties": {
+                            "name": "马赛老港",
+                            "description": "马赛最具历史意义的港口，风景优美，周边有许多餐厅和咖啡馆。"
+                        },
+                        "geometry": {
+                            "type": "Point",
+                            "coordinates": [5.3764, 43.2965]
+                        }
+                    },
+                    {
+                        "type": "Feature",
+                        "properties": {
+                            "name": "卡西斯小镇",
+                            "description": "风景如画的小镇，适合漫步探索，并前往观景点欣赏美景。"
+                        },
+                        "geometry": {
+                            "type": "Point",
+                            "coordinates": [5.536, 43.214]
+                        }
+                    },
+                    {
+                        "type": "Feature",
+                        "properties": {
+                            "name": "马赛守护圣母大教堂",
+                            "description": "马赛的地标建筑，可俯瞰整座城市和地中海的壮丽景色。"
+                        },
+                        "geometry": {
+                            "type": "Point",
+                            "coordinates": [5.3686, 43.2922]
+                        }
+                    },
+                    {
+                        "type": "Feature",
+                        "properties": {
+                            "name": "马赛龙骧宫",
+                            "description": "华丽的建筑与壮观的喷泉，是马赛文化与历史的重要象征。"
+                        },
+                        "geometry": {
+                            "type": "Point",
+                            "coordinates": [5.3831, 43.2964]
+                        }
+                    },
+                    {
+                        "type": "Feature",
+                        "properties": {
+                            "name": "行程路线",
+                            "description": "从马赛老港出发，途经卡西斯小镇，最终返回马赛。"
+                        },
+                        "geometry": {
+                            "type": "LineString",
+                            "coordinates": [
+                                [5.3764, 43.2965],
+                                [5.536, 43.214],
+                                [5.3686, 43.2922],
+                                [5.3831, 43.2964]
+                            ]
+                        }
+                    }
+                ]
+            };
+
+            // 使用 Leaflet 将 GeoJSON 数据添加到地图上
+            L.geoJSON(geojsonData).addTo(map);
+        </script>
     </div>
 </div>
 
