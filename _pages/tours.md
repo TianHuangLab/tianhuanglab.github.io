@@ -30,9 +30,9 @@ map: true
         img.src = data.urls.regular; 
         img.alt = query;
         img.style.width = "100%";
-        img.style.maxWidth = "400px";
+        img.style.maxWidth = "450px";
         img.style.height = "300px";
-        img.style.margin = "0 10px";
+        img.style.margin = "0 5px";
         img.style.borderRadius = "2px";
         img.style.boxShadow = "0 2px 4px rgba(0, 0, 0, 0.1)";
         carouselContainer.appendChild(img);
@@ -68,18 +68,22 @@ map: true
 
 ### 关于此行程
 清晨从马赛出发，沿着风景如画的海滨公路，首先我将带你探索迷人的卡西斯海滨度假小镇，随后返回马赛，让我们沉浸在人文历史的魅力之中。
-<div style="display: flex; justify-content: space-between; align-items: center;">
-    <div style="width: 60%; text-align: left;">
+<div style="display: flex; justify-content: space-between; align-items: center;" class="row justify-content-sm-center">
+    <div style="width: 60%; text-align: left;" class="col-sm mt-3 mt-md-0">
+      <ul>
         <li>行程线路：马赛老港 -> 卡西斯小镇（市中心漫步 + 观景点） -> 马赛守护圣母大教堂 -> 马赛龙骧宫</li>
         <li>内容：全程专享包车 + 司导无忧服务</li>
-        <li>价格：**79欧/人，2人成团**</li>
+        <li>价格：79欧/人，2人成团</li>
         <li>支持语言：中文、英语、法语</li>
         <li>预定方式：先订后付，取消方便（最迟提前24小时取消可获得全额退款）</li>
         <li>适用人群：全部。如果有儿童一起出行，可免费提供儿童座椅。</li>
+      </ul>
     </div>
-    <div style="width: 35%; height: 300px; background: #ccc; text-align: center; line-height: 300px;">
-    ```geojson
-        {
+    <div style="width: 40%;" class="col-sm mt-3 mt-md-0">
+      <pre style="white-space: pre-wrap; word-wrap: break-word;">
+
+```geojson
+  {
   "type": "FeatureCollection",
   "features": [
     {
@@ -145,8 +149,10 @@ map: true
   ]
 }
 ```
+       </pre>
     </div>
 </div>
+
 
 <button style="background: #ff4d4d; color: white; padding: 10px 20px; border: none; cursor: pointer; border-radius: 5px; transition: background 0.3s; margin-top: 10px;">立即预定</button>
 
