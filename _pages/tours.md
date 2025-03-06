@@ -71,18 +71,17 @@ map: true
 <div style="display: flex; justify-content: space-between; align-items: center;" class="row justify-content-sm-center">
     <div style="width: 60%; text-align: left;" class="col-sm mt-3 mt-md-0">
       <ul>
-        <li>行程线路：马赛老港 -> 卡西斯小镇（市中心漫步 + 观景点） -> 马赛守护圣母大教堂 -> 马赛龙骧宫</li>
-        <li>内容：全程专享包车 + 司导无忧服务</li>
-        <li>价格：79欧/人，2人成团</li>
-        <li>支持语言：中文、英语、法语</li>
-        <li>预定方式：先订后付，取消方便（最迟提前24小时取消可获得全额退款）</li>
-        <li>适用人群：全部。如果有儿童一起出行，可免费提供儿童座椅。</li>
+        <li><b>行程线路：</b>马赛老港 -> 卡西斯小镇（市中心漫步 + 观景点） -> 马赛守护圣母大教堂 -> 马赛龙骧宫</li>
+        <li><b>内容：</b>全程专享包车 + 司导无忧服务</li>
+        <li><b>价格：</b>79欧/人，2人成团</li>
+        <li><b>支持语言：</b>中文、英语、法语</li>
+        <li><b>预定方式：</b>先订后付，取消方便（最迟提前24小时取消可获得全额退款）</li>
+        <li><b>适用人群：</b>全部。如果有儿童一起出行，可免费提供儿童座椅。</li>
       </ul>
     </div>
     <div style="width: 40%;" class="col-sm mt-3 mt-md-0">
       <pre style="white-space: pre-wrap; word-wrap: break-word;">
 
-```geojson
   {
   "type": "FeatureCollection",
   "features": [
@@ -148,7 +147,6 @@ map: true
     }
   ]
 }
-```
        </pre>
     </div>
 </div>
