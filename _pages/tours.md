@@ -85,7 +85,7 @@ map: true
 
 从**马赛（Marseille）**出发，沿着风光旖旎的地中海海岸线，我们将前往南法隐藏的宝藏——**卡西斯海滨小镇（Cassis）**。这里有色彩斑斓的港口、迷人的小巷和绝美的悬崖海景，仿佛走进一幅动人画卷。漫步其中，感受法式慢生活的魅力。随后返回马赛，深入探索这座千年古城的文化底蕴，欣赏标志性建筑，感受历史与现代的交融。
 
-### 📍 **行程亮点**
+### 📍行程亮点
 
 **出发点：马赛老港** ⏩ **卡西斯小镇**（🌆 市中心漫步 + 🌅 观景点） ⏩ **马赛守护圣母大教堂** ⏩ **马赛龙骧宫** 
 
@@ -97,7 +97,7 @@ map: true
 
 **龙骧宫**——领略宏伟建筑，聆听城市故事
 
-### **🌟 无忧出行，畅享旅程**
+### 🌟 无忧出行，畅享旅程
 
 - **专属包车 + 专业司导**，全程贴心服务
 - **79欧/人，**2人成团，超值体验
@@ -178,9 +178,6 @@ map: true
 ---
 
 ## ⛰️ 走进普罗旺斯画卷 | 沉浸式探访泉水城 & 石头城 & 红土城 ✨
-<div class="carousel-container" id="carousel">
-  <!-- 图片将由 JavaScript 动态填充 -->
-</div>
 
 <script>
   const accessKey = "0Ukx3h0_C18RepNO7qXDQeFSfYQHh7Mr57cNmAN8X-M";
@@ -211,27 +208,7 @@ map: true
   fetchUnsplashImages();
 </script>
 
-
-<style>
-  .carousel-container {
-    display: flex;
-    overflow-x: auto;
-    scroll-behavior: smooth;
-    white-space: nowrap;
-    padding: 20px;
-    margin: 20px 0;
-  }
-
-  .carousel-container img {
-    width: 100%;
-    max-width: 400px;
-    height: auto;
-    margin: 0 10px;
-    border-radius: 5px;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-  }
-</style>
-### **关于此行程**
+### 关于此行程
 
 ☀️ **清晨启程，开启一场梦幻的普罗旺斯田园之旅！**
 
@@ -239,7 +216,7 @@ map: true
 
 一整天的旅程，如诗如画，带你走进真正的南法风情！
 
-### 📍 **行程亮点**
+### 📍 行程亮点
 
 **出发点：马赛 / 阿维尼翁** ⏩ **泉水城（Fontaine-de-Vaucluse）**（💧 探索神秘泉眼 + 🍃 河畔漫步） ⏩ **石头城（Gordes）**（🏰 山城美景 + 🏡 童话般街道） ⏩ **红土城（Roussillon）**（🎨 桔红色峡谷 + 🌿 迷人步道）
 
@@ -249,13 +226,13 @@ map: true
 
 **红土城**——漫步红色悬崖，沉浸于大自然的调色盘之中
 
-### **🌟 无忧出行，畅享旅程**
+### 🌟 无忧出行，畅享旅程
 
-- **专属包车 + 专业司导**，全程贴心服务
-- **79欧/人，**2人成团，超值体验
-- 儿童友好，**免费提供儿童座椅**
-- 支持**中文 / 英语 / 法语**讲解
-- 预订灵活，先订后付，提前24小时免费取消，全额退款
+**专属包车 + 专业司导**，全程贴心服务
+**79欧/人**，2人成团，超值体验
+儿童友好，**免费提供儿童座椅**
+支持**中文 / 英语 / 法语**讲解
+预订灵活，先订后付，提前24小时免费取消，全额退款
 
 **普罗旺斯的温柔色彩，等你来发现！** 立即预订，开启你的南法田园之旅！ 🌿✨
 <button style="background: #ff4d4d; color: white; padding: 10px 20px; border: none; cursor: pointer; border-radius: 5px; transition: background 0.3s; margin-top: 10px;">立即预定</button>
@@ -343,9 +320,6 @@ map: true
 ---
 
 ## 💜 漫步薰衣草仙境 | 普罗旺斯 & 圣十字湖一日游 ✨
-<div class="carousel-container" id="carousel">
-  <!-- 图片将由 JavaScript 动态填充 -->
-</div>
 
 <script>
   const accessKey = "0Ukx3h0_C18RepNO7qXDQeFSfYQHh7Mr57cNmAN8X-M";
@@ -377,26 +351,7 @@ map: true
 </script>
 
 
-<style>
-  .carousel-container {
-    display: flex;
-    overflow-x: auto;
-    scroll-behavior: smooth;
-    white-space: nowrap;
-    padding: 20px;
-    margin: 20px 0;
-  }
-
-  .carousel-container img {
-    width: 100%;
-    max-width: 400px;
-    height: auto;
-    margin: 0 10px;
-    border-radius: 5px;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-  }
-</style>
-### **关于此行程**
+### 关于此行程
 
 ☀️ **清晨启程，开启一场紫色浪漫的普罗旺斯田园之旅！**
 
@@ -404,7 +359,7 @@ map: true
 
 这一日，置身南法最令人心醉的风景之中，让身心沉浸在薰衣草的浪漫与湖泊的宁静！
 
-### 📍 **行程亮点**
+### 📍行程亮点
 
 **出发点：马赛 / 阿维尼翁** ⏩ **瓦伦索勒薰衣草田**（💜 浪漫花海 + 📸 绝美打卡） ⏩ **穆斯捷陶瓷小镇**（🏡 法式山村 + 🎨 手工陶艺） ⏩ **圣十字湖**（🌊 仙境湖泊 + 🚣‍♂️ 休闲活动）
 
@@ -414,13 +369,13 @@ map: true
 
 **圣十字湖**——邂逅碧蓝湖泊，徜徉于法国最纯净的自然天堂
 
-### **🌟 无忧出行，畅享旅程**
+### 🌟 无忧出行，畅享旅程
 
-- **专属包车 + 专业司导**，全程贴心服务
-- **79欧/人，**2人成团，超值体验
-- 儿童友好，**免费提供儿童座椅**
-- 支持**中文 / 英语 / 法语**讲解
-- 预订灵活，先订后付，提前24小时免费取消，全额退款
+**专属包车 + 专业司导**，全程贴心服务
+**79欧/人**，2人成团，超值体验
+儿童友好，**免费提供儿童座椅**
+支持 **中文 / 英语 / 法语**讲解
+预订灵活，先订后付，提前24小时免费取消，全额退款
 
 **邂逅南法最梦幻的色彩，等你来探！** 立即预订，开启你的普罗旺斯浪漫之旅！ 💜✨
 <button style="background: #ff4d4d; color: white; padding: 10px 20px; border: none; cursor: pointer; border-radius: 5px; transition: background 0.3s; margin-top: 10px;">立即预定</button>
