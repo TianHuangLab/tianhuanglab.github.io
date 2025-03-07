@@ -260,6 +260,7 @@ map: true
 **普罗旺斯的温柔色彩，等你来发现！** 立即预订，开启你的南法田园之旅！ 🌿✨
 <button style="background: #ff4d4d; color: white; padding: 10px 20px; border: none; cursor: pointer; border-radius: 5px; transition: background 0.3s; margin-top: 10px;">立即预定</button>
 
+```geojson
 {
   "type": "FeatureCollection",
   "features": [
@@ -337,6 +338,7 @@ map: true
     }
   ]
 }
+```
 
 ---
 
@@ -423,6 +425,7 @@ map: true
 **邂逅南法最梦幻的色彩，等你来探！** 立即预订，开启你的普罗旺斯浪漫之旅！ 💜✨
 <button style="background: #ff4d4d; color: white; padding: 10px 20px; border: none; cursor: pointer; border-radius: 5px; transition: background 0.3s; margin-top: 10px;">立即预定</button>
 
+```geojson
 {
   "type": "FeatureCollection",
   "features": [
@@ -500,6 +503,7 @@ map: true
     }
   ]
 }
+```
 
 ---
 
