@@ -11,7 +11,7 @@ map: true
 ---
 
 ## 🌊 探秘南法之美 | 马赛 & 卡西斯浪漫一日游 ✨
-
+<!--
 <div class="carousel-container" id="carousel">
   <!-- 图片将由 JavaScript 动态填充 -->
 </div>
@@ -45,6 +45,51 @@ map: true
   fetchUnsplashImages();
 </script>
 
+
+<style>
+  .carousel-container {
+    display: flex;
+    overflow-x: auto;
+    scroll-behavior: smooth;
+    white-space: nowrap;
+    padding: 20px;
+    margin: 20px 0;
+  }
+
+  .carousel-container img {
+    width: 100%;
+    max-width: 400px;
+    height: auto;
+    margin: 0 10px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+</style>
+-->
+
+<div class="carousel-container" data-images='["tours-marseille-1-day.webp", "tours-marseille-2-day.webp"]'></div>
+
+<script>
+  function loadLocalImages() {
+    document.querySelectorAll(".carousel-container").forEach(container => {
+      const images = JSON.parse(container.getAttribute("data-images"));
+      images.forEach(file => {
+        let img = document.createElement("img");
+        img.src = `assets/img/0tours/${file}`;
+        img.alt = file.replace(/_/g, ' ').replace(/\.webp$/, '');
+        img.style.width = "100%";
+        img.style.maxWidth = "450px";
+        img.style.height = "300px";
+        img.style.margin = "0 5px";
+        img.style.borderRadius = "5px";
+        img.style.boxShadow = "0 2px 4px rgba(0, 0, 0, 0.1)";
+        container.appendChild(img);
+      });
+    });
+  }
+
+  document.addEventListener("DOMContentLoaded", loadLocalImages);
+</script>
 
 <style>
   .carousel-container {
@@ -179,34 +224,7 @@ map: true
 
 ## ⛰️ 走进普罗旺斯画卷 | 沉浸式探访泉水城 & 石头城 & 红土城 ✨
 
-<script>
-  const accessKey = "0Ukx3h0_C18RepNO7qXDQeFSfYQHh7Mr57cNmAN8X-M";
-  const searchQueries = ["Fontaine-de-Vaucluse", "provence Fontaine-de-Vaucluse", "provence gordes", "gordes", "Roussillon", "provence Roussillon", "france provence", "france provence village", "france provence village"];
-  const carouselContainer = document.getElementById("carousel");
-
-  async function fetchUnsplashImages() {
-    try {
-      for (let query of searchQueries) {
-        let response = await fetch(`https://api.unsplash.com/photos/random?query=${query}&client_id=${accessKey}&orientation=landscape`);
-        let data = await response.json();
-        let img = document.createElement("img");
-        img.src = data.urls.regular; 
-        img.alt = query;
-        img.style.width = "100%";
-        img.style.maxWidth = "450px";
-        img.style.height = "300px";
-        img.style.margin = "0 5px";
-        img.style.borderRadius = "2px";
-        img.style.boxShadow = "0 2px 4px rgba(0, 0, 0, 0.1)";
-        carouselContainer.appendChild(img);
-      }
-    } catch (error) {
-      console.error("Unsplash 图片加载失败", error);
-    }
-  }
-
-  fetchUnsplashImages();
-</script>
+<div class="carousel-container" data-images='["tours-marseille-1-day.webp", "tours-marseille-2-day.webp"]'></div>
 
 ### 关于此行程
 
@@ -321,35 +339,7 @@ map: true
 
 ## 💜 漫步薰衣草仙境 | 普罗旺斯 & 圣十字湖一日游 ✨
 
-<script>
-  const accessKey = "0Ukx3h0_C18RepNO7qXDQeFSfYQHh7Mr57cNmAN8X-M";
-  const searchQueries = ["champ lavande", "provence champ lavande", "france champs lavande", "Valensole", "Moustiers-Sainte-Marie", "provence Moustiers-Sainte-Marie", "Lac de Sainte-Croix", "france Lac de Sainte-Croix", "provence Lac de Sainte-Croix"];
-  const carouselContainer = document.getElementById("carousel");
-
-  async function fetchUnsplashImages() {
-    try {
-      for (let query of searchQueries) {
-        let response = await fetch(`https://api.unsplash.com/photos/random?query=${query}&client_id=${accessKey}&orientation=landscape`);
-        let data = await response.json();
-        let img = document.createElement("img");
-        img.src = data.urls.regular; 
-        img.alt = query;
-        img.style.width = "100%";
-        img.style.maxWidth = "450px";
-        img.style.height = "300px";
-        img.style.margin = "0 5px";
-        img.style.borderRadius = "2px";
-        img.style.boxShadow = "0 2px 4px rgba(0, 0, 0, 0.1)";
-        carouselContainer.appendChild(img);
-      }
-    } catch (error) {
-      console.error("Unsplash 图片加载失败", error);
-    }
-  }
-
-  fetchUnsplashImages();
-</script>
-
+<div class="carousel-container" data-images='["tours-marseille-1-day.webp", "tours-marseille-2-day.webp"]'></div>
 
 ### 关于此行程
 
