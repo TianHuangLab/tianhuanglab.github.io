@@ -12,7 +12,7 @@ map: true
 
 ## 🌊 探秘南法之美 | 马赛 & 卡西斯浪漫一日游 ✨
 
-<div class="carousel-container" data-images='["tours-marseille-1-day.webp", "tours-marseille-2-day.webp"]'></div>
+<div class="carousel-container" data-images='["tours-marseille-1-day.webp", "tours-marseille-1-day.webp", "tours-marseille-1-day.webp"]'></div>
 
 <script>
   function loadLocalImages() {
@@ -20,7 +20,7 @@ map: true
       const images = JSON.parse(container.getAttribute("data-images"));
       images.forEach(file => {
         let img = document.createElement("img");
-        img.src = `assets/img/0tours/${file}`;
+        img.src = `/assets/img/0tours/${file}`;
         img.alt = file.replace(/_/g, ' ').replace(/\.webp$/, '');
         img.style.width = "100%";
         img.style.maxWidth = "450px";
