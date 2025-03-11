@@ -96,7 +96,16 @@ map: true
 - 预订灵活，先订后付，提前24小时免费取消，全额退款
 
 **法式浪漫，等你来探！** 立即预订，开启你的南法美好回忆！
-<button style="background: #ff4d4d; color: white; padding: 10px 20px; border: none; cursor: pointer; border-radius: 5px; transition: background 0.3s; margin-top: 10px;">立即预定</button>
+
+<script async
+  src="https://js.stripe.com/v3/buy-button.js">
+</script>
+
+<stripe-buy-button
+  buy-button-id="buy_btn_1R1SleLF9x7iB9GnQG3so407"
+  publishable-key="pk_live_51HOVRdLF9x7iB9GnVh8jWCYVrSXFsF0CFw3BfSy6EHhkHoMuIjYMfYcJ1eFZ1Pu397lxh5CNDLfiSgDUBiXt0Dw4003T9jFWgc"
+>
+</stripe-buy-button>
 
 ```geojson
 {
