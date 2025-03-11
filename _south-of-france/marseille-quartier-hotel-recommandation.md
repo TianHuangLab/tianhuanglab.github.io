@@ -112,6 +112,8 @@ published: true
 
 另外，如果你更喜欢在旅途中体验民宿，你也可以通过airbnb等平台预订马赛住宿。
 
+👉 如果你想深入游览南法，立即点击查看我的[精选旅游路线](https://aolitravel.com/tours/)，和我一起从马赛出发，畅游南法最美景点！我将带你走在大多数游客无法到达的地方，带你发现那些隐藏的珍宝和独特体验！
+
 如果你想了解更多关于马赛的游玩项目，可以[咨询我](https://aolitravel.com/)，或查阅客路旅行平台的相关[游玩项目](https://affiliate.klook.com/redirect?aid=81133&aff_adid=981519&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-CN%2Fsearch%2Fresult%2F%3Fquery%3Dmarseille%26spm%3DSearchResult.TopNavigation.SelectLanguage%26clickId%3D0550c2b75d)。
  {% include figure.liquid loading="eager" path="assets/img/13marseille-quartier-hotel/13marseille-quartier-hotel-7.jpg" title="marseille-trip-hotel-aolitravel.com" class="img-fluid rounded z-depth-1" %}
 
