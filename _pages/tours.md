@@ -12,7 +12,7 @@ map: true
 
 ## 🌊 探秘南法之美 | 马赛 & 卡西斯浪漫一日游 ✨
 
-<div class="carousel-container" data-images='["tours-marseille-1-day.webp", "tours-marseille-1-day.webp", "tours-marseille-1-day.webp"]'></div>
+<div class="carousel-container" data-images='["tours-1.webp", "tours-1a.webp", "tours-2.webp", "tours-2a.webp", "tours-3.webp", "tours-3a.webp", "tours-4.webp", "tours-5.webp", "tours-5a.webp"]'></div>
 
 <script>
   function loadLocalImages() {
@@ -77,7 +77,7 @@ map: true
 
 ### 📍行程亮点
 
-**出发点：马赛老港** ⏩ **卡西斯小镇**（🌆 市中心漫步 + 🌅 观景点） ⏩ **马赛守护圣母大教堂** ⏩ **马赛龙骧宫** 
+**出发点：马赛老港** ⏩ **卡西斯小镇**（市中心漫步 + 观景点） ⏩ **马赛守护圣母大教堂** ⏩ **马赛龙骧宫** 
 
 **马赛老港**——感受这座城市的活力与海洋气息
 
@@ -169,7 +169,7 @@ map: true
 
 ## ⛰️ 走进普罗旺斯画卷 | 沉浸式探访泉水城 & 石头城 & 红土城 ✨
 
-<div class="carousel-container" data-images='["tours-marseille-1-day.webp", "tours-marseille-2-day.webp"]'></div>
+<div class="carousel-container" data-images='["tours-a.webp", "tours-b.webp", "tours-c.webp", "tours-d.webp", "tours-e.webp", "tours-f.webp", "tours-g.webp", "tours-h.webp", "tours-i.webp"]'></div>
 
 ### 关于此行程
 
@@ -181,7 +181,7 @@ map: true
 
 ### 📍 行程亮点
 
-**出发点：马赛 / 阿维尼翁** ⏩ **泉水城（Fontaine-de-Vaucluse）**（💧 探索神秘泉眼 + 🍃 河畔漫步） ⏩ **石头城（Gordes）**（🏰 山城美景 + 🏡 童话般街道） ⏩ **红土城（Roussillon）**（🎨 桔红色峡谷 + 🌿 迷人步道）
+**出发点：马赛 / 阿维尼翁** ⏩ **泉水城（Fontaine-de-Vaucluse）**（探索神秘泉眼 + 河畔漫步） ⏩ **石头城（Gordes）**（山城美景 + 童话般街道） ⏩ **红土城（Roussillon）**（月球表面般的桔红色峡谷 + 迷人步道）
 
 **泉水城**——探寻瓦克吕兹泉的源头，欣赏碧蓝如玉的泉眼
 
@@ -191,11 +191,11 @@ map: true
 
 ### 🌟 无忧出行，畅享旅程
 
-**专属包车 + 专业司导**，全程贴心服务
-**79欧/人**，2人成团，超值体验
-儿童友好，**免费提供儿童座椅**
-支持**中文 / 英语 / 法语**讲解
-预订灵活，先订后付，提前24小时免费取消，全额退款
+- **专属包车 + 专业司导**，全程贴心服务
+- **79欧/人，**2人成团，超值体验
+- 儿童友好，**免费提供儿童座椅**
+- 支持**中文 / 英语 / 法语**讲解
+- 预订灵活，先订后付，提前24小时免费取消，全额退款
 
 **普罗旺斯的温柔色彩，等你来发现！** 立即预订，开启你的南法田园之旅！ 🌿✨
 <button style="background: #ff4d4d; color: white; padding: 10px 20px; border: none; cursor: pointer; border-radius: 5px; transition: background 0.3s; margin-top: 10px;">立即预定</button>
@@ -284,7 +284,7 @@ map: true
 
 ## 💜 漫步薰衣草仙境 | 普罗旺斯 & 圣十字湖一日游 ✨
 
-<div class="carousel-container" data-images='["tours-marseille-1-day.webp", "tours-marseille-2-day.webp"]'></div>
+<div class="carousel-container" data-images='["0tours-10.webp", "0tours-11.webp", "0tours-12.webp", "0tours-13.webp", "0tours-14.webp", "0tours-15.webp", "0tours-16.webp", "0tours-17.webp", "0tours-18.webp"]'></div>
 
 ### 关于此行程
 
@@ -296,7 +296,7 @@ map: true
 
 ### 📍行程亮点
 
-**出发点：马赛 / 阿维尼翁** ⏩ **瓦伦索勒薰衣草田**（💜 浪漫花海 + 📸 绝美打卡） ⏩ **穆斯捷陶瓷小镇**（🏡 法式山村 + 🎨 手工陶艺） ⏩ **圣十字湖**（🌊 仙境湖泊 + 🚣‍♂️ 休闲活动）
+**出发点：马赛 / 阿维尼翁** ⏩ **瓦伦索勒薰衣草田**（浪漫花海 + 绝美打卡） ⏩ **穆斯捷陶瓷小镇**（法式山村 + 手工陶艺） ⏩ **圣十字湖**（仙境湖泊 + 休闲活动）
 
 **瓦伦索勒薰衣草田**——沉浸在紫色海洋，感受普罗旺斯的浪漫气息（6-7月最佳花期）
 
@@ -306,11 +306,11 @@ map: true
 
 ### 🌟 无忧出行，畅享旅程
 
-**专属包车 + 专业司导**，全程贴心服务
-**79欧/人**，2人成团，超值体验
-儿童友好，**免费提供儿童座椅**
-支持 **中文 / 英语 / 法语**讲解
-预订灵活，先订后付，提前24小时免费取消，全额退款
+- **专属包车 + 专业司导**，全程贴心服务
+- **79欧/人，**2人成团，超值体验
+- 儿童友好，**免费提供儿童座椅**
+- 支持**中文 / 英语 / 法语**讲解
+- 预订灵活，先订后付，提前24小时免费取消，全额退款
 
 **邂逅南法最梦幻的色彩，等你来探！** 立即预订，开启你的普罗旺斯浪漫之旅！ 💜✨
 <button style="background: #ff4d4d; color: white; padding: 10px 20px; border: none; cursor: pointer; border-radius: 5px; transition: background 0.3s; margin-top: 10px;">立即预定</button>
@@ -384,7 +384,6 @@ map: true
         "type": "LineString",
         "coordinates": [
           [5.3660078048706055, 43.294612884521484],
-          [4.80552864074707, 43.949317932128906],
           [5.987030029296875, 43.76588821411133],
           [6.231979846954346, 43.844810485839844],
           [6.163700103759766, 43.79235076904297]
