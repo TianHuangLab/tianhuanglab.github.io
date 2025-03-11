@@ -28,7 +28,7 @@ published: true
 
 **马赛**（出发地） → **瓦伦索勒**（Valensole，薰衣草的胜地） →**（可选）陶瓷小镇**（法国“景德镇”）→ **圣十字湖**（Sainte-Croix-du-Verdon，湖景美不胜收） → **马赛**（终点）
 
-🚗 **自驾建议**：从马赛出发，直接导航到瓦伦索勒小镇，大约1个半小时的车程。自驾的话，到达valensole附近后，沿着Route de la Lavande（薰衣草之路）一直开，两边都是大片的薰衣草田，你可以随时停下来拍拍照，随心所欲地在薰衣草田里穿梭，感受真正的普罗旺斯魅力。
+🚗 **自驾建议**：从马赛出发，直接导航到瓦伦索勒小镇，大约1个半小时的车程。自驾的话，到达valensole附近后，沿着Route de la Lavande（薰衣草之路）一直开，两边都是大片的薰衣草田，你可以随时停下来拍拍照，随心所欲地在薰衣草田里穿梭，感受真正的普罗旺斯魅力。另外，我也会在每年6/7月的时候，开放我的薰衣草精选一日游线路，欢迎提前预订！👉 立即点击查看我的[精选旅游路线](https://aolitravel.com/tours/)
 
 📍 **最近机场**：马赛普罗旺斯机场（Marseille Provence Airport），到马赛市区非常方便，直接开车出发就好。
 
@@ -112,6 +112,8 @@ published: true
 ### 结语
 
 无论是醉人的薰衣草田，还是如画的圣十字湖，都能给你带来一段难忘的旅行体验。准备好了吗？让我们一同踏上这段普罗旺斯的美丽旅程吧！🌸💙
+
+👉 如果你想深入游览南法，立即点击查看我的[精选旅游路线](https://aolitravel.com/tours/)，和我一起从马赛出发，畅游南法最美景点！我将带你走在大多数游客无法到达的地方，带你发现那些隐藏的珍宝和独特体验！
 
 {% include figure.liquid loading="eager" path="assets/img/15visit-champ-lavande-saint-croix-verdon-moustiers-sainte-marie/visit-champ-lavande-saint-croix-verdon-moustiers-sainte-marie-10.jpg" title="visit-champ-lavande-saint-croix-verdon-moustiers-sainte-marie" class="img-fluid rounded z-depth-1" %}
 
