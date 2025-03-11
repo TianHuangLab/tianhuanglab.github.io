@@ -12,7 +12,7 @@ map: true
 
 ## 🌊 探秘南法之美 | 马赛 & 卡西斯浪漫一日游 ✨
 
-<div class="carousel-container" data-images='["tours-1.webp", "tours-1a.webp", "tours-2.webp", "tours-2a.webp", "tours-3.webp", "tours-3a.webp", "tours-4.webp", "tours-5.webp", "tours-5a.webp"]'></div>
+<div class="carousel-container" data-images='["tours-1.webp", "tours-1a.webp", "tours-2.webp", "tours-2a.webp", "tours-3.webp", "tours-6.webp", "tours-4.webp", "tours-5.webp", "tours-5a.webp"]'></div>
 
 <script>
   function loadLocalImages() {
@@ -90,7 +90,7 @@ map: true
 ### 🌟 无忧出行，畅享旅程
 
 - **专属包车 + 专业司导**，全程贴心服务
-- **79欧/人，**2人成团，超值体验
+- **79欧/人**，2人成团，超值体验
 - 儿童友好，**免费提供儿童座椅**
 - 支持**中文 / 英语 / 法语**讲解
 - 预订灵活，先订后付，提前24小时免费取消，全额退款
@@ -192,7 +192,7 @@ map: true
 ### 🌟 无忧出行，畅享旅程
 
 - **专属包车 + 专业司导**，全程贴心服务
-- **79欧/人，**2人成团，超值体验
+- **89欧/人**，2人成团，超值体验
 - 儿童友好，**免费提供儿童座椅**
 - 支持**中文 / 英语 / 法语**讲解
 - 预订灵活，先订后付，提前24小时免费取消，全额退款
@@ -307,7 +307,7 @@ map: true
 ### 🌟 无忧出行，畅享旅程
 
 - **专属包车 + 专业司导**，全程贴心服务
-- **79欧/人，**2人成团，超值体验
+- **99欧/人**，2人成团，超值体验
 - 儿童友好，**免费提供儿童座椅**
 - 支持**中文 / 英语 / 法语**讲解
 - 预订灵活，先订后付，提前24小时免费取消，全额退款
@@ -395,6 +395,9 @@ map: true
 ```
 
 ---
+如果你有更多个性化的需求，欢迎找我定制行程！
+
+[定制行程](https://aolitravel.com/custom-travel/)
 
 想了解更多法国的旅行灵感？快来探索我的其他旅游攻略吧！😊🇫🇷
 
