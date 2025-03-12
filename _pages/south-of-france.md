@@ -5,7 +5,7 @@ permalink: /south-of-france/
 description: 探秘普罗旺斯、蔚蓝海岸
 nav: true
 nav_order: 2
-display_categories: [普罗旺斯, 蔚蓝海岸]
+display_categories: [解锁南法, 普罗旺斯, 蔚蓝海岸]
 horizontal: false
 ---
 
