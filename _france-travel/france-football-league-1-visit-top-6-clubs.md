@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 法国看球之旅⚽｜探秘法甲六大豪门，看球、逛球场、买票全攻略
-description: 来法国旅游不看球？亏大了！从历史到球场参观到购票攻略，一篇搞定你的法国足球之旅！
+title: 法国看球之旅⚽｜探秘法甲六大豪门
+description: 来法国旅游不看球？亏大了！看球、逛球场、买票全攻略，一篇搞定你的法国足球之旅！
 img: assets/img/31france-football-league-1-visit-top-6-clubs/france-football-league-1-visit-top-6-clubs-0.webp
 importance: 9
 category: 
@@ -50,9 +50,9 @@ PSG以其华丽的进攻足球风格著称，球队拥有众多世界级球星�
 如果你是一位足球迷，参观王子公园球场绝对是不可错过的体验。球场提供导览服务，你可以参观球员更衣室、新闻发布厅和球场内部设施。导览通常持续约90分钟，建议提前在官网预订。
 {% include figure.liquid loading="eager" path="assets/img/31france-football-league-1-visit-top-6-clubs/france-football-league-1-visit-top-6-clubs-1b.webp" title="aolitravel.com-france-football-league-1-intro" class="img-fluid rounded z-depth-1 watermarked" alt="法国足球旅游指南france-football-league-1-intro"%}
 
-**购票指南（针对游客）**
+**购票指南**
 
-想看PSG的比赛？别急，我来告诉你咋买票！首先，PSG的比赛门票超级抢手，尤其是对阵强队的时候，比如马赛、里昂这些对手，票分分钟就没了。所以，**提前计划**是关键！你可以直接上PSG的官网买票，或者通过官方授权的票务平台（比如Ticketmaster France）预订。如果你是临时起意，比赛前几天才决定去看，那也别慌，可以试试二手票务平台（比如Viagogo），但要注意，价格可能会被炒得比较高，而且一定要确认票的真实性哦！
+想看PSG的比赛？别急，我来告诉你咋买票！首先，PSG的比赛门票超级抢手，尤其是对阵强队的时候，比如马赛、里昂这些对手，票分分钟就没了。所以，提前计划是关键！你可以直接上PSG的官网买票，或者通过官方授权的票务平台（比如Ticketmaster France）预订。如果你是临时起意，比赛前几天才决定去看，那也别慌，可以试试二手票务平台（比如Viagogo），但要注意，价格可能会被炒得比较高，而且一定要确认票的真实性哦！
 
 如果你是土豪，或者就想体验一把VIP的感觉，PSG也提供豪华包厢和贵宾票，价格嘛……嗯，准备好你的钱包吧！不过，这种体验绝对值得，毕竟你可以在豪华包厢里边喝香槟边看梅西、姆巴佩和内马尔踢球，想想就爽！
 
@@ -126,7 +126,7 @@ PSG以其华丽的进攻足球风格著称，球队拥有众多世界级球星�
 
 **购票指南**
 
-来尼斯度假的足球迷们，别光顾着晒太阳、看海景，顺便看场球赛呗！尼斯的比赛门票相对好买一些，毕竟不像PSG和马赛那么抢手。你可以在官网直接购票，或者通过官方合作的票务预订。票价也比较亲民，普通座位大概20-50欧元就能搞定。
+来尼斯度假的足球迷们，别光顾着晒太阳、看海景，顺便看场球赛呗！尼斯的比赛门票相对好买一些，毕竟不像PSG和马赛那么抢手。你可以在官网直接购票，或者通过官方合作的票务预订。票价也比较亲民，非热门场次的普通座位大概20-50欧元就能搞定。
 
 点击查看[球队官网](https://www.ogcnice.com/en/)
 {% include figure.liquid loading="eager" path="assets/img/31france-football-league-1-visit-top-6-clubs/france-football-league-1-visit-top-6-clubs-3d.webp" title="aolitravel.com-france-football-league-1-intro" class="img-fluid rounded z-depth-1 watermarked" alt="法国足球旅游指南france-football-league-1-intro"%}
@@ -137,7 +137,7 @@ PSG以其华丽的进攻足球风格著称，球队拥有众多世界级球星�
 
 **球队历史**
 
-摩纳哥足球俱乐部（AS Monaco）成立于1924年，是法国足球的传统强队之一。摩纳哥在法国足球历史上有着重要的地位，曾多次夺得法甲联赛冠军和法国杯冠军。球队的成立标志着法国足球的崛起，摩纳哥也因此成为法国足球的象征。
+摩纳哥足球俱乐部（AS Monaco）成立于1924年，是法国足球的传统强队之一。摩纳哥在法国足球历史上有着重要的地位，曾多次夺得法甲联赛冠军和法国杯冠军。球队的成立标志着法国足球的崛起，摩纳哥也因此成为法国足球的象征之一。
 
 **球队球场**
 
@@ -150,17 +150,17 @@ PSG以其华丽的进攻足球风格著称，球队拥有众多世界级球星�
 
 **球队风格和球星**
 
-摩纳哥以其稳健的防守和快速反击著称，球队拥有众多实力派球员。历史上，球队的核心球员包括法国前锋本耶德尔（Wissam Ben Yedder）、俄罗斯中场戈洛温（Aleksandr Golovin）和法国后卫迪萨西（Axel Disasi），另外包括姆巴佩也是在摩纳哥出道的。点击查看[球队当前阵容](https://www.asmonaco.com/en/pro-team/players/)。4b
+摩纳哥以其稳健的防守和快速反击著称，球队拥有众多实力派球员。历史上，球队的核心球员包括法国前锋本耶德尔（Wissam Ben Yedder）、俄罗斯中场戈洛温（Aleksandr Golovin）和法国后卫迪萨西（Axel Disasi），另外包括姆巴佩也是在摩纳哥出道的。点击查看[球队当前阵容](https://www.asmonaco.com/en/pro-team/players/)。
 {% include figure.liquid loading="eager" path="assets/img/31france-football-league-1-visit-top-6-clubs/france-football-league-1-visit-top-6-clubs-4b.webp" title="aolitravel.com-france-football-league-1-intro" class="img-fluid rounded z-depth-1 watermarked" alt="法国足球旅游指南france-football-league-1-intro"%}
 
 **如何参观球场**
 
-路易二世球场提供导览服务，你可以参观球员更衣室、新闻发布厅和球场内部设施。导览通常持续约1个半小时，建议提前在官网预订。4c
+路易二世球场提供导览服务，你可以参观球员更衣室、新闻发布厅和球场内部设施。导览通常持续约1个半小时，建议提前在官网预订。
 {% include figure.liquid loading="eager" path="assets/img/31france-football-league-1-visit-top-6-clubs/france-football-league-1-visit-top-6-clubs-4c.webp" title="aolitravel.com-france-football-league-1-intro" class="img-fluid rounded z-depth-1 watermarked" alt="法国足球旅游指南france-football-league-1-intro"%}
 
 **购票指南**
 
-来摩纳哥旅游的足球迷们，别光顾着赌场和游艇，看场球赛也是不错的选择！摩纳哥的比赛门票通常不会太难买，你可以在官网直接购票。票价大概在30-80欧元之间，具体价格取决于对手和座位位置。
+来摩纳哥旅游的足球迷们，别光顾着赌场和游艇，看场球赛也是不错的选择！摩纳哥的比赛门票通常不会太难买，你可以在官网直接购票。票价大概在30-100多欧元之间，具体价格取决于对手和座位位置。
 
 点击查看[球队官网](https://www.asmonaco.com/en/)
 
@@ -196,7 +196,7 @@ PSG以其华丽的进攻足球风格著称，球队拥有众多世界级球星�
 
 **购票指南**
 
-来里尔旅游的足球迷们，别错过看场球赛的机会！里尔的比赛门票通常不会太难买，你可以在官网直接购票。票价大概在20-60欧元之间，具体价格取决于对手和座位位置。
+来里尔旅游的足球迷们，别错过看场球赛的机会！里尔的比赛门票通常不会太难买，你可以在官网直接购票。非热门普通场次票价大概在20-60欧元之间，具体价格取决于对手和座位位置。
 
 点击查看[球队官网](https://www.losc.fr/en)
 
@@ -232,7 +232,7 @@ Groupama Stadium提供导览服务，你可以参观球员更衣室、新闻发�
 
 **购票指南**
 
-来里昂旅游的足球迷们，看场球赛绝对是个好主意！里昂的比赛门票通常不会太难买，你可以在官网（https://www.ol.fr/en）直接购票，或者通过官方合作的票务平台（如Ticketmaster France）预订。票价大概在25-70欧元之间，具体价格取决于对手和座位位置。
+来里昂旅游的足球迷们，看场球赛绝对是个好主意！里昂的比赛门票通常不会太难买，你可以在官网直接购票，或者通过官方合作的票务平台预订。普通场次票价大概在25-70欧元之间，具体价格取决于对手和座位位置。
 
 点击查看[球队官网](https://www.ol.fr/en)
 
