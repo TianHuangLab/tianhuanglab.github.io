@@ -62,7 +62,6 @@ tags: 法国文化 旅行准备 礼仪 语言 饮食文化 餐馆 用餐指南
 在送巧克力时，选择一些高品质的法国巧克力品牌，如[Valrhona](https://www.valrhona.com/fr-FR)或[La Maison du Chocolat](https://www.lamaisonduchocolat.com/fr_fr)，是非常不错的选择。法国巧克力以其细腻的口感和丰富的风味而闻名，是送礼的理想选择。🍫
 
 此外，书籍也是法国人喜欢的礼物之一。法国是一个文化底蕴深厚的国家，书籍在法国人的生活中占有重要地位。选择一本经典的法国文学作品或一本关于法国文化的书籍，不仅能表达心意，还能展示你对法国文化的兴趣和尊重。
-{% include figure.liquid loading="eager" path="assets/img/19french-culture-101-etiquette-language-culinary-dining-guide.webp/aolitravel.com-french-culture-101-etiquette-language-culinary-dining-guide-5.webp" title="aolitravel.com-french-culture-101-etiquette-language-culinary-dining-guide" class="img-fluid rounded z-depth-1 watermarked" alt="法国文化小课堂｜礼仪、语言、饮食文化、餐馆用餐指南"%}
 
 ---
 
@@ -160,7 +159,6 @@ tags: 法国文化 旅行准备 礼仪 语言 饮食文化 餐馆 用餐指南
 法国巧克力不仅是一种甜点，更是一种艺术品。巧克力师傅们通过精湛的技艺，将巧克力制作成各种形状和口味，如松露巧克力、夹心巧克力和巧克力棒等。
 
 在法国，巧克力不仅是日常生活中的一种享受，也是节日和特殊场合的重要礼物。例如，在情人节，巧克力是表达爱意的经典礼物。
-{% include figure.liquid loading="eager" path="assets/img/19french-culture-101-etiquette-language-culinary-dining-guide.webp/aolitravel.com-french-culture-101-etiquette-language-culinary-dining-guide-14.webp" title="aolitravel.com-french-culture-101-etiquette-language-culinary-dining-guide" class="img-fluid rounded z-depth-1 watermarked" alt="法国文化小课堂｜礼仪、语言、饮食文化、餐馆用餐指南"%}
 
 ---
 
