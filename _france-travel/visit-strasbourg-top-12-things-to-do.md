@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 欧洲之心「斯特拉斯堡」Top12大景点深度游攻略
+title: 欧洲之心「斯特拉斯堡」Top12景点深度游攻略
 description: 一文看遍市区热门景点和网红小镇科尔马，带你走进法国阿尔萨斯的梦幻世界！
 img: assets/img/33visit-strasbourg/visit-strasbourg-top-12-things-to-do-0.webp
 importance: 11
