@@ -184,7 +184,7 @@ tags: 法国 斯特拉斯堡 科尔马 阿尔萨斯 旅行攻略
 
 ### 周边小镇推荐：科尔马
 
-**文化历史**：科尔马 (Colmar)是阿尔萨斯地区的一个小镇，被誉为“小威尼斯”，这里也是宫崎骏的动画电影《哈尔的移动城堡》里的原型小镇。。这里的中世纪建筑和运河风景如画，尤其是老城区，简直像童话世界。科尔马还是自由女神像设计者巴托尔迪的故乡。科尔马的建筑风格非常独特，尤其是那些木筋屋和运河，充满了阿尔萨斯地区的传统风情。科尔马不仅是阿尔萨斯的历史中心，也是文化和艺术的象征。科尔马的历史可以追溯到中世纪，当时这里是阿尔萨斯地区的商业和社交中心，现在则成了游客们必去的打卡地。
+**文化历史**：科尔马 (Colmar)是阿尔萨斯地区的一个小镇，被誉为“小威尼斯”，这里也是宫崎骏的动画电影《哈尔的移动城堡》里的原型小镇。这里的中世纪建筑和运河风景如画，尤其是老城区，简直像童话世界。科尔马还是自由女神像设计者巴托尔迪的故乡。科尔马的建筑风格非常独特，尤其是那些木筋屋和运河，充满了阿尔萨斯地区的传统风情。科尔马不仅是阿尔萨斯的历史中心，也是文化和艺术的象征。科尔马的历史可以追溯到中世纪，当时这里是阿尔萨斯地区的商业和社交中心，现在则成了游客们必去的打卡地。
 {% include figure.liquid loading="eager" path="assets/img/33visit-strasbourg/visit-strasbourg-top-12-things-to-do-13c.webp" title="aolitravel.com-visit-strasbourg" class="img-fluid rounded z-depth-1 watermarked" alt="法国斯特拉斯堡旅游指南france-visit-strasbourg"%}
 
 近些年，热门的综艺剧[《中餐厅》第二季](https://movie.douban.com/subject/30188120/)就是选址在科尔马。
@@ -194,7 +194,7 @@ tags: 法国 斯特拉斯堡 科尔马 阿尔萨斯 旅行攻略
 
 **如何游览**：科尔马适合步行游览，你可以沿着运河散步，拍拍照，或者找个咖啡馆坐下来，感受一下中世纪的风情。科尔马的圣诞集市也很有名，值得一看。科尔马的导览团也非常有趣，可以带你深入了解科尔马的历史和建筑细节。如果你对历史感兴趣，可以参加一个导览团，了解更多关于科尔马的历史和文化。科尔马周围还有许多著名的景点，如斯特拉斯堡大教堂和小法兰西区等，都非常值得一看。
 
-**门票**：市中心游览免费！13b
+**门票**：市中心游览免费！
 {% include figure.liquid loading="eager" path="assets/img/33visit-strasbourg/visit-strasbourg-top-12-things-to-do-13b.webp" title="aolitravel.com-visit-strasbourg" class="img-fluid rounded z-depth-1 watermarked" alt="法国斯特拉斯堡旅游指南france-visit-strasbourg"%}
 
 ---
