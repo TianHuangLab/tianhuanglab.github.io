@@ -185,6 +185,8 @@ tags: 法国 斯特拉斯堡 科尔马 阿尔萨斯 旅行攻略
 ### 周边小镇推荐：科尔马
 
 **文化历史**：科尔马 (Colmar)是阿尔萨斯地区的一个小镇，被誉为“小威尼斯”，这里也是宫崎骏的动画电影《哈尔的移动城堡》里的原型小镇。这里的中世纪建筑和运河风景如画，尤其是老城区，简直像童话世界。科尔马还是自由女神像设计者巴托尔迪的故乡。科尔马的建筑风格非常独特，尤其是那些木筋屋和运河，充满了阿尔萨斯地区的传统风情。科尔马不仅是阿尔萨斯的历史中心，也是文化和艺术的象征。科尔马的历史可以追溯到中世纪，当时这里是阿尔萨斯地区的商业和社交中心，现在则成了游客们必去的打卡地。
+更多关于科尔马旅游攻略，请移步：
+[《最美小镇「科尔马」一日游攻略｜仿佛误入童话世界✨》](https://aolitravel.com/france-travel/visit-colmar-1-day-trip/)
 {% include figure.liquid loading="eager" path="assets/img/33visit-strasbourg/visit-strasbourg-top-12-things-to-do-13c.webp" title="aolitravel.com-visit-strasbourg" class="img-fluid rounded z-depth-1 watermarked" alt="法国斯特拉斯堡旅游指南france-visit-strasbourg"%}
 
 近些年，热门的综艺剧[《中餐厅》第二季](https://movie.douban.com/subject/30188120/)就是选址在科尔马。
