@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 「格勒诺布尔终极攻略」8大必玩景点+3种推荐玩法（美食、远足、滑雪）
+title: 「格勒诺布尔」终极攻略｜8大必玩景点&美食、远足、滑雪推荐
 description: 这座宝藏小城，藏着超多惊喜！一文带你玩转8大景点，吃遍美食，还能徒步、滑雪，保证不踩雷！
 img: assets/img/35visit-grenoble-guide/aolitravel.com-visit-grenoble-guide-0.webp
 importance: 13
@@ -25,7 +25,7 @@ Hi！如果你正在计划一趟法国之旅或曾经来过法国还想再来玩
 
 ---
 
-### 1. 巴士底城堡 **Fort de la Bastille**
+### 1. **巴士底城堡 Fort de la Bastille**
 
 你一定听说过格勒诺布尔的巴士底城堡（Fort de la Bastille），这个古老的堡垒就坐落在格勒诺布尔市区的北面，背靠着壮丽的阿尔卑斯山。Bastille堡垒的历史可以追溯到16世纪，原本是为了防御外敌而建，但随着时间的推移，它的角色发生了变化，成为了格勒诺布尔的标志性景点之一。这里不仅有丰富的历史文化，还有非常棒的全景视角，可以俯瞰到整个格勒诺布尔市区以及周围的山脉。
 
@@ -36,7 +36,7 @@ Hi！如果你正在计划一趟法国之旅或曾经来过法国还想再来玩
 点击查看[官网信息](https://www.grenoble-tourisme.com/fr/catalogue/detail/fort-de-la-bastille-98808/)。
 {% include figure.liquid loading="eager" path="assets/img/35visit-grenoble-guide/aolitravel.com-visit-grenoble-guide-1.webp" title="aolitravel.com-visit-grenoble" class="img-fluid rounded z-depth-1 watermarked" alt="法国格勒诺布尔旅游指南france-visit-grenoble"%}
 
-### 2. 格勒诺布尔缆车 **Le Téléphérique de Grenoble**
+### 2. **格勒诺布尔缆车 Téléphérique de Grenoble**
 
 想要以最酷的方式游览格勒诺布尔的美景？那就不能错过格勒诺布尔缆车（Le Téléphérique de Grenoble）。这条缆车线路连接市区与Bastille山堡，是格勒诺布尔最具标志性的交通工具之一。从市中心乘坐缆车，不仅能够快速到达山顶，还能在空中俯瞰到格勒诺布尔的城市景色，特别适合拍照和享受美景。
 
@@ -47,7 +47,7 @@ Hi！如果你正在计划一趟法国之旅或曾经来过法国还想再来玩
 点击查看[官网票价信息](https://bastille-grenoble.fr/tarifs-individuels/)。
 {% include figure.liquid loading="eager" path="assets/img/35visit-grenoble-guide/aolitravel.com-visit-grenoble-guide-2.webp" title="aolitravel.com-visit-grenoble" class="img-fluid rounded z-depth-1 watermarked" alt="法国格勒诺布尔旅游指南france-visit-grenoble"%}
 
-### 3. 圣洛朗桥与狮子喷泉 **La Passerelle Saint-Laurent & Fontaine au Lion**
+### 3. **圣洛朗桥与狮子喷泉 Passerelle Saint-Laurent & Fontaine au Lion**
 
 圣洛朗桥（La Passerelle Saint-Laurent）是格勒诺布尔的一座历史悠久的桥梁，它横跨着Isère河，连接着市区与Saint-Laurent区。建于19世纪的这座桥，不仅仅是一座交通工具，还是格勒诺布尔的文化象征之一。你可以在桥上散步，欣赏两岸的美景，同时还可以顺便参观桥旁的狮子喷泉（Lion Fountain），这座喷泉雕塑生动展现了格勒诺布尔市区内两条河流带来的文化融合之间的关系。
 
@@ -55,14 +55,14 @@ Hi！如果你正在计划一趟法国之旅或曾经来过法国还想再来玩
 {% include figure.liquid loading="eager" path="assets/img/35visit-grenoble-guide/aolitravel.com-visit-grenoble-guide-3a.webp" title="aolitravel.com-visit-grenoble" class="img-fluid rounded z-depth-1 watermarked" alt="法国格勒诺布尔旅游指南france-visit-grenoble"%}
 {% include figure.liquid loading="eager" path="assets/img/35visit-grenoble-guide/aolitravel.com-visit-grenoble-guide-3b.webp" title="aolitravel.com-visit-grenoble" class="img-fluid rounded z-depth-1 watermarked" alt="法国格勒诺布尔旅游指南france-visit-grenoble"%}
 
-### 4. 圣克莱尔市场 **Halle Sainte-Claire**
+### 4. **圣克莱尔市场 Halle Sainte-Claire**
 
 圣克莱尔市场（Halle Sainte-Claire）是格勒诺布尔的一座古老市场建筑，也是该市最具历史感的建筑之一。这里原本是一个市场，后来经过多次改造，现在已成为格勒诺布尔的一个文化和购物中心。市场内有许多传统的手工艺品、地道的美食以及各种当地特产，非常适合游客体验当地的风情。
 
 这个地方除了购买美食和纪念品外，还可以参观一些小型的展览或者参与当地的文化活动。如果你爱好美食，可以在市场内尝试当地的特色小吃，像是奶酪和香肠，都是当地非常有名的美味。交通方面，Halle Sainte-Claire距离最近的公交站点非常近，可以通过“Place Sainte-Claire”站轻松抵达，步行2分钟即可到达。
 {% include figure.liquid loading="eager" path="assets/img/35visit-grenoble-guide/aolitravel.com-visit-grenoble-guide-4.webp" title="aolitravel.com-visit-grenoble" class="img-fluid rounded z-depth-1 watermarked" alt="法国格勒诺布尔旅游指南france-visit-grenoble"%}
 
-### 5. 格勒诺布尔博物馆 **Musée de Grenoble**
+### 5. **格勒诺布尔博物馆 Musée de Grenoble**
 
 如果你是艺术爱好者，那么格勒诺布尔的博物馆绝对不容错过。Musée de Grenoble（格勒诺布尔博物馆）是该市最重要的艺术博物馆之一，收藏了大量的欧洲和亚洲艺术作品。从文艺复兴时期的经典画作到现代艺术的前卫作品，这里都有展示。如果你对艺术历史感兴趣，博物馆内丰富的展览内容肯定会让你大开眼界。
 
@@ -71,16 +71,16 @@ Hi！如果你正在计划一趟法国之旅或曾经来过法国还想再来玩
 点击查看[官网信息](https://www.museedegrenoble.fr/)。
 {% include figure.liquid loading="eager" path="assets/img/35visit-grenoble-guide/aolitravel.com-visit-grenoble-guide-5.webp" title="aolitravel.com-visit-grenoble" class="img-fluid rounded z-depth-1 watermarked" alt="法国格勒诺布尔旅游指南france-visit-grenoble"%}
 
-### 6. 多芬博物馆 **Musée Dauphinois**
+### 6. **多芬博物馆 Musée Dauphinois**
 
 多芬博物馆（Musée Dauphinois）是一个以当地历史和文化为主题的博物馆，位于格勒诺布尔的旧城区。这个博物馆展示了格勒诺布尔及其周边地区的民俗、传统和历史，尤其是以阿尔卑斯山区的生活为主题。参观这个博物馆，你能深入了解当地的山地文化、手工艺以及历史背景。
 
 如果你对历史感兴趣，Musée Dauphinois绝对是一个值得一去的地方。你可以在这里花上大约1-2小时，享受一个轻松的文化之旅。博物馆的门票通常是免费的，偶尔会有特别展览需要付费。交通方面，最近的公交站点是“Musée Dauphinois”站，步行几分钟即可到达。
 
 点击查看[官网信息](https://musees.isere.fr/musee/musee-dauphinois)。
-{% include figure.liquid loading="eager" path="assets/img/35visit-grenoble-guide/aolitravel.com-visit-grenoble-guide-6.webp" title="aolitravel.com-visit-grenoble" class="img-fluid rounded z-depth-1 watermarked" alt="法国格勒诺布尔旅游指南france-visit-grenoble"%}
+{% include figure.liquid loading="eager" path="https://upload.wikimedia.org/wikipedia/commons/6/68/Ext%C3%A9rieur_du_Mus%C3%A9e_dauphinois.jpg" title="aolitravel.com-visit-grenoble" class="img-fluid rounded z-depth-1 watermarked" alt="法国格勒诺布尔旅游指南france-visit-grenoble"%}
 
-### 7. 司汤达博物馆 **Musée Stendhal - Appartement Gagnon**
+### 7. **司汤达博物馆 Musée Stendhal - Appartement Gagnon**
 
 这座博物馆是为了纪念法国著名作家斯坦达尔而设立的，展出了许多与他生平和作品相关的物品。博物馆位于司汤达曾经居住过的公寓内，是对这位文学巨匠的致敬。这里展示了许多私人收藏，包括手稿、信件以及他使用过的物品，非常适合文学爱好者。
 
@@ -89,7 +89,7 @@ Hi！如果你正在计划一趟法国之旅或曾经来过法国还想再来玩
 点击查看[官网信息](https://musee-stendhal.bm-grenoble.fr/)。
 {% include figure.liquid loading="eager" path="assets/img/35visit-grenoble-guide/aolitravel.com-visit-grenoble-guide-7.webp" title="aolitravel.com-visit-grenoble" class="img-fluid rounded z-depth-1 watermarked" alt="法国格勒诺布尔旅游指南france-visit-grenoble"%}
 
-### 8. 保罗·米斯特拉尔公园 **Parc Paul Mistral**
+### 8. **保罗·米斯特拉尔公园 Parc Paul Mistral**
 
 如果你想放松一下，享受大自然的宁静，保罗·米斯特拉尔公园（Parc Paul Mistral）是一个不错的选择。这座公园位于格勒诺布尔市中心，是一个适合散步、跑步和野餐的地方。公园内有大片绿地，还有一座壮丽的喷泉，夏天的时候这里非常热闹，常常可以看到当地居民和游客在这里休闲放松。
 
@@ -97,30 +97,31 @@ Hi！如果你正在计划一趟法国之旅或曾经来过法国还想再来玩
 {% include figure.liquid loading="eager" path="assets/img/35visit-grenoble-guide/aolitravel.com-visit-grenoble-guide-8.webp" title="aolitravel.com-visit-grenoble" class="img-fluid rounded z-depth-1 watermarked" alt="法国格勒诺布尔旅游指南france-visit-grenoble"%}
 
 ---
+### 9. **补充玩法推荐**
 
 **美食推荐**
 
 格勒诺布尔的美食真的值得一试！如果你在这座城市旅游，千万不要错过这里的特色餐馆。推荐你尝试一下当地的奶酪、香肠和独特的小吃，如“gratin dauphinois”，这道美味的土豆焗菜是当地的传统美食。你可以前往“Le Fantin Latour”餐厅，享受一顿地道的法式餐点，或是去“小地方”尝试一些手工制作的甜点。具体的美食推荐不妨看看我之前写过的一篇餐馆推荐帖子：
 
-[《我心中的格勒诺布尔Top餐厅及甜品店推荐!》](https://aolitravel.com/blog/2024/grenoble-top-restaurants/)9
+[《我心中的格勒诺布尔Top餐厅及甜品店推荐!》](https://aolitravel.com/blog/2024/grenoble-top-restaurants/)
 {% include figure.liquid loading="eager" path="assets/img/35visit-grenoble-guide/aolitravel.com-visit-grenoble-guide-9.webp" title="aolitravel.com-visit-grenoble" class="img-fluid rounded z-depth-1 watermarked" alt="法国格勒诺布尔旅游指南france-visit-grenoble"%}
 
 **户外远足推荐**
 
-如果你喜欢远足，不妨去克罗勒齿峰（Dent de Crolles）一探究竟。这座山的徒步路线非常适合喜欢挑战的你，顶峰的风景绝对让你流连忘返。你可以从“Saint-Hilaire du Touvet”出发，享受大自然的馈赠。10
+如果你喜欢远足，不妨去克罗勒齿峰（Dent de Crolles）一探究竟。这座山的徒步路线非常适合喜欢挑战的你，顶峰的风景绝对让你流连忘返。你可以从“Saint-Hilaire du Touvet”出发，享受大自然的馈赠。
 {% include figure.liquid loading="eager" path="assets/img/35visit-grenoble-guide/aolitravel.com-visit-grenoble-guide-10.webp" title="aolitravel.com-visit-grenoble" class="img-fluid rounded z-depth-1 watermarked" alt="法国格勒诺布尔旅游指南france-visit-grenoble"%}
 
 **冬季滑雪推荐**
 
 格勒诺布尔附近的滑雪胜地非常多，比如Lans en Vercors、Villards en Lens和Chamrousse，都是非常适合冬季滑雪的好地方。不管是初学者还是经验丰富的滑雪者，这里都有适合你的滑雪道。
 
-[**Lans en Vercors](https://skipass.lansenvercors.com/fr/) 雪站官网**
+**[Lans en Vercors](https://skipass.lansenvercors.com/fr/) 雪站官网**
 {% include figure.liquid loading="eager" path="assets/img/35visit-grenoble-guide/aolitravel.com-visit-grenoble-guide-11a.webp" title="aolitravel.com-visit-grenoble" class="img-fluid rounded z-depth-1 watermarked" alt="法国格勒诺布尔旅游指南france-visit-grenoble"%}
 
-[**Villards en Lens](https://www.villarddelans-correnconenvercors.com/) 雪站官网**
+**[Villards en Lens](https://www.villarddelans-correnconenvercors.com/) 雪站官网**
 {% include figure.liquid loading="eager" path="assets/img/35visit-grenoble-guide/aolitravel.com-visit-grenoble-guide-11b.webp" title="aolitravel.com-visit-grenoble" class="img-fluid rounded z-depth-1 watermarked" alt="法国格勒诺布尔旅游指南france-visit-grenoble"%}
 
-[**Chamrousse](https://www.chamrousse.com/) 雪站官网**11c
+**[**Chamrousse](https://www.chamrousse.com/) 雪站官网**
 {% include figure.liquid loading="eager" path="assets/img/35visit-grenoble-guide/aolitravel.com-visit-grenoble-guide-11c.webp" title="aolitravel.com-visit-grenoble" class="img-fluid rounded z-depth-1 watermarked" alt="法国格勒诺布尔旅游指南france-visit-grenoble"%}
 
 更多关于法国滑雪的内容，我推荐你看看我的法国Top20雪场推荐：
