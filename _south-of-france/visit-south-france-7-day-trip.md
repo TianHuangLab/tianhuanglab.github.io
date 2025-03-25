@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 🌟南法7天怎么玩？这份保姆级攻略带你嗨翻蔚蓝海岸和普罗旺斯！
+title: 🌟南法7天怎么玩？收下这份保姆级嗨玩攻略！
 description: 跟着我的脚步，7天玩转南法最值得打卡的景点，吃最地道的美食，拍最惊艳的照片！
 img: assets/img/36visit-south-france-7-day-trip/aolitravel.com-visit-south-france-7-day-trip-0.webp
 importance: 1
@@ -78,6 +78,7 @@ tags: 法国 法国旅游 南法 蔚蓝海岸 普罗旺斯
 🌸 **季节限定：**
 
 6月中旬-7月底推荐替换为：瓦朗索勒薰衣草田 → 穆斯蒂耶圣玛丽陶瓷小镇 → 南法珍珠圣十字湖游船
+查看[《💜2025普罗旺斯薰衣草花期预报｜最佳观赏时间与路线》](https://aolitravel.com/south-of-france/visit-france-2025-provence-lavender-season)
 
 更多关于南法小镇的内容，请移步我的攻略[《南法Top15最美宝藏小镇推荐!》](https://aolitravel.com/south-of-france/visit-south-france-top-15-villages/)
 {% include figure.liquid loading="eager" path="assets/img/36visit-south-france-7-day-trip/aolitravel.com-visit-south-france-7-day-trip-3a.webp" title="aolitravel.com-visit-south-france-7-day-trip" class="img-fluid rounded z-depth-1 watermarked" alt="南法7日游visit-south-france-7-day-trip"%}
@@ -101,7 +102,7 @@ tags: 法国 法国旅游 南法 蔚蓝海岸 普罗旺斯
 
 更多关于阿维尼翁和阿尔勒的景点，可以参阅我的攻略文章：
 
-[《🔥 阿维尼翁旅行攻略 | 解锁教皇之城 🏰 Top15景点！》](https://aolitravel.com/south-of-france/visit-avignon-city-guide-top-15-things-to-do/)
+[《阿维尼翁旅行攻略 | 解锁教皇之城 🏰 Top15景点！》](https://aolitravel.com/south-of-france/visit-avignon-city-guide-top-15-things-to-do/)
 
 [《阿尔勒城市旅行指南｜探索普罗旺斯的魅力》](https://aolitravel.com/south-of-france/visit-arles-city-guide/)
 {% include figure.liquid loading="eager" path="assets/img/36visit-south-france-7-day-trip/aolitravel.com-visit-south-france-7-day-trip-4a.webp" title="aolitravel.com-visit-south-france-7-day-trip" class="img-fluid rounded z-depth-1 watermarked" alt="南法7日游visit-south-france-7-day-trip"%}
@@ -180,6 +181,7 @@ tags: 法国 法国旅游 南法 蔚蓝海岸 普罗旺斯
 这条路线囊括了南法最精华的景观，如需：
 
 - 升级海景酒店
+- 安排南法葡萄酒庄探访
 - 安排私人游艇出海
 - 薰衣草季专业摄影
 - 球赛、演出规划和票务预订
