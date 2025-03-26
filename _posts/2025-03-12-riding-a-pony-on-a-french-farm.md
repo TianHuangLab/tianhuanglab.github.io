@@ -25,7 +25,7 @@ published: true
 
 ### **1. 上午场：摸马、骑马、刷马毛——孩子们和小马的“偶像剧初遇”**
 
-活动一开始，马术老师牵出一匹超萌的小矮马，孩子们瞬间进入“哇塞模式”。我女儿平时在家连摸个狗都要犹豫三秒，结果今天直接冲上去对着马毛一顿狂撸，嘴里还念叨：“你好呀小马！你今天吃饭了吗？”（老父亲内心OS：这社交牛逼症随谁啊？）ab
+活动一开始，马术老师牵出一匹超萌的小矮马，孩子们瞬间进入“哇塞模式”。我女儿平时在家连摸个狗都要犹豫三秒，结果今天直接冲上去对着马毛一顿狂撸，嘴里还念叨：“你好呀小马！你今天吃饭了吗？”（老父亲内心OS：这社交牛逼症随谁啊？）
 
 接着是上马初体验——每个孩子轮流骑着小马绕场一周。我女儿上马那一刻，表情从兴奋秒变紧张，死死抓住马鞍，眼神向我发射求救信号。我赶紧喊：“别怕！老师在一边呢！我们都陪着你”（结果她回我一句：“爸爸你记得给我和小马拍照！”……行吧。）
 <div class="row justify-content-sm-center">
@@ -112,7 +112,7 @@ published: true
 
 ✅ **最重要的是——真的很好笑啊！** 从驴的臭脸到孩子骑马跑偏，全程欢乐不断。
 
-所以，我决定以后定期带女儿来玩。**如果你也在南法，或者打算带孩子来法国玩，不妨一起约着去农场骑小马！**（悄悄说：有的农场还有山羊、兔子可以撸，绝对遛娃宝地。）7
+所以，我决定以后定期带女儿来玩。**如果你也在南法，或者打算带孩子来法国玩，不妨一起约着去农场骑小马！**（悄悄说：有的农场还有山羊、兔子可以撸，绝对遛娃宝地。）
 
 {% include figure.liquid loading="eager" path="assets/img/38riding-a-pony-on-a-french-farm/riding-a-pony-on-a-french-farm-7.webp" title="riding-a-poney-on-a-french-farm" class="img-fluid rounded z-depth-1" alt="riding-a-poney-on-a-french-farm法国骑小马"%}
 
@@ -122,7 +122,7 @@ published: true
 
 怎么样？看完是不是心痒痒？**如果你也想带孩子体验法国农场的骑小马活动，或者想组队遛娃，欢迎联系我！** 我们可以一起约时间，农场见～
 
-（PS：农场名字和联系方式我放评论区了，免得被说是广告。联系我，解锁更多南法亲子玩法！）
+（PS：农场名字和联系方式我就不提了，免得被说是广告。联系我，解锁更多南法亲子玩法！）
 
 {% include figure.liquid loading="eager" path="assets/img/38riding-a-pony-on-a-french-farm/riding-a-pony-on-a-french-farm-0.webp" title="riding-a-poney-on-a-french-farm" class="img-fluid rounded z-depth-1" alt="riding-a-poney-on-a-french-farm法国骑小马"%}
 
