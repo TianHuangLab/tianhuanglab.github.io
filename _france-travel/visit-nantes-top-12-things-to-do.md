@@ -31,7 +31,7 @@ Hi！如果你以为南特只是个路过的港口城市，那就大错特错啦
 
 **游览姿势**：拿一张“南特之旅”地图，或者直接下载官方App，跟着绿线出发！沿途会遇到各种创意装置，比如漂浮在卢瓦尔河上的奇幻雕塑、会说话的喷泉，还有隐藏在墙角的艺术作品。夏季的特别活动更是不能错过，比如户外展览、街头表演和特色夜市！
 
-**门票情报**：大部分装置免费，但像机械象骑行这种热门项目要单独买票。官网提前预订能避开排队，学生党记得亮证件打7折~点击[查看官网](https://www.levoyageanantes.fr/en/)。1a
+**门票情报**：大部分装置免费，但像机械象骑行这种热门项目要单独买票。官网提前预订能避开排队，学生党记得亮证件打7折~点击[查看官网](https://www.levoyageanantes.fr/en/)。
 {% include figure.liquid loading="eager" path="assets/img/39visit-nantes-top-12-things-to-do/visit-nantes-top-12-things-to-do-1a.webp" title="aolitravel.com-visit-nantes" class="img-fluid rounded z-depth-1 watermarked" alt="法国南特旅游指南france-visit-nantes"%}
 
 ---
