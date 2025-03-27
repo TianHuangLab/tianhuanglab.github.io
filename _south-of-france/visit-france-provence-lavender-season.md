@@ -250,7 +250,7 @@ tags: 法国 法国旅游 南法 普罗旺斯 薰衣草 瓦伦索勒 索村 塞�
 
 [《阿尔勒城市旅行指南｜探索普罗旺斯的魅力》](https://aolitravel.com/south-of-france/visit-arles-city-guide/)
 
-[《🔥 阿维尼翁旅行攻略 | 解锁教皇之城 🏰 Top15景点！》](https://aolitravel.com/south-of-france/visit-avignon-city-guide-top-15-things-to-do/)
+[《「阿维尼翁旅行攻略」解锁教皇之城 🏰 Top15景点！》](https://aolitravel.com/south-of-france/visit-avignon-city-guide-top-15-things-to-do/)
 
 [《尼斯最强旅行指南｜Top 18必游景点全攻略》](https://aolitravel.com/south-of-france/nice-top-18-things-to-do/)
 
