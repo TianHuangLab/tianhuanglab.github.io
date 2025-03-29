@@ -60,7 +60,7 @@ map: true
 
 ### **三、签证**
 
-对于中国大陆的居民，申请法国签证需要提前提交材料并通过指定签证中心办理，确保准备好所有必要的文件。签证申请请参考这篇文章[《**法国旅行入门攻略：申根旅游签证申请指南**》](https://tianhuanglab.github.io/france-travel/france-visa-information/)
+对于中国大陆的居民，申请法国签证需要提前提交材料并通过指定签证中心办理，确保准备好所有必要的文件。签证申请请参考这篇文章[《**法国旅行入门攻略：申根旅游签证申请指南**》](https://aolitravel.com/france-travel/france-visa-information/)
 
 对于中国台湾的朋友来说，去法国旅行更加便利，台湾护照持有者无需签证，最多可以在申根区停留90天，简直是非常方便。
 
@@ -100,7 +100,7 @@ map: true
 
 尼斯地区[Ligne d’Azur](https://www.lignesdazur.com/en)
 
-另外，鉴于巴黎机场交通较为复杂，可以参考这篇文章[《2025年最新巴黎机场交通攻略》](https://tianhuanglab.github.io/paris/public-transport-paris-airports/)
+另外，鉴于巴黎机场交通较为复杂，可以参考这篇文章[《2025年最新巴黎机场交通攻略》](https://aolitravel.com/paris/public-transport-paris-airports/)
 
 关于城际交通，法国的火车服务由国家铁路公司SNCF提供。短途旅行多使用TER列车，而跨大区的旅程则多乘坐高铁TGV。您可以在线或通过SNCF官方App购票，电子票方便使用。另一个选择是大巴，您可以通过GOEURO网站查询和预订国内及国际大巴。
 
@@ -124,7 +124,7 @@ map: true
 
 参考文章：
 
-[《巴黎必去景点Top20｜一文带你玩转浪漫之都》](https://tianhuanglab.github.io/paris/paris-top-20/)
+[《巴黎必去景点Top20｜一文带你玩转浪漫之都》](https://aolitravel.com/paris/paris-top-20/)
 
 **蔚蓝海岸**：蔚蓝海岸的尼斯(Nice)和戛纳(Cannes)是度假胜地，阳光明媚的海滩和奢华的氛围吸引着全球游客，让人流连忘返，摩纳哥(Monaco)更是魅力无限。
 
