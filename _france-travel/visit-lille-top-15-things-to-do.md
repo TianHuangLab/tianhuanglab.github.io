@@ -57,7 +57,7 @@ tags: 法国 里尔 北方 旅行攻略
 
 ### **2. 戴高乐大广场——里尔的会客厅**
 
-### 📖 **文化历史**
+📖 **文化历史**
 
 如果说里尔是法国北方的心脏，那戴高乐大广场（Place du Général-de-Gaulle）就是它的心跳！这里不仅是城市的中心广场，还是市民们最爱的聚集地，举办着各种活动、集会和庆典。
 
@@ -65,13 +65,11 @@ tags: 法国 里尔 北方 旅行攻略
 
 今天，广场周围环绕着宏伟的历史建筑，比如北方剧院（Théâtre du Nord）和老证券交易所（La Vieille Bourse），每一栋都值得细细欣赏！
 
-### 📍 **怎么去？**
+📍 **怎么去？**
 
-🚇 **地铁**：Rihour站（1号线），出站就是！
+🚇 **地铁**：Rihour站（1号线），出站就是！或者步行，从老城区走过来不到2分钟。
 
-🚶‍♂️ **步行**：从老城区走过来不到2分钟。
-
-### 🎡 **怎么玩？**
+🎡 **怎么玩？**
 
 拍拍照，每个角度都是明信片级别！
 
@@ -79,14 +77,14 @@ tags: 法国 里尔 北方 旅行攻略
 
 偶遇街头艺人，这里经常有音乐演出和即兴表演！
 
-### 🎫 **门票**
+🎫 **门票**
 
 💰 免费！ 直接来就行！
 {% include figure.liquid loading="eager" path="assets/img/42visit-lille/aolitravel.com-visit-lille-top-15-things-to-do-2.webp" title="aolitravel.com-visit-lille" class="img-fluid rounded z-depth-1 watermarked" alt="法国里尔旅游指南france-visit-lille"%}
 
 ---
 
-### **3. 老证券交易所（La Vieille Bourse）——历史建筑+二手书市场的完美结合**
+### **3. 老证券交易所——历史建筑+二手书市场的完美结合**
 
 📖 **文化历史**
 
