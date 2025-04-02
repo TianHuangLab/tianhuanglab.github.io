@@ -169,9 +169,6 @@ collections:
   custom-travel:
     output: true
     permalink: /custom-travel/:path/
-  luxury-travel-provence-french-riviera:
-    output: true
-    permalink: /luxury-travel-provence-french-riviera/:path/
   
 
 announcements:
