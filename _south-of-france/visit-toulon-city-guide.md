@@ -81,7 +81,7 @@ published: true
 **🌊沙滩选择**
 
 - **Mourillon沙滩**：家庭首选，细沙+浅水区
-- **Les Sablettes**：本地人私藏，人少水清（Mathieu透露："我常带娃在这儿堆城堡"）
+- **Les Sablettes**：本地人私藏，人少水清
 {% include figure.liquid loading="eager" path="assets/img/47visit-toulon/visit-toulon-city-guide-4a.webp" title="aolitravel.com-visit-toulon" class="img-fluid rounded z-depth-1"  alt="土伦游览攻略visit-toulon"%}
 
 **🍷微醺时刻**
