@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 探访阿尔卑斯的威尼斯｜独家「安纳西」旅游攻略
+title: 探访阿尔卑斯的威尼斯｜我的「安纳西」独家旅游攻略
 description: 比瑞士便宜，比威尼斯人少！在安纳西解锁法国绝美湖光山色与中世纪浪漫！
 img: assets/img/50visit-alps-annecy/visit-alps-annecy-city-guide-0.webp
 importance: 12.5
@@ -9,7 +9,7 @@ related_publications: false
 related_posts: true
 toc:
   sidebar: left
-tags: 法国 斯特拉斯堡 科尔马 阿尔萨斯 旅行攻略
+tags: 法国 安纳西 萨瓦 阿尔卑斯 旅行攻略
 ---
 {% include figure.liquid loading="eager" path="assets/img/50visit-alps-annecy/visit-alps-annecy-city-guide-0.webp" title="aolitravel.com-visit-annecy" class="img-fluid rounded z-depth-1 watermarked" alt="法国安纳西旅游指南france-visit-annecy"%}
 
@@ -22,7 +22,7 @@ Hello！今天要带大家云游法国我最心水的小城——安纳西(Annec
 
 别担心！不妨看看我的推荐 - [精选线路](https://aolitravel.com/tours/)，亦或是找我[定制行程](https://aolitravel.com/custom-travel/)
 
-{% include figure.liquid loading="eager" path="assets/img/50visit-alps-annecy/visit-alps-annecy-city-guide-0a.webp" title="aolitravel.com-visit-annecy" class="img-fluid rounded z-depth-1 watermarked" alt="法国安纳西旅游指南france-visit-annecy"%}
+{% include figure.liquid loading="eager" path="assets/img/50visit-alps-annecy/visit-alps-annecy-city-guide-0b.webp" title="aolitravel.com-visit-annecy" class="img-fluid rounded z-depth-1 watermarked" alt="法国安纳西旅游指南france-visit-annecy"%}
 
 ---
 
@@ -36,7 +36,7 @@ Hello！今天要带大家云游法国我最心水的小城——安纳西(Annec
 **旅行小贴士**📌：
 
 - 建议清晨8点前来拍照，晨雾中的古堡超有氛围
-- 每周二/五/日记得逛老城集市，萨瓦火腿+雷布洛奶酪香到犯规！
+- 每周二/五/日记得逛老城集市，萨瓦省当地风味的火腿+雷布洛奶酪(Reblochon)香到犯规！
 
 **威尼斯同款水巷漫游**
 
