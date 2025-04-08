@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 巴黎1小时圈必去的十个绝美小镇，人少景美，轻松解锁法式慢生活！
-description: 巴黎周边10个冷门仙境，小众控必收藏！快来打卡吧
+title: 巴黎周边必去的十个绝美小镇｜1小时交通圈
+description: 巴黎周边10个冷门仙境，小众控必收藏！人少景美，快来打卡吧
 img: assets/img/49paris-nearby-10-top-villages/paris-nearby-10-top-villages-6a.webp
 importance: 4
 category: 大巴黎地区
@@ -231,6 +231,11 @@ Hello!
 4. **特别活动**：查看各镇官网了解节庆活动和特别展览
 
 这些小镇各具特色，从艺术圣地到中世纪瑰宝，从皇家行宫到田园梦境，总有一款能满足你对法式风情的所有想象。收拾行囊，开启你的巴黎周边探索之旅吧！
+
+> 如果你想来法国玩，但是还不知道如何规划行程？路线怎么安排？哪几个城市可以串联起来？如何在小众小镇找到最佳住宿和地道美食？
+> 
+
+别担心！不妨看看我的推荐 - [精选线路](https://aolitravel.com/tours/)，亦或是找我[定制行程](https://aolitravel.com/custom-travel/)
 
 {% include figure.liquid loading="eager" path="assets/img/49paris-nearby-10-top-villages/paris-nearby-10-top-villages-0b.webp" title="aolitravel.com-visit-paris-nearby-10-villages" class="img-fluid rounded z-depth-1 watermarked" alt="巴黎周边最美小镇指南visit-paris-nearby-10-villages"%}
 
