@@ -82,7 +82,7 @@ tags: 法国 诺曼底 圣米歇尔山 旅行攻略
 - **"西方奇迹"建筑群**：13世纪建造的三层哥特式建筑，堪称"中世纪摩天楼"
 - **圣母地下堂**：10世纪的地下教堂，保存最古老的部分
 - **修道院教堂**：罗马式与哥特式风格的完美融合
-- **修士回廊**：精致的双层柱廊，中世纪建筑的杰作4a
+- **修士回廊**：精致的双层柱廊，中世纪建筑的杰作
 {% include figure.liquid loading="eager" path="assets/img/51visit-saint-michel-mount/visit-saint-michel-mount-normandie-4a.webp" title="aolitravel.com-visit-saint-michel-mount" class="img-fluid rounded z-depth-1 watermarked" alt="法国圣米歇尔山旅游指南france-visit-saint-michel-mount"%}
 
 **2. 特色参观路线**
@@ -92,12 +92,12 @@ tags: 法国 诺曼底 圣米歇尔山 旅行攻略
 1. 从底层开始，探索古老的储藏室和骑士厅
 2. 参观圣母地下堂，感受千年前的宗教氛围
 3. 登上"西方奇迹"建筑群，欣赏三层不同功能的建筑
-4. 最后挑战攀登修道院尖顶，俯瞰全景4b
+4. 最后挑战攀登修道院尖顶，俯瞰全景
 {% include figure.liquid loading="eager" path="assets/img/51visit-saint-michel-mount/visit-saint-michel-mount-normandie-4b.webp" title="aolitravel.com-visit-saint-michel-mount" class="img-fluid rounded z-depth-1 watermarked" alt="法国圣米歇尔山旅游指南france-visit-saint-michel-mount"%}
 
 **3. 攀登尖顶体验**
 
-"登顶需要攀爬一系列狭窄的螺旋楼梯，但到达顶部后的360度全景绝对值得。从这里可以眺望整个海湾和远处诺曼底乡村的壮丽景色。"4c
+"登顶需要攀爬一系列狭窄的螺旋楼梯，但到达顶部后的360度全景绝对值得。从这里可以眺望整个海湾和远处诺曼底乡村的壮丽景色。"
 {% include figure.liquid loading="eager" path="assets/img/51visit-saint-michel-mount/visit-saint-michel-mount-normandie-4c.webp" title="aolitravel.com-visit-saint-michel-mount" class="img-fluid rounded z-depth-1 watermarked" alt="法国圣米歇尔山旅游指南france-visit-saint-michel-mount"%}
 
 ---
@@ -121,7 +121,7 @@ tags: 法国 诺曼底 圣米歇尔山 旅行攻略
 
 - **传统餐厅**：La Mère Poulard的招牌煎蛋卷
 - **当地特色**：诺曼底苹果酒、盐沼羊肉、海鲜拼盘
-- **用餐建议**：避开正午高峰，提前预订靠窗座位5b
+- **用餐建议**：避开正午高峰，提前预订靠窗座位
 {% include figure.liquid loading="eager" path="assets/img/51visit-saint-michel-mount/visit-saint-michel-mount-normandie-5b.webp" title="aolitravel.com-visit-saint-michel-mount" class="img-fluid rounded z-depth-1 watermarked" alt="法国圣米歇尔山旅游指南france-visit-saint-michel-mount"%}
 
 ---
