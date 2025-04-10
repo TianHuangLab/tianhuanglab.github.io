@@ -2,7 +2,7 @@
 layout: page
 title: 3天玩转法国布列塔尼！圣马洛、迪纳尔、迪南、圣米歇尔山全攻略
 description: 带你体验海盗城的狂野，19世纪的法式度假风情，然后穿越中世纪小镇，一网打尽！
-img: assets/img/40visit-brittany-bretagne/visit-brittany-bretagne-saint-malo-dinard-dinan-mont-saint-michel-0.webp
+img: assets/img/40visit-brittany-bretagne/visit-brittany-bretagne-saint-malo-dinard-dinan-mont-saint-michel-1c.webp
 importance: 14
 category: 
 related_publications: false
