@@ -239,7 +239,7 @@ tags: 法国 卢瓦尔河谷 城堡 旅行攻略
 
 【走进大师的创意世界】
 
-虽然规模不大，但这处达芬奇故居（Maison de Léonard de Vinci）完整保留了达芬奇在法国期间的生活场景。通过互动展览和精心复原的工作室，游客可以近距离了解这位文艺复兴天才的日常生活。
+这座达芬奇故居（Maison de Léonard de Vinci）就在克洛-吕斯城堡庄园内。虽然规模不大，但这处故居完整保留了达芬奇在法国期间的生活场景。通过互动展览和精心复原的工作室，游客可以近距离了解这位文艺复兴天才的日常生活。
 
 【特色体验】
 
@@ -248,7 +248,6 @@ tags: 法国 卢瓦尔河谷 城堡 旅行攻略
 - 参与互动式展览
 - 在花园里体验光学实验
 
-官网：[www.maison-leonard-de-vinci.com](http://www.maison-leonard-de-vinci.com/)
 {% include figure.liquid loading="eager" path="assets/img/52visit-castles-the-loire-france/visit-castles-the-loire-france-12.webp" title="aolitravel.com-visit-loire-castles" class="img-fluid rounded z-depth-1 watermarked" alt="法国卢瓦尔河谷旅游指南visit-castles-the-loire-france"%}
 {% include figure.liquid loading="eager" path="assets/img/52visit-castles-the-loire-france/visit-castles-the-loire-france-12a.webp" title="aolitravel.com-visit-loire-castles" class="img-fluid rounded z-depth-1 watermarked" alt="法国卢瓦尔河谷旅游指南visit-castles-the-loire-france"%}
 
@@ -258,12 +257,12 @@ tags: 法国 卢瓦尔河谷 城堡 旅行攻略
 
 【美食与历史的完美融合】
 
-卢瓦尔河谷不仅以其壮丽的城堡和迷人的风景闻名，还拥有丰富的美食文化。这里的特色菜肴如塔坦苹果挞、图尔熟肉抹酱、焦糖五花肉等，都是当地人引以为豪的传统美食。此外，卢瓦尔河谷还是法国著名的葡萄酒产区，出产多种优质的红、白葡萄酒和起泡酒。这些美食和美酒共同构成了卢瓦尔河谷独特的饮食文化。13a
+卢瓦尔河谷不仅以其壮丽的城堡和迷人的风景闻名，还拥有丰富的美食文化。这里的特色菜肴如塔坦苹果挞、图尔熟肉抹酱、焦糖五花肉等，都是当地人引以为豪的传统美食。此外，卢瓦尔河谷还是法国著名的葡萄酒产区，出产多种优质的红、白葡萄酒和起泡酒。这些美食和美酒共同构成了卢瓦尔河谷独特的饮食文化。
 {% include figure.liquid loading="eager" path="assets/img/52visit-castles-the-loire-france/visit-castles-the-loire-france-13a.webp" title="aolitravel.com-visit-loire-castles" class="img-fluid rounded z-depth-1 watermarked" alt="法国卢瓦尔河谷旅游指南visit-castles-the-loire-france"%}
 
 【品味地道风味的最佳方式】
 
-在卢瓦尔河谷旅行时，不妨前往当地的餐厅和市场，亲自品尝这些美食。例如，在图尔市中心的La Cuisine de Georges餐厅，你可以享受到地道的法式家常菜；而在南特的蝉鸣餐厅，则可以品尝到香煎牛腩等特色菜肴。此外，参加当地的葡萄酒品鉴活动，了解不同葡萄酒的酿造过程和风味特点，也是深入体验卢瓦尔河谷美食文化的好方式。13b
+在卢瓦尔河谷旅行时，不妨前往当地的餐厅和市场，亲自品尝这些美食。例如，在图尔市中心的La Cuisine de Georges餐厅，你可以享受到地道的法式家常菜；而在南特的蝉鸣餐厅，则可以品尝到香煎牛腩等特色菜肴。此外，参加当地的葡萄酒品鉴活动，了解不同葡萄酒的酿造过程和风味特点，也是深入体验卢瓦尔河谷美食文化的好方式。
 {% include figure.liquid loading="eager" path="assets/img/52visit-castles-the-loire-france/visit-castles-the-loire-france-13b.webp" title="aolitravel.com-visit-loire-castles" class="img-fluid rounded z-depth-1 watermarked" alt="法国卢瓦尔河谷旅游指南visit-castles-the-loire-france"%}
 
 ---
