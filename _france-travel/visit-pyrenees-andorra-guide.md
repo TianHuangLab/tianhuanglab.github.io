@@ -111,6 +111,14 @@ tags: 法国 西班牙 安道尔 比利牛斯山 旅行攻略
 
 <iframe border="0" src="https://www.trip.com/partners/ad/S3033011?Allianceid=5840493&SID=157301299&trip_sub1=" style="width:900px;height:200px" frameborder="0" scrolling="no" style="border:none" id="S3033011"></iframe>
 
+<iframe 
+  src="https://www.trip.com/partners/ad/S3033011?Allianceid=5840493&SID=157301299&trip_sub1=" 
+  style="width:100%; height:200px; border:none;" 
+  frameborder="0" 
+  scrolling="no" 
+  id="S3033011">
+</iframe>
+
 ---
 
 ### **交通信息**
