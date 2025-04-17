@@ -105,11 +105,9 @@ tags: 法国 西班牙 安道尔 比利牛斯山 旅行攻略
 - Hostel Ski：100块包早餐，雪具烘干室超贴心
 - 山区小木屋：晚上围着火炉喝热红酒，体验牧羊人生活
 
-<iframe src="https://www.trip.com/partners/ad/DB3033039?Allianceid=5840493&SID=157301299&trip_sub1="width="100%" height="500" style="border:0;" allowfullscreen scrolling="no" id="DB3033039"></iframe>
+<iframe src="https://www.trip.com/partners/ad/DB3033039?Allianceid=5840493&SID=157301299&trip_sub1=" style="width:100%; height:200px; border:none;" frameborder="0" scrolling="no" id="DB3033039"></iframe>
 
 更多安道尔住宿，可以直接搜索：
-
-<iframe border="0" src="https://www.trip.com/partners/ad/S3033011?Allianceid=5840493&SID=157301299&trip_sub1=" style="width:900px;height:200px" frameborder="0" scrolling="no" style="border:none" id="S3033011"></iframe>
 
 <iframe 
   src="https://www.trip.com/partners/ad/S3033011?Allianceid=5840493&SID=157301299&trip_sub1=" 
