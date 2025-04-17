@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 小众比利牛斯山玩法「安道尔」小到离谱，好玩到炸
+title: 比利牛斯山深藏的安道尔：小到离谱，好玩到炸
 description: 快来法西边境上的袖珍王国安道尔玩！滑雪泡汤买买买，这个小国太上头！
 img: assets/img/54visit-pyrenees-andorra/visit-pyrenees-andorra-guide-0.webp
 importance: 23
@@ -62,7 +62,7 @@ tags: 法国 西班牙 安道尔 比利牛斯山 旅行攻略
 
 ---
 
-### **必玩清单：爽到飞起的5件事**
+### **安道尔必玩清单**
 
 **1. 去Grandvalira滑雪场：粉雪爱好者的快乐老家**
 
@@ -105,15 +105,15 @@ tags: 法国 西班牙 安道尔 比利牛斯山 旅行攻略
 - Hostel Ski：100块包早餐，雪具烘干室超贴心
 - 山区小木屋：晚上围着火炉喝热红酒，体验牧羊人生活
 
+<iframe border="0" src="https://www.trip.com/partners/ad/DB3033039?Allianceid=5840493&SID=157301299&trip_sub1=" style="width:728px;height:90px" frameborder="0" scrolling="no" style="border:none" id="DB3033039"></iframe>
+
 更多安道尔住宿，可以直接搜索：
 
 <iframe border="0" src="https://www.trip.com/partners/ad/S3033011?Allianceid=5840493&SID=157301299&trip_sub1=" style="width:900px;height:200px" frameborder="0" scrolling="no" style="border:none" id="S3033011"></iframe>
 
-<iframe border="0" src="https://www.trip.com/partners/ad/DB3033039?Allianceid=5840493&SID=157301299&trip_sub1=" style="width:728px;height:90px" frameborder="0" scrolling="no" style="border:none" id="DB3033039"></iframe>
-
 ---
 
-### **交通冷知识**
+### **交通信息**
 
 - 从巴塞罗那坐大巴3小时直达（记得选靠窗位，沿途风景美哭）
 - 从图卢兹方向出发，走Andbus线路经Ax-les-Thermes温泉镇到达
@@ -125,7 +125,7 @@ tags: 法国 西班牙 安道尔 比利牛斯山 旅行攻略
 
 ### **本地人才懂的限定玩法**
 
-- 周四下午全民滑雪（连银行都提前关门！）
+- 安道尔几乎全民都会滑雪（人人都能告诉你几条私藏的线路）
 - 边境加油站兼职代购中转站（法国人排队买烟场面壮观，你去了看到了就知道了）
 - 安道尔一年四季活动多多。1月有国际雪雕大赛（位于Grandvalira），5月有高山牧羊节，8月有摇滚音乐节，最后12月有圣诞集市（安道尔城老城区）
 {% include figure.liquid loading="eager" path="assets/img/54visit-pyrenees-andorra/visit-pyrenees-andorra-guide-10.webp" title="aolitravel.com-visit-pyrenees-andorra" class="img-fluid rounded z-depth-1 watermarked" alt="比利牛斯山安道尔旅游指南visit-pyrenees-andorra"%}
@@ -138,7 +138,7 @@ tags: 法国 西班牙 安道尔 比利牛斯山 旅行攻略
 
 **实用信息塞裤兜：**
 
-- 旅游局官网：[visitandorra.com](https://visitandorra.com/en/)（有中文！）
+- 旅游局官网：[visitandorra.com](https://visitandorra.com/en/)（建议行前查阅了解活动信息）
 - 紧急电话：112（希望你别用到）
 - 中国使馆领保：+34 699 089 086（驻西班牙使馆兼管）
 
