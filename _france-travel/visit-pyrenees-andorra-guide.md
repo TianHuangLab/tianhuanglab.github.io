@@ -13,7 +13,7 @@ tags: 法国 西班牙 安道尔 比利牛斯山 旅行攻略
 ---
 {% include figure.liquid loading="eager" path="assets/img/54visit-pyrenees-andorra/visit-pyrenees-andorra-guide-0.webp" title="aolitravel.com-visit-pyrenees-andorra" class="img-fluid rounded z-depth-1 watermarked" alt="比利牛斯山安道尔旅游指南visit-pyrenees-andorra"%}
 
-朋友们谁懂啊！在欧洲法国和西班牙边境居然藏着个比中国北京朝阳区还小的国家——安道尔（Andorra）！别看它在地图上像个芝麻粒，这里可是能上午滑雪下午泡温泉，晚上还能疯狂剁手的宝藏地！今天就跟你们唠唠这个神仙小国到底怎么玩才够爽~
+朋友们谁懂啊！在欧洲法国和西班牙边境居然藏着个比北京朝阳区还小的国家——安道尔（Andorra）！别看它在地图上像个芝麻粒，这里可是能上午滑雪下午泡温泉，晚上还能疯狂剁手的宝藏地！今天就跟你们唠唠这个神仙小国到底怎么玩才够爽~
 
 > 如果你想来欧洲玩，但是还不知道如何规划行程？路线怎么安排？哪几个城市可以串联起来？如何在小众小镇找到最佳住宿和地道美食？
 > 
@@ -38,7 +38,7 @@ tags: 法国 西班牙 安道尔 比利牛斯山 旅行攻略
 
 ### **语言奇迹：人均四国语言王者**
 
-安道尔的官方语言为加泰罗尼亚语，通用语言为西班牙语和法语。之前我在在安道尔城买杯咖啡就亲身体验到了这个国家人的厉害，连咖啡店员都轻松掌握四种语言！店员小姐姐前脚用加泰罗尼亚语接单，转头就跟法国游客飙法语，发现我是中国人立马切换英语...搁这儿玩语言俄罗斯方块呢？
+安道尔的官方语言为加泰罗尼亚语，通用语言为西班牙语和法语。之前我在在安道尔城买杯咖啡就亲身体验到了这个国家人的厉害，连咖啡店员都轻松掌握四种语言！店员小姐姐前脚用加泰罗尼亚语接单，转头就跟法国游客飙法语，发现我不讲西班牙语的，立马切换英语...搁这儿玩语言俄罗斯方块呢？
 
 **必备生存短语：**
 
@@ -53,9 +53,9 @@ tags: 法国 西班牙 安道尔 比利牛斯山 旅行攻略
 
 安道尔买东西便宜到像在偷！但别光盯着香水烟酒，这些才是真·宝藏：
 
-- **GoPro**：比国内便宜小一千，还送内存卡
-- **滑雪镜**：本地品牌Tucc的变色镜片绝了
-- **奇葩土特产**：野山猪火腿（真空包装能带回国）
+- **电子设备**：手机、电脑等免税后比正常带税价格便宜不少，比平时商店大促还便宜，真香
+- **滑雪装备**：安道尔作为滑雪目的地之一，本来雪具店就琳琅满目，再叠加免税因素，真的太好逛了
+- **奇葩土特产**：必须要试试伊比利亚半岛的野山猪火腿，不管是品尝还是作为礼物送人都很合适
 
 **小贴士**：满900欧记得要退税单，退税队伍比迪士尼还长建议早起去排队！
 {% include figure.liquid loading="eager" path="assets/img/54visit-pyrenees-andorra/visit-pyrenees-andorra-guide-4.webp" title="aolitravel.com-visit-pyrenees-andorra" class="img-fluid rounded z-depth-1 watermarked" alt="比利牛斯山安道尔旅游指南visit-pyrenees-andorra"%}
@@ -105,13 +105,20 @@ tags: 法国 西班牙 安道尔 比利牛斯山 旅行攻略
 - Hostel Ski：100块包早餐，雪具烘干室超贴心
 - 山区小木屋：晚上围着火炉喝热红酒，体验牧羊人生活
 
-<iframe src="https://www.trip.com/partners/ad/DB3033039?Allianceid=5840493&SID=157301299&trip_sub1=" style="width:100%; height:200px; border:none;" frameborder="0" scrolling="no" id="DB3033039"></iframe>
-
+<div style="overflow-x:auto;">
+  <iframe 
+    src="https://www.trip.com/partners/ad/DB3033039?Allianceid=5840493&SID=157301299&trip_sub1=" 
+    style="width:900px; height:200px; border:none;" 
+    frameborder="0" 
+    scrolling="no" 
+    id="DB3033039">
+  </iframe>
+</div>
 更多安道尔住宿，可以直接搜索：
 
 <iframe 
   src="https://www.trip.com/partners/ad/S3033011?Allianceid=5840493&SID=157301299&trip_sub1=" 
-  style="width:100%; height:200px; border:none;" 
+  style="width:100%; height:400px; border:none;" 
   frameborder="0" 
   scrolling="no" 
   id="S3033011">
