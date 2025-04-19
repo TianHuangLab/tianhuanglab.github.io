@@ -114,15 +114,6 @@ tags: 法国 西班牙 安道尔 比利牛斯山 旅行攻略
     id="DB3033039">
   </iframe>
 </div>
-更多安道尔住宿，可以直接搜索：
-
-<iframe 
-  src="https://www.trip.com/partners/ad/S3033011?Allianceid=5840493&SID=157301299&trip_sub1=" 
-  style="width:100%; height:400px; border:none;" 
-  frameborder="0" 
-  scrolling="no" 
-  id="S3033011">
-</iframe>
 
 ---
 
