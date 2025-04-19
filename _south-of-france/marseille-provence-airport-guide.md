@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 2025法国马赛-普罗旺斯机场最全指南！
+title: 2025法国马赛-普罗旺斯机场最全指南（含接机服务推荐）！
 description: 去南法or回国？这篇马赛机场全攻略帮你搞定航站楼、交通和直飞航班～
 img: assets/img/53marseille-provence-airport-guide/marseille-provence-airport-guide-0.webp
 importance: 5
@@ -16,10 +16,11 @@ tags: 法国 法国旅游 南法 普罗旺斯机场 马赛机场 交通攻略
 
 欢迎查看最新最全的马赛普罗旺斯机场（Aéroport Marseille Provence，简称/IATA代码MRS）全指南！无论你是计划前往马赛（Marseille）或艾克斯-普罗旺斯（Aix-en-Provence），亦或是南法其他地方比如普罗旺斯小镇或蔚蓝海岸。本指南都将为你提供详尽的航站楼信息和便捷的交通方式，助你轻松出行。
 
-> 如果你想来法国玩，但是还不知道如何规划行程？路线怎么安排？哪几个城市可以串联起来？如何在小众小镇找到最佳住宿和地道美食？
+> 如果你想来法国玩，但是还不知道如何规划行程？路线怎么安排？哪几个城市可以串联起来？如何在小众小镇找到最佳住宿和地道美食？别担心！不妨看看我的推荐 - [精选线路](https://aolitravel.com/tours/)，亦或是找我[定制行程](https://aolitravel.com/custom-travel/)
 > 
 
-别担心！不妨看看我的推荐 - [精选线路](https://aolitravel.com/tours/)，亦或是找我[定制行程](https://aolitravel.com/custom-travel/)
+> 此外，如果你有马赛机场接机需求，我们也可以提供贴心的**接机服务**，让你从一下飞机开始就无忧出行 ✈️。点击[联系我们](https://aolitravel.com/)或[查看接机服务详情](https://aolitravel.com/south-of-france/marseille-provence-airport-guide/#-%E7%A7%81%E4%BA%BA%E6%8E%A5%E6%9C%BA%E6%9C%8D%E5%8A%A1%E6%8E%A8%E8%8D%90)，让你在普罗旺斯的旅行从第一刻起就顺畅舒心～
+>
 
 {% include figure.liquid loading="eager" path="assets/img/53marseille-provence-airport-guide/marseille-provence-airport-guide-1.webp" title="aolitravel.com-marseille-provence-airport-guide" class="img-fluid rounded z-depth-1 watermarked" alt="法国马赛普罗旺斯机场指南marseille-provence-airport-guide"%}
 
