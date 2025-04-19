@@ -33,7 +33,6 @@ tags: 法国 科西嘉 南法 地中海 旅行攻略
 
 这里，要风景有风景，要历史文化也有深厚的积淀，比如这里就是拿破仑的老家，总之就是怎么玩都不会腻～
 
-<iframe border="0" src="https://hk.trip.com/partners/ad/DB3032738?Allianceid=5840493&SID=157301299&trip_sub1=" style="width:728px;height:90px" frameborder="0" scrolling="no" style="border:none" id="DB3032738"></iframe>
 {% include figure.liquid loading="eager" path="assets/img/55visit-france-corse/visit-france-corse-guide-1.webp" title="aolitravel.com-visit-france-corse" class="img-fluid rounded z-depth-1 watermarked" alt="法国科西嘉旅游指南france-visit-france-corse"%}
 
 ---
@@ -166,9 +165,6 @@ tags: 法国 科西嘉 南法 地中海 旅行攻略
 舒适型：[Hôtel Version Maquis Santa Manza](https://www.trip.com/t/SuiGKhjDSP2)
 
 舒适型：[Lodge de Charme A Cheda](https://www.trip.com/t/TPc53bsDSP2)
-
-或者你也可以直接搜索trip.com，锁定你自己心仪的酒店：
-<iframe border="0" src="https://www.trip.com/partners/ad/S854359?Allianceid=5840493&SID=157301299&trip_sub1=" style="width:900px;height:200px" frameborder="0" scrolling="no" style="border:none" id="S854359"></iframe>
 
 ---
 
