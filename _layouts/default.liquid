@@ -89,6 +89,47 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     {% include scripts/back_to_top.liquid %}
     {% include scripts/search.liquid %}
 
+<!-- Google Translate 挂载点 -->
+<div id="google_translate_element" style="display:none;"></div>
+
+<!-- Google Translate 脚本 -->
+<script type="text/javascript">
+  function googleTranslateElementInit() {
+    new google.translate.TranslateElement({
+      pageLanguage: 'zh-CN',
+      includedLanguages: 'en,zh-TW,ja,ko,th',
+      layout: google.translate.TranslateElement.InlineLayout.SIMPLE,
+      autoDisplay: false
+    }, 'google_translate_element');
+  }
+</script>
+<script src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+
+<!-- 手动切换语言函数 -->
+<script>
+  function translateTo(lang) {
+    const select = document.querySelector('.goog-te-combo');
+    if (select) {
+      select.value = lang;
+      select.dispatchEvent(new Event('change'));
+    }
+  }
+
+  // 自动翻译（非简体中文用户自动切换）
+  window.addEventListener('load', function () {
+    const userLang = navigator.language || navigator.userLanguage;
+    const langMap = {
+      'zh-TW': 'zh-TW', 'zh-HK': 'zh-TW',
+      'en': 'en', 'en-US': 'en', 'en-GB': 'en',
+      'ja': 'ja', 'ko': 'ko', 'th': 'th'
+    };
+    const targetLang = langMap[userLang];
+    if (targetLang && targetLang !== 'zh-CN') {
+      setTimeout(() => translateTo(targetLang), 1500);
+    }
+  });
+</script>
+
   <script src="//code.tidio.co/mjyrbh1r6ozeedopltbusi4bmkega41r.js" async></script>
   </body>
 </html>
