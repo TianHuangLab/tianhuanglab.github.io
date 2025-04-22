@@ -135,6 +135,22 @@
               </button>
             </li>
           {% endif %}
+
+<!-- 语言切换菜单 -->
+<li class="nav-item dropdown">
+  <a class="nav-link dropdown-toggle" href="#" id="langDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+    🌐 语言
+  </a>
+  <div class="dropdown-menu dropdown-menu-right" aria-labelledby="langDropdown">
+    <button class="dropdown-item" onclick="translateTo('zh-CN')">简体中文</button>
+    <button class="dropdown-item" onclick="translateTo('zh-TW')">繁體中文</button>
+    <button class="dropdown-item" onclick="translateTo('en')">English</button>
+    <button class="dropdown-item" onclick="translateTo('ja')">日本語</button>
+    <button class="dropdown-item" onclick="translateTo('ko')">한국어</button>
+    <button class="dropdown-item" onclick="translateTo('th')">ไทย</button>
+  </div>
+</li>
+
         </ul>
       </div>
     </div>
