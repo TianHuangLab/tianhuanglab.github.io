@@ -13,10 +13,10 @@ nav_order: 6
 <style>
   .itinerary-container {
     display: flex;
-    height: 90vh;
+    height: 100vh;
   }
   .card-list {
-    width: 40%;
+    width: 60%;
     overflow-y: auto;
     padding: 1rem;
     border-right: 1px solid #ccc;
@@ -34,63 +34,78 @@ nav_order: 6
   .card:hover {
     background: #f0f8ff;
   }
+  .card img {
+    width: 100%;
+    height: 120px;
+    object-fit: cover;
+    border-radius: 5px;
+    margin-bottom: 0.5rem;
+  }
+  .card-buttons {
+    margin-top: 0.5rem;
+  }
+  .card-buttons button {
+    margin-right: 0.5rem;
+    padding: 0.3rem 0.8rem;
+    border: none;
+    border-radius: 4px;
+    background-color: #007BFF;
+    color: white;
+    cursor: pointer;
+  }
   #map {
-    width: 60%;
+    width: 40%;
     height: 100%;
   }
 </style>
 
 <div class="itinerary-container">
-  <!-- 左侧卡片区域 -->
   <div class="card-list">
-    <div class="card" data-lat="43.7102" data-lng="7.2620">
-      <h3>尼斯老城（Nice）</h3>
-      <p>蓝色海岸的精致海港，色彩斑斓的街道与地中海阳光。</p>
+    <div class="card" data-points="43.2965,5.3698;43.2130,5.5360">
+      <img src="/images/marseille-cassis.jpg" alt="馬賽-卡西斯">
+      <h3>馬賽 - 卡西斯海濱小鎮</h3>
+      <p>地中海岸線與峽灣之美</p>
+      <p>從馬賽出發，經典一日游，欣賞壯麗海景與迷人港口。</p>
+      <div class="card-buttons">
+        <button onclick="event.stopPropagation(); alert('播放卡西斯旅遊影片')">查看錄像</button>
+        <button onclick="event.stopPropagation(); alert('請聯絡我們了解更多')">聯繫我</button>
+      </div>
     </div>
-    <div class="card" data-lat="43.9493" data-lng="4.8055">
-      <h3>阿维尼翁（Avignon）</h3>
-      <p>教皇之城，城墙与中世纪建筑保存完好。</p>
-    </div>
-    <div class="card" data-lat="43.6777" data-lng="4.6278">
-      <h3>阿尔勒（Arles）</h3>
-      <p>梵高笔下的罗马遗迹古城，文化氛围浓厚。</p>
+
+    <div class="card" data-points="43.8342,5.0343;43.9200,5.1267;43.9027,5.2920">
+      <img src="/images/gordes-route.jpg" alt="石頭村之旅">
+      <h3>馬賽 - 石頭村之旅</h3>
+      <p>探訪普羅旺斯的山間秘境</p>
+      <p>穿越泉水村、戈爾德與紅土小鎮，感受鄉間寧靜與藝術氛圍。</p>
+      <div class="card-buttons">
+        <button onclick="event.stopPropagation(); alert('播放普羅旺斯影片')">查看錄像</button>
+        <button onclick="event.stopPropagation(); alert('請聯絡我們了解更多')">聯繫我</button>
+      </div>
     </div>
   </div>
-
-  <!-- 右侧地图 -->
   <div id="map"></div>
 </div>
 
 <script>
   const map = L.map('map').setView([43.7, 5.5], 7);
-
   L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     attribution: '&copy; OpenStreetMap contributors'
   }).addTo(map);
 
-  const locations = [
-    { name: "尼斯", coords: [43.7102, 7.2620] },
-    { name: "阿维尼翁", coords: [43.9493, 4.8055] },
-    { name: "阿尔勒", coords: [43.6777, 4.6278] }
-  ];
+  let routeLayer;
 
-  const markers = [];
-  const polylinePoints = [];
-
-  locations.forEach(loc => {
-    const marker = L.marker(loc.coords).addTo(map).bindPopup(loc.name);
-    markers.push(marker);
-    polylinePoints.push(loc.coords);
-  });
-
-  const route = L.polyline(polylinePoints, { color: 'blue' }).addTo(map);
-  map.fitBounds(route.getBounds());
-
-  document.querySelectorAll('.card').forEach((card, index) => {
+  document.querySelectorAll('.card').forEach(card => {
     card.addEventListener('click', () => {
-      map.setView(locations[index].coords, 13);
-      markers[index].openPopup();
+      const pointStr = card.getAttribute('data-points');
+      const coords = pointStr.split(';').map(pair => {
+        const [lat, lng] = pair.split(',').map(Number);
+        return [lat, lng];
+      });
+
+      if (routeLayer) map.removeLayer(routeLayer);
+
+      routeLayer = L.polyline(coords, { color: 'blue' }).addTo(map);
+      map.fitBounds(routeLayer.getBounds());
     });
   });
 </script>
-
