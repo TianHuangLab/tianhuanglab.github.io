@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 2025法国旅游终极指南｜必玩攻略合集，赶紧收藏！
+title: 2025法国旅游终极指南｜攻略合集，赶紧收藏！
 description: 一文解锁从北到南13个大区旅行手册&深度攻略，带你玩转最地道的法国
 img: assets/img/57france-travel-guide/france-travel-guide-0.webp
 importance: 1.5
