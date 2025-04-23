@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 🔥巴塞罗那到南法终极交通指南｜火车/飞机/包车测评+私藏路线大公开！
+title: 🔥巴塞罗那到南法终极交通指南｜私藏路线大公开！
 description: 从巴塞罗那到南法怎么走最方便？5种交通方式全解析+独家包车攻略
 img: assets/img/56from-barcelona-to-marseille/from-barcelona-to-marseille-transportation-0.webp
 importance: 6
