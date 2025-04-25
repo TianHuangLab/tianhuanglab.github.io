@@ -1,19 +1,22 @@
 ---
 layout: distill
 permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
 nav: false
 nav_order: 6
 pretty_table: true
+images:
+  compare: true
+  slider: true
 ---
+
+<div class="l-screen-inset">
+  {% include figure.liquid loading="eager" path="assets/img/11marseille-1day-trip/11marseille-1day-trip-1.jpg" title="marseille-trip-aolitravel.com" class="img-fluid rounded z-depth-1" %}
+</div>
 
 <div class="l-screen">
   {% include figure.liquid loading="eager" path="assets/img/11marseille-1day-trip/11marseille-1day-trip-1.jpg" title="marseille-trip-aolitravel.com" class="img-fluid rounded z-depth-1" %}
 </div>
-<div class="l-screen-inset">
-  {% include figure.liquid loading="eager" path="assets/img/11marseille-1day-trip/11marseille-1day-trip-1.jpg" title="marseille-trip-aolitravel.com" class="img-fluid rounded z-depth-1" %}
-</div>
+
 <div class="l-gutter">
     {% include figure.liquid loading="eager" path="assets/img/profile-tian.jpg" title="aolitravel" class="img-fluid rounded z-depth-1" %}
 </div>
@@ -48,6 +51,9 @@ pretty_table: true
 早餐：自理 | 午餐：自理 | 晚餐：自理
 *行程可能因天气等原因改变，具体行程以当日导游安排为准
 {% enddetails %}
+
+---
+
 
 <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
 <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
