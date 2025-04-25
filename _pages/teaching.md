@@ -8,36 +8,23 @@ pretty_table: true
 images:
   compare: true
   slider: true
-_styles: >
-  .fake-img {
-    background: #bbb;
-    border: 1px solid rgba(0, 0, 0, 0.1);
-    box-shadow: 0 0px 4px rgba(0, 0, 0, 0.1);
-    margin-bottom: 12px;
-  }
 ---
 
-<div class="fake-img l-body">
+<div class="l-body">
   {% include figure.liquid loading="eager" path="assets/img/11marseille-1day-trip/11marseille-1day-trip-1.jpg" title="marseille-trip-aolitravel.com" class="img-fluid rounded z-depth-1" %}
 </div>
-<div class="fake-img l-page">
-  {% include figure.liquid loading="eager" path="assets/img/11marseille-1day-trip/11marseille-1day-trip-1.jpg" title="marseille-trip-aolitravel.com" class="img-fluid rounded z-depth-1" %}
-</div>
-
-<div class="fake-img l-body-outset">
+<div class="l-page">
   {% include figure.liquid loading="eager" path="assets/img/11marseille-1day-trip/11marseille-1day-trip-1.jpg" title="marseille-trip-aolitravel.com" class="img-fluid rounded z-depth-1" %}
 </div>
 
-<div class="fake-img l-page-outset">
+<div class="l-body-outset">
   {% include figure.liquid loading="eager" path="assets/img/11marseille-1day-trip/11marseille-1day-trip-1.jpg" title="marseille-trip-aolitravel.com" class="img-fluid rounded z-depth-1" %}
 </div>
 
-<div class="fake-img l-screen">
-  <p>.l-screen</p>
+<div class="l-page-outset">
+  {% include figure.liquid loading="eager" path="assets/img/11marseille-1day-trip/11marseille-1day-trip-1.jpg" title="marseille-trip-aolitravel.com" class="img-fluid rounded z-depth-1" %}
 </div>
-<div class="fake-img l-screen-inset">
-  <p>.l-screen-inset</p>
-</div>
+
 
 <div class="l-screen-inset">
   {% include figure.liquid loading="eager" path="assets/img/11marseille-1day-trip/11marseille-1day-trip-1.jpg" title="marseille-trip-aolitravel.com" class="img-fluid rounded z-depth-1" %}
