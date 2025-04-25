@@ -349,3 +349,429 @@ nav_order: 6
     updateMapWithRoute(pointsData);
   }
 </script>
+
+---
+
+# Notion Pitch Deck Template
+
+---
+
+This template was created by [Maximilian Fleitmann](https://twitter.com/maxfleit) of [BaseTemplates](https://basetemplates.com). 
+
+<aside>
+🔥 **Our templates and content helps early-stage founders get funded!**
+
+</aside>
+
+[BaseTemplates: Pitch Deck & Fundraising Templates](https://basetemplates.com)
+
+---
+
+**This is the Notion Pitch Deck Template 👇**
+
+- How to use it
+    
+    1) Duplicate the template to your space.
+    
+    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/19ee3f8e-aa45-4459-bb80-ea4c8c71b175/Untitled.png)
+    
+    2) Fill out the different sections with your own information & graphics.
+    
+    3) Share the page with your potential investors.
+    
+    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/cd87abed-5356-4feb-a8fe-fe172bcbe321/Untitled.png)
+    
+- Real Life Example
+    
+    [https://wizard-ventures.notion.site/wizard-ventures/Magic-Design-Angel-Round-cc3369579a91401eb3c4b05f376a53cf](https://www.notion.so/cc3369579a91401eb3c4b05f376a53cf?pvs=21)
+    
+- “How to build your pitch deck in Notion” → Full YouTube Video
+    
+    [](https://youtu.be/_IfPXam2rek)
+    
+
+---
+
+***Confidentiality Notice***
+
+*This Notion page contains sensitive information intended solely for the recipient's review and feedback. The contents of this page are confidential and may not be reproduced, shared, or disclosed, in whole or in part, without the express written permission of the author. The recipient agrees to take reasonable precautions to prevent unauthorized access, copying, or disclosure of the information.*
+
+---
+
+<aside>
+🌐 [Your URL]
+
+</aside>
+
+## [Company Name]
+
+### [Your Company Headline / Slogan / Value Proposition]
+
+[High Level Elevator Pitch]
+
+<aside>
+🏆 [What is the vision of your company?]
+
+</aside>
+
+### 😱 Problem
+
+![642565653710d0328859e9ae_Lack of design capacity.svg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8461df8b-7f2f-47a1-a068-90a84d46ed32/642565653710d0328859e9ae_Lack_of_design_capacity.svg)
+
+**# Problem 1**
+
+---
+
+[Describe the problem more in detail]
+
+![642565c3658b1d9514f9bbd5_Scaling design is difficult.svg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/bae4ca08-7c4a-43c2-b8b2-74b5ab73b97c/642565c3658b1d9514f9bbd5_Scaling_design_is_difficult.svg)
+
+**# Problem 2**
+
+---
+
+[Describe the problem more in detail]
+
+![642565cc53ab1466d089b768_Expensive & hard to plan.svg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/be8a324c-e460-4967-8620-718f34d16f5e/642565cc53ab1466d089b768_Expensive__hard_to_plan.svg)
+
+**# Problem 3**
+
+---
+
+[Describe the problem more in detail]
+
+![642565d7dcaff4efc8d4a2b5_Slow communication.svg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/06b05ee8-25c7-4a2c-add4-9155516c766d/642565d7dcaff4efc8d4a2b5_Slow_communication.svg)
+
+**# Problem 4**
+
+---
+
+[Describe the problem more in detail]
+
+![642565e02fee177fc2f5dcd6_Fixed & inflexible contracts.svg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/95c65c43-07f7-4ee9-be23-20ada0eaa6b8/642565e02fee177fc2f5dcd6_Fixed__inflexible_contracts.svg)
+
+**# Problem 5**
+
+---
+
+[Describe the problem more in detail]
+
+![642565e8a127ac74f8f35605_Top talent is hard to find.svg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d7b0ae01-2b49-40b1-b513-3ce1e4dcb589/642565e8a127ac74f8f35605_Top_talent_is_hard_to_find.svg)
+
+**# Problem 5**
+
+---
+
+[Describe the problem more in detail]
+
+### 💡 Solution
+
+![[Insert a product screenshot here]](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/69c896d6-48b3-41bd-a927-1e591a00892b/Untitled.png)
+
+[Insert a product screenshot here]
+
+<aside>
+🪄 [How would you describe your startup in <10 words?]
+
+</aside>
+
+**How it works**
+
+![[Insert your images]](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/79f6f75b-15ff-48d8-a68c-c9defdd58359/1.jpg)
+
+[Insert your images]
+
+[Step 1]
+
+---
+
+[Describe how your product works]
+
+![[Insert your images]](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/368ee5f2-e5bc-4106-afbf-81d6eb459f2c/2.jpg)
+
+[Insert your images]
+
+[Step 2]
+
+---
+
+[Describe how your product works]
+
+![[Insert your images]](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ea193785-9f27-4d0b-92cd-4e864e005d91/3.jpg)
+
+[Insert your images]
+
+[Step 3]
+
+---
+
+[Describe how your product works]
+
+### 💻 Product
+
+[You can include a Loom video with a product walkthrough here]
+
+![64257745943fc812c4e0acf2_Unlimited Tasks.svg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a8178570-255a-4bd6-872e-ca954f26f2a0/64257745943fc812c4e0acf2_Unlimited_Tasks.svg)
+
+# Feature 1
+
+---
+
+[Describe feature 1]
+
+![6425775faeb3533552b1823c_Fast Results.svg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0b85f786-49bf-4401-9a64-50415344ad73/6425775faeb3533552b1823c_Fast_Results.svg)
+
+# Feature 2
+
+---
+
+[Describe feature 2]
+
+![6425778220fc3247fc7a2ca2_Fixed Monthly Subscription.svg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/57dac1db-2eb0-4726-8360-99d17f3c67a7/6425778220fc3247fc7a2ca2_Fixed_Monthly_Subscription.svg)
+
+# Feature 3
+
+---
+
+[Describe feature 3]
+
+![64257792306d9fed7365e7d0_Excellent Design Quality.svg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f4fb9fc5-9644-4a0a-a325-08e062a1f1e9/64257792306d9fed7365e7d0_Excellent_Design_Quality.svg)
+
+# Feature 4
+
+---
+
+[Describe feature 4]
+
+![642577c097e0b1bfd03a45ea_Flexible & Scalable.svg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a91faec5-4c78-4084-9657-e9eab79092b1/642577c097e0b1bfd03a45ea_Flexible__Scalable.svg)
+
+# Feature 5
+
+---
+
+[Describe feature 5]
+
+![642577d8658b1d585efaf090_Individual & 100% Yours.svg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7f583921-e088-4d9d-9a28-d06d1af98e1d/642577d8658b1d585efaf090_Individual__100_Yours.svg)
+
+# Feature 6
+
+---
+
+[Describe feature 6]
+
+### 🌎 Market
+
+<aside>
+🙍🏻 Our current ICP
+
+[Describe your ideal customer persona]
+
+</aside>
+
+[Include calculations, statistics about your market (e.g. TAM, SAM, SOM)]
+
+### 💳 Business Model
+
+[Describe what monetisation method you are using (e.g. subscription)]
+
+<aside>
+🎨 [Plan 1]
+
+</aside>
+
+---
+
+[—-$ *p.M.]*
+
+---
+
+- [Feature]
+- [Feature]
+- [Feature]
+- [Feature]
+- [Feature]
+
+<aside>
+😱 [Plan 2]
+
+</aside>
+
+---
+
+[—-$ *p.M.]*
+
+---
+
+- [Feature]
+- [Feature]
+- [Feature]
+- [Feature]
+- [Feature]
+- [Feature]
+
+<aside>
+🏦 [Plan 3]
+
+</aside>
+
+---
+
+*Custom*
+
+---
+
+[Describe the plan for enterprise customers.]
+
+**Margins & COGs**
+
+[If relevant use this space to talk about the margins or costs of your product]
+
+### 🥊 Competition
+
+[Competitors](https://www.notion.so/1e064dd2e06381b6acb8e09f9b60a18f?pvs=21)
+
+<aside>
+🇩🇪 [Use this space to talk about your USPs. What makes you better than the competiton?]
+
+Since this is not a winner-takes-all market, we can leverage our early go-to-market strategy to win a lot of early clients without much competition.
+
+</aside>
+
+### 🚀 Go-to-Market
+
+<aside>
+📤 **[# Channel 1]**
+
+[Talk about how you will use this channel.]
+
+[Add metrics & accomplishments for this channel.]
+
+</aside>
+
+<aside>
+🗣 [# Channel 2]
+
+****[Talk about how you will use this channel.]
+
+[Add metrics & accomplishments for this channel.]
+
+</aside>
+
+<aside>
+📈 [# Channel 3]
+
+[Talk about how you will use this channel.]
+
+[Add metrics & accomplishments for this channel.]
+
+</aside>
+
+### 📈 Traction
+
+[Headline for your chart]
+
+![[Include your own chart]](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0ce6455d-fe8d-4797-9b73-b93070298c61/mrr.png)
+
+[Include your own chart]
+
+<aside>
+👥 [#Traction Metric 1]
+
+</aside>
+
+<aside>
+📯 [#Traction Metric 2]
+
+</aside>
+
+<aside>
+📈 [#Traction Metric 3]
+
+</aside>
+
+<aside>
+⚠️ [#Traction Metric 4]
+
+</aside>
+
+### 👥 Team
+
+![Screenshot 2023-04-23 at 18.56.02.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/036a2e69-12db-4ee8-a26f-b13391727ab1/Screenshot_2023-04-23_at_18.56.02.png)
+
+[Name]
+
+*Co-Founder & CEO*
+
+---
+
+[# Accomplishment 1]
+
+[# Accomplishment 2]
+
+[# Accomplishment 3]
+
+---
+
+🤝 LinkedIn
+
+🐦 Twitter
+
+🌐 Website
+
+![Screenshot 2023-04-23 at 18.56.46.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/73c378c1-5de9-437f-8da6-2652464196f4/Screenshot_2023-04-23_at_18.56.46.png)
+
+[Name]
+
+*Co-Founder & COO*
+
+---
+
+[# Accomplishment 1]
+
+[# Accomplishment 2]
+
+[# Accomplishment 3]
+
+---
+
+🤝 LinkedIn
+
+### ❓Ask
+
+<aside>
+💵 [Include your fundraising ask]
+
+</aside>
+
+🔎 **Use of Funds:**
+
+- [# Area of Investment 1]
+- [# Area of Investment 2]
+- [# Area of Investment 3]
+
+📍**Where the money will get us:**
+
+- [# Milestone 1]
+- [# Milestone 2]
+- [# Milestone 3]
+
+---
+
+### 📮 Contact
+
+<aside>
+👇 [Call to Action that refers to your business]
+
+</aside>
+
+![Screenshot 2023-04-23 at 18.56.02.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/05bd5fc3-73fc-4995-b229-d3a2c488d187/Screenshot_2023-04-23_at_18.56.02.png)
+
+<aside>
+📇
+
+[Name]
+*****Co-Founder & CEO*
+****
+[Email adress]
+
+</aside>
