@@ -17,6 +17,21 @@ _styles: >
   }
 ---
 
+<div class="fake-img l-body">
+  {% include figure.liquid loading="eager" path="assets/img/11marseille-1day-trip/11marseille-1day-trip-1.jpg" title="marseille-trip-aolitravel.com" class="img-fluid rounded z-depth-1" %}
+</div>
+<div class="fake-img l-page">
+  {% include figure.liquid loading="eager" path="assets/img/11marseille-1day-trip/11marseille-1day-trip-1.jpg" title="marseille-trip-aolitravel.com" class="img-fluid rounded z-depth-1" %}
+</div>
+
+<div class="fake-img l-body-outset">
+  {% include figure.liquid loading="eager" path="assets/img/11marseille-1day-trip/11marseille-1day-trip-1.jpg" title="marseille-trip-aolitravel.com" class="img-fluid rounded z-depth-1" %}
+</div>
+
+<div class="fake-img l-page-outset">
+  {% include figure.liquid loading="eager" path="assets/img/11marseille-1day-trip/11marseille-1day-trip-1.jpg" title="marseille-trip-aolitravel.com" class="img-fluid rounded z-depth-1" %}
+</div>
+
 <div class="fake-img l-screen">
   <p>.l-screen</p>
 </div>
