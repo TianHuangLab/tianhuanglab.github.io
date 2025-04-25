@@ -1,5 +1,6 @@
 ---
-layout: distill
+layout: post
+title: 南法普罗旺斯*蔚蓝海岸大美全景10日8夜
 permalink: /teaching/
 nav: false
 nav_order: 6
@@ -7,7 +8,21 @@ pretty_table: true
 images:
   compare: true
   slider: true
+_styles: >
+  .fake-img {
+    background: #bbb;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    box-shadow: 0 0px 4px rgba(0, 0, 0, 0.1);
+    margin-bottom: 12px;
+  }
 ---
+
+<div class="fake-img l-screen">
+  <p>.l-screen</p>
+</div>
+<div class="fake-img l-screen-inset">
+  <p>.l-screen-inset</p>
+</div>
 
 <div class="l-screen-inset">
   {% include figure.liquid loading="eager" path="assets/img/11marseille-1day-trip/11marseille-1day-trip-1.jpg" title="marseille-trip-aolitravel.com" class="img-fluid rounded z-depth-1" %}
