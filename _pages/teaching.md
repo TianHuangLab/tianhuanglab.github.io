@@ -5,7 +5,49 @@ title: teaching
 description: Materials for courses you taught. Replace this text with your description.
 nav: false
 nav_order: 6
+pretty_table: true
 ---
+
+<div class="l-screen">
+  {% include figure.liquid loading="eager" path="assets/img/11marseille-1day-trip/11marseille-1day-trip-1.jpg" title="marseille-trip-aolitravel.com" class="img-fluid rounded z-depth-1" %}
+</div>
+<div class="l-screen-inset">
+  {% include figure.liquid loading="eager" path="assets/img/11marseille-1day-trip/11marseille-1day-trip-1.jpg" title="marseille-trip-aolitravel.com" class="img-fluid rounded z-depth-1" %}
+</div>
+<div class="l-gutter">
+    {% include figure.liquid loading="eager" path="assets/img/profile-tian.jpg" title="aolitravel" class="img-fluid rounded z-depth-1" %}
+</div>
+<div class="l-gutter">
+    {% include figure.liquid loading="eager" path="assets/img/0test-elements/1test-gutter-image-250-500-px.png" title="aolitravel" class="img-fluid rounded z-depth-1" %}
+</div>
+
+# 南法普罗旺斯*蔚蓝海岸大美全景10日8夜
+
+<swiper-container keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true">
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/0tours/tours-1.webp" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/0tours/tours-1a.webp" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/0tours/tours-2.webp" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/0tours/tours-2a.webp" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/0tours/tours-3.webp" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+</swiper-container>
+
+| 1.【旗舰产品-经典版】8天6夜豪华游 | 每日情绪体验 | 路线 | 住宿（4星/5星）各两家备选 | 特色活动 | 成本 |
+| --- | --- | --- | --- | --- | --- |
+| 第一天 | 让旅客用最舒服的方式，**第一天就爱上南法。** | 从上海机场凌晨00：15出发，早上7点抵达马赛机场、预计9点从机场离开，圣母大教堂、老港，午餐（palais 1860欢迎宴会-地中海美食），下午行程：圣让堡；天气好乘船出海看峡湾；如果天气不好，龙骧宫和法罗公园 | 洲际/索菲特/bellevue | 乘船看峡湾 |  |
+| 第二天 | 普罗旺斯风情初体验 | 早上：出发去aix-en-provence；午餐市区餐厅**Cafe Caumont用餐（特色？）；下午参观酒庄品酒（la coste）安藤忠雄建筑参观** | 洲际/索菲特/bellevue | 酒庄品酒、先锋建筑参观 |  |
+| 第三天 | 深入普罗旺斯 | 泉水城、石头城、午餐石头城餐厅（普罗旺斯美食）、塞南克修道院、红土城 | Bastide de Gordes/Capelongue, Bonnieux, a Beaumier Hotel/Les Bories & Spa | 薰衣草 |  |
+| 第四天 | 艺术巡礼 | 阿维尼翁（教皇宫、断桥）-阿尔勒（午餐）-博德普罗旺斯（城堡+光影博物馆） | Bastide de Gordes/Capelongue, Bonnieux, a Beaumier Hotel/Les Bories & Spa/mas de oulivie | 光影博物馆16.5欧 |  |
+| 第五天 | 初探蔚蓝海岸 | 戛纳-antibes（老城区午餐）-尼斯 | Hotel Royal Riviera / Le Negresco  | 毕加索博物馆 |  |
+| 第六天 | 蔚蓝海岸豪华之旅 | 从山顶看全景开始、埃兹小镇（午餐）、摩纳哥 | Hotel Royal Riviera / Le Negresco  |  |  |
+| 第七天 | 离开 | 尼斯安排早上美食工坊（+午餐），下午自由活动；然后坐车去马赛，晚上22:55从马赛机场离开，次日早上5点到达上海；也可选从尼斯机场出发的航班 |  | 美食工坊体验地道尼斯地中海饮食 |  |
+| 升级版+2天，变成10天8夜 |  | +卡马戈湿地游船和用餐、骑白马、看粉色盐湖和火烈鸟；+**波克罗勒岛潜水体验+用餐+下午spa** |  |  |  |
+
+{% details 第一天 抵达马赛 %}
+早上7点抵达马赛机场，预计8点半-9点离开机场，第一站探访圣母大教堂看马赛全景。
+参考酒店：Galeria Plaza Reforma或同级
+早餐：自理 | 午餐：自理 | 晚餐：自理
+*行程可能因天气等原因改变，具体行程以当日导游安排为准
+{% enddetails %}
 
 <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
 <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
@@ -350,428 +392,5 @@ nav_order: 6
   }
 </script>
 
----
 
-# Notion Pitch Deck Template
 
----
-
-This template was created by [Maximilian Fleitmann](https://twitter.com/maxfleit) of [BaseTemplates](https://basetemplates.com). 
-
-<aside>
-🔥 **Our templates and content helps early-stage founders get funded!**
-
-</aside>
-
-[BaseTemplates: Pitch Deck & Fundraising Templates](https://basetemplates.com)
-
----
-
-**This is the Notion Pitch Deck Template 👇**
-
-- How to use it
-    
-    1) Duplicate the template to your space.
-    
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/19ee3f8e-aa45-4459-bb80-ea4c8c71b175/Untitled.png)
-    
-    2) Fill out the different sections with your own information & graphics.
-    
-    3) Share the page with your potential investors.
-    
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/cd87abed-5356-4feb-a8fe-fe172bcbe321/Untitled.png)
-    
-- Real Life Example
-    
-    [https://wizard-ventures.notion.site/wizard-ventures/Magic-Design-Angel-Round-cc3369579a91401eb3c4b05f376a53cf](https://www.notion.so/cc3369579a91401eb3c4b05f376a53cf?pvs=21)
-    
-- “How to build your pitch deck in Notion” → Full YouTube Video
-    
-    [](https://youtu.be/_IfPXam2rek)
-    
-
----
-
-***Confidentiality Notice***
-
-*This Notion page contains sensitive information intended solely for the recipient's review and feedback. The contents of this page are confidential and may not be reproduced, shared, or disclosed, in whole or in part, without the express written permission of the author. The recipient agrees to take reasonable precautions to prevent unauthorized access, copying, or disclosure of the information.*
-
----
-
-<aside>
-🌐 [Your URL]
-
-</aside>
-
-## [Company Name]
-
-### [Your Company Headline / Slogan / Value Proposition]
-
-[High Level Elevator Pitch]
-
-<aside>
-🏆 [What is the vision of your company?]
-
-</aside>
-
-### 😱 Problem
-
-![642565653710d0328859e9ae_Lack of design capacity.svg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8461df8b-7f2f-47a1-a068-90a84d46ed32/642565653710d0328859e9ae_Lack_of_design_capacity.svg)
-
-**# Problem 1**
-
----
-
-[Describe the problem more in detail]
-
-![642565c3658b1d9514f9bbd5_Scaling design is difficult.svg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/bae4ca08-7c4a-43c2-b8b2-74b5ab73b97c/642565c3658b1d9514f9bbd5_Scaling_design_is_difficult.svg)
-
-**# Problem 2**
-
----
-
-[Describe the problem more in detail]
-
-![642565cc53ab1466d089b768_Expensive & hard to plan.svg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/be8a324c-e460-4967-8620-718f34d16f5e/642565cc53ab1466d089b768_Expensive__hard_to_plan.svg)
-
-**# Problem 3**
-
----
-
-[Describe the problem more in detail]
-
-![642565d7dcaff4efc8d4a2b5_Slow communication.svg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/06b05ee8-25c7-4a2c-add4-9155516c766d/642565d7dcaff4efc8d4a2b5_Slow_communication.svg)
-
-**# Problem 4**
-
----
-
-[Describe the problem more in detail]
-
-![642565e02fee177fc2f5dcd6_Fixed & inflexible contracts.svg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/95c65c43-07f7-4ee9-be23-20ada0eaa6b8/642565e02fee177fc2f5dcd6_Fixed__inflexible_contracts.svg)
-
-**# Problem 5**
-
----
-
-[Describe the problem more in detail]
-
-![642565e8a127ac74f8f35605_Top talent is hard to find.svg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d7b0ae01-2b49-40b1-b513-3ce1e4dcb589/642565e8a127ac74f8f35605_Top_talent_is_hard_to_find.svg)
-
-**# Problem 5**
-
----
-
-[Describe the problem more in detail]
-
-### 💡 Solution
-
-![[Insert a product screenshot here]](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/69c896d6-48b3-41bd-a927-1e591a00892b/Untitled.png)
-
-[Insert a product screenshot here]
-
-<aside>
-🪄 [How would you describe your startup in <10 words?]
-
-</aside>
-
-**How it works**
-
-![[Insert your images]](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/79f6f75b-15ff-48d8-a68c-c9defdd58359/1.jpg)
-
-[Insert your images]
-
-[Step 1]
-
----
-
-[Describe how your product works]
-
-![[Insert your images]](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/368ee5f2-e5bc-4106-afbf-81d6eb459f2c/2.jpg)
-
-[Insert your images]
-
-[Step 2]
-
----
-
-[Describe how your product works]
-
-![[Insert your images]](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ea193785-9f27-4d0b-92cd-4e864e005d91/3.jpg)
-
-[Insert your images]
-
-[Step 3]
-
----
-
-[Describe how your product works]
-
-### 💻 Product
-
-[You can include a Loom video with a product walkthrough here]
-
-![64257745943fc812c4e0acf2_Unlimited Tasks.svg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a8178570-255a-4bd6-872e-ca954f26f2a0/64257745943fc812c4e0acf2_Unlimited_Tasks.svg)
-
-# Feature 1
-
----
-
-[Describe feature 1]
-
-![6425775faeb3533552b1823c_Fast Results.svg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0b85f786-49bf-4401-9a64-50415344ad73/6425775faeb3533552b1823c_Fast_Results.svg)
-
-# Feature 2
-
----
-
-[Describe feature 2]
-
-![6425778220fc3247fc7a2ca2_Fixed Monthly Subscription.svg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/57dac1db-2eb0-4726-8360-99d17f3c67a7/6425778220fc3247fc7a2ca2_Fixed_Monthly_Subscription.svg)
-
-# Feature 3
-
----
-
-[Describe feature 3]
-
-![64257792306d9fed7365e7d0_Excellent Design Quality.svg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f4fb9fc5-9644-4a0a-a325-08e062a1f1e9/64257792306d9fed7365e7d0_Excellent_Design_Quality.svg)
-
-# Feature 4
-
----
-
-[Describe feature 4]
-
-![642577c097e0b1bfd03a45ea_Flexible & Scalable.svg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a91faec5-4c78-4084-9657-e9eab79092b1/642577c097e0b1bfd03a45ea_Flexible__Scalable.svg)
-
-# Feature 5
-
----
-
-[Describe feature 5]
-
-![642577d8658b1d585efaf090_Individual & 100% Yours.svg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7f583921-e088-4d9d-9a28-d06d1af98e1d/642577d8658b1d585efaf090_Individual__100_Yours.svg)
-
-# Feature 6
-
----
-
-[Describe feature 6]
-
-### 🌎 Market
-
-<aside>
-🙍🏻 Our current ICP
-
-[Describe your ideal customer persona]
-
-</aside>
-
-[Include calculations, statistics about your market (e.g. TAM, SAM, SOM)]
-
-### 💳 Business Model
-
-[Describe what monetisation method you are using (e.g. subscription)]
-
-<aside>
-🎨 [Plan 1]
-
-</aside>
-
----
-
-[—-$ *p.M.]*
-
----
-
-- [Feature]
-- [Feature]
-- [Feature]
-- [Feature]
-- [Feature]
-
-<aside>
-😱 [Plan 2]
-
-</aside>
-
----
-
-[—-$ *p.M.]*
-
----
-
-- [Feature]
-- [Feature]
-- [Feature]
-- [Feature]
-- [Feature]
-- [Feature]
-
-<aside>
-🏦 [Plan 3]
-
-</aside>
-
----
-
-*Custom*
-
----
-
-[Describe the plan for enterprise customers.]
-
-**Margins & COGs**
-
-[If relevant use this space to talk about the margins or costs of your product]
-
-### 🥊 Competition
-
-[Competitors](https://www.notion.so/1e064dd2e06381b6acb8e09f9b60a18f?pvs=21)
-
-<aside>
-🇩🇪 [Use this space to talk about your USPs. What makes you better than the competiton?]
-
-Since this is not a winner-takes-all market, we can leverage our early go-to-market strategy to win a lot of early clients without much competition.
-
-</aside>
-
-### 🚀 Go-to-Market
-
-<aside>
-📤 **[# Channel 1]**
-
-[Talk about how you will use this channel.]
-
-[Add metrics & accomplishments for this channel.]
-
-</aside>
-
-<aside>
-🗣 [# Channel 2]
-
-****[Talk about how you will use this channel.]
-
-[Add metrics & accomplishments for this channel.]
-
-</aside>
-
-<aside>
-📈 [# Channel 3]
-
-[Talk about how you will use this channel.]
-
-[Add metrics & accomplishments for this channel.]
-
-</aside>
-
-### 📈 Traction
-
-[Headline for your chart]
-
-![[Include your own chart]](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0ce6455d-fe8d-4797-9b73-b93070298c61/mrr.png)
-
-[Include your own chart]
-
-<aside>
-👥 [#Traction Metric 1]
-
-</aside>
-
-<aside>
-📯 [#Traction Metric 2]
-
-</aside>
-
-<aside>
-📈 [#Traction Metric 3]
-
-</aside>
-
-<aside>
-⚠️ [#Traction Metric 4]
-
-</aside>
-
-### 👥 Team
-
-![Screenshot 2023-04-23 at 18.56.02.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/036a2e69-12db-4ee8-a26f-b13391727ab1/Screenshot_2023-04-23_at_18.56.02.png)
-
-[Name]
-
-*Co-Founder & CEO*
-
----
-
-[# Accomplishment 1]
-
-[# Accomplishment 2]
-
-[# Accomplishment 3]
-
----
-
-🤝 LinkedIn
-
-🐦 Twitter
-
-🌐 Website
-
-![Screenshot 2023-04-23 at 18.56.46.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/73c378c1-5de9-437f-8da6-2652464196f4/Screenshot_2023-04-23_at_18.56.46.png)
-
-[Name]
-
-*Co-Founder & COO*
-
----
-
-[# Accomplishment 1]
-
-[# Accomplishment 2]
-
-[# Accomplishment 3]
-
----
-
-🤝 LinkedIn
-
-### ❓Ask
-
-<aside>
-💵 [Include your fundraising ask]
-
-</aside>
-
-🔎 **Use of Funds:**
-
-- [# Area of Investment 1]
-- [# Area of Investment 2]
-- [# Area of Investment 3]
-
-📍**Where the money will get us:**
-
-- [# Milestone 1]
-- [# Milestone 2]
-- [# Milestone 3]
-
----
-
-### 📮 Contact
-
-<aside>
-👇 [Call to Action that refers to your business]
-
-</aside>
-
-![Screenshot 2023-04-23 at 18.56.02.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/05bd5fc3-73fc-4995-b229-d3a2c488d187/Screenshot_2023-04-23_at_18.56.02.png)
-
-<aside>
-📇
-
-[Name]
-*****Co-Founder & CEO*
-****
-[Email adress]
-
-</aside>
