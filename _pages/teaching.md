@@ -111,13 +111,13 @@ images:
 ## 行程路线
 
 <!-- 布局容器 -->
-<div style="display: flex; flex-wrap: wrap; width: 100%; height: auto;">
+<div style="display: flex; flex-wrap: wrap; width: 100%; height: 100vh;">
 
   <!-- 左边：卡片列表 -->
-  <div id="location-list" style="flex: 1 1 400px; min-width: 300px; padding: 10px; background: #f5f5f5;"></div>
+  <div id="location-list" style="flex: 1 1 400px; min-width: 300px; padding: 10px; background: #f5f5f5; overflow-y: auto;"></div>
 
   <!-- 右边：地图 -->
-  <div id="map" style="flex: 1 1 600px; min-width: 300px; aspect-ratio: 1 / 1;"></div>
+  <div id="map" style="flex: 1 1 600px; min-width: 300px; aspect-ratio: 1 / 1; height: 100%;"></div>
 
 </div>
 
@@ -142,7 +142,7 @@ images:
   background-color: #e6e6fa;
 }
 
-/* 小屏幕优化 */
+/* 小屏幕优化：调整为上下布局 */
 @media (max-width: 768px) {
   #location-list, #map {
     flex: 1 1 100%;
@@ -151,7 +151,7 @@ images:
 </style>
 
 <script>
-// 一日游行程数据
+// 旅游线路数据
 const locations = [
   { name: "马赛 Marseille", intro: "法国南部最大港口，地中海明珠", lat: 43.2965, lng: 5.3698 },
   { name: "卡西斯 Cassis", intro: "风景如画的海滨小镇，以峡湾和海滩著称", lat: 43.2150, lng: 5.5385 }
