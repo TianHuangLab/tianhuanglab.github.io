@@ -14,7 +14,7 @@ images:
   {% include figure.liquid loading="eager" path="assets/img/11marseille-1day-trip/11marseille-1day-trip-1.jpg" title="marseille-trip-aolitravel.com" class="img-fluid rounded z-depth-1" %}
 </div>
 
-# 行程亮点
+## 行程亮点
 
 **清晨启程，开启一场海天相接的梦幻之旅！**
 
@@ -24,7 +24,7 @@ images:
 
 随后返回马赛，深入探索这座千年古城的文化底蕴，欣赏标志性建筑，感受历史与现代的交融。
 
-### ✨ 核心亮点
+✨**核心亮点**
 
 - **晨光出发**｜避开喧嚣，在柔和晨曦中开启地中海之旅
 - **探索卡西斯**｜五彩港湾、小巷咖啡，邂逅童话般的南法小镇
@@ -34,7 +34,7 @@ images:
 
 ---
 
-# 行程价格
+## 行程价格
 
 | 团期 | 人数 | 价格 |
 | --- | --- | --- |
@@ -42,10 +42,12 @@ images:
 | （同上） | 6-8人 | 85欧元/人 |
 | （同上） | 9人及以上 | 价格优惠，请咨询我们 |
 
-### 标准说明
+
+**标准说明**
 
 - 本线路3人起成团，全年每周六、周日出发，需至少提前3天预约，其他日期请咨询我们。
 - 3-5人出行，每人89欧元；6-8人出行，每人85欧元；9人及以上可享专属优惠，欢迎联系我们定制报价！
+
 <script async
   src="https://js.stripe.com/v3/buy-button.js">
 </script>
@@ -58,7 +60,7 @@ images:
 
 ---
 
-# 行程美图
+## 行程美图
 
 <div class="carousel-container" data-images='["tours-1.webp", "tours-1a.webp", "tours-2.webp", "tours-2a.webp", "tours-3.webp", "tours-6.webp", "tours-4.webp", "tours-5.webp", "tours-5a.webp"]'></div>
 
@@ -106,7 +108,7 @@ images:
 
 ---
 
-# 行程路线
+## 行程路线
 
 <!-- 布局容器 -->
 <div style="display: flex; flex-wrap: wrap; width: 100%; height: auto;">
@@ -149,10 +151,10 @@ images:
 </style>
 
 <script>
-// 多天行程数据
+// 一日游行程数据
 const locations = [
-  { 第一站, name: "马赛 Marseille", intro: "法国南部最大港口，地中海明珠", lat: 43.2965, lng: 5.3698 },
-  { 第二站, name: "卡西斯 Cassis", intro: "风景如画的海滨小镇，以峡湾和海滩著称", lat: 43.2150, lng: 5.5385 }
+  { name: "马赛 Marseille", intro: "法国南部最大港口，地中海明珠", lat: 43.2965, lng: 5.3698 },
+  { name: "卡西斯 Cassis", intro: "风景如画的海滨小镇，以峡湾和海滩著称", lat: 43.2150, lng: 5.5385 }
 ];
 
 // 自动适配浏览器语言
@@ -181,7 +183,7 @@ const purpleIcon = new L.Icon({
 const latlngs = [];
 locations.forEach((loc) => {
   const marker = L.marker([loc.lat, loc.lng], { icon: purpleIcon })
-    .bindPopup(`<b>Day ${loc.day} - ${loc.name}</b><br>${loc.intro}`)
+    .bindPopup(`<b>${loc.name}</b><br>${loc.intro}`)
     .addTo(map);
   latlngs.push([loc.lat, loc.lng]);
 });
@@ -197,12 +199,12 @@ const listDiv = document.getElementById('location-list');
 locations.forEach((loc) => {
   const card = document.createElement('div');
   card.className = 'location-card';
-  card.innerHTML = `<h3 style="margin: 0;">Day ${loc.day}: ${loc.name}</h3><p style="margin: 5px 0;">${loc.intro}</p>`;
+  card.innerHTML = `<h3 style="margin: 0;">${loc.name}</h3><p style="margin: 5px 0;">${loc.intro}</p>`;
   card.onclick = () => {
     map.setView([loc.lat, loc.lng], 13);
     L.popup()
       .setLatLng([loc.lat, loc.lng])
-      .setContent(`<b>Day ${loc.day} - ${loc.name}</b><br>${loc.intro}`)
+      .setContent(`<b>${loc.name}</b><br>${loc.intro}`)
       .openOn(map);
   };
   listDiv.appendChild(card);
@@ -212,7 +214,7 @@ locations.forEach((loc) => {
 
 ---
 
-# 行程详情
+## 行程详情
 
 **出发点｜马赛老港（Vieux-Port）**
 在晨曦微光中，我们从充满活力的马赛老港启程。这里是马赛的灵魂所在，渔船轻荡，咖啡香弥漫，海鸥掠过碧蓝海面，空气中弥漫着咸咸的海洋气息。漫步在港口边，感受这座千年古城与地中海深深交织的生命力。
@@ -236,7 +238,7 @@ locations.forEach((loc) => {
 
 ---
 
-# 行程说明
+## 行程说明
 
 - **行程顺序调整说明：** 行程中景点顺序可能因天气、交通或其他不可控因素进行适当调整，最终以出团当日确认单为准。请您理解并配合。
 - **景点游览保障：** 行程所列景点确保100%游览。如遇节假日休息、景点临时关闭等特殊情况，导游将根据实际情况灵活调整，确保整体游览体验。
@@ -245,11 +247,12 @@ locations.forEach((loc) => {
     - 马赛艾克斯国际机场（Marseille Aix Airport，机场代码 MRS）
     - 马赛圣查尔斯火车站（Marseille Saint-Charles Station）
     - 艾克斯-普罗旺斯火车站 （Aix-en-Provence TGV Station & Train Station）
-    - 其他地区如尼斯（Nice）、蒙彼利埃（Montpillier）等周边国际机场或火车站亦可安排。      
-        *所有接送服务需另行付费，具体费用请与我们联系确认。可提供中文、英文、法语多语言接送服务，确保您的旅途顺畅安心。*
+    - 其他地区如尼斯（Nice）、蒙彼利埃（Montpillier）等周边国际机场或火车站亦可安排。
+*所有接送服务需另行付费，具体费用请与我们联系确认。可提供中文、英文、法语多语言接送服务，确保您的旅途顺畅安心。*
+
 ---
 
-# 行程包含
+## 行程包含
 
 - **精选行程安排：** 行程中标注的所有游览内容，均为精心策划，确保旅程充实而舒适。
 - **专属包车 + 中文导游服务：** 全程使用舒适车型，配备经验丰富的司导人员。小费包含在服务内，无隐形费用，真正的贴心服务体验。
@@ -259,48 +262,48 @@ locations.forEach((loc) => {
 
 ---
 
-# 注意事项
+## 注意事项
 
 {% details 安全须知 %}
 为了保障您的行程体验与出行安全，请您务必仔细阅读以下提示：
 
-### 上车与行程安排
+**上车与行程安排**
 
 - 请您**提前到达集合地点**，避免因交通或突发情况影响行程。
 - 所有上、下车时间为**参考时间**，因天气、交通、突发事件（如罢工、封路）等原因可能有延迟或调整，敬请理解。
 - 行程顺序与内容可能根据当日实际情况适当调整，**以司导安排为准**。
 
-### 乘车与游览安全
+**乘车与游览安全**
 
 - 车辆完全停稳后方可上下车，排队依次上下，礼让老人、儿童。
 - 乘车途中请勿将头手伸出窗外，不催促司机超速行驶，确保旅途安全。
 - 游览、用餐、购物时，请**妥善保管个人贵重物品**，遗失概不承担赔偿责任。
 
-### 酒店入住安全
+**酒店入住安全**
 
 - 入住酒店请锁好门窗，勿随意让陌生人进入房间。
 - 贵重物品建议存放至前台保险柜。
 - 遇火警或突发事件，切勿搭乘电梯，应从安全通道有序撤离。
 
-### 饮食与健康提示
+**饮食与健康提示**
 
 - 选择正规、卫生的餐饮场所，避免食用不明来源食品。
 - 合理饮食，适量饮酒，旅行期间建议携带常用药品，预防水土不服或突发不适。
 - 若自愿参与高风险项目（如潜水、帆船等），请根据个人状况谨慎选择，相关风险需自行承担。
 
-### 自由活动与个人安全
+**自由活动与个人安全**
 
 - 自由活动期间请注意安全，建议三两同行，避免单独行动。
 - 离队、外出须事先告知司导，确保联络畅通。
 - 携带未成年人的游客，请履行好监护责任，确保儿童安全。
 
-### 购物与财务安全
+**购物与财务安全**
 
 - 购物时请谨慎识别商品真伪，保留好收据和发票。
 - 请勿随意相信流动商贩或陌生人的推荐，防止上当受骗。
 - 热闹区域注意防范盗抢，确保财物和证件安全。
 
-### 其他重要说明
+**其他重要说明**
 
 - 节假日、长周末期间，团费可能会适度调整，预订前请与我们确认。
 - 如遇不可抗力（如罢工、恶劣天气等），本行程有权作出调整或取消，敬请理解。
@@ -315,7 +318,7 @@ locations.forEach((loc) => {
 
 ---
 
-# 定制旅行
+## 定制旅行
 
 还没找到完美的行程？让我们为您量身定制！
 如果您觉得这个行程不完全符合您的需求，没关系！我非常乐意根据您的兴趣、时间和预算，为您量身定制独特的旅行方案。
@@ -326,21 +329,21 @@ locations.forEach((loc) => {
 
 ---
 
-# 探索更多法国旅游体验
+## 探索更多法国旅游体验
 
-1. 法国旅游
+**法国旅游**
 
 法国，是浪漫、艺术与历史的代名词。从巴黎的璀璨灯光到普罗旺斯的薰衣草田，法国的每个角落都充满了无尽魅力。
-[点击这里](https://aolitravel.com/france-travel/)，探索法国旅游
+[点击这里](https://aolitravel.com/france-travel/)，探索法国旅游!
 
-2. 南法旅游
+**南法旅游**
 
 南法，地中海的阳光与风情。无论是尼斯的海滩还是马赛的古港，南法的每一处景点都让人流连忘返。
-[点击这里](https://aolitravel.com/south-of-france/)，探索南法旅游
+[点击这里](https://aolitravel.com/south-of-france/)，探索南法旅游!
 
-3. 巴黎旅游
+**巴黎旅游**
 
 作为世界文化之都，巴黎拥有无数经典景点。让我们带你一起漫游艾菲尔铁塔下、卢浮宫内，感受巴黎的独特魅力。
-[点击这里](https://aolitravel.com/paris/)，探索巴黎旅游
+[点击这里](https://aolitravel.com/paris/)，探索巴黎旅游!
 
 
