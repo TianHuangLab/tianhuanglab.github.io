@@ -8,7 +8,21 @@ pretty_table: true
 images:
   compare: true
   slider: true
+locations:
+  - id: paris
+    city: "巴黎"
+    description: "浪漫之都"
+    lat: 48.8566
+    lng: 2.3522
+    image: "/images/paris.jpg"
+  - id: rome
+    city: "罗马"
+    description: "永恒之城"
+    lat: 41.9028
+    lng: 12.4964
 ---
+
+{% include interactive-map.liquid %}
 
 <div class="l-body-outset">
   {% include figure.liquid loading="eager" path="assets/img/11marseille-1day-trip/11marseille-1day-trip-1.jpg" title="marseille-trip-aolitravel.com" class="img-fluid rounded z-depth-1" %}
@@ -110,107 +124,28 @@ images:
 
 ## 行程路线
 
-<!-- 布局容器 -->
-<div style="display: flex; flex-wrap: wrap; width: 100%; height: 100vh;">
+{% raw %}
+{% capture map_html %}
+<!-- HTML 内容 -->
+{% endcapture %}
 
-  <!-- 左边：卡片列表 -->
-  <div id="location-list" style="flex: 1 1 400px; min-width: 300px; padding: 10px; background: #f5f5f5; overflow-y: auto;"></div>
+{% capture map_css %}
+<!-- CSS 内容 -->
+{% endcapture %}
 
-  <!-- 右边：地图 -->
-  <div id="map" style="flex: 1 1 600px; min-width: 300px; aspect-ratio: 1 / 1; height: 100%;"></div>
+{% capture map_js %}
+<!-- JavaScript 内容 -->
+{% endcapture %}
 
-</div>
+{% capture map_dependencies %}
+<!-- 依赖文件 -->
+{% endcapture %}
 
-<!-- 引入 Leaflet -->
-<link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
-<script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
-
-<style>
-/* 卡片基础样式 */
-.location-card {
-  border: 1px solid #ccc;
-  border-radius: 8px;
-  padding: 10px;
-  margin-bottom: 10px;
-  background-color: #f0f0f0;
-  cursor: pointer;
-  transition: background-color 0.3s;
-}
-
-/* 鼠标悬停时变淡紫色 */
-.location-card:hover {
-  background-color: #e6e6fa;
-}
-
-/* 小屏幕优化：调整为上下布局 */
-@media (max-width: 768px) {
-  #location-list, #map {
-    flex: 1 1 100%;
-  }
-}
-</style>
-
-<script>
-// 旅游线路数据
-const locations = [
-  { name: "马赛 Marseille", intro: "法国南部最大港口，地中海明珠", lat: 43.2965, lng: 5.3698 },
-  { name: "卡西斯 Cassis", intro: "风景如画的海滨小镇，以峡湾和海滩著称", lat: 43.2150, lng: 5.5385 }
-];
-
-// 自动适配浏览器语言
-const browserLang = navigator.language || navigator.userLanguage;
-const isChinese = browserLang.includes('zh');
-
-// 创建地图对象
-const map = L.map('map').setView([locations[0].lat, locations[0].lng], 11);
-
-// 设置地图底图
-L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-  attribution: isChinese ? '地图数据 &copy; <a href="https://openstreetmap.org">OpenStreetMap</a>' : 'Map data &copy; <a href="https://openstreetmap.org">OpenStreetMap contributors</a>',
-}).addTo(map);
-
-// 紫色Marker图标
-const purpleIcon = new L.Icon({
-  iconUrl: 'https://cdn.jsdelivr.net/gh/pointhi/leaflet-color-markers@master/img/marker-icon-violet.png',
-  shadowUrl: 'https://unpkg.com/leaflet@1.7.1/dist/images/marker-shadow.png',
-  iconSize: [25, 41],
-  iconAnchor: [12, 41],
-  popupAnchor: [1, -34],
-  shadowSize: [41, 41]
-});
-
-// 绘制Marker和Polyline连线
-const latlngs = [];
-locations.forEach((loc) => {
-  const marker = L.marker([loc.lat, loc.lng], { icon: purpleIcon })
-    .bindPopup(`<b>${loc.name}</b><br>${loc.intro}`)
-    .addTo(map);
-  latlngs.push([loc.lat, loc.lng]);
-});
-
-// 连线路径（紫色）
-const polyline = L.polyline(latlngs, { color: 'purple' }).addTo(map);
-
-// 自适应缩放
-map.fitBounds(polyline.getBounds());
-
-// 生成左侧卡片
-const listDiv = document.getElementById('location-list');
-locations.forEach((loc) => {
-  const card = document.createElement('div');
-  card.className = 'location-card';
-  card.innerHTML = `<h3 style="margin: 0;">${loc.name}</h3><p style="margin: 5px 0;">${loc.intro}</p>`;
-  card.onclick = () => {
-    map.setView([loc.lat, loc.lng], 13);
-    L.popup()
-      .setLatLng([loc.lat, loc.lng])
-      .setContent(`<b>${loc.name}</b><br>${loc.intro}`)
-      .openOn(map);
-  };
-  listDiv.appendChild(card);
-});
-</script>
-
+{{ map_dependencies }}
+{{ map_html }}
+{{ map_css }}
+{{ map_js }}
+{% endraw %}
 
 ---
 
