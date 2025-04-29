@@ -190,7 +190,7 @@ images:
     max-width: 600px;
     aspect-ratio: 1;
     margin-top: 1rem;
-    height: 400px;
+    min-height: 300px;
   }
 
   @media (max-width: 768px) {
