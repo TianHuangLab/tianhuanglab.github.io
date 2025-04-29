@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 南法经典马赛-卡西斯海滨小镇一日游
+title: 「南法经典」马赛-卡西斯海滨小镇一日游
 permalink: /teaching/
 nav: false
 nav_order: 6
@@ -397,21 +397,53 @@ images:
 
 ---
 
-## 探索更多法国旅游体验
+## 探索更多南法旅游体验
 
-**法国旅游**
+南法，地中海的阳光与风情。无论是尼斯的海滩还是马赛的古港，南法的每一处景点都让人流连忘返。[点击这里](https://aolitravel.com/tours/)，探索更多南法旅游路线!
 
-法国，是浪漫、艺术与历史的代名词。从巴黎的璀璨灯光到普罗旺斯的薰衣草田，法国的每个角落都充满了无尽魅力。
-[点击这里](https://aolitravel.com/france-travel/)，探索法国旅游!
+<div class="row justify-content-sm-center">
+  <div class="col-sm mt-3 mt-md-0">
+    {% include figure.liquid loading="eager" path="assets/img/0tours/0template/1selected-tour.jpg" title="south-france-selected-tour" class="img-fluid rounded z-depth-1" alt="south-france-selected-tour南法旅游精选路线"%}
+  </div>
+  <div class="col-sm mt-3 mt-md-0">
+    {% include figure.liquid loading="eager" path="assets/img/0tours/0template/2selected-tour.jpg" title="south-france-selected-tour" class="img-fluid rounded z-depth-1" alt="south-france-selected-tour南法旅游精选路线"%}
+  </div>
+</div>
 
-**南法旅游**
+<div class="row justify-content-sm-center">
+  <div class="col-sm mt-3 mt-md-0">
+    {% include figure.liquid loading="eager" path="assets/img/0tours/0template/3selected-tour.jpg" title="south-france-selected-tour" class="img-fluid rounded z-depth-1" alt="south-france-selected-tour南法旅游精选路线"%}
+  </div>
+  <div class="col-sm mt-3 mt-md-0">
+    {% include figure.liquid loading="eager" path="assets/img/0tours/0template/4selected-tour.jpg" title="south-france-selected-tour" class="img-fluid rounded z-depth-1" alt="south-france-selected-tour南法旅游精选路线"%}
+  </div>
+</div>
 
-南法，地中海的阳光与风情。无论是尼斯的海滩还是马赛的古港，南法的每一处景点都让人流连忘返。
-[点击这里](https://aolitravel.com/south-of-france/)，探索南法旅游!
+<div class="row justify-content-sm-center">
+  <div class="col-sm mt-3 mt-md-0">
+    {% include figure.liquid loading="eager" path="assets/img/0tours/0template/5selected-tour.jpg" title="south-france-selected-tour" class="img-fluid rounded z-depth-1" alt="south-france-selected-tour南法旅游精选路线"%}
+  </div>
+  <div class="col-sm mt-3 mt-md-0">
+    {% include figure.liquid loading="eager" path="assets/img/0tours/0template/6selected-tour.jpg" title="south-france-selected-tour" class="img-fluid rounded z-depth-1" alt="south-france-selected-tour南法旅游精选路线"%}
+  </div>
+</div>
 
-**巴黎旅游**
+<div class="row justify-content-sm-center">
+  <div class="col-sm mt-3 mt-md-0">
+    {% include figure.liquid loading="eager" path="assets/img/0tours/0template/7selected-tour.jpg" title="south-france-selected-tour" class="img-fluid rounded z-depth-1" alt="south-france-selected-tour南法旅游精选路线"%}
+  </div>
+  <div class="col-sm mt-3 mt-md-0">
+    {% include figure.liquid loading="eager" path="assets/img/0tours/0template/8selected-tour.jpg" title="south-france-selected-tour" class="img-fluid rounded z-depth-1" alt="south-france-selected-tour南法旅游精选路线"%}
+  </div>
+</div>
 
-作为世界文化之都，巴黎拥有无数经典景点。让我们带你一起漫游艾菲尔铁塔下、卢浮宫内，感受巴黎的独特魅力。
-[点击这里](https://aolitravel.com/paris/)，探索巴黎旅游!
+<div class="row justify-content-sm-center">
+  <div class="col-sm mt-3 mt-md-0">
+    {% include figure.liquid loading="eager" path="assets/img/0tours/0template/9selected-tour.jpg" title="south-france-selected-tour" class="img-fluid rounded z-depth-1" alt="south-france-selected-tour南法旅游精选路线"%}
+  </div>
+  <div class="col-sm mt-3 mt-md-0">
+    {% include figure.liquid loading="eager" path="assets/img/0tours/0template/10selected-tour.jpg" title="south-france-selected-tour" class="img-fluid rounded z-depth-1" alt="south-france-selected-tour南法旅游精选路线"%}
+  </div>
+</div>
 
-
+---
