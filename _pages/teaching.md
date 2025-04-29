@@ -34,32 +34,6 @@ images:
 
 ---
 
-## 行程价格
-
-| 团期 | 人数 | 价格 |
-| --- | --- | --- |
-| 全年每周六、周日出发（需提前预约） | 3-5人 | 89欧元/人 |
-| （同上） | 6-8人 | 85欧元/人 |
-| （同上） | 9人及以上 | 价格优惠，请咨询我们 |
-
-
-**标准说明**
-
-- 本线路3人起成团，全年每周六、周日出发，需至少提前3天预约，其他日期请咨询我们。
-- 3-5人出行，每人89欧元；6-8人出行，每人85欧元；9人及以上可享专属优惠，欢迎联系我们定制报价！
-
-<script async
-  src="https://js.stripe.com/v3/buy-button.js">
-</script>
-
-<stripe-buy-button
-  buy-button-id="buy_btn_1R1SleLF9x7iB9GnQG3so407"
-  publishable-key="pk_live_51HOVRdLF9x7iB9GnVh8jWCYVrSXFsF0CFw3BfSy6EHhkHoMuIjYMfYcJ1eFZ1Pu397lxh5CNDLfiSgDUBiXt0Dw4003T9jFWgc"
->
-</stripe-buy-button>
-
----
-
 ## 行程美图
 
 <div class="carousel-container" data-images='["tours-1.webp", "tours-1a.webp", "tours-2.webp", "tours-2a.webp", "tours-3.webp", "tours-6.webp", "tours-4.webp", "tours-5.webp", "tours-5a.webp"]'></div>
@@ -108,232 +82,134 @@ images:
 
 ---
 
+## 行程价格
+
+| 团期 | 人数 | 价格 |
+| --- | --- | --- |
+| 全年每周六、周日出发（需提前预约） | 3-5人 | 89欧元/人 |
+| （同上） | 6-8人 | 85欧元/人 |
+| （同上） | 9人及以上 | 价格优惠，请咨询我们 |
+
+
+**标准说明**
+
+- 本线路3人起成团，全年每周六、周日出发，需至少提前3天预约，其他日期请咨询我们。
+- 3-5人出行，每人89欧元；6-8人出行，每人85欧元；9人及以上可享专属优惠，欢迎联系我们定制报价！
+
+<script async
+  src="https://js.stripe.com/v3/buy-button.js">
+</script>
+
+<stripe-buy-button
+  buy-button-id="buy_btn_1R1SleLF9x7iB9GnQG3so407"
+  publishable-key="pk_live_51HOVRdLF9x7iB9GnVh8jWCYVrSXFsF0CFw3BfSy6EHhkHoMuIjYMfYcJ1eFZ1Pu397lxh5CNDLfiSgDUBiXt0Dw4003T9jFWgc"
+>
+</stripe-buy-button>
+
+---
+
 ## 行程路线
 
 <div class="itinerary-container">
   <div class="card-list">
-    <!-- 卡片1: 马赛-cassis海滨小镇 -->
-    <div class="card" data-points='[
-      {"lat":43.2965, "lng":5.3698, "name":"马赛", "desc":"法国第二大城市，地中海重要港口", "img":"https://example.com/marseille.jpg"},
-      {"lat":43.2181, "lng":5.5386, "name":"卡西斯港", "desc":"迷人的渔港和海滩", "img":"https://example.com/cassis-port.jpg"},
-      {"lat":43.2130, "lng":5.5360, "name":"卡隆海滩", "desc":"著名的白色悬崖和清澈海水", "img":"https://example.com/calanque.jpg"}
-    ]'>
+    <!-- 卡片：马赛 -->
+    <div class="card" data-points='[{"lat":43.2965,"lng":5.3698,"name":"马赛","desc":"法国第二大城市，地中海重要港口","img":"https://example.com/marseille.jpg"}]'>
       <div class="card-header">
-        <img class="card-image" src="https://example.com/marseille-cassis.jpg" alt="马赛-卡西斯">
+        <img class="card-image" src="https://example.com/marseille.jpg" alt="马赛">
         <div class="card-title">
-          <h3>马赛 - 卡西斯海滨小镇</h3>
-          <p>地中海岸线与峡湾之美</p>
+          <h3>马赛</h3>
+          <p>法国第二大城市</p>
         </div>
       </div>
       <div class="card-content">
-        从马赛老港出发，前往风景如画的卡西斯小镇，沿途欣赏著名的卡隆峡湾，体验地中海阳光与海风的完美结合。
+        探索马赛老港的历史与地中海风情。
       </div>
       <div class="card-buttons">
         <button class="view-route">查看路线</button>
-        <button class="book-trip">预订行程</button>
       </div>
     </div>
 
-    <!-- 卡片2: 马赛-fontaine vaucluse-gordes-rousillon -->
-    <div class="card" data-points='[
-      {"lat":43.2965, "lng":5.3698, "name":"马赛", "desc":"旅程起点", "img":"https://example.com/marseille.jpg"},
-      {"lat":43.9200, "lng":5.1267, "name":"泉水城", "desc":"清澈泉水从山间涌出", "img":"https://example.com/fontaine.jpg"},
-      {"lat":43.9126, "lng":5.2008, "name":"戈尔德", "desc":"普罗旺斯最美丽的石头村", "img":"https://example.com/gordes.jpg"},
-      {"lat":43.9027, "lng":5.2920, "name":"鲁西永", "desc":"红色土壤的独特小镇", "img":"https://example.com/rousillon.jpg"}
-    ]'>
+    <!-- 卡片：卡西斯港 -->
+    <div class="card" data-points='[{"lat":43.2181,"lng":5.5386,"name":"卡西斯港","desc":"迷人的渔港和海滩","img":"https://example.com/cassis-port.jpg"}]'>
       <div class="card-header">
-        <img class="card-image" src="https://example.com/provence-villtowns.jpg" alt="普罗旺斯山城">
+        <img class="card-image" src="https://example.com/cassis-port.jpg" alt="卡西斯港">
         <div class="card-title">
-          <h3>马赛 - 普罗旺斯山城之旅</h3>
-          <p>探索泉水城与石头小镇</p>
+          <h3>卡西斯港</h3>
+          <p>峡湾与海风</p>
         </div>
       </div>
       <div class="card-content">
-        一日游遍普罗旺斯最著名的山城：泉水城(Fontaine de Vaucluse)的清澈泉水、戈尔德(Gordes)的石头建筑、鲁西永(Roussillon)的红色土壤，感受法国乡村的独特魅力。
+        前往风景如画的卡西斯港，享受海滩与峡湾之美。
       </div>
       <div class="card-buttons">
         <button class="view-route">查看路线</button>
-        <button class="book-trip">预订行程</button>
-      </div>
-    </div>
-
-    <!-- 卡片3: 马赛-薰衣草田-saint moutiers-lac saint croix -->
-
-    <div class="card" data-points='[
-      {"lat":43.2965, "lng":5.3698, "name":"马赛", "desc":"旅程起点", "img":"https://example.com/marseille.jpg"},
-      {"lat":43.8342, "lng":5.0343, "name":"瓦朗索勒", "desc":"普罗旺斯最大薰衣草田", "img":"https://example.com/lavender.jpg"},
-      {"lat":43.8000, "lng":6.2000, "name":"圣十字湖", "desc":"碧蓝湖水与峡谷风光", "img":"https://example.com/lac-saint-croix.jpg"},
-      {"lat":43.8500, "lng":6.1500, "name":"穆斯蒂耶圣玛丽", "desc":"陶瓷小镇与瀑布", "img":"https://example.com/moustiers.jpg"}
-    ]'>
-      <div class="card-header">
-        <img class="card-image" src="https://example.com/lavender-lake.jpg" alt="薰衣草与圣十字湖">
-        <div class="card-title">
-          <h3>马赛 - 薰衣草田与圣十字湖</h3>
-          <p>紫色浪漫与碧蓝湖水</p>
-        </div>
-      </div>
-      <div class="card-content">
-        夏季限定路线！参观瓦朗索勒薰衣草田，欣赏一望无际的紫色花海；随后前往圣十字湖，在碧蓝湖水中划船，最后探访陶瓷小镇穆斯蒂耶圣玛丽。
-      </div>
-      <div class="card-buttons">
-        <button class="view-route">查看路线</button>
-        <button class="book-trip">预订行程</button>
       </div>
     </div>
   </div>
-  <div id="map"></div>
+  <div id="map" style="height: 400px; margin-top: 1rem;"></div>
 </div>
 
-<!-- 路线详情弹窗 -->
-<div id="routeModal" class="modal">
-  <div class="modal-content">
-    <span class="close">&times;</span>
-    <div id="markdown-content"></div>
-  </div>
-</div>
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+<style>
+.card-list { display: flex; gap: 1rem; flex-wrap: wrap; }
+.card { border: 1px solid #ccc; border-radius: 8px; overflow: hidden; width: 300px; cursor: pointer; box-shadow: 0 2px 6px rgba(0,0,0,0.1); }
+.card-image { width: 100%; height: 180px; object-fit: cover; }
+.card-title { padding: 0.5rem; background-color: #f4f4f4; }
+.card-content { padding: 0.5rem; }
+.card-buttons { display: flex; justify-content: space-between; padding: 0.5rem; }
+button.view-route { background: #800080; color: white; border: none; padding: 0.4rem 0.8rem; border-radius: 4px; cursor: pointer; }
+</style>
 
 <script>
-  // 初始化地图
-  const map = L.map('map').setView([43.7, 5.5], 8);
+  const map = L.map('map').setView([43.2965, 5.3698], 10);
   L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     attribution: '&copy; OpenStreetMap contributors'
   }).addTo(map);
 
-  let routeLayer = null;
   let markers = [];
-  
-  // 卡片点击事件
-  document.querySelectorAll('.card').forEach(card => {
-    card.addEventListener('click', (e) => {
-      // 如果不是按钮点击才处理
-      if (!e.target.classList.contains('view-route') && !e.target.classList.contains('book-trip')) {
-        const pointsData = JSON.parse(card.getAttribute('data-points'));
-        updateMapWithRoute(pointsData);
-      }
-    });
-    
-    // 查看路线按钮
-    card.querySelector('.view-route').addEventListener('click', (e) => {
-      e.stopPropagation();
-      const pointsData = JSON.parse(card.getAttribute('data-points'));
-      showRouteDetails(card.querySelector('h3').textContent, pointsData);
-    });
-    
-    // 预订行程按钮
-    card.querySelector('.book-trip').addEventListener('click', (e) => {
-      e.stopPropagation();
-      const stripe = Stripe('pk_test_your_stripe_publishable_key');
-      stripe.redirectToCheckout({
-        lineItems: [{
-          price: 'price_12345', // 替换为你的Stripe价格ID
-          quantity: 1,
-        }],
-        mode: 'payment',
-        successUrl: 'https://yourwebsite.com/success',
-        cancelUrl: 'https://yourwebsite.com/cancel',
-      });
-    });
-  });
-  
-  // 更新地图路线
-  function updateMapWithRoute(pointsData) {
-    // 清除之前的路线和标记
-    if (routeLayer) map.removeLayer(routeLayer);
-    markers.forEach(marker => map.removeLayer(marker));
+  let routeLine;
+
+  const waypoints = [
+    { lat: 43.2965, lng: 5.3698, name: "马赛", desc: "法国第二大城市", img: "https://example.com/marseille.jpg" },
+    { lat: 43.2181, lng: 5.5386, name: "卡西斯港", desc: "迷人的渔港", img: "https://example.com/cassis-port.jpg" }
+  ];
+
+  function drawRoute(points) {
+    if (routeLine) map.removeLayer(routeLine);
+    markers.forEach(m => map.removeLayer(m));
     markers = [];
-    
-    // 创建新路线
-    const coords = pointsData.map(point => [point.lat, point.lng]);
-    routeLayer = L.polyline(coords, { color: '#800080', weight: 4 }).addTo(map);
-    
-    // 添加标记
-    pointsData.forEach((point, index) => {
-      const marker = L.marker([point.lat, point.lng], {
-        icon: L.divIcon({
-          className: 'custom-marker',
-          iconSize: [24, 24]
 
+    const latlngs = points.map(p => [p.lat, p.lng]);
+    routeLine = L.polyline(latlngs, { color: '#800080', weight: 4 }).addTo(map);
+    map.fitBounds(routeLine.getBounds());
 
-        })
-      }).addTo(map);
-      
-      marker.bindPopup(`
-        <div style="text-align:center;">
-          <h4>${point.name}</h4>
-          <img src="${point.img}" style="max-width:200px;max-height:150px;margin:5px 0;">
-          <p>${point.desc}</p>
-        </div>
-      `);
-      
-
+    points.forEach(p => {
+      const marker = L.marker([p.lat, p.lng])
+        .addTo(map)
+        .bindPopup(`<strong>${p.name}</strong><br>${p.desc}<br><img src="${p.img}" width="200" />`);
       markers.push(marker);
     });
-    
-    // 调整视图
-    map.fitBounds(routeLayer.getBounds());
   }
-  
-  // 显示路线详情弹窗
-  function showRouteDetails(title, pointsData) {
-    const modal = document.getElementById('routeModal');
-    const markdownContent = document.getElementById('markdown-content');
-    
-    // 构建Markdown内容
-    let content = `# ${title}\n\n`;
-    content += `## 行程亮点\n\n`;
-    pointsData.forEach((point, index) => {
-      content += `### ${index + 1}. ${point.name}\n`;
-      content += `![${point.name}](${point.img})\n`;
-      content += `${point.desc}\n\n`;
+
+  // 点击卡片时居中地图
+  document.querySelectorAll('.card').forEach(card => {
+    card.addEventListener('click', () => {
+      const points = JSON.parse(card.getAttribute('data-points'));
+      drawRoute([...points, ...waypoints.filter(p => !points.find(pt => pt.name === p.name))]);
     });
-    
-    content += `## 行程详情\n\n`;
-    content += `- **出发时间**: 早上8:00\n`;
-    content += `- **返回时间**: 晚上19:00\n`;
-    content += `- **包含项目**: 交通、导游服务\n`;
-    content += `- **建议携带**: 防晒霜、相机、舒适步行鞋\n`;
-    
-    // 这里可以添加一个简单的Markdown解析器
-    // 为了简化，我们直接使用HTML代替真正的Markdown解析
-    markdownContent.innerHTML = `
-      <h1>${title}</h1>
-      <h2>行程亮点</h2>
-      ${pointsData.map((point, index) => `
-        <h3>${index + 1}. ${point.name}</h3>
-        <img src="${point.img}" style="max-width:100%;height:auto;">
-        <p>${point.desc}</p>
-      `).join('')}
-      <h2>行程详情</h2>
-      <ul>
-        <li><strong>出发时间</strong>: 早上8:00</li>
-        <li><strong>返回时间</strong>: 晚上19:00</li>
-        <li><strong>包含项目</strong>: 交通、导游服务</li>
-        <li><strong>建议携带</strong>: 防晒霜、相机、舒适步行鞋</li>
-      </ul>
-    `;
-    
-    modal.style.display = 'block';
-  }
-  
-  // 关闭弹窗
-  document.querySelector('.close').addEventListener('click', () => {
-    document.getElementById('routeModal').style.display = 'none';
+
+    card.querySelector('.view-route').addEventListener('click', e => {
+      e.stopPropagation();
+      const points = JSON.parse(card.getAttribute('data-points'));
+      alert('查看路线功能开发中，可替换为行程详情页面。');
+    });
   });
-  
-  // 点击弹窗外部关闭
-  window.addEventListener('click', (e) => {
-    if (e.target === document.getElementById('routeModal')) {
-      document.getElementById('routeModal').style.display = 'none';
-    }
-  });
-  
-  // 默认显示第一条路线
-  const firstCard = document.querySelector('.card');
-  if (firstCard) {
-    const pointsData = JSON.parse(firstCard.getAttribute('data-points'));
-    updateMapWithRoute(pointsData);
-  }
+
+  // 初始渲染整条路线
+  drawRoute(waypoints);
 </script>
+
 
 ---
 
@@ -358,6 +234,40 @@ images:
 **第三站｜马赛龙骧宫（Palais Longchamp）**
 最后，探访龙骧宫——一座为纪念水资源引入马赛而建的宏伟宫殿。喷泉飞瀑、雕塑林立，巴洛克与古典风格交融，诉说着这座城市的荣耀与故事。走在壮美的拱廊下，感受历史流转的余韵。
 
+---
+## 行摄印象
+<div class="carousel-container" id="carousel">
+  <!-- 图片将由 JavaScript 动态填充 -->
+</div>
+
+<script>
+  const accessKey = "0Ukx3h0_C18RepNO7qXDQeFSfYQHh7Mr57cNmAN8X-M";
+  const searchQueries = ["marseille", "marseille", "marseille", "marseille", "cassis", "cassis", "cassis", "cassis"];
+  const carouselContainer = document.getElementById("carousel");
+
+  async function fetchUnsplashImages() {
+    try {
+      for (let query of searchQueries) {
+        let response = await fetch(`https://api.unsplash.com/photos/random?query=${query}&client_id=${accessKey}&orientation=landscape`);
+        let data = await response.json();
+        let img = document.createElement("img");
+        img.src = data.urls.regular; 
+        img.alt = query;
+        img.style.width = "100%";
+        img.style.maxWidth = "400px";
+        img.style.height = "auto";
+        img.style.margin = "0 10px";
+        img.style.borderRadius = "5px";
+        img.style.boxShadow = "0 2px 4px rgba(0, 0, 0, 0.1)";
+        carouselContainer.appendChild(img);
+      }
+    } catch (error) {
+      console.error("Unsplash 图片加载失败", error);
+    }
+  }
+
+  fetchUnsplashImages();
+</script>
 
 ---
 
