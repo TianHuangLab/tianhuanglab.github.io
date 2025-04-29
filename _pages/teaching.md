@@ -288,9 +288,9 @@ images:
         img.src = data.urls.regular; 
         img.alt = query;
         img.style.width = "100%";
-        img.style.maxWidth = "400px";
+        img.style.maxWidth = "450px";
         img.style.height = "auto";
-        img.style.margin = "0 10px";
+        img.style.margin = "0 5px";
         img.style.borderRadius = "5px";
         img.style.boxShadow = "0 2px 4px rgba(0, 0, 0, 0.1)";
         carouselContainer.appendChild(img);
