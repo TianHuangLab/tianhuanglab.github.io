@@ -403,47 +403,68 @@ images:
 
 <div class="row justify-content-sm-center">
   <div class="col-sm mt-3 mt-md-0">
-    {% include figure.liquid loading="eager" path="assets/img/0tours/0template/1selected-tour.jpg" title="south-france-selected-tour" class="img-fluid rounded z-depth-1" alt="south-france-selected-tour南法旅游精选路线"%}
+    <a href="https://aolitravel.com/tours/">
+      {% include figure.liquid loading="eager" path="assets/img/0tours/0template/1selected-tour.jpg" title="south-france-selected-tour" class="img-fluid rounded z-depth-1" alt="south-france-selected-tour南法旅游精选路线" %}
+    </a>
   </div>
   <div class="col-sm mt-3 mt-md-0">
-    {% include figure.liquid loading="eager" path="assets/img/0tours/0template/2selected-tour.jpg" title="south-france-selected-tour" class="img-fluid rounded z-depth-1" alt="south-france-selected-tour南法旅游精选路线"%}
+    <a href="https://aolitravel.com/tours/">
+      {% include figure.liquid loading="eager" path="assets/img/0tours/0template/2selected-tour.jpg" title="south-france-selected-tour" class="img-fluid rounded z-depth-1" alt="south-france-selected-tour南法旅游精选路线" %}
+    </a>
   </div>
 </div>
 
 <div class="row justify-content-sm-center">
   <div class="col-sm mt-3 mt-md-0">
-    {% include figure.liquid loading="eager" path="assets/img/0tours/0template/3selected-tour.jpg" title="south-france-selected-tour" class="img-fluid rounded z-depth-1" alt="south-france-selected-tour南法旅游精选路线"%}
+    <a href="https://aolitravel.com/tours/">
+      {% include figure.liquid loading="eager" path="assets/img/0tours/0template/3selected-tour.jpg" title="south-france-selected-tour" class="img-fluid rounded z-depth-1" alt="south-france-selected-tour南法旅游精选路线" %}
+    </a>
   </div>
   <div class="col-sm mt-3 mt-md-0">
-    {% include figure.liquid loading="eager" path="assets/img/0tours/0template/4selected-tour.jpg" title="south-france-selected-tour" class="img-fluid rounded z-depth-1" alt="south-france-selected-tour南法旅游精选路线"%}
+    <a href="https://aolitravel.com/tours/">
+      {% include figure.liquid loading="eager" path="assets/img/0tours/0template/4selected-tour.jpg" title="south-france-selected-tour" class="img-fluid rounded z-depth-1" alt="south-france-selected-tour南法旅游精选路线" %}
+    </a>
   </div>
 </div>
 
 <div class="row justify-content-sm-center">
   <div class="col-sm mt-3 mt-md-0">
-    {% include figure.liquid loading="eager" path="assets/img/0tours/0template/5selected-tour.jpg" title="south-france-selected-tour" class="img-fluid rounded z-depth-1" alt="south-france-selected-tour南法旅游精选路线"%}
+    <a href="https://aolitravel.com/tours/">
+      {% include figure.liquid loading="eager" path="assets/img/0tours/0template/5selected-tour.jpg" title="south-france-selected-tour" class="img-fluid rounded z-depth-1" alt="south-france-selected-tour南法旅游精选路线" %}
+    </a>
   </div>
   <div class="col-sm mt-3 mt-md-0">
-    {% include figure.liquid loading="eager" path="assets/img/0tours/0template/6selected-tour.jpg" title="south-france-selected-tour" class="img-fluid rounded z-depth-1" alt="south-france-selected-tour南法旅游精选路线"%}
+    <a href="https://aolitravel.com/tours/">
+      {% include figure.liquid loading="eager" path="assets/img/0tours/0template/6selected-tour.jpg" title="south-france-selected-tour" class="img-fluid rounded z-depth-1" alt="south-france-selected-tour南法旅游精选路线" %}
+    </a>
   </div>
 </div>
 
 <div class="row justify-content-sm-center">
   <div class="col-sm mt-3 mt-md-0">
-    {% include figure.liquid loading="eager" path="assets/img/0tours/0template/7selected-tour.jpg" title="south-france-selected-tour" class="img-fluid rounded z-depth-1" alt="south-france-selected-tour南法旅游精选路线"%}
+    <a href="https://aolitravel.com/tours/">
+      {% include figure.liquid loading="eager" path="assets/img/0tours/0template/7selected-tour.jpg" title="south-france-selected-tour" class="img-fluid rounded z-depth-1" alt="south-france-selected-tour南法旅游精选路线" %}
+    </a>
   </div>
   <div class="col-sm mt-3 mt-md-0">
-    {% include figure.liquid loading="eager" path="assets/img/0tours/0template/8selected-tour.jpg" title="south-france-selected-tour" class="img-fluid rounded z-depth-1" alt="south-france-selected-tour南法旅游精选路线"%}
+    <a href="https://aolitravel.com/tours/">
+      {% include figure.liquid loading="eager" path="assets/img/0tours/0template/8selected-tour.jpg" title="south-france-selected-tour" class="img-fluid rounded z-depth-1" alt="south-france-selected-tour南法旅游精选路线" %}
+    </a>
   </div>
 </div>
 
 <div class="row justify-content-sm-center">
   <div class="col-sm mt-3 mt-md-0">
-    {% include figure.liquid loading="eager" path="assets/img/0tours/0template/9selected-tour.jpg" title="south-france-selected-tour" class="img-fluid rounded z-depth-1" alt="south-france-selected-tour南法旅游精选路线"%}
+    <a href="https://aolitravel.com/tours/">
+      {% include figure.liquid loading="eager" path="assets/img/0tours/0template/9selected-tour.jpg" title="south-france-selected-tour" class="img-fluid rounded z-depth-1" alt="south-france-selected-tour南法旅游精选路线" %}
+    </a>
   </div>
   <div class="col-sm mt-3 mt-md-0">
-    {% include figure.liquid loading="eager" path="assets/img/0tours/0template/10selected-tour.jpg" title="south-france-selected-tour" class="img-fluid rounded z-depth-1" alt="south-france-selected-tour南法旅游精选路线"%}
+    <a href="https://aolitravel.com/tours/">
+      {% include figure.liquid loading="eager" path="assets/img/0tours/0template/10selected-tour.jpg" title="south-france-selected-tour" class="img-fluid rounded z-depth-1" alt="south-france-selected-tour南法旅游精选路线" %}
+    </a>
   </div>
 </div>
+
 
 ---
