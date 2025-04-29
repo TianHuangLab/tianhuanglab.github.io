@@ -113,52 +113,88 @@ images:
 <div class="itinerary-container">
   <div class="card-list">
     <!-- 卡片：马赛 -->
-    <div class="card" data-points='[{"lat":43.2965,"lng":5.3698,"name":"马赛","desc":"法国第二大城市，地中海重要港口","img":"https://example.com/marseille.jpg"}]'>
+    <div class="card" data-points='[{"lat":43.2965,"lng":5.3698,"name":"马赛","desc":"法国第二大城市，地中海重要港口"}]'>
       <div class="card-header">
-        <img class="card-image" src="https://example.com/marseille.jpg" alt="马赛">
         <div class="card-title">
-          <h3>马赛</h3>
-          <p>法国第二大城市</p>
+          <h3>马赛：法国第二大城市</h3>
         </div>
       </div>
       <div class="card-content">
         探索马赛老港的历史与地中海风情。
       </div>
-      <div class="card-buttons">
-        <button class="view-route">查看路线</button>
-      </div>
     </div>
 
     <!-- 卡片：卡西斯港 -->
-    <div class="card" data-points='[{"lat":43.2181,"lng":5.5386,"name":"卡西斯港","desc":"迷人的渔港和海滩","img":"https://example.com/cassis-port.jpg"}]'>
+    <div class="card" data-points='[{"lat":43.2181,"lng":5.5386,"name":"卡西斯港","desc":"迷人的渔港和海滩"}]'>
       <div class="card-header">
-        <img class="card-image" src="https://example.com/cassis-port.jpg" alt="卡西斯港">
         <div class="card-title">
-          <h3>卡西斯港</h3>
-          <p>峡湾与海风</p>
+          <h3>卡西斯小镇：峡湾与海风</h3>
         </div>
       </div>
       <div class="card-content">
         前往风景如画的卡西斯港，享受海滩与峡湾之美。
       </div>
-      <div class="card-buttons">
-        <button class="view-route">查看路线</button>
-      </div>
     </div>
   </div>
-  <div id="map" style="height: 400px; margin-top: 1rem;"></div>
+
+  <div id="map"></div>
 </div>
 
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
 <style>
-.card-list { display: flex; gap: 1rem; flex-wrap: wrap; }
-.card { border: 1px solid #ccc; border-radius: 8px; overflow: hidden; width: 300px; cursor: pointer; box-shadow: 0 2px 6px rgba(0,0,0,0.1); }
-.card-image { width: 100%; height: 180px; object-fit: cover; }
-.card-title { padding: 0.5rem; background-color: #f4f4f4; }
-.card-content { padding: 0.5rem; }
-.card-buttons { display: flex; justify-content: space-between; padding: 0.5rem; }
-button.view-route { background: #800080; color: white; border: none; padding: 0.4rem 0.8rem; border-radius: 4px; cursor: pointer; }
+  .itinerary-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+  }
+
+  .card-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    flex: 1;
+  }
+
+  .card {
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    overflow: hidden;
+    width: 300px;
+    cursor: pointer;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+  }
+
+  .card-title {
+    padding: 0.5rem;
+    background-color: #f4f4f4;
+  }
+
+  .card-content {
+    padding: 0.5rem;
+  }
+
+  /* Adjust map container to be square */
+  #map {
+    width: 100%;
+    height: 100%;
+    aspect-ratio: 1; /* Maintains square aspect ratio */
+    max-width: 600px; /* Limit the width to 600px on large screens */
+    flex: 1;
+    margin-top: 1rem;
+  }
+
+  /* Responsive layout: stack the card and map in mobile view */
+  @media (max-width: 768px) {
+    .itinerary-container {
+      flex-direction: column;
+    }
+
+    .card-list {
+      flex-direction: column;
+    }
+  }
+
 </style>
 
 <script>
@@ -171,8 +207,8 @@ button.view-route { background: #800080; color: white; border: none; padding: 0.
   let routeLine;
 
   const waypoints = [
-    { lat: 43.2965, lng: 5.3698, name: "马赛", desc: "法国第二大城市", img: "https://example.com/marseille.jpg" },
-    { lat: 43.2181, lng: 5.5386, name: "卡西斯港", desc: "迷人的渔港", img: "https://example.com/cassis-port.jpg" }
+    { lat: 43.2965, lng: 5.3698, name: "马赛", desc: "法国第二大城市" },
+    { lat: 43.2181, lng: 5.5386, name: "卡西斯港", desc: "迷人的渔港" }
   ];
 
   function drawRoute(points) {
@@ -187,7 +223,7 @@ button.view-route { background: #800080; color: white; border: none; padding: 0.
     points.forEach(p => {
       const marker = L.marker([p.lat, p.lng])
         .addTo(map)
-        .bindPopup(`<strong>${p.name}</strong><br>${p.desc}<br><img src="${p.img}" width="200" />`);
+        .bindPopup(`<strong>${p.name}</strong><br>${p.desc}`);
       markers.push(marker);
     });
   }
@@ -198,17 +234,12 @@ button.view-route { background: #800080; color: white; border: none; padding: 0.
       const points = JSON.parse(card.getAttribute('data-points'));
       drawRoute([...points, ...waypoints.filter(p => !points.find(pt => pt.name === p.name))]);
     });
-
-    card.querySelector('.view-route').addEventListener('click', e => {
-      e.stopPropagation();
-      const points = JSON.parse(card.getAttribute('data-points'));
-      alert('查看路线功能开发中，可替换为行程详情页面。');
-    });
   });
 
   // 初始渲染整条路线
   drawRoute(waypoints);
 </script>
+
 
 
 ---
