@@ -103,7 +103,7 @@ images:
 </script>
 
 <stripe-buy-button
-  buy-button-id="buy_btn_1R1SleLF9x7iB9GnQG3so407"
+  buy-button-id="buy_btn_1RJF52LF9x7iB9GnyV6g8ryd"
   publishable-key="pk_live_51HOVRdLF9x7iB9GnVh8jWCYVrSXFsF0CFw3BfSy6EHhkHoMuIjYMfYcJ1eFZ1Pu397lxh5CNDLfiSgDUBiXt0Dw4003T9jFWgc"
 >
 </stripe-buy-button>
@@ -303,6 +303,24 @@ images:
 
   fetchUnsplashImages();
 </script>
+
+---
+
+## 联系我们
+
+<div style="display: flex; align-items: center; gap: 1rem; flex-wrap: wrap;">
+  <img src="assets/img/profile-tian.jpg" alt="头像" style="width: 80px; height: 80px; border-radius: 50%; object-fit: cover;">
+  <div style="flex: 1; min-width: 200px;">
+    <p style="margin: 0;">👋 想要了解更多？这趟行程我亲自设计并推荐，欢迎随时联系我，获取专属建议与旅行建议！</p>
+    <div style="margin-top: 0.5rem;">
+      <a href="mailto:contact@aolitravel.com"><img src="/assets/icons/email.svg" alt="Email" width="24"></a>
+      <a href="weixin://dl/chat?yourwechatid"><img src="/assets/icons/wechat.svg" alt="WeChat" width="24"></a>
+      <a href="https://wa.me/yourwhatsapp"><img src="/assets/icons/whatsapp.svg" alt="WhatsApp" width="24"></a>
+      <a href="https://line.me/ti/p/yourlineid"><img src="/assets/icons/line.svg" alt="Line" width="24"></a>
+    </div>
+  </div>
+</div>
+
 
 ---
 
