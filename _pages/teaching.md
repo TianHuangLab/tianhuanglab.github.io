@@ -8,21 +8,7 @@ pretty_table: true
 images:
   compare: true
   slider: true
-locations:
-  - id: paris
-    city: "巴黎"
-    description: "浪漫之都"
-    lat: 48.8566
-    lng: 2.3522
-    image: "/images/paris.jpg"
-  - id: rome
-    city: "罗马"
-    description: "永恒之城"
-    lat: 41.9028
-    lng: 12.4964
 ---
-
-{% include interactive-map.liquid %}
 
 <div class="l-body-outset">
   {% include figure.liquid loading="eager" path="assets/img/11marseille-1day-trip/11marseille-1day-trip-1.jpg" title="marseille-trip-aolitravel.com" class="img-fluid rounded z-depth-1" %}
@@ -124,28 +110,230 @@ locations:
 
 ## 行程路线
 
-{% raw %}
-{% capture map_html %}
-<!-- HTML 内容 -->
-{% endcapture %}
+<div class="itinerary-container">
+  <div class="card-list">
+    <!-- 卡片1: 马赛-cassis海滨小镇 -->
+    <div class="card" data-points='[
+      {"lat":43.2965, "lng":5.3698, "name":"马赛", "desc":"法国第二大城市，地中海重要港口", "img":"https://example.com/marseille.jpg"},
+      {"lat":43.2181, "lng":5.5386, "name":"卡西斯港", "desc":"迷人的渔港和海滩", "img":"https://example.com/cassis-port.jpg"},
+      {"lat":43.2130, "lng":5.5360, "name":"卡隆海滩", "desc":"著名的白色悬崖和清澈海水", "img":"https://example.com/calanque.jpg"}
+    ]'>
+      <div class="card-header">
+        <img class="card-image" src="https://example.com/marseille-cassis.jpg" alt="马赛-卡西斯">
+        <div class="card-title">
+          <h3>马赛 - 卡西斯海滨小镇</h3>
+          <p>地中海岸线与峡湾之美</p>
+        </div>
+      </div>
+      <div class="card-content">
+        从马赛老港出发，前往风景如画的卡西斯小镇，沿途欣赏著名的卡隆峡湾，体验地中海阳光与海风的完美结合。
+      </div>
+      <div class="card-buttons">
+        <button class="view-route">查看路线</button>
+        <button class="book-trip">预订行程</button>
+      </div>
+    </div>
 
-{% capture map_css %}
-<!-- CSS 内容 -->
-{% endcapture %}
+    <!-- 卡片2: 马赛-fontaine vaucluse-gordes-rousillon -->
+    <div class="card" data-points='[
+      {"lat":43.2965, "lng":5.3698, "name":"马赛", "desc":"旅程起点", "img":"https://example.com/marseille.jpg"},
+      {"lat":43.9200, "lng":5.1267, "name":"泉水城", "desc":"清澈泉水从山间涌出", "img":"https://example.com/fontaine.jpg"},
+      {"lat":43.9126, "lng":5.2008, "name":"戈尔德", "desc":"普罗旺斯最美丽的石头村", "img":"https://example.com/gordes.jpg"},
+      {"lat":43.9027, "lng":5.2920, "name":"鲁西永", "desc":"红色土壤的独特小镇", "img":"https://example.com/rousillon.jpg"}
+    ]'>
+      <div class="card-header">
+        <img class="card-image" src="https://example.com/provence-villtowns.jpg" alt="普罗旺斯山城">
+        <div class="card-title">
+          <h3>马赛 - 普罗旺斯山城之旅</h3>
+          <p>探索泉水城与石头小镇</p>
+        </div>
+      </div>
+      <div class="card-content">
+        一日游遍普罗旺斯最著名的山城：泉水城(Fontaine de Vaucluse)的清澈泉水、戈尔德(Gordes)的石头建筑、鲁西永(Roussillon)的红色土壤，感受法国乡村的独特魅力。
+      </div>
+      <div class="card-buttons">
+        <button class="view-route">查看路线</button>
+        <button class="book-trip">预订行程</button>
+      </div>
+    </div>
 
-{% capture map_js %}
-<!-- JavaScript 内容 -->
-{% endcapture %}
+    <!-- 卡片3: 马赛-薰衣草田-saint moutiers-lac saint croix -->
 
-{% capture map_dependencies %}
-<!-- 依赖文件 -->
-{% endcapture %}
+    <div class="card" data-points='[
+      {"lat":43.2965, "lng":5.3698, "name":"马赛", "desc":"旅程起点", "img":"https://example.com/marseille.jpg"},
+      {"lat":43.8342, "lng":5.0343, "name":"瓦朗索勒", "desc":"普罗旺斯最大薰衣草田", "img":"https://example.com/lavender.jpg"},
+      {"lat":43.8000, "lng":6.2000, "name":"圣十字湖", "desc":"碧蓝湖水与峡谷风光", "img":"https://example.com/lac-saint-croix.jpg"},
+      {"lat":43.8500, "lng":6.1500, "name":"穆斯蒂耶圣玛丽", "desc":"陶瓷小镇与瀑布", "img":"https://example.com/moustiers.jpg"}
+    ]'>
+      <div class="card-header">
+        <img class="card-image" src="https://example.com/lavender-lake.jpg" alt="薰衣草与圣十字湖">
+        <div class="card-title">
+          <h3>马赛 - 薰衣草田与圣十字湖</h3>
+          <p>紫色浪漫与碧蓝湖水</p>
+        </div>
+      </div>
+      <div class="card-content">
+        夏季限定路线！参观瓦朗索勒薰衣草田，欣赏一望无际的紫色花海；随后前往圣十字湖，在碧蓝湖水中划船，最后探访陶瓷小镇穆斯蒂耶圣玛丽。
+      </div>
+      <div class="card-buttons">
+        <button class="view-route">查看路线</button>
+        <button class="book-trip">预订行程</button>
+      </div>
+    </div>
+  </div>
+  <div id="map"></div>
+</div>
 
-{{ map_dependencies }}
-{{ map_html }}
-{{ map_css }}
-{{ map_js }}
-{% endraw %}
+<!-- 路线详情弹窗 -->
+<div id="routeModal" class="modal">
+  <div class="modal-content">
+    <span class="close">&times;</span>
+    <div id="markdown-content"></div>
+  </div>
+</div>
+
+<script>
+  // 初始化地图
+  const map = L.map('map').setView([43.7, 5.5], 8);
+  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    attribution: '&copy; OpenStreetMap contributors'
+  }).addTo(map);
+
+  let routeLayer = null;
+  let markers = [];
+  
+  // 卡片点击事件
+  document.querySelectorAll('.card').forEach(card => {
+    card.addEventListener('click', (e) => {
+      // 如果不是按钮点击才处理
+      if (!e.target.classList.contains('view-route') && !e.target.classList.contains('book-trip')) {
+        const pointsData = JSON.parse(card.getAttribute('data-points'));
+        updateMapWithRoute(pointsData);
+      }
+    });
+    
+    // 查看路线按钮
+    card.querySelector('.view-route').addEventListener('click', (e) => {
+      e.stopPropagation();
+      const pointsData = JSON.parse(card.getAttribute('data-points'));
+      showRouteDetails(card.querySelector('h3').textContent, pointsData);
+    });
+    
+    // 预订行程按钮
+    card.querySelector('.book-trip').addEventListener('click', (e) => {
+      e.stopPropagation();
+      const stripe = Stripe('pk_test_your_stripe_publishable_key');
+      stripe.redirectToCheckout({
+        lineItems: [{
+          price: 'price_12345', // 替换为你的Stripe价格ID
+          quantity: 1,
+        }],
+        mode: 'payment',
+        successUrl: 'https://yourwebsite.com/success',
+        cancelUrl: 'https://yourwebsite.com/cancel',
+      });
+    });
+  });
+  
+  // 更新地图路线
+  function updateMapWithRoute(pointsData) {
+    // 清除之前的路线和标记
+    if (routeLayer) map.removeLayer(routeLayer);
+    markers.forEach(marker => map.removeLayer(marker));
+    markers = [];
+    
+    // 创建新路线
+    const coords = pointsData.map(point => [point.lat, point.lng]);
+    routeLayer = L.polyline(coords, { color: '#800080', weight: 4 }).addTo(map);
+    
+    // 添加标记
+    pointsData.forEach((point, index) => {
+      const marker = L.marker([point.lat, point.lng], {
+        icon: L.divIcon({
+          className: 'custom-marker',
+          iconSize: [24, 24]
+
+
+        })
+      }).addTo(map);
+      
+      marker.bindPopup(`
+        <div style="text-align:center;">
+          <h4>${point.name}</h4>
+          <img src="${point.img}" style="max-width:200px;max-height:150px;margin:5px 0;">
+          <p>${point.desc}</p>
+        </div>
+      `);
+      
+
+      markers.push(marker);
+    });
+    
+    // 调整视图
+    map.fitBounds(routeLayer.getBounds());
+  }
+  
+  // 显示路线详情弹窗
+  function showRouteDetails(title, pointsData) {
+    const modal = document.getElementById('routeModal');
+    const markdownContent = document.getElementById('markdown-content');
+    
+    // 构建Markdown内容
+    let content = `# ${title}\n\n`;
+    content += `## 行程亮点\n\n`;
+    pointsData.forEach((point, index) => {
+      content += `### ${index + 1}. ${point.name}\n`;
+      content += `![${point.name}](${point.img})\n`;
+      content += `${point.desc}\n\n`;
+    });
+    
+    content += `## 行程详情\n\n`;
+    content += `- **出发时间**: 早上8:00\n`;
+    content += `- **返回时间**: 晚上19:00\n`;
+    content += `- **包含项目**: 交通、导游服务\n`;
+    content += `- **建议携带**: 防晒霜、相机、舒适步行鞋\n`;
+    
+    // 这里可以添加一个简单的Markdown解析器
+    // 为了简化，我们直接使用HTML代替真正的Markdown解析
+    markdownContent.innerHTML = `
+      <h1>${title}</h1>
+      <h2>行程亮点</h2>
+      ${pointsData.map((point, index) => `
+        <h3>${index + 1}. ${point.name}</h3>
+        <img src="${point.img}" style="max-width:100%;height:auto;">
+        <p>${point.desc}</p>
+      `).join('')}
+      <h2>行程详情</h2>
+      <ul>
+        <li><strong>出发时间</strong>: 早上8:00</li>
+        <li><strong>返回时间</strong>: 晚上19:00</li>
+        <li><strong>包含项目</strong>: 交通、导游服务</li>
+        <li><strong>建议携带</strong>: 防晒霜、相机、舒适步行鞋</li>
+      </ul>
+    `;
+    
+    modal.style.display = 'block';
+  }
+  
+  // 关闭弹窗
+  document.querySelector('.close').addEventListener('click', () => {
+    document.getElementById('routeModal').style.display = 'none';
+  });
+  
+  // 点击弹窗外部关闭
+  window.addEventListener('click', (e) => {
+    if (e.target === document.getElementById('routeModal')) {
+      document.getElementById('routeModal').style.display = 'none';
+    }
+  });
+  
+  // 默认显示第一条路线
+  const firstCard = document.querySelector('.card');
+  if (firstCard) {
+    const pointsData = JSON.parse(firstCard.getAttribute('data-points'));
+    updateMapWithRoute(pointsData);
+  }
+</script>
 
 ---
 
