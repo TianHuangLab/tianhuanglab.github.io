@@ -112,24 +112,20 @@ images:
 
 <div class="itinerary-container">
   <div class="card-list">
-    <!-- 卡片：马赛 -->
+    <!-- 马赛 -->
     <div class="card" data-points='[{"lat":43.2965,"lng":5.3698,"name":"马赛","desc":"法国第二大城市，地中海重要港口"}]'>
-      <div class="card-header">
-        <div class="card-title">
-          <h3>马赛：法国第二大城市</h3>
-        </div>
+      <div class="card-title">
+        <h3>马赛：法国第二大城市</h3>
       </div>
       <div class="card-content">
         探索马赛老港的历史与地中海风情。
       </div>
     </div>
 
-    <!-- 卡片：卡西斯港 -->
+    <!-- 卡西斯港 -->
     <div class="card" data-points='[{"lat":43.2181,"lng":5.5386,"name":"卡西斯港","desc":"迷人的渔港和海滩"}]'>
-      <div class="card-header">
-        <div class="card-title">
-          <h3>卡西斯小镇：峡湾与海风</h3>
-        </div>
+      <div class="card-title">
+        <h3>卡西斯小镇：峡湾与海风</h3>
       </div>
       <div class="card-content">
         前往风景如画的卡西斯港，享受海滩与峡湾之美。
@@ -140,8 +136,10 @@ images:
   <div id="map"></div>
 </div>
 
+<!-- Leaflet 依赖 -->
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+
 <style>
   .itinerary-container {
     display: flex;
@@ -163,6 +161,11 @@ images:
     width: 300px;
     cursor: pointer;
     box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+    transition: background-color 0.3s ease;
+  }
+
+  .card:hover {
+    background-color: #f3e8ff; /* 淡紫色 */
   }
 
   .card-title {
@@ -174,17 +177,15 @@ images:
     padding: 0.5rem;
   }
 
-  /* Adjust map container to be square */
   #map {
     width: 100%;
     height: 100%;
-    aspect-ratio: 1; /* Maintains square aspect ratio */
-    max-width: 600px; /* Limit the width to 600px on large screens */
+    aspect-ratio: 1;
+    max-width: 600px;
     flex: 1;
     margin-top: 1rem;
   }
 
-  /* Responsive layout: stack the card and map in mobile view */
   @media (max-width: 768px) {
     .itinerary-container {
       flex-direction: column;
@@ -194,7 +195,6 @@ images:
       flex-direction: column;
     }
   }
-
 </style>
 
 <script>
@@ -203,41 +203,39 @@ images:
     attribution: '&copy; OpenStreetMap contributors'
   }).addTo(map);
 
-  let markers = [];
-  let routeLine;
-
   const waypoints = [
     { lat: 43.2965, lng: 5.3698, name: "马赛", desc: "法国第二大城市" },
     { lat: 43.2181, lng: 5.5386, name: "卡西斯港", desc: "迷人的渔港" }
   ];
 
-  function drawRoute(points) {
-    if (routeLine) map.removeLayer(routeLine);
-    markers.forEach(m => map.removeLayer(m));
-    markers = [];
+  let markers = [];
 
-    const latlngs = points.map(p => [p.lat, p.lng]);
-    routeLine = L.polyline(latlngs, { color: '#800080', weight: 4 }).addTo(map);
-    map.fitBounds(routeLine.getBounds());
+  // 添加所有标记
+  waypoints.forEach(p => {
+    const marker = L.marker([p.lat, p.lng])
+      .addTo(map)
+      .bindPopup(`<strong>${p.name}</strong><br>${p.desc}`);
+    marker.data = p;
+    markers.push(marker);
+  });
 
-    points.forEach(p => {
-      const marker = L.marker([p.lat, p.lng])
-        .addTo(map)
-        .bindPopup(`<strong>${p.name}</strong><br>${p.desc}`);
-      markers.push(marker);
-    });
-  }
+  // 渲染全路线
+  const latlngs = waypoints.map(p => [p.lat, p.lng]);
+  const routeLine = L.polyline(latlngs, { color: '#800080', weight: 4 }).addTo(map);
+  map.fitBounds(routeLine.getBounds());
 
-  // 点击卡片时居中地图
+  // 卡片点击：仅居中当前点并打开 popup
   document.querySelectorAll('.card').forEach(card => {
     card.addEventListener('click', () => {
       const points = JSON.parse(card.getAttribute('data-points'));
-      drawRoute([...points, ...waypoints.filter(p => !points.find(pt => pt.name === p.name))]);
+      const point = points[0];
+      map.setView([point.lat, point.lng], 13);
+      const target = markers.find(m => m.data.name === point.name);
+      if (target) {
+        target.openPopup();
+      }
     });
   });
-
-  // 初始渲染整条路线
-  drawRoute(waypoints);
 </script>
 
 
@@ -410,4 +408,6 @@ images:
 作为世界文化之都，巴黎拥有无数经典景点。让我们带你一起漫游艾菲尔铁塔下、卢浮宫内，感受巴黎的独特魅力。
 [点击这里](https://aolitravel.com/paris/)，探索巴黎旅游!
 
+---
 
+{% include social.liquid %}
