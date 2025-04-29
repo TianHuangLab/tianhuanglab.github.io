@@ -14,6 +14,8 @@ images:
   {% include figure.liquid loading="eager" path="assets/img/11marseille-1day-trip/11marseille-1day-trip-1.jpg" title="marseille-trip-aolitravel.com" class="img-fluid rounded z-depth-1" %}
 </div>
 
+---
+
 ## 行程亮点
 
 **清晨启程，开启一场海天相接的梦幻之旅！**
@@ -145,22 +147,27 @@ images:
     display: flex;
     flex-wrap: wrap;
     gap: 1rem;
+    align-items: flex-start;
   }
 
   .card-list {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 1rem;
     flex: 1;
+    max-width: 600px;
+    width: 100%;
+    max-height: 600px; /* 支持未来滚动 */
+    overflow-y: auto;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
   }
 
   .card {
     border: 1px solid #ccc;
     border-radius: 8px;
     overflow: hidden;
-    width: 300px;
-    cursor: pointer;
+    width: 100%; /* 使卡片宽度自动与地图保持一致 */
     box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+    cursor: pointer;
     transition: background-color 0.3s ease;
   }
 
@@ -178,11 +185,10 @@ images:
   }
 
   #map {
-    width: 100%;
-    height: 100%;
-    aspect-ratio: 1;
-    max-width: 600px;
     flex: 1;
+    width: 100%;
+    max-width: 600px;
+    aspect-ratio: 1;
     margin-top: 1rem;
   }
 
@@ -191,8 +197,8 @@ images:
       flex-direction: column;
     }
 
-    .card-list {
-      flex-direction: column;
+    #map {
+      margin-top: 0;
     }
   }
 </style>
@@ -210,7 +216,7 @@ images:
 
   let markers = [];
 
-  // 添加所有标记
+  // 添加标记
   waypoints.forEach(p => {
     const marker = L.marker([p.lat, p.lng])
       .addTo(map)
@@ -219,12 +225,12 @@ images:
     markers.push(marker);
   });
 
-  // 渲染全路线
+  // 绘制路线
   const latlngs = waypoints.map(p => [p.lat, p.lng]);
   const routeLine = L.polyline(latlngs, { color: '#800080', weight: 4 }).addTo(map);
   map.fitBounds(routeLine.getBounds());
 
-  // 卡片点击：仅居中当前点并打开 popup
+  // 点击卡片居中并打开弹窗
   document.querySelectorAll('.card').forEach(card => {
     card.addEventListener('click', () => {
       const points = JSON.parse(card.getAttribute('data-points'));
@@ -237,7 +243,6 @@ images:
     });
   });
 </script>
-
 
 
 ---
@@ -408,6 +413,4 @@ images:
 作为世界文化之都，巴黎拥有无数经典景点。让我们带你一起漫游艾菲尔铁塔下、卢浮宫内，感受巴黎的独特魅力。
 [点击这里](https://aolitravel.com/paris/)，探索巴黎旅游!
 
----
 
-{% include social.liquid %}
