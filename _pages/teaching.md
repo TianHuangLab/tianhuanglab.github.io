@@ -430,19 +430,14 @@ images:
     {% for i in images %}
       <div class="col">
         <a href="https://aolitravel.com/tours/">
-          {% include figure.liquid
-            loading="lazy"
-            path="assets/img/0tours/0template/{{ i }}selected-tour.jpg"
-            title="south-france-selected-tour"
-            class="img-fluid rounded shadow-sm"
-            alt="south-france-selected-tour 南法旅游精选路线"
-          %}
+          {% include figure.liquid loading="lazy" path="assets/img/0tours/0template/{{ i }}selected-tour.jpg" title="south-france-selected-tour" class="img-fluid rounded shadow-sm" alt="south-france-selected-tour 南法旅游精选路线" %}
         </a>
       </div>
     {% endfor %}
 
   </div>
 </div>
+
 
 ---
 
