@@ -96,7 +96,7 @@ social: true
 
 **标准说明**
 
-- 本线路3人起成团，全年每周六、周日出发，需至少提前3天预约，其他日期请咨询我们。
+- 本线路每周六、周日发团，全年可约，3人起成团，请至少提前3天预约。若您为1至2人或需选择其他出发日期，欢迎联系我们拼团！
 - 3-5人出行，每人89欧元；6-8人出行，每人85欧元；9人及以上可享专属优惠，欢迎联系我们定制报价！
 
 <script async
@@ -108,160 +108,6 @@ social: true
   publishable-key="pk_live_51HOVRdLF9x7iB9GnVh8jWCYVrSXFsF0CFw3BfSy6EHhkHoMuIjYMfYcJ1eFZ1Pu397lxh5CNDLfiSgDUBiXt0Dw4003T9jFWgc"
 >
 </stripe-buy-button>
-
----
-## 测试
-<div class="itinerary-container">
-  <div class="card-list">
-    <!-- 马赛 -->
-    <div class="card" data-points='[{"lat":43.2965,"lng":5.3698,"name":"马赛","desc":"法国第二大城市，地中海重要港口"}]'>
-      <div class="card-title">
-        <h3>马赛：法国第二大城市</h3>
-      </div>
-      <div class="card-content">
-        探索马赛老港的历史与地中海风情。
-      </div>
-    </div>
-
-    <!-- 卡西斯港 -->
-    <div class="card" data-points='[{"lat":43.2181,"lng":5.5386,"name":"卡西斯港","desc":"迷人的渔港和海滩"}]'>
-      <div class="card-title">
-        <h3>卡西斯小镇：峡湾与海风</h3>
-      </div>
-      <div class="card-content">
-        前往风景如画的卡西斯港，享受海滩与峡湾之美。
-      </div>
-    </div>
-  </div>
-
-  <div id="map"></div>
-</div>
-
-<!-- Leaflet 依赖 -->
-<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
-<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
-
-<style>
-  .itinerary-container {
-    display: flex;
-    flex-direction: row;
-    gap: 1rem;
-    align-items: flex-start;
-    flex-wrap: nowrap;
-  }
-
-  .card-list {
-    flex: 1;
-    max-width: 50%;
-    overflow-y: auto;
-    display: flex;
-    flex-direction: column;
-    gap: 1rem;
-  }
-
-  .card {
-    border: 1px solid #ccc;
-    border-radius: 8px;
-    overflow: hidden;
-    width: 100%;
-    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
-    cursor: pointer;
-    transition: background-color 0.3s ease;
-  }
-
-  .card:hover {
-    background-color: #f3e8ff;
-  }
-
-  .card-title {
-    padding: 0.5rem;
-    background-color: #f4f4f4;
-  }
-
-  .card-content {
-    padding: 0.5rem;
-  }
-
-  #map {
-    flex: 1;
-    max-width: 50%;
-    height: 500px;
-  }
-
-  @media (max-width: 768px) {
-    .itinerary-container {
-      flex-direction: column;
-    }
-
-    .card-list, #map {
-      max-width: 100%;
-      width: 100%;
-    }
-
-    #map {
-      height: 400px;
-    }
-  }
-</style>
-
-<script>
-  document.addEventListener("DOMContentLoaded", function () {
-    const initMap = () => {
-      const map = L.map('map').setView([43.2965, 5.3698], 10);
-      L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-        attribution: '&copy; OpenStreetMap contributors'
-      }).addTo(map);
-
-      const waypoints = [];
-      const markers = [];
-
-      document.querySelectorAll('.card').forEach(card => {
-        const points = JSON.parse(card.getAttribute('data-points'));
-        points.forEach(p => {
-          waypoints.push(p);
-          const marker = L.marker([p.lat, p.lng])
-            .addTo(map)
-            .bindPopup(`<strong>${p.name}</strong><br>${p.desc}`);
-          marker.data = p;
-          markers.push(marker);
-        });
-      });
-
-      const latlngs = waypoints.map(p => [p.lat, p.lng]);
-      const routeLine = L.polyline(latlngs, { color: '#800080', weight: 4 }).addTo(map);
-      map.fitBounds(routeLine.getBounds());
-
-      document.querySelectorAll('.card').forEach(card => {
-        card.addEventListener('click', () => {
-          const points = JSON.parse(card.getAttribute('data-points'));
-          const point = points[0];
-          map.setView([point.lat, point.lng], 13);
-          const target = markers.find(m => m.data.name === point.name);
-          if (target) {
-            target.openPopup();
-          }
-        });
-      });
-
-      // 关键：初始化后立即触发一次 invalidateSize
-      setTimeout(() => {
-        map.invalidateSize();
-      }, 300);
-
-      // 响应窗口大小变化
-      window.addEventListener('resize', () => {
-        setTimeout(() => {
-          map.invalidateSize();
-        }, 300);
-      });
-    };
-
-    // 延迟初始化地图（关键）
-    setTimeout(initMap, 500);
-  });
-</script>
-
-
 
 ---
 
@@ -356,6 +202,8 @@ social: true
 
     #map {
       margin-top: 0;
+      height: 400px;
+      min-height: 300px;
     }
   }
 </style>
