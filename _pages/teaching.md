@@ -206,58 +206,66 @@ social: true
 
 <script>
   document.addEventListener("DOMContentLoaded", function () {
-    const map = L.map('map').setView([43.2965, 5.3698], 10);
-    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-      attribution: '&copy; OpenStreetMap contributors'
-    }).addTo(map);
+    const initMap = () => {
+      const map = L.map('map').setView([43.2965, 5.3698], 10);
+      L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+        attribution: '&copy; OpenStreetMap contributors'
+      }).addTo(map);
 
-    const waypoints = [];
-    const markers = [];
+      const waypoints = [];
+      const markers = [];
 
-    // 动态从所有卡片中提取坐标点
-    document.querySelectorAll('.card').forEach(card => {
-      const points = JSON.parse(card.getAttribute('data-points'));
-      points.forEach(p => {
-        waypoints.push(p);
-        const marker = L.marker([p.lat, p.lng])
-          .addTo(map)
-          .bindPopup(`<strong>${p.name}</strong><br>${p.desc}`);
-        marker.data = p;
-        markers.push(marker);
+      document.querySelectorAll('.card').forEach(card => {
+        const points = JSON.parse(card.getAttribute('data-points'));
+        points.forEach(p => {
+          waypoints.push(p);
+          const marker = L.marker([p.lat, p.lng])
+            .addTo(map)
+            .bindPopup(`<strong>${p.name}</strong><br>${p.desc}`);
+          marker.data = p;
+          markers.push(marker);
+        });
       });
-    });
 
-    // 绘制路线并自适应视图
-    const latlngs = waypoints.map(p => [p.lat, p.lng]);
-    const routeLine = L.polyline(latlngs, { color: '#800080', weight: 4 }).addTo(map);
-    map.fitBounds(routeLine.getBounds());
+      const latlngs = waypoints.map(p => [p.lat, p.lng]);
+      const routeLine = L.polyline(latlngs, { color: '#800080', weight: 4 }).addTo(map);
+      map.fitBounds(routeLine.getBounds());
 
-    // 解决地图在移动端布局变化时消失的问题-新加的
-    window.addEventListener('resize', () => {
+      document.querySelectorAll('.card').forEach(card => {
+        card.addEventListener('click', () => {
+          const points = JSON.parse(card.getAttribute('data-points'));
+          const point = points[0];
+          map.setView([point.lat, point.lng], 13);
+          const target = markers.find(m => m.data.name === point.name);
+          if (target) {
+            target.openPopup();
+          }
+        });
+      });
+
+      // 关键：初始化后立即触发一次 invalidateSize
       setTimeout(() => {
         map.invalidateSize();
-      }, 300); // 避免立即触发，延迟确保布局已完成
-    });
+      }, 300);
 
-    // 点击卡片时聚焦到该点
-    document.querySelectorAll('.card').forEach(card => {
-      card.addEventListener('click', () => {
-        const points = JSON.parse(card.getAttribute('data-points'));
-        const point = points[0];
-        map.setView([point.lat, point.lng], 13);
-        const target = markers.find(m => m.data.name === point.name);
-        if (target) {
-          target.openPopup();
-        }
+      // 响应窗口大小变化
+      window.addEventListener('resize', () => {
+        setTimeout(() => {
+          map.invalidateSize();
+        }, 300);
       });
-    });
+    };
+
+    // 延迟初始化地图（关键）
+    setTimeout(initMap, 500);
   });
 </script>
 
 
+
 ---
 
-<!--
+
 ## 行程路线
 
 <div class="itinerary-container">
@@ -393,7 +401,7 @@ social: true
     });
   });
 </script>
--->
+
 
 ---
 
