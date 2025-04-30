@@ -112,64 +112,105 @@ social: true
 ---
 ## 测试
 
-<!-- 引入 Flatpickr 样式（Bootstrap 主题） -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/flatpickr/dist/themes/material_blue.css">
-
-<!-- 主组件 -->
-<div class="container border rounded p-4 d-flex gap-4 flex-wrap">
-
-  <!-- 日期选择：日历 -->
-  <div class="flex-fill">
-    <h5>📅 选择日期</h5>
-    <input id="datePicker" class="form-control" placeholder="点击选择开放日期" readonly />
-    <small class="text-muted">仅可选择开放日期</small>
-  </div>
-
-  <!-- 人数选择 -->
-  <div class="flex-fill">
-    <h5>👤 人数选择</h5>
-    <select id="peopleCount" class="form-select">
-      <option value="1">1人 (€4680/人)</option>
-      <option value="2">2人 (€3280/人)</option>
-      <option value="3" selected>3人 (€2980/人)</option>
-    </select>
-    <p class="mt-3 fw-bold">总价：<span id="totalPrice">€0</span></p>
-  </div>
-
-  <!-- 步骤 -->
-  <div class="flex-fill">
-    <h5>📍 预订流程</h5>
-    <ul class="list-group list-group-flush small">
-      <li class="list-group-item">1. 选择日期</li>
-      <li class="list-group-item">2. 选择人数</li>
-      <li class="list-group-item">3. 支付款项</li>
-      <li class="list-group-item">4. 确认订单</li>
-      <li class="list-group-item">5. 安排出行</li>
-    </ul>
-  </div>
-
-  <!-- 支付按钮 -->
-  <div class="flex-fill d-flex align-items-end">
-    <button id="checkoutButton" class="btn btn-warning w-100">
-      立即预订
-    </button>
+<!-- ✅ 1. 水平步骤条 -->
+<div class="container mb-4">
+  <div class="d-flex justify-content-between text-center border-bottom pb-3">
+    <div class="flex-fill">
+      <div class="fw-bold text-primary">1</div>
+      <div class="small text-muted">选择日期</div>
+    </div>
+    <div class="flex-fill">
+      <div class="fw-bold text-primary">2</div>
+      <div class="small text-muted">选择人数</div>
+    </div>
+    <div class="flex-fill">
+      <div class="fw-bold text-primary">3</div>
+      <div class="small text-muted">支付款项</div>
+    </div>
+    <div class="flex-fill">
+      <div class="fw-bold text-primary">4</div>
+      <div class="small text-muted">确认订单</div>
+    </div>
+    <div class="flex-fill">
+      <div class="fw-bold text-primary">5</div>
+      <div class="small text-muted">安排出行</div>
+    </div>
   </div>
 </div>
 
-<!-- 引入 Flatpickr 脚本 -->
+<!-- ✅ 2. 日历 + 人数价格展示 -->
+<div class="container border rounded p-4 mb-4" style="background-color: #f8f5fb;">
+  <div class="row">
+    <!-- 左：日历 -->
+    <div class="col-md-6 mb-3">
+      <label for="datePicker" class="form-label fw-bold text-secondary">出发日期</label>
+      <input id="datePicker" class="form-control" placeholder="请选择开放团期" readonly />
+      <div class="form-text">可选日期为每周六、周日</div>
+    </div>
+
+    <!-- 右：价格表 -->
+    <div class="col-md-6">
+      <label class="fw-bold text-secondary d-block mb-2">行程价格</label>
+      <ul class="list-group">
+        <li class="list-group-item d-flex justify-content-between">
+          <span>3-5人</span><strong class="text-primary">89 欧元 / 人</strong>
+        </li>
+        <li class="list-group-item d-flex justify-content-between">
+          <span>6-8人</span><strong class="text-primary">85 欧元 / 人</strong>
+        </li>
+        <li class="list-group-item d-flex justify-content-between">
+          <span>9人及以上</span><strong class="text-warning">请联系定制优惠</strong>
+        </li>
+      </ul>
+
+      <!-- 人数选择 -->
+      <label for="peopleCount" class="form-label mt-3">选择出行人数</label>
+      <select id="peopleCount" class="form-select">
+        <option value="3">3人</option>
+        <option value="4">4人</option>
+        <option value="5">5人</option>
+        <option value="6">6人</option>
+        <option value="7">7人</option>
+        <option value="8">8人</option>
+        <option value="9">9人及以上</option>
+      </select>
+
+      <!-- 总价展示 -->
+      <div class="mt-3 fw-bold">
+        总价：<span id="totalPrice" class="text-success">--</span>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- ✅ 3. 支付按钮 -->
+<div class="container text-center">
+  <button id="checkoutButton" class="btn btn-primary btn-lg px-5">立即预订</button>
+</div>
+
+<!-- ✅ 4. 标准说明 -->
+<div class="container mt-4 p-4 border rounded" style="background-color: #fdf9ff;">
+  <h6 class="fw-bold text-secondary">标准说明</h6>
+  <p class="mb-1">本线路全年可约，每周六、周日发团，3人起成团，请至少提前3天预约。</p>
+  <p class="mb-0">若您为1-2人或需选择其他出发日期，欢迎联系我们拼团！</p>
+  <p class="mt-2">3-5人出行，每人89欧元；6-8人每人85欧元；9人及以上可享专属优惠报价。</p>
+</div>
+
+<!-- Flatpickr 日期脚本 -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/flatpickr/dist/themes/material_blue.css">
 <script src="https://cdn.jsdelivr.net/npm/flatpickr"></script>
 
 <script>
-  // 自定义开放日期及对应价格
   const availableDates = {
-    "2025-05-03": 2980,
-    "2025-05-12": 2980,
-    "2025-05-28": 2980
+    "2025-05-03": 89,
+    "2025-05-10": 89,
+    "2025-05-17": 85,
+    "2025-05-24": 85,
+    "2025-05-31": 85
   };
 
   let selectedDate = null;
 
-  // 初始化日历
   flatpickr("#datePicker", {
     dateFormat: "Y-m-d",
     enable: Object.keys(availableDates),
@@ -180,13 +221,18 @@ social: true
   });
 
   function updateTotalPrice() {
-    const count = parseInt(document.getElementById('peopleCount').value);
-    if (selectedDate && availableDates[selectedDate]) {
-      const price = availableDates[selectedDate];
-      const total = price * count;
-      document.getElementById('totalPrice').textContent = `€${total}`;
+    const people = parseInt(document.getElementById('peopleCount').value);
+    let pricePerPerson = 0;
+
+    if (people >= 3 && people <= 5) pricePerPerson = 89;
+    else if (people >= 6 && people <= 8) pricePerPerson = 85;
+    else pricePerPerson = 0;
+
+    if (!selectedDate || pricePerPerson === 0) {
+      document.getElementById('totalPrice').textContent = '--';
     } else {
-      document.getElementById('totalPrice').textContent = '€0';
+      const total = pricePerPerson * people;
+      document.getElementById('totalPrice').textContent = `€${total}`;
     }
   }
 
@@ -194,18 +240,26 @@ social: true
 
   document.getElementById('checkoutButton').addEventListener('click', async () => {
     const count = parseInt(document.getElementById('peopleCount').value);
-    const price = availableDates[selectedDate];
-    const total = price * count;
+    let pricePerPerson = 0;
 
-    if (!selectedDate) {
-      alert("请先选择日期！");
+    if (count >= 3 && count <= 5) pricePerPerson = 89;
+    else if (count >= 6 && count <= 8) pricePerPerson = 85;
+    else {
+      alert("请联系人工获取9人以上的报价");
       return;
     }
+
+    if (!selectedDate) {
+      alert("请先选择出发日期！");
+      return;
+    }
+
+    const total = pricePerPerson * count;
 
     const response = await fetch('/api/create-stripe-session', {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({ date: selectedDate, count, price_per_person: price, total })
+      body: JSON.stringify({ date: selectedDate, count, price_per_person: pricePerPerson, total })
     });
 
     const data = await response.json();
@@ -215,10 +269,7 @@ social: true
       alert('支付链接生成失败，请稍后再试。');
     }
   });
-
-  updateTotalPrice();
 </script>
-
 
 
 ---
@@ -605,7 +656,7 @@ social: true
 💬 [点击这里](https://aolitravel.com/custom-travel/)与我们取得联系，开始您的定制之旅！
 
   <div>
-    <a href="https://aolitravel.com/tours/">
+    <a href="https://aolitravel.com/custom-travel/">
       {% include figure.liquid loading="eager" path="assets/img/0tours/0template/0a.png" title="france-custom-tour" class="img-fluid rounded z-depth-1" alt="france-custom-tour" %}
     </a>
   </div>
