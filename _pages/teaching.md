@@ -430,8 +430,11 @@ social: true
 
 💬 [点击这里](https://aolitravel.com/custom-travel/)与我们取得联系，开始您的定制之旅！
 
-{% include figure.liquid loading="eager" path="assets/img/0tours/0template/0a.png" title="south-france-selected-tour" class="img-fluid rounded z-depth-1" alt="south-france-selected-tour南法旅游精选路线" %}
-
+  <div>
+    <a href="https://aolitravel.com/tours/">
+      {% include figure.liquid loading="eager" path="assets/img/0tours/0template/0a.png" title="france-custom-tour" class="img-fluid rounded z-depth-1" alt="france-custom-tour" %}
+    </a>
+  </div>
 
 ---
 
