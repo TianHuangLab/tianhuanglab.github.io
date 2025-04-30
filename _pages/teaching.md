@@ -232,6 +232,13 @@ social: true
     const routeLine = L.polyline(latlngs, { color: '#800080', weight: 4 }).addTo(map);
     map.fitBounds(routeLine.getBounds());
 
+    // 解决地图在移动端布局变化时消失的问题-新加的
+    window.addEventListener('resize', () => {
+      setTimeout(() => {
+        map.invalidateSize();
+      }, 300); // 避免立即触发，延迟确保布局已完成
+    });
+
     // 点击卡片时聚焦到该点
     document.querySelectorAll('.card').forEach(card => {
       card.addEventListener('click', () => {
@@ -250,6 +257,7 @@ social: true
 
 ---
 
+<!--
 ## 行程路线
 
 <div class="itinerary-container">
@@ -385,6 +393,7 @@ social: true
     });
   });
 </script>
+-->
 
 ---
 
