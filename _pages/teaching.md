@@ -184,7 +184,7 @@ images:
     padding: 0.5rem;
   }
 
-  #map {
+  <!-- #map {
     flex: 1;
     width: 100%;
     max-width: 600px;
@@ -192,6 +192,16 @@ images:
     margin-top: 1rem;
     min-height: 300px;
   }
+  -->
+
+  #map {
+  flex: 1;
+  width: 100%;
+  max-width: 600px;
+  height: 500px; /* 固定高度，确保地图正常渲染 */
+  margin-top: 1rem;
+  }
+
 
   @media (max-width: 768px) {
     .itinerary-container {
@@ -209,11 +219,6 @@ images:
   L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     attribution: '&copy; OpenStreetMap contributors'
   }).addTo(map);
-
-// 添加这一行代码
-setTimeout(() => {
-  map.invalidateSize();
-}, 0);
 
   const waypoints = [
     { lat: 43.2965, lng: 5.3698, name: "马赛", desc: "法国第二大城市" },
@@ -317,15 +322,15 @@ setTimeout(() => {
 <div style="display: flex; align-items: center; gap: 20px; margin: 2em 0;">
 
   <!-- 左侧头像（圆形） -->
-  <div>
-    <img src="assets/img/profile-tian.jpg" alt="你的照片" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%; box-shadow: 0 4px 10px rgba(0,0,0,0.2);" />
+  <div style="flex: 1; text-align: center;">
+      {% include figure.liquid loading="eager" path="assets/img/profile-tian.jpg" title="aolitravel.com recommandation" class="img-fluid rounded z-depth-1" alt="aolitravel.com" %}
   </div>
 
   <!-- 右侧文字内容 -->
-  <div style="flex: 1;">
+  <div style="flex: 2;">
     <p>一天走遍港口老城和海边小镇！从热情洋溢的马赛出发，一路玩到风景如画的卡西斯，海风、峡湾、美食全都有～来一场说走就走的地中海微旅行吧！</p>
     <p>目前常驻南法，喜欢自然和城市风格、户外活动、美食。希望通过我的文字和路线，带你深度体验南法（普罗旺斯 & 蔚蓝海岸）的美好风光。</p>
-    <p>Email: contact@aolitravel.com</p>
+    <p>Email: <a href="mailto:contact@aolitravel.com">contact@aolitravel.com</a></p>
   </div>
 
 </div>
@@ -427,6 +432,29 @@ setTimeout(() => {
 ## 探索更多南法旅游体验
 
 南法，地中海的阳光与风情。无论是尼斯的海滩还是马赛的古港，南法的每一处景点都让人流连忘返。[点击这里](https://aolitravel.com/tours/)，探索更多南法旅游路线!
+
+<div class="container mt-4">
+  <div class="row row-cols-1 row-cols-sm-2 g-4">
+
+    {% assign images = "1,2,3,4,5,6,7,8,9,10" | split: "," %}
+    {% for i in images %}
+      <div class="col">
+        <a href="https://aolitravel.com/tours/">
+          {% include figure.liquid
+            loading="lazy"
+            path="assets/img/0tours/0template/{{ i }}selected-tour.jpg"
+            title="south-france-selected-tour"
+            class="img-fluid rounded shadow-sm"
+            alt="south-france-selected-tour 南法旅游精选路线"
+          %}
+        </a>
+      </div>
+    {% endfor %}
+
+  </div>
+</div>
+
+---
 
 <div class="row justify-content-sm-center">
   <div class="col-sm mt-3 mt-md-0">
