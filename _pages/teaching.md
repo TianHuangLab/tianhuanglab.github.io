@@ -110,6 +110,145 @@ social: true
 </stripe-buy-button>
 
 ---
+## 测试
+<div class="itinerary-container">
+  <div class="card-list">
+    <!-- 马赛 -->
+    <div class="card" data-points='[{"lat":43.2965,"lng":5.3698,"name":"马赛","desc":"法国第二大城市，地中海重要港口"}]'>
+      <div class="card-title">
+        <h3>马赛：法国第二大城市</h3>
+      </div>
+      <div class="card-content">
+        探索马赛老港的历史与地中海风情。
+      </div>
+    </div>
+
+    <!-- 卡西斯港 -->
+    <div class="card" data-points='[{"lat":43.2181,"lng":5.5386,"name":"卡西斯港","desc":"迷人的渔港和海滩"}]'>
+      <div class="card-title">
+        <h3>卡西斯小镇：峡湾与海风</h3>
+      </div>
+      <div class="card-content">
+        前往风景如画的卡西斯港，享受海滩与峡湾之美。
+      </div>
+    </div>
+  </div>
+
+  <div id="map"></div>
+</div>
+
+<!-- Leaflet 依赖 -->
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+
+<style>
+  .itinerary-container {
+    display: flex;
+    flex-direction: row;
+    gap: 1rem;
+    align-items: flex-start;
+    flex-wrap: nowrap;
+  }
+
+  .card-list {
+    flex: 1;
+    max-width: 50%;
+    overflow-y: auto;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+  }
+
+  .card {
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    overflow: hidden;
+    width: 100%;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+
+  .card:hover {
+    background-color: #f3e8ff;
+  }
+
+  .card-title {
+    padding: 0.5rem;
+    background-color: #f4f4f4;
+  }
+
+  .card-content {
+    padding: 0.5rem;
+  }
+
+  #map {
+    flex: 1;
+    max-width: 50%;
+    height: 500px;
+  }
+
+  @media (max-width: 768px) {
+    .itinerary-container {
+      flex-direction: column;
+    }
+
+    .card-list, #map {
+      max-width: 100%;
+      width: 100%;
+    }
+
+    #map {
+      height: 400px;
+    }
+  }
+</style>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const map = L.map('map').setView([43.2965, 5.3698], 10);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(map);
+
+    const waypoints = [];
+    const markers = [];
+
+    // 动态从所有卡片中提取坐标点
+    document.querySelectorAll('.card').forEach(card => {
+      const points = JSON.parse(card.getAttribute('data-points'));
+      points.forEach(p => {
+        waypoints.push(p);
+        const marker = L.marker([p.lat, p.lng])
+          .addTo(map)
+          .bindPopup(`<strong>${p.name}</strong><br>${p.desc}`);
+        marker.data = p;
+        markers.push(marker);
+      });
+    });
+
+    // 绘制路线并自适应视图
+    const latlngs = waypoints.map(p => [p.lat, p.lng]);
+    const routeLine = L.polyline(latlngs, { color: '#800080', weight: 4 }).addTo(map);
+    map.fitBounds(routeLine.getBounds());
+
+    // 点击卡片时聚焦到该点
+    document.querySelectorAll('.card').forEach(card => {
+      card.addEventListener('click', () => {
+        const points = JSON.parse(card.getAttribute('data-points'));
+        const point = points[0];
+        map.setView([point.lat, point.lng], 13);
+        const target = markers.find(m => m.data.name === point.name);
+        if (target) {
+          target.openPopup();
+        }
+      });
+    });
+  });
+</script>
+
+
+---
 
 ## 行程路线
 
