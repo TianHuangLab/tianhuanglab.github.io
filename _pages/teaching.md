@@ -8,13 +8,6 @@ pretty_table: true
 images:
   compare: true
   slider: true
-profiles:
-  - align: right
-    image: profile-tian.jpg
-    content: about_einstein.md
-    image_circular: true
-    more_info: >
-      <p class="recommendation">一天走遍港口老城和海边小镇！从热情洋溢的马赛出发，一路玩到风景如画的卡西斯，海风、峡湾、美食全都有～来一场说走就走的地中海微旅行吧！</p>
 ---
 
 <div class="l-body-outset">
@@ -320,32 +313,22 @@ setTimeout(() => {
 
 ## 联系我们
 
-{% raw %}
-{% if page.profiles %}
-  {% for profile in page.profiles %}
-<div style="display: flex; align-items: flex-start; margin-bottom: 2em; gap: 1em;">
-  {% if profile.image %}
-    <div style="flex: 0 0 150px;">
-      <img src="/assets/img/{{ profile.image }}" alt="Profile image" style="width: 100%; {% if profile.image_circular %}border-radius: 50%;{% else %}border-radius: 8px;{% endif %} box-shadow: 0 2px 6px rgba(0,0,0,0.1);">
-    </div>
-  {% endif %}
-  <div style="flex: 1;">
-    {% if profile.more_info %}
-      <div style="font-size: 0.9em; color: #555;">
-        {{ profile.more_info }}
-      </div>
-    {% endif %}
-    {% if profile.content %}
-      {% capture profile_content %}{% include_relative {{ profile.content }} %}{% endcapture %}
-      {{ profile_content | markdownify }}
-    {% else %}
-      {{ content }}
-    {% endif %}
+<!-- 人物介绍板块 -->
+<div style="display: flex; align-items: center; gap: 20px; margin: 2em 0;">
+
+  <!-- 左侧头像（圆形） -->
+  <div>
+    <img src="assets/img/profile-tian.jpg" alt="你的照片" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%; box-shadow: 0 4px 10px rgba(0,0,0,0.2);" />
   </div>
+
+  <!-- 右侧文字内容 -->
+  <div style="flex: 1;">
+    <p>一天走遍港口老城和海边小镇！从热情洋溢的马赛出发，一路玩到风景如画的卡西斯，海风、峡湾、美食全都有～来一场说走就走的地中海微旅行吧！</p>
+    <p>目前常驻南法，喜欢自然和城市风格、户外活动、美食。希望通过我的文字和路线，带你深度体验南法（普罗旺斯 & 蔚蓝海岸）的美好风光。</p>
+    <p>Email: contact@aolitravel.com</p>
+  </div>
+
 </div>
-  {% endfor %}
-{% endif %}
-{% endraw %}
 
 
 ---
