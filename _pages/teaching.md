@@ -8,6 +8,13 @@ pretty_table: true
 images:
   compare: true
   slider: true
+profiles:
+  - align: right
+    image: profile-tian.jpg
+    content: about_einstein.md
+    image_circular: true
+    more_info: >
+      <p class="recommendation">一天走遍港口老城和海边小镇！从热情洋溢的马赛出发，一路玩到风景如画的卡西斯，海风、峡湾、美食全都有～来一场说走就走的地中海微旅行吧！</p>
 ---
 
 <div class="l-body-outset">
@@ -308,18 +315,32 @@ images:
 
 ## 联系我们
 
-<div style="display: flex; align-items: center; gap: 1rem; flex-wrap: wrap;">
-  <img src="assets/img/profile-tian.jpg" alt="头像" style="width: 80px; height: 80px; border-radius: 50%; object-fit: cover;">
-  <div style="flex: 1; min-width: 200px;">
-    <p style="margin: 0;">👋 想要了解更多？这趟行程我亲自设计并推荐，欢迎随时联系我，获取专属建议与旅行建议！</p>
-    <div style="margin-top: 0.5rem;">
-      <a href="mailto:contact@aolitravel.com"><img src="/assets/icons/email.svg" alt="Email" width="24"></a>
-      <a href="weixin://dl/chat?yourwechatid"><img src="/assets/icons/wechat.svg" alt="WeChat" width="24"></a>
-      <a href="https://wa.me/yourwhatsapp"><img src="/assets/icons/whatsapp.svg" alt="WhatsApp" width="24"></a>
-      <a href="https://line.me/ti/p/yourlineid"><img src="/assets/icons/line.svg" alt="Line" width="24"></a>
+{% raw %}
+{% if page.profiles %}
+  {% for profile in page.profiles %}
+<div style="display: flex; align-items: flex-start; margin-bottom: 2em; gap: 1em;">
+  {% if profile.image %}
+    <div style="flex: 0 0 150px;">
+      <img src="/assets/img/{{ profile.image }}" alt="Profile image" style="width: 100%; {% if profile.image_circular %}border-radius: 50%;{% else %}border-radius: 8px;{% endif %} box-shadow: 0 2px 6px rgba(0,0,0,0.1);">
     </div>
+  {% endif %}
+  <div style="flex: 1;">
+    {% if profile.more_info %}
+      <div style="font-size: 0.9em; color: #555;">
+        {{ profile.more_info }}
+      </div>
+    {% endif %}
+    {% if profile.content %}
+      {% capture profile_content %}{% include_relative {{ profile.content }} %}{% endcapture %}
+      {{ profile_content | markdownify }}
+    {% else %}
+      {{ content }}
+    {% endif %}
   </div>
 </div>
+  {% endfor %}
+{% endif %}
+{% endraw %}
 
 
 ---
