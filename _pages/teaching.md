@@ -110,6 +110,118 @@ social: true
 </stripe-buy-button>
 
 ---
+## 测试
+
+<!-- 引入 Flatpickr 样式（Bootstrap 主题） -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/flatpickr/dist/themes/material_blue.css">
+
+<!-- 主组件 -->
+<div class="container border rounded p-4 d-flex gap-4 flex-wrap">
+
+  <!-- 日期选择：日历 -->
+  <div class="flex-fill">
+    <h5>📅 选择日期</h5>
+    <input id="datePicker" class="form-control" placeholder="点击选择开放日期" readonly />
+    <small class="text-muted">仅可选择开放日期</small>
+  </div>
+
+  <!-- 人数选择 -->
+  <div class="flex-fill">
+    <h5>👤 人数选择</h5>
+    <select id="peopleCount" class="form-select">
+      <option value="1">1人 (€4680/人)</option>
+      <option value="2">2人 (€3280/人)</option>
+      <option value="3" selected>3人 (€2980/人)</option>
+    </select>
+    <p class="mt-3 fw-bold">总价：<span id="totalPrice">€0</span></p>
+  </div>
+
+  <!-- 步骤 -->
+  <div class="flex-fill">
+    <h5>📍 预订流程</h5>
+    <ul class="list-group list-group-flush small">
+      <li class="list-group-item">1. 选择日期</li>
+      <li class="list-group-item">2. 选择人数</li>
+      <li class="list-group-item">3. 支付款项</li>
+      <li class="list-group-item">4. 确认订单</li>
+      <li class="list-group-item">5. 安排出行</li>
+    </ul>
+  </div>
+
+  <!-- 支付按钮 -->
+  <div class="flex-fill d-flex align-items-end">
+    <button id="checkoutButton" class="btn btn-warning w-100">
+      立即预订
+    </button>
+  </div>
+</div>
+
+<!-- 引入 Flatpickr 脚本 -->
+<script src="https://cdn.jsdelivr.net/npm/flatpickr"></script>
+
+<script>
+  // 自定义开放日期及对应价格
+  const availableDates = {
+    "2025-05-03": 2980,
+    "2025-05-12": 2980,
+    "2025-05-28": 2980
+  };
+
+  let selectedDate = null;
+
+  // 初始化日历
+  flatpickr("#datePicker", {
+    dateFormat: "Y-m-d",
+    enable: Object.keys(availableDates),
+    onChange: function(selectedDates, dateStr) {
+      selectedDate = dateStr;
+      updateTotalPrice();
+    }
+  });
+
+  function updateTotalPrice() {
+    const count = parseInt(document.getElementById('peopleCount').value);
+    if (selectedDate && availableDates[selectedDate]) {
+      const price = availableDates[selectedDate];
+      const total = price * count;
+      document.getElementById('totalPrice').textContent = `€${total}`;
+    } else {
+      document.getElementById('totalPrice').textContent = '€0';
+    }
+  }
+
+  document.getElementById('peopleCount').addEventListener('change', updateTotalPrice);
+
+  document.getElementById('checkoutButton').addEventListener('click', async () => {
+    const count = parseInt(document.getElementById('peopleCount').value);
+    const price = availableDates[selectedDate];
+    const total = price * count;
+
+    if (!selectedDate) {
+      alert("请先选择日期！");
+      return;
+    }
+
+    const response = await fetch('/api/create-stripe-session', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ date: selectedDate, count, price_per_person: price, total })
+    });
+
+    const data = await response.json();
+    if (data.url) {
+      window.location.href = data.url;
+    } else {
+      alert('支付链接生成失败，请稍后再试。');
+    }
+  });
+
+  updateTotalPrice();
+</script>
+
+
+
+---
 
 
 ## 行程路线
