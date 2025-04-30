@@ -184,16 +184,6 @@ images:
     padding: 0.5rem;
   }
 
-  <!-- #map {
-    flex: 1;
-    width: 100%;
-    max-width: 600px;
-    aspect-ratio: 1;
-    margin-top: 1rem;
-    min-height: 300px;
-  }
-  -->
-
   #map {
   flex: 1;
   width: 100%;
