@@ -160,37 +160,30 @@ body {
   }
 </style>
 
-<!--
+---
 
-## ✨ **选择你的旅行风格**  
+## 🌟 **为什么选择我？**  
 
-<div class="card-container">
-  <div class="card">
-    <img src="https://source.unsplash.com/300x200/?romantic,paris" alt="浪漫旅行">
-    <h3>🌹 浪漫之旅</h3>
-    <p>带上你的另一半，在巴黎的街头漫步，感受最纯粹的浪漫。</p>
-  </div>
+🇫🇷 量身定制 · 深度体验 —— 让你的法国之行不只是打卡，而是一次真正的沉浸式旅行！
 
-  <div class="card">
-    <img src="https://source.unsplash.com/300x200/?family,travel" alt="亲子游">
-    <h3>👨‍👩‍👧‍👦 亲子游</h3>
-    <p>带上孩子，一起探索法国的博物馆、动物园和童话小镇。</p>
-  </div>
+**地道视角，告别千篇一律的跟团行程**
+👉 作为一名长期旅居法国的旅行达人，我用本地人的视角，带你发现最真实的法国风情。
 
-  <div class="card">
-    <img src="https://source.unsplash.com/300x200/?frenchfood,wine" alt="美食之旅">
-    <h3>🍷 美食探索</h3>
-    <p>品尝世界级的红酒、美味的法餐，体验地道的法国味道。</p>
-  </div>
+**精准推荐，避坑省钱，最大化旅行体验**
+👉 无需在攻略海洋中迷失，我帮你筛选最值得去的地方，让你花更少的钱，玩得更尽兴！
 
-  <div class="card">
-    <img src="https://source.unsplash.com/300x200/?mountain,hiking" alt="户外探险">
-    <h3>⛰️ 户外探险</h3>
-    <p>从阿尔卑斯山滑雪到蔚蓝海岸潜水，感受极限运动的魅力！</p>
-  </div>
-</div>
+**个性化规划，满足你的独特旅行偏好**
+👉 无论是浪漫法式度假、美食探索、亲子游、文化艺术，还是户外冒险，我都能为你量身打造专属行程。
 
--->
+**1000+ 旅行者真实体验，好评如潮！**
+👉 已帮助上千名旅行者规划他们的法国之旅，让旅行变得简单又难忘！
+
+还在犹豫？ 现在就填写下方表单，告诉我你的旅行需求，让我们一起开启这段法式美好之旅！ 💙✨
+
+任何问题，欢迎发送邮件：[contact@aolitravel.com](mailto:contact@aolitravel.com) 或点击页面右下角的在线聊天与我们联系。
+
+{% include figure.liquid loading="eager" path="assets/img/19french-culture-101-etiquette-language-culinary-dining-guide.webp/aolitravel.com-french-culture-101-etiquette-language-culinary-dining-guide-1.webp" title="aolitravel.com-custom-travel" class="img-fluid rounded z-depth-1 watermarked" alt="法国旅行定制行程france-custom-travel"%}
+
 ---
 
 ## ✨ **专属你的法国旅行定制**  
@@ -237,24 +230,88 @@ body {
 
 ---
 
-## 🌟 **为什么选择我？**  
+## 探索更多南法旅游体验
 
-🇫🇷 量身定制 · 深度体验 —— 让你的法国之行不只是打卡，而是一次真正的沉浸式旅行！
+还在犹豫如何安排行程？不妨看看我们为您精心准备的南法精选路线，从蔚蓝海岸到山间小镇，灵感即刻启程！
+在这里，地中海的阳光与风情完美的交融在一起！无论是尼斯的海滩还是马赛的古港，南法的每一处景点都让人流连忘返。[点击这里](https://aolitravel.com/tours/)，探索更多奥利旅行旗下的南法旅游路线!
 
-**地道视角，告别千篇一律的跟团行程**
-👉 作为一名长期旅居法国的旅行达人，我用本地人的视角，带你发现最真实的法国风情。
+<div class="row justify-content-sm-center">
+  <div class="col-sm mt-3 mt-md-0">
+    <a href="https://aolitravel.com/tours/">
+      {% include figure.liquid loading="eager" path="assets/img/0tours/0template/1.png" title="south-france-selected-tour" class="img-fluid rounded z-depth-1" alt="south-france-selected-tour南法旅游精选路线" %}
+    </a>
+  </div>
+  <div class="col-sm mt-3 mt-md-0">
+    <a href="https://aolitravel.com/tours/">
+      {% include figure.liquid loading="eager" path="assets/img/0tours/0template/2.png" title="south-france-selected-tour" class="img-fluid rounded z-depth-1" alt="south-france-selected-tour南法旅游精选路线" %}
+    </a>
+  </div>
+</div>
 
-**精准推荐，避坑省钱，最大化旅行体验**
-👉 无需在攻略海洋中迷失，我帮你筛选最值得去的地方，让你花更少的钱，玩得更尽兴！
+<div class="row justify-content-sm-center">
+  <div class="col-sm mt-3 mt-md-0">
+    <a href="https://aolitravel.com/tours/">
+      {% include figure.liquid loading="eager" path="assets/img/0tours/0template/3.png" title="south-france-selected-tour" class="img-fluid rounded z-depth-1" alt="south-france-selected-tour南法旅游精选路线" %}
+    </a>
+  </div>
+  <div class="col-sm mt-3 mt-md-0">
+    <a href="https://aolitravel.com/tours/">
+      {% include figure.liquid loading="eager" path="assets/img/0tours/0template/4.png" title="south-france-selected-tour" class="img-fluid rounded z-depth-1" alt="south-france-selected-tour南法旅游精选路线" %}
+    </a>
+  </div>
+</div>
 
-**个性化规划，满足你的独特旅行偏好**
-👉 无论是浪漫法式度假、美食探索、亲子游、文化艺术，还是户外冒险，我都能为你量身打造专属行程。
+<div class="row justify-content-sm-center">
+  <div class="col-sm mt-3 mt-md-0">
+    <a href="https://aolitravel.com/tours/">
+      {% include figure.liquid loading="eager" path="assets/img/0tours/0template/5.png" title="south-france-selected-tour" class="img-fluid rounded z-depth-1" alt="south-france-selected-tour南法旅游精选路线" %}
+    </a>
+  </div>
+  <div class="col-sm mt-3 mt-md-0">
+    <a href="https://aolitravel.com/tours/">
+      {% include figure.liquid loading="eager" path="assets/img/0tours/0template/6.png" title="south-france-selected-tour" class="img-fluid rounded z-depth-1" alt="south-france-selected-tour南法旅游精选路线" %}
+    </a>
+  </div>
+</div>
 
-**1000+ 旅行者真实体验，好评如潮！**
-👉 已帮助上千名旅行者规划他们的法国之旅，让旅行变得简单又难忘！
+<div class="row justify-content-sm-center">
+  <div class="col-sm mt-3 mt-md-0">
+    <a href="https://aolitravel.com/tours/">
+      {% include figure.liquid loading="eager" path="assets/img/0tours/0template/7.png" title="south-france-selected-tour" class="img-fluid rounded z-depth-1" alt="south-france-selected-tour南法旅游精选路线" %}
+    </a>
+  </div>
+  <div class="col-sm mt-3 mt-md-0">
+    <a href="https://aolitravel.com/tours/">
+      {% include figure.liquid loading="eager" path="assets/img/0tours/0template/8.png" title="south-france-selected-tour" class="img-fluid rounded z-depth-1" alt="south-france-selected-tour南法旅游精选路线" %}
+    </a>
+  </div>
+</div>
 
-🎒 还在犹豫？ 现在就填写上方表单，告诉我你的旅行需求，让我们一起开启这段法式美好之旅！ 💙✨
+<div class="row justify-content-sm-center">
+  <div class="col-sm mt-3 mt-md-0">
+    <a href="https://aolitravel.com/tours/">
+      {% include figure.liquid loading="eager" path="assets/img/0tours/0template/9.png" title="south-france-selected-tour" class="img-fluid rounded z-depth-1" alt="south-france-selected-tour南法旅游精选路线" %}
+    </a>
+  </div>
+  <div class="col-sm mt-3 mt-md-0">
+    <a href="https://aolitravel.com/tours/">
+      {% include figure.liquid loading="eager" path="assets/img/0tours/0template/10.png" title="south-france-selected-tour" class="img-fluid rounded z-depth-1" alt="south-france-selected-tour南法旅游精选路线" %}
+    </a>
+  </div>
+</div>
 
-📩 任何问题，欢迎随时联系我：contact@aolitravel.com
+<div class="row justify-content-sm-center">
+  <div class="col-sm mt-3 mt-md-0">
+    <a href="https://aolitravel.com/tours/">
+      {% include figure.liquid loading="eager" path="assets/img/0tours/0template/11.png" title="south-france-selected-tour" class="img-fluid rounded z-depth-1" alt="south-france-selected-tour南法旅游精选路线" %}
+    </a>
+  </div>
+  <div class="col-sm mt-3 mt-md-0">
+    <a href="https://aolitravel.com/tours/">
+      {% include figure.liquid loading="eager" path="assets/img/0tours/0template/12.png" title="south-france-selected-tour" class="img-fluid rounded z-depth-1" alt="south-france-selected-tour南法旅游精选路线" %}
+    </a>
+  </div>
+</div>
 
-{% include figure.liquid loading="eager" path="assets/img/19french-culture-101-etiquette-language-culinary-dining-guide.webp/aolitravel.com-french-culture-101-etiquette-language-culinary-dining-guide-1.webp" title="aolitravel.com-french-culture-101-etiquette-language-culinary-dining-guide" class="img-fluid rounded z-depth-1 watermarked" alt="法国旅行定制行程france-custom-travel"%}
+
+---
