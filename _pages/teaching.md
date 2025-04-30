@@ -217,6 +217,11 @@ profiles:
     attribution: '&copy; OpenStreetMap contributors'
   }).addTo(map);
 
+// 添加这一行代码
+setTimeout(() => {
+  map.invalidateSize();
+}, 0);
+
   const waypoints = [
     { lat: 43.2965, lng: 5.3698, name: "马赛", desc: "法国第二大城市" },
     { lat: 43.2181, lng: 5.5386, name: "卡西斯港", desc: "迷人的渔港" }
