@@ -249,49 +249,6 @@ social: true
 
 ---
 
-<script>
-  window.onload = () => {
-    const map = L.map('map').setView([43.2965, 5.3698], 10);
-    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-      attribution: '&copy; OpenStreetMap contributors'
-    }).addTo(map);
-
-    const waypoints = [
-      { lat: 43.2965, lng: 5.3698, name: "马赛", desc: "法国第二大城市" },
-      { lat: 43.2181, lng: 5.5386, name: "卡西斯港", desc: "迷人的渔港" }
-    ];
-
-    let markers = [];
-
-    waypoints.forEach(p => {
-      const marker = L.marker([p.lat, p.lng])
-        .addTo(map)
-        .bindPopup(`<strong>${p.name}</strong><br>${p.desc}`);
-      marker.data = p;
-      markers.push(marker);
-    });
-
-    const latlngs = waypoints.map(p => [p.lat, p.lng]);
-    const routeLine = L.polyline(latlngs, { color: '#800080', weight: 4 }).addTo(map);
-    map.fitBounds(routeLine.getBounds());
-
-    document.querySelectorAll('.card').forEach(card => {
-      card.addEventListener('click', () => {
-        const points = JSON.parse(card.getAttribute('data-points'));
-        const point = points[0];
-        map.setView([point.lat, point.lng], 13);
-        const target = markers.find(m => m.data.name === point.name);
-        if (target) {
-          target.openPopup();
-        }
-      });
-    });
-  };
-</script>
-
-
----
-
 ## 行程详情
 
 **出发点｜马赛老港（Vieux-Port）**
@@ -313,7 +270,18 @@ social: true
 **第三站｜马赛龙骧宫（Palais Longchamp）**
 最后，探访龙骧宫——一座为纪念水资源引入马赛而建的宏伟宫殿。喷泉飞瀑、雕塑林立，巴洛克与古典风格交融，诉说着这座城市的荣耀与故事。走在壮美的拱廊下，感受历史流转的余韵。
 
+<script async
+  src="https://js.stripe.com/v3/buy-button.js">
+</script>
+
+<stripe-buy-button
+  buy-button-id="buy_btn_1RJF52LF9x7iB9GnyV6g8ryd"
+  publishable-key="pk_live_51HOVRdLF9x7iB9GnVh8jWCYVrSXFsF0CFw3BfSy6EHhkHoMuIjYMfYcJ1eFZ1Pu397lxh5CNDLfiSgDUBiXt0Dw4003T9jFWgc"
+>
+</stripe-buy-button>
+
 ---
+
 ## 行摄印象
 <div class="carousel-container" id="carousel">
   <!-- 图片将由 JavaScript 动态填充 -->
@@ -364,8 +332,8 @@ social: true
   <div style="flex: 2;">
     <p>推荐理由：一天走遍港口老城和海边小镇！从热情洋溢的马赛出发，一路玩到风景如画的卡西斯，海风、峡湾、美食全都有～来一场说走就走的地中海微旅行吧！</p>
     <p>经常游走南法，希望通过我的文字和路线，带你深度体验南法（普罗旺斯 & 蔚蓝海岸）的美好风光。</p>
-    <p><a href="aolitravel.com">了解我更多...</a></p>
-    <p>邮件: <a href="mailto:contact@aolitravel.com">contact@aolitravel.com</a></p>
+    <p><a href="https://aolitravel.com/">了解我更多...</a></p>
+    <p>想要咨询？欢迎 <a href="mailto:contact@aolitravel.com">发送邮件</a>或点击页面右下角的在线聊天与我们联系。</p>
   </div>
 
 </div>
@@ -462,6 +430,9 @@ social: true
 
 💬 [点击这里](https://aolitravel.com/custom-travel/)与我们取得联系，开始您的定制之旅！
 
+{% include figure.liquid loading="eager" path="assets/img/0tours/0template/0a.png" title="south-france-selected-tour" class="img-fluid rounded z-depth-1" alt="south-france-selected-tour南法旅游精选路线" %}
+
+
 ---
 
 ## 探索更多南法旅游体验
@@ -516,19 +487,6 @@ social: true
   <div class="col-sm mt-3 mt-md-0">
     <a href="https://aolitravel.com/tours/">
       {% include figure.liquid loading="eager" path="assets/img/0tours/0template/8.png" title="south-france-selected-tour" class="img-fluid rounded z-depth-1" alt="south-france-selected-tour南法旅游精选路线" %}
-    </a>
-  </div>
-</div>
-
-<div class="row justify-content-sm-center">
-  <div class="col-sm mt-3 mt-md-0">
-    <a href="https://aolitravel.com/tours/">
-      {% include figure.liquid loading="eager" path="assets/img/0tours/0template/9.png" title="south-france-selected-tour" class="img-fluid rounded z-depth-1" alt="south-france-selected-tour南法旅游精选路线" %}
-    </a>
-  </div>
-  <div class="col-sm mt-3 mt-md-0">
-    <a href="https://aolitravel.com/tours/">
-      {% include figure.liquid loading="eager" path="assets/img/0tours/0template/10.png" title="south-france-selected-tour" class="img-fluid rounded z-depth-1" alt="south-france-selected-tour南法旅游精选路线" %}
     </a>
   </div>
 </div>
