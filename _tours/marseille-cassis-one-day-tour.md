@@ -1,16 +1,14 @@
 ---
 layout: page
-title: 「南法经典」马赛-卡西斯海滨小镇一日游
+title: 「经典之选」南法马赛-卡西斯海滨小镇一日游
 img: assets/img/11marseille-1day-trip/11marseille-1day-trip-0.jpg
-nav: true
+nav: false
 importance: 2
 category: 
 pretty_table: true
 images:
-  compare: true
   slider: true
 ---
-
 
 <div class="l-body-outset">
   {% include figure.liquid loading="eager" path="assets/img/0tours/0travel product banner/product-banner-1.png" title="marseille-trip-aolitravel.com" class="img-fluid rounded z-depth-1" %}
@@ -90,204 +88,30 @@ images:
 
 | 团期 | 人数 | 价格 |
 | --- | --- | --- |
-| 全年每周六、周日出发（需提前预约） | 3-5人 | 89欧元/人 |
-| （同上） | 6-8人 | 85欧元/人 |
+| 全年每周六、周日出发（需提前预约） | 1-2人 | 请联系我们拼团 |
+| （同上） | 3-8人 | 89欧元/人 |
 | （同上） | 9人及以上 | 价格优惠，请咨询我们 |
 
 
 **标准说明**
 
-- 本线路每周六、周日发团，全年可约，3人起成团，请至少提前3天预约。若您为1至2人或需选择其他出发日期，欢迎联系我们拼团！
-- 3-5人出行，每人89欧元；6-8人出行，每人85欧元；9人及以上可享专属优惠，欢迎联系我们定制报价！
+- 本线路每周六、周日发团，全年可约，3人起成团，请提前至少3天预订。若您为1至2人或需选择其他出发日期，欢迎联系我们拼团！
+- 3-8人出行，每人89欧元；9人及以上可享专属优惠，欢迎联系我们定制报价！
 
-<script async
-  src="https://js.stripe.com/v3/buy-button.js">
-</script>
-
-<stripe-buy-button
-  buy-button-id="buy_btn_1RJF52LF9x7iB9GnyV6g8ryd"
-  publishable-key="pk_live_51HOVRdLF9x7iB9GnVh8jWCYVrSXFsF0CFw3BfSy6EHhkHoMuIjYMfYcJ1eFZ1Pu397lxh5CNDLfiSgDUBiXt0Dw4003T9jFWgc"
->
-</stripe-buy-button>
-
----
-## 测试
-
-<!-- 主容器 -->
-<div class="container p-4 bg-white text-dark">
-  <div class="row">
-    <!-- 日期选择 -->
-    <div class="col-md-6 mb-3">
-      <label class="form-label fw-bold">选择出发日期</label>
-      <div id="calendar" class="border" style="border: 1px solid black;"></div>
-      <div class="form-text">每周六、周日可选，至少提前3天预约</div>
-    </div>
-
-    <!-- 人数选择 & 价格信息 -->
-    <div class="col-md-6">
-      <label class="fw-bold d-block mb-2">行程价格</label>
-      <table class="table table-bordered text-center" style="border: 1px solid black;">
-        <thead class="table-light">
-          <tr>
-            <th>人数</th>
-            <th>价格</th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr>
-            <td>1-2人</td>
-            <td class="text-primary">请联系拼团</td>
-          </tr>
-          <tr>
-            <td>3-5人</td>
-            <td>89 欧元 / 人</td>
-          </tr>
-          <tr>
-            <td>6-8人</td>
-            <td>85 欧元 / 人</td>
-          </tr>
-          <tr>
-            <td>9人及以上</td>
-            <td class="text-primary">请联系报价</td>
-          </tr>
-        </tbody>
-      </table>
-
-      <!-- 人数选择 -->
-      <label for="peopleCount" class="form-label mt-3">选择出行人数</label>
-      <select id="peopleCount" class="form-select">
-        <option value="1">1人</option>
-        <option value="2">2人</option>
-        <option value="3">3人</option>
-        <option value="4">4人</option>
-        <option value="5">5人</option>
-        <option value="6">6人</option>
-        <option value="7">7人</option>
-        <option value="8">8人</option>
-        <option value="9">9人及以上</option>
-      </select>
-
-      <!-- 总价展示 -->
-      <div class="mt-3 fw-bold fs-5">
-        总价：<span id="totalPrice" class="text-primary">--</span>
-      </div>
-    </div>
-  </div>
-
-<!-- 按钮区域 -->
-<div class="mt-4 d-flex gap-3">
-  <button id="checkoutButton" class="btn btn-lg text-white" style="background-color: #6f42c1;">
+<div class="d-flex gap-3 flex-wrap mt-2">
+  <!-- 立即预订按钮（跳转至 Stripe 页面）-->
+  <a href="https://book.stripe.com/4gwcOnfRV2d1cSIbIL" target="_blank" rel="noopener noreferrer" class="btn btn-lg text-white" style="background-color: #6f42c1; border-radius: 0.75rem;">
     立即预订
-  </button>
-  <button class="btn btn-outline-primary btn-lg" onclick="openTidio()">
+  </a>
+
+  <!-- 联系我们按钮（打开 Tidio 聊天）-->
+  <button class="btn btn-lg text-white" style="background-color: #6f42c1; border-radius: 0.75rem;" onclick="openTidio()">
     联系我们
   </button>
 </div>
 
-
-<!-- Flatpickr 样式 & 插件 -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/flatpickr/dist/flatpickr.min.css">
-<script src="https://cdn.jsdelivr.net/npm/flatpickr"></script>
-
-<style>
-  /* 紫色选中样式 */
-  .flatpickr-day.selected,
-  .flatpickr-day.startRange,
-  .flatpickr-day.endRange {
-    background: #6f42c1;
-    color: white;
-    border-color: #6f42c1;
-  }
-</style>
-
+<!-- 聊天脚本 -->
 <script>
-  // 自动生成未来60天内的周六、周日
-  function getUpcomingWeekends(daysAhead = 60) {
-    const dates = [];
-    const today = new Date();
-    for (let i = 0; i < daysAhead; i++) {
-      const current = new Date(today);
-      current.setDate(today.getDate() + i);
-      const day = current.getDay();
-      if (day === 6 || day === 0) { // 周六 or 周日
-        const formatted = current.toISOString().split("T")[0];
-        dates.push(formatted);
-      }
-    }
-    return dates;
-  }
-
-  const availableDates = getUpcomingWeekends();
-  let selectedDate = null;
-
-  flatpickr("#calendar", {
-    inline: true,
-    enable: availableDates,
-    dateFormat: "Y-m-d",
-    onChange: function(selectedDates, dateStr) {
-      selectedDate = dateStr;
-      updateTotalPrice();
-    }
-  });
-
-  function updateTotalPrice() {
-    const count = parseInt(document.getElementById('peopleCount').value);
-    let pricePerPerson = 0;
-
-    if (count <= 2 || count >= 9) {
-      document.getElementById('totalPrice').textContent = '--';
-      return;
-    }
-
-    if (count >= 3 && count <= 5) pricePerPerson = 89;
-    else if (count >= 6 && count <= 8) pricePerPerson = 85;
-
-    const total = pricePerPerson * count;
-    document.getElementById('totalPrice').textContent = `€${total}`;
-  }
-
-  document.getElementById('peopleCount').addEventListener('change', updateTotalPrice);
-
-  document.getElementById('checkoutButton').addEventListener('click', async () => {
-    const count = parseInt(document.getElementById('peopleCount').value);
-
-    if (!selectedDate) {
-      alert("请选择出发日期。");
-      return;
-    }
-
-    if (count <= 2) {
-      alert("1-2人请联系拼团，我们将为您安排。");
-      return;
-    }
-
-    if (count >= 9) {
-      alert("9人及以上可享优惠报价，请联系我们。");
-      return;
-    }
-
-    const pricePerPerson = (count >= 6) ? 85 : 89;
-    const total = pricePerPerson * count;
-
-    const response = await fetch('/api/create-stripe-session', {
-      method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({
-        date: selectedDate,
-        count,
-        price_per_person: pricePerPerson,
-        total
-      })
-    });
-
-    const data = await response.json();
-    if (data.url) {
-      window.location.href = data.url;
-    } else {
-      alert('支付链接生成失败，请稍后再试。');
-    }
-  });
-
   function openTidio() {
     if (window.tidioChatApi) {
       window.tidioChatApi.open();
@@ -463,15 +287,29 @@ images:
 **第三站｜马赛龙骧宫（Palais Longchamp）**
 最后，探访龙骧宫——一座为纪念水资源引入马赛而建的宏伟宫殿。喷泉飞瀑、雕塑林立，巴洛克与古典风格交融，诉说着这座城市的荣耀与故事。走在壮美的拱廊下，感受历史流转的余韵。
 
-<script async
-  src="https://js.stripe.com/v3/buy-button.js">
+<div class="d-flex gap-3 flex-wrap mt-2">
+  <!-- 立即预订按钮（跳转至 Stripe 页面）-->
+  <a href="https://book.stripe.com/4gwcOnfRV2d1cSIbIL" target="_blank" rel="noopener noreferrer" class="btn btn-lg text-white" style="background-color: #6f42c1; border-radius: 0.75rem;">
+    立即预订
+  </a>
+
+  <!-- 联系我们按钮（打开 Tidio 聊天）-->
+  <button class="btn btn-lg text-white" style="background-color: #6f42c1; border-radius: 0.75rem;" onclick="openTidio()">
+    联系我们
+  </button>
+</div>
+
+<!-- 聊天脚本 -->
+<script>
+  function openTidio() {
+    if (window.tidioChatApi) {
+      window.tidioChatApi.open();
+    } else {
+      alert("聊天加载中，请稍后重试。");
+    }
+  }
 </script>
 
-<stripe-buy-button
-  buy-button-id="buy_btn_1RJF52LF9x7iB9GnyV6g8ryd"
-  publishable-key="pk_live_51HOVRdLF9x7iB9GnVh8jWCYVrSXFsF0CFw3BfSy6EHhkHoMuIjYMfYcJ1eFZ1Pu397lxh5CNDLfiSgDUBiXt0Dw4003T9jFWgc"
->
-</stripe-buy-button>
 
 ---
 
@@ -518,19 +356,39 @@ images:
 
   <!-- 左侧头像（圆形） -->
   <div style="flex: 1; text-align: center;">
-      {% include figure.liquid loading="eager" path="assets/img/profile-tian.jpg" title="aolitravel.com recommandation" class="img-fluid rounded-circle mx-auto d-block rounded z-depth-1" alt="aolitravel.com" %}
+    {% include figure.liquid loading="eager" path="assets/img/profile-tian.jpg" title="aolitravel.com recommandation" class="img-fluid rounded-circle mx-auto d-block rounded z-depth-1" alt="aolitravel.com" %}
   </div>
 
-  <!-- 右侧文字内容 -->
+  <!-- 右侧文字内容 + 按钮 -->
   <div style="flex: 2;">
-    <p>推荐理由：一天走遍港口老城和海边小镇！从热情洋溢的马赛出发，一路玩到风景如画的卡西斯，海风、峡湾、美食全都有～来一场说走就走的地中海微旅行吧！</p>
-    <p>经常游走南法，希望通过我的文字和路线，带你深度体验南法（普罗旺斯 & 蔚蓝海岸）的美好风光。</p>
+    <p>路线推荐理由：一天走遍港口老城和海边小镇！从热情洋溢的马赛出发，一路玩到风景如画的卡西斯，海风、峡湾、美食全都有～来一场说走就走的地中海微旅行吧！</p>
+    <p>无论你想打卡经典地标、探索小众秘境，还是追求奢华私享的高端体验，我都可以为你提供路线建议与旅行灵感。欢迎留言或私信我，一起聊聊你的旅行期待，让梦想中的南法之旅，从这一刻开始变成现实。</p>
     <p><a href="https://aolitravel.com/">了解我更多...</a></p>
-    <p>想要咨询？欢迎 <a href="mailto:contact@aolitravel.com">发送邮件</a>或点击页面右下角的在线聊天与我们联系。</p>
+    <p>想要咨询？欢迎联系我们：</p>
+
+    <!-- 嵌入按钮 -->
+    <div class="d-flex gap-3 flex-wrap mt-2">
+      <a href="https://tally.so/r/wgg2rJ" class="btn btn-lg text-white" style="background-color: #6f42c1; border-radius: 0.75rem;">
+        发送邮件
+      </a>
+      <button class="btn btn-lg text-white" style="background-color: #6f42c1; border-radius: 0.75rem;" onclick="openTidio()">
+        在线聊天
+      </button>
+    </div>
   </div>
 
 </div>
 
+<!-- 聊天脚本 -->
+<script>
+  function openTidio() {
+    if (window.tidioChatApi) {
+      window.tidioChatApi.open();
+    } else {
+      alert("聊天加载中，请稍后重试。");
+    }
+  }
+</script>
 
 ---
 
