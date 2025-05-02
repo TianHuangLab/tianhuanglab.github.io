@@ -3,7 +3,7 @@ layout: page
 title: 精选路线
 permalink: /tours/
 description: 快来看看我为你推荐的精选行程！
-nav: false
+nav: true
 nav_order: 5
 display_categories:
 map: true
