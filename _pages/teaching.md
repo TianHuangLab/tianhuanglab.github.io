@@ -9,6 +9,7 @@ images:
   compare: true
   slider: true
 social: true
+published: false
 ---
 
 <div class="l-body-outset">
