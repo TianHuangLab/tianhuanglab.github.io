@@ -119,7 +119,7 @@ social: true
     <div class="col-md-6 mb-3">
       <label class="form-label fw-bold">选择出发日期</label>
       <div id="calendar" class="border" style="border: 1px solid black;"></div>
-      <div class="form-text">可选日期为每周六、周日</div>
+      <div class="form-text">每周六、周日可选，至少提前3天预约</div>
     </div>
 
     <!-- 人数选择 & 价格信息 -->
@@ -135,7 +135,7 @@ social: true
         <tbody>
           <tr>
             <td>1-2人</td>
-            <td class="text-danger">请联系拼团</td>
+            <td class="text-primary">请联系拼团</td>
           </tr>
           <tr>
             <td>3-5人</td>
@@ -147,7 +147,7 @@ social: true
           </tr>
           <tr>
             <td>9人及以上</td>
-            <td class="text-danger">请联系报价</td>
+            <td class="text-primary">请联系报价</td>
           </tr>
         </tbody>
       </table>
@@ -168,37 +168,60 @@ social: true
 
       <!-- 总价展示 -->
       <div class="mt-3 fw-bold fs-5">
-        总价：<span id="totalPrice" class="text-success">--</span>
+        总价：<span id="totalPrice" class="text-primary">--</span>
       </div>
     </div>
   </div>
 
-  <!-- 支付按钮 -->
-  <div class="text-center mt-4">
-    <button id="checkoutButton" class="btn btn-lg text-white" style="background-color: #6f42c1;">
-      立即预订
-    </button>
-  </div>
+<!-- 按钮区域 -->
+<div class="mt-4 d-flex gap-3">
+  <button id="checkoutButton" class="btn btn-lg text-white" style="background-color: #6f42c1;">
+    立即预订
+  </button>
+  <button class="btn btn-outline-primary btn-lg" onclick="openTidio()">
+    联系我们
+  </button>
 </div>
 
-<!-- Flatpickr -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/flatpickr/dist/themes/light.css">
+
+<!-- Flatpickr 样式 & 插件 -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/flatpickr/dist/flatpickr.min.css">
 <script src="https://cdn.jsdelivr.net/npm/flatpickr"></script>
 
-<script>
-  const availableDates = {
-    "2025-05-03": 1,
-    "2025-05-10": 1,
-    "2025-05-17": 1,
-    "2025-05-24": 1,
-    "2025-05-31": 1
-  };
+<style>
+  /* 紫色选中样式 */
+  .flatpickr-day.selected,
+  .flatpickr-day.startRange,
+  .flatpickr-day.endRange {
+    background: #6f42c1;
+    color: white;
+    border-color: #6f42c1;
+  }
+</style>
 
+<script>
+  // 自动生成未来60天内的周六、周日
+  function getUpcomingWeekends(daysAhead = 60) {
+    const dates = [];
+    const today = new Date();
+    for (let i = 0; i < daysAhead; i++) {
+      const current = new Date(today);
+      current.setDate(today.getDate() + i);
+      const day = current.getDay();
+      if (day === 6 || day === 0) { // 周六 or 周日
+        const formatted = current.toISOString().split("T")[0];
+        dates.push(formatted);
+      }
+    }
+    return dates;
+  }
+
+  const availableDates = getUpcomingWeekends();
   let selectedDate = null;
 
   flatpickr("#calendar", {
     inline: true,
-    enable: Object.keys(availableDates),
+    enable: availableDates,
     dateFormat: "Y-m-d",
     onChange: function(selectedDates, dateStr) {
       selectedDate = dateStr;
@@ -263,6 +286,14 @@ social: true
       alert('支付链接生成失败，请稍后再试。');
     }
   });
+
+  function openTidio() {
+    if (window.tidioChatApi) {
+      window.tidioChatApi.open();
+    } else {
+      alert("聊天加载中，请稍后重试。");
+    }
+  }
 </script>
 
 
