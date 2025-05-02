@@ -2,7 +2,7 @@
 layout: page
 title: 精选路线
 permalink: /tours/
-description: 快来看看我为你推荐的精选路线
+description: 快来看看我为你推荐的精选行程！
 nav: false
 nav_order: 5
 display_categories:
@@ -96,30 +96,30 @@ images:
 
   <!-- 左侧头像（圆形） -->
   <div style="flex: 1; text-align: center;">
-      {% include figure.liquid loading="eager" path="assets/img/profile-tian.jpg" title="aolitravel.com recommandation" class="img-fluid rounded-circle mx-auto d-block rounded z-depth-1" alt="aolitravel.com" %}
+    {% include figure.liquid loading="eager" path="assets/img/profile-tian.jpg" title="aolitravel.com recommandation" class="img-fluid rounded-circle mx-auto d-block rounded z-depth-1" alt="aolitravel.com" %}
   </div>
 
-  <!-- 右侧文字内容 -->
+  <!-- 右侧文字内容 + 按钮 -->
   <div style="flex: 2;">
     <p>常年穿梭在南法的大街小巷、山川海岸，不论是普罗旺斯的薰衣草花海、蔚蓝海岸的阳光沙滩，还是只有当地人知道的隐秘村庄、静谧酒庄，甚至是顶级酒店与米其林餐厅...我都亲身体验、用心记录，只为帮你打造一段专属于你的南法之旅。</p>
     <p>无论你想打卡经典地标、探索小众秘境，还是追求奢华私享的高端体验，我都可以为你提供路线建议与旅行灵感。欢迎留言或私信我，一起聊聊你的旅行期待，让梦想中的南法之旅，从这一刻开始变成现实。</p>
     <p><a href="https://aolitravel.com/">了解我更多...</a></p>
-    <p>想要咨询？欢迎 <a href="mailto:contact@aolitravel.com">发送邮件</a>或通过右下角的在线聊天与我们联系。</p>
+    <p>想要咨询？欢迎联系我们：</p>
+
+    <!-- 嵌入按钮 -->
+    <div class="d-flex gap-3 flex-wrap mt-2">
+      <a href="mailto:contact@aolitravel.com" class="btn btn-lg text-white" style="background-color: #6f42c1; border-radius: 0.75rem;">
+        发送邮件
+      </a>
+      <button class="btn btn-lg text-white" style="background-color: #6f42c1; border-radius: 0.75rem;" onclick="openTidio()">
+        在线聊天
+      </button>
+    </div>
   </div>
 
-  <!-- 按钮区域 -->
-<div class="mt-4 d-flex gap-3 flex-wrap">
-  <!-- 邮件按钮 -->
-  <a href="mailto:contact@aolitravel.com" class="btn btn-lg text-white" style="background-color: #6f42c1; border-radius: 0.75rem;">
-    发送邮件
-  </a>
-
-  <!-- 在线聊天按钮 -->
-  <button class="btn btn-lg text-white" style="background-color: #6f42c1; border-radius: 0.75rem;" onclick="openTidio()">
-    在线聊天
-  </button>
 </div>
 
+<!-- 聊天脚本 -->
 <script>
   function openTidio() {
     if (window.tidioChatApi) {
@@ -129,7 +129,7 @@ images:
     }
   }
 </script>
-</div>
+
 
 ---
 
