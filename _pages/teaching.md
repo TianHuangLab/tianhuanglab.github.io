@@ -96,18 +96,31 @@ social: true
 
 **标准说明**
 
-- 本线路每周六、周日发团，全年可约，3人起成团，请至少提前3天预约。若您为1至2人或需选择其他出发日期，欢迎联系我们拼团！
+- 本线路每周六、周日发团，全年可约，3人起成团，请提前至少3天预订。若您为1至2人或需选择其他出发日期，欢迎联系我们拼团！
 - 3-8人出行，每人89欧元；9人及以上可享专属优惠，欢迎联系我们定制报价！
 
-<script async
-  src="https://js.stripe.com/v3/buy-button.js">
-</script>
+<div class="d-flex gap-3 flex-wrap mt-2">
+  <!-- 立即预订按钮（跳转至 Stripe 页面）-->
+  <a href="https://book.stripe.com/4gwcOnfRV2d1cSIbIL" target="_blank" rel="noopener noreferrer" class="btn btn-lg text-white" style="background-color: #6f42c1; border-radius: 0.75rem;">
+    立即预订
+  </a>
 
-<stripe-buy-button
-  buy-button-id="buy_btn_1RJF52LF9x7iB9GnyV6g8ryd"
-  publishable-key="pk_live_51HOVRdLF9x7iB9GnVh8jWCYVrSXFsF0CFw3BfSy6EHhkHoMuIjYMfYcJ1eFZ1Pu397lxh5CNDLfiSgDUBiXt0Dw4003T9jFWgc"
->
-</stripe-buy-button>
+  <!-- 联系我们按钮（打开 Tidio 聊天）-->
+  <button class="btn btn-lg text-white" style="background-color: #6f42c1; border-radius: 0.75rem;" onclick="openTidio()">
+    联系我们
+  </button>
+</div>
+
+<!-- 聊天脚本 -->
+<script>
+  function openTidio() {
+    if (window.tidioChatApi) {
+      window.tidioChatApi.open();
+    } else {
+      alert("聊天加载中，请稍后重试。");
+    }
+  }
+</script>
 
 
 ---
@@ -275,15 +288,29 @@ social: true
 **第三站｜马赛龙骧宫（Palais Longchamp）**
 最后，探访龙骧宫——一座为纪念水资源引入马赛而建的宏伟宫殿。喷泉飞瀑、雕塑林立，巴洛克与古典风格交融，诉说着这座城市的荣耀与故事。走在壮美的拱廊下，感受历史流转的余韵。
 
-<script async
-  src="https://js.stripe.com/v3/buy-button.js">
+<div class="d-flex gap-3 flex-wrap mt-2">
+  <!-- 立即预订按钮（跳转至 Stripe 页面）-->
+  <a href="https://book.stripe.com/4gwcOnfRV2d1cSIbIL" target="_blank" rel="noopener noreferrer" class="btn btn-lg text-white" style="background-color: #6f42c1; border-radius: 0.75rem;">
+    立即预订
+  </a>
+
+  <!-- 联系我们按钮（打开 Tidio 聊天）-->
+  <button class="btn btn-lg text-white" style="background-color: #6f42c1; border-radius: 0.75rem;" onclick="openTidio()">
+    联系我们
+  </button>
+</div>
+
+<!-- 聊天脚本 -->
+<script>
+  function openTidio() {
+    if (window.tidioChatApi) {
+      window.tidioChatApi.open();
+    } else {
+      alert("聊天加载中，请稍后重试。");
+    }
+  }
 </script>
 
-<stripe-buy-button
-  buy-button-id="buy_btn_1RJF52LF9x7iB9GnyV6g8ryd"
-  publishable-key="pk_live_51HOVRdLF9x7iB9GnVh8jWCYVrSXFsF0CFw3BfSy6EHhkHoMuIjYMfYcJ1eFZ1Pu397lxh5CNDLfiSgDUBiXt0Dw4003T9jFWgc"
->
-</stripe-buy-button>
 
 ---
 
@@ -330,19 +357,39 @@ social: true
 
   <!-- 左侧头像（圆形） -->
   <div style="flex: 1; text-align: center;">
-      {% include figure.liquid loading="eager" path="assets/img/profile-tian.jpg" title="aolitravel.com recommandation" class="img-fluid rounded-circle mx-auto d-block rounded z-depth-1" alt="aolitravel.com" %}
+    {% include figure.liquid loading="eager" path="assets/img/profile-tian.jpg" title="aolitravel.com recommandation" class="img-fluid rounded-circle mx-auto d-block rounded z-depth-1" alt="aolitravel.com" %}
   </div>
 
-  <!-- 右侧文字内容 -->
+  <!-- 右侧文字内容 + 按钮 -->
   <div style="flex: 2;">
-    <p>推荐理由：一天走遍港口老城和海边小镇！从热情洋溢的马赛出发，一路玩到风景如画的卡西斯，海风、峡湾、美食全都有～来一场说走就走的地中海微旅行吧！</p>
-    <p>经常游走南法，希望通过我的文字和路线，带你深度体验南法（普罗旺斯 & 蔚蓝海岸）的美好风光。</p>
+    <p>路线推荐理由：一天走遍港口老城和海边小镇！从热情洋溢的马赛出发，一路玩到风景如画的卡西斯，海风、峡湾、美食全都有～来一场说走就走的地中海微旅行吧！</p>
+    <p>无论你想打卡经典地标、探索小众秘境，还是追求奢华私享的高端体验，我都可以为你提供路线建议与旅行灵感。欢迎留言或私信我，一起聊聊你的旅行期待，让梦想中的南法之旅，从这一刻开始变成现实。</p>
     <p><a href="https://aolitravel.com/">了解我更多...</a></p>
-    <p>想要咨询？欢迎 <a href="mailto:contact@aolitravel.com">发送邮件</a>或点击页面右下角的在线聊天与我们联系。</p>
+    <p>想要咨询？欢迎联系我们：</p>
+
+    <!-- 嵌入按钮 -->
+    <div class="d-flex gap-3 flex-wrap mt-2">
+      <a href="mailto:contact@aolitravel.com" class="btn btn-lg text-white" style="background-color: #6f42c1; border-radius: 0.75rem;">
+        发送邮件
+      </a>
+      <button class="btn btn-lg text-white" style="background-color: #6f42c1; border-radius: 0.75rem;" onclick="openTidio()">
+        在线聊天
+      </button>
+    </div>
   </div>
 
 </div>
 
+<!-- 聊天脚本 -->
+<script>
+  function openTidio() {
+    if (window.tidioChatApi) {
+      window.tidioChatApi.open();
+    } else {
+      alert("聊天加载中，请稍后重试。");
+    }
+  }
+</script>
 
 ---
 
