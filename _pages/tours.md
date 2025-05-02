@@ -30,6 +30,7 @@ images:
   <swiper-slide>  {% include figure.liquid loading="eager" path="assets/img/0tours/0travel product banner/product-banner-10.png" title="marseille-trip-aolitravel.com" class="img-fluid rounded z-depth-1" %}</swiper-slide>
 </swiper-container>
 
+---
 
 <!-- pages/projects.md -->
 <div class="projects">
@@ -100,12 +101,34 @@ images:
 
   <!-- 右侧文字内容 -->
   <div style="flex: 2;">
-    <p>推荐理由：一天走遍港口老城和海边小镇！从热情洋溢的马赛出发，一路玩到风景如画的卡西斯，海风、峡湾、美食全都有～来一场说走就走的地中海微旅行吧！</p>
-    <p>经常游走南法，希望通过我的文字和路线，带你深度体验南法（普罗旺斯 & 蔚蓝海岸）的美好风光。</p>
+    <p>常年穿梭在南法的大街小巷、山川海岸，不论是普罗旺斯的薰衣草花海、蔚蓝海岸的阳光沙滩，还是只有当地人知道的隐秘村庄、静谧酒庄，甚至是顶级酒店与米其林餐厅...我都亲身体验、用心记录，只为帮你打造一段专属于你的南法之旅。</p>
+    <p>无论你想打卡经典地标、探索小众秘境，还是追求奢华私享的高端体验，我都可以为你提供路线建议与旅行灵感。欢迎留言或私信我，一起聊聊你的旅行期待，让梦想中的南法之旅，从这一刻开始变成现实。</p>
     <p><a href="https://aolitravel.com/">了解我更多...</a></p>
-    <p>想要咨询？欢迎 <a href="mailto:contact@aolitravel.com">发送邮件</a>或点击页面右下角的在线聊天与我们联系。</p>
+    <p>想要咨询？欢迎 <a href="mailto:contact@aolitravel.com">发送邮件</a>或通过右下角的在线聊天与我们联系。</p>
   </div>
 
+  <!-- 按钮区域 -->
+<div class="mt-4 d-flex gap-3 flex-wrap">
+  <!-- 邮件按钮 -->
+  <a href="mailto:contact@aolitravel.com" class="btn btn-lg text-white" style="background-color: #6f42c1; border-radius: 0.75rem;">
+    发送邮件
+  </a>
+
+  <!-- 在线聊天按钮 -->
+  <button class="btn btn-lg text-white" style="background-color: #6f42c1; border-radius: 0.75rem;" onclick="openTidio()">
+    在线聊天
+  </button>
+</div>
+
+<script>
+  function openTidio() {
+    if (window.tidioChatApi) {
+      window.tidioChatApi.open();
+    } else {
+      alert("聊天加载中，请稍后重试。");
+    }
+  }
+</script>
 </div>
 
 ---
