@@ -12,8 +12,8 @@ images:
   slider: true
 ---
 <swiper-container keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true">
-  <swiper-slide>  {% include figure.liquid loading="eager" path="assets/img/0tours/0travel product banner/product-banner-1.png" title="marseille-trip-aolitravel.com" class="img-fluid rounded z-depth-1" %}</swiper-slide>
   <swiper-slide>  {% include figure.liquid loading="eager" path="assets/img/0tours/0travel product banner/product-banner-8.png" title="marseille-trip-aolitravel.com" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>  {% include figure.liquid loading="eager" path="assets/img/0tours/0travel product banner/product-banner-1.png" title="marseille-trip-aolitravel.com" class="img-fluid rounded z-depth-1" %}</swiper-slide>
   <swiper-slide>  {% include figure.liquid loading="eager" path="assets/img/0tours/0travel product banner/product-banner-3.png" title="marseille-trip-aolitravel.com" class="img-fluid rounded z-depth-1" %}</swiper-slide>
   <swiper-slide>  {% include figure.liquid loading="eager" path="assets/img/0tours/0travel product banner/product-banner-2.png" title="marseille-trip-aolitravel.com" class="img-fluid rounded z-depth-1" %}</swiper-slide>
   <swiper-slide>  {% include figure.liquid loading="eager" path="assets/img/0tours/0travel product banner/product-banner-5.png" title="marseille-trip-aolitravel.com" class="img-fluid rounded z-depth-1" %}</swiper-slide>
@@ -108,7 +108,7 @@ images:
 
     <!-- 嵌入按钮 -->
     <div class="d-flex gap-3 flex-wrap mt-2">
-      <a href="mailto:contact@aolitravel.com" class="btn btn-lg text-white" style="background-color: #6f42c1; border-radius: 0.75rem;">
+      <a href="https://tally.so/r/wgg2rJ" class="btn btn-lg text-white" style="background-color: #6f42c1; border-radius: 0.75rem;">
         发送邮件
       </a>
       <button class="btn btn-lg text-white" style="background-color: #6f42c1; border-radius: 0.75rem;" onclick="openTidio()">
