@@ -9,6 +9,26 @@ display_categories: []
 map: true
 horizontal: false
 ---
+<div class="l-body-outset">
+<swiper-container keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true">
+  <swiper-slide>  {% include figure.liquid loading="eager" path="assets/img/0tours/0travel product banner/product-banner-1.png" title="marseille-trip-aolitravel.com" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>  {% include figure.liquid loading="eager" path="assets/img/0tours/0travel product banner/product-banner-8.png" title="marseille-trip-aolitravel.com" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>  {% include figure.liquid loading="eager" path="assets/img/0tours/0travel product banner/product-banner-3.png" title="marseille-trip-aolitravel.com" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>  {% include figure.liquid loading="eager" path="assets/img/0tours/0travel product banner/product-banner-2.png" title="marseille-trip-aolitravel.com" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>  {% include figure.liquid loading="eager" path="assets/img/0tours/0travel product banner/product-banner-5.png" title="marseille-trip-aolitravel.com" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>  {% include figure.liquid loading="eager" path="assets/img/0tours/0travel product banner/product-banner-12.png" title="marseille-trip-aolitravel.com" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>  {% include figure.liquid loading="eager" path="assets/img/0tours/0travel product banner/product-banner-13.png" title="marseille-trip-aolitravel.com" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>  {% include figure.liquid loading="eager" path="assets/img/0tours/0travel product banner/product-banner-14.png" title="marseille-trip-aolitravel.com" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>  {% include figure.liquid loading="eager" path="assets/img/0tours/0travel product banner/product-banner-4.png" title="marseille-trip-aolitravel.com" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>  {% include figure.liquid loading="eager" path="assets/img/0tours/0travel product banner/product-banner-5.png" title="marseille-trip-aolitravel.com" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>  {% include figure.liquid loading="eager" path="assets/img/0tours/0travel product banner/product-banner-6.png" title="marseille-trip-aolitravel.com" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>  {% include figure.liquid loading="eager" path="assets/img/0tours/0travel product banner/product-banner-7.png" title="marseille-trip-aolitravel.com" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>  {% include figure.liquid loading="eager" path="assets/img/0tours/0travel product banner/product-banner-9.png" title="marseille-trip-aolitravel.com" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>  {% include figure.liquid loading="eager" path="assets/img/0tours/0travel product banner/product-banner-15.png" title="marseille-trip-aolitravel.com" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>  {% include figure.liquid loading="eager" path="assets/img/0tours/0travel product banner/product-banner-11.png" title="marseille-trip-aolitravel.com" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>  {% include figure.liquid loading="eager" path="assets/img/0tours/0travel product banner/product-banner-10.png" title="marseille-trip-aolitravel.com" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+</swiper-container>
+</div>
 
 <div class="l-body-outset">
   {% include figure.liquid loading="eager" path="assets/img/0tours/0travel product banner/product-banner-1.png" title="marseille-trip-aolitravel.com" class="img-fluid rounded z-depth-1" %}
@@ -71,8 +91,10 @@ horizontal: false
 
 
 
-
 ---
+
+<!--
+
 
 ## 🌊 探秘南法之美 | 马赛 & 卡西斯浪漫一日游 ✨
 
@@ -551,3 +573,5 @@ horizontal: false
 **Blog**
 
 [更多关于我的生活记录和感受](https://aolitravel.com/blog/)
+
+-->
