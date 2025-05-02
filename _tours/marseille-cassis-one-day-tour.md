@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 「经典之选」南法马赛-卡西斯海滨小镇一日游
+title: 南法「经典之选」马赛&卡西斯海滨小镇一日游
 img: assets/img/11marseille-1day-trip/11marseille-1day-trip-0.jpg
 nav: false
 importance: 2
@@ -320,7 +320,7 @@ images:
 
 <script>
   const accessKey = "0Ukx3h0_C18RepNO7qXDQeFSfYQHh7Mr57cNmAN8X-M";
-  const searchQueries = ["marseille", "marseille", "marseille", "marseille", "cassis", "cassis", "cassis", "cassis"];
+  const searchQueries = ["marseille", "marseille", "marseille", "cassis", "cassis", "cassis"];
   const carouselContainer = document.getElementById("carousel");
 
   async function fetchUnsplashImages() {
