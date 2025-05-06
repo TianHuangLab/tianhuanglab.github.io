@@ -193,16 +193,16 @@ images:
 <style>
   .itinerary-container {
     display: flex;
-    align-items: flex-start;
     flex-wrap: wrap;
     gap: 1rem;
+    align-items: flex-start;
   }
 
   .card-list {
     flex: 1;
     max-width: 600px;
     width: 100%;
-    max-height: 500px; /* 支持未来滚动 */
+    max-height: 600px; /* 支持未来滚动 */
     overflow-y: auto;
     display: flex;
     flex-direction: column;
@@ -217,7 +217,6 @@ images:
     box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
     cursor: pointer;
     transition: background-color 0.3s ease;
-    display: flex;
   }
 
   .card:hover {
@@ -230,13 +229,7 @@ images:
   }
 
   .card-content {
-    height: auto; /* 保证内容部分可以根据内容自动扩展 */
     padding: 0.5rem;
-    flex: 1 1 auto; /* 使内容区能够自适应高度 */
-    overflow: hidden; /* 防止内容溢出 */
-    min-height: 50px; /* 最小高度防止过小 */
-    white-space: normal; /* 确保文本换行 */
-    word-wrap: break-word; /* 防止长单词溢出 */
   }
 
   #map {
@@ -275,6 +268,7 @@ images:
   { lat: 43.7431, lng: 4.7946, name: "博得普罗旺斯", desc: "鹰巢山城，石头筑起的中世纪时光" }
 ];
 
+ 
   let markers = [];
 
   // 添加标记
@@ -305,6 +299,7 @@ images:
     });
   });
 </script>
+
 
 
 ---
