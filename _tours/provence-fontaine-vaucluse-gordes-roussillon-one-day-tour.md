@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 经典之选|南法普罗旺斯浪漫风情三小镇一日游
+title: 经典之选｜南法普罗旺斯浪漫风情小镇全景一日游
 img: assets/img/30visit-south-france-top-15-villages/visit-south-france-provence-cote-azur-var-top-15-villages-2.webp
 nav: true
 importance: 4
