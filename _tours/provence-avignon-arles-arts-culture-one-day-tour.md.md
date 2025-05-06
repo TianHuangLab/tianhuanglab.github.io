@@ -136,18 +136,12 @@ images:
       <div class="card-title">
         <h3>马赛：法国第二大城市</h3>
       </div>
-      <div class="card-content">
-        探索马赛老港的历史与地中海风情，作为本次文化之旅的出发点。
-      </div>
     </div>
 
     <!-- 阿维尼翁 -->
     <div class="card" data-points='[{"lat":43.9493,"lng":4.8055,"name":"阿维尼翁","desc":"教皇之城，宗教与艺术交汇之地"}]'>
       <div class="card-title">
         <h3>阿维尼翁：教皇之城</h3>
-      </div>
-      <div class="card-content">
-        漫步古城墙与教皇宫，感受中世纪宗教与权力的辉煌。
       </div>
     </div>
 
@@ -156,9 +150,6 @@ images:
       <div class="card-title">
         <h3>阿尔勒：罗马遗迹与梵高足迹</h3>
       </div>
-      <div class="card-content">
-        走进古罗马斗兽场与梵高留下的印记，穿越千年文化时空。
-      </div>
     </div>
 
     <!-- 圣雷米 -->
@@ -166,18 +157,12 @@ images:
       <div class="card-title">
         <h3>圣雷米：田园与艺术的交汇</h3>
       </div>
-      <div class="card-content">
-        在温柔的田园风光中，探访梵高疗养院旧址，体验艺术的灵光。
-      </div>
     </div>
 
     <!-- 博得普罗旺斯 -->
     <div class="card" data-points='[{"lat":43.7431,"lng":4.7946,"name":"博得普罗旺斯","desc":"鹰巢山城，石头筑起的中世纪时光"}]'>
       <div class="card-title">
-        <h3>博得普罗旺斯：高山石城的壮丽风景</h3>
-      </div>
-      <div class="card-content">
-        登临石头山城，俯瞰普罗旺斯平原的广袤风光，走入一座静止的时光之城。
+        <h3>博得普罗旺斯：俯瞰壮丽风景</h3>
       </div>
     </div>
   </div>
