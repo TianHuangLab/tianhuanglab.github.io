@@ -230,6 +230,7 @@ images:
 
   .card-content {
     padding: 0.5rem;
+    overflow-wrap: break-word; /* 确保文本内容能够正常换行，不会溢出卡片框 */
   }
 
   #map {
