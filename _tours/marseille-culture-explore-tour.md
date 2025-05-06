@@ -1,14 +1,13 @@
 ---
 layout: page
 title: 深度体验｜基督山伯爵之旅与马赛城市探索一日游
-img: assets/img/18visit-arles-city-guide/aolitravel.com-18visit-arles-city-guide-2.jpg
+img: assets/img/17visit-marseille-top15-things-to-do/17-aolitravel.com-visit-marseille-top15-things-to-do-16.jpg
 nav: false
 importance: 8
 category: 
 pretty_table: true
 images:
   slider: true
-publication: false
 ---
 
 <div class="l-body-outset">
@@ -43,7 +42,7 @@ publication: false
 
 ## 行程美图
 
-<div class="carousel-container" data-images='["tour-provence-art-culture-1.webp", "tour-provence-art-culture-2.webp", "tour-provence-art-culture-3.webp", "tour-provence-art-culture-4.webp", "tour-provence-art-culture-5.webp", "tour-provence-art-culture-6.webp", "tour-provence-art-culture-7.webp", "tour-provence-art-culture-8.webp", "tour-provence-art-culture-9.webp", "tour-provence-art-culture-10.webp", "tour-provence-art-culture-11.webp"]'></div>
+<div class="carousel-container" data-images='["tour-marseille-culture-1.webp", "tour-marseille-culture-2.webp", "tour-marseille-culture-3.webp", "tour-marseille-culture-4.webp", "tour-marseille-culture-5.webp", "tour-marseille-culture-6.webp", "tour-marseille-culture-7.webp", "tour-marseille-culture-8.webp", "tour-marseille-culture-9.webp", "tour-marseille-culture-10.webp", "tour-marseille-culture-11.webp", "tour-marseille-culture-12.webp", "tour-marseille-culture-13.webp", "tour-marseille-culture-14.webp"]'></div>
 
 <script>
   function loadLocalImages() {
@@ -94,19 +93,19 @@ publication: false
 | 团期 | 人数 | 价格 |
 | --- | --- | --- |
 | 全年每周六、周日出发（需提前预约） | 1-2人 | 请联系我们拼团 |
-| （同上） | 3-8人 | 105欧元/人 |
+| （同上） | 3-8人 | 109欧元/人 |
 | （同上） | 9人及以上 | 价格优惠，请咨询我们 |
 
 
 **标准说明**
 
 - 本线路每周六、周日发团，全年可约，3人起成团，请提前至少3天预订。若您为1至2人或需选择其他出发日期，欢迎联系我们拼团！
-- 3-8人出行，每人105欧元；9人及以上可享专属优惠，欢迎联系我们定制报价！
+- 3-8人出行，每人109欧元；9人及以上可享专属优惠，欢迎联系我们定制报价！
 - 本行程包含往返马赛老港、伊夫岛和弗留利群岛的渡轮船票！
 
 <div class="d-flex gap-3 flex-wrap mt-2">
   <!-- 立即预订按钮（跳转至 Stripe 页面）-->
-  <a href="https://book.stripe.com/6oEaGf7lp2d1bOE6ot" target="_blank" rel="noopener noreferrer" class="btn btn-lg text-white" style="background-color: #6f42c1; border-radius: 0.75rem;">
+  <a href="https://book.stripe.com/8wMcOn9tx6th1a07sy" target="_blank" rel="noopener noreferrer" class="btn btn-lg text-white" style="background-color: #6f42c1; border-radius: 0.75rem;">
     立即预订
   </a>
 
@@ -351,7 +350,7 @@ const waypoints = [
 
 <div class="d-flex gap-3 flex-wrap mt-2">
   <!-- 立即预订按钮（跳转至 Stripe 页面）-->
-  <a href="https://book.stripe.com/6oEaGf7lp2d1bOE6ot" target="_blank" rel="noopener noreferrer" class="btn btn-lg text-white" style="background-color: #6f42c1; border-radius: 0.75rem;">
+  <a href="https://book.stripe.com/8wMcOn9tx6th1a07sy" target="_blank" rel="noopener noreferrer" class="btn btn-lg text-white" style="background-color: #6f42c1; border-radius: 0.75rem;">
     立即预订
   </a>
 
