@@ -139,18 +139,12 @@ images:
       <div class="card-title">
         <h3>马赛老港：历史与现代的交融</h3>
       </div>
-      <div class="card-content">
-        从马赛的老港启程，感受这座千年古城与地中海的紧密联系。
-      </div>
     </div>
 
     <!-- 伊夫岛 -->
     <div class="card" data-points='[{"lat":43.2907,"lng":5.4373,"name":"伊夫岛（If岛）","desc":"《基督山伯爵》的神秘监狱岛"}]'>
       <div class="card-title">
-        <h3>伊夫岛（If岛）：基督山伯爵的传奇</h3>
-      </div>
-      <div class="card-content">
-        探访《基督山伯爵》中的原型岛屿，感受历史与文学的交汇。
+        <h3>伊夫岛：基督山伯爵的传奇</h3>
       </div>
     </div>
 
@@ -159,18 +153,12 @@ images:
       <div class="card-title">
         <h3>弗留利群岛：地中海的自然魅力</h3>
       </div>
-      <div class="card-content">
-        漫游在弗留利群岛，体验无与伦比的海岛风光，沉浸于大自然的怀抱。
-      </div>
     </div>
 
     <!-- Palais 1860 餐厅 -->
     <div class="card" data-points='[{"lat":43.2965,"lng":5.3757,"name":"Palais 1860","desc":"19世纪风情的法式宫殿餐厅"}]'>
       <div class="card-title">
         <h3>Palais 1860：贵族风情的法式午餐</h3>
-      </div>
-      <div class="card-content">
-        在富有历史感的宫殿餐厅享用精致的法式午餐，感受贵族风情与美食艺术。
       </div>
     </div>
 
@@ -179,18 +167,12 @@ images:
       <div class="card-title">
         <h3>守护圣母大教堂：俯瞰马赛全景</h3>
       </div>
-      <div class="card-content">
-        登上马赛至高点，欣赏守护圣母大教堂的壮丽与俯瞰城市的迷人景色。
-      </div>
     </div>
 
     <!-- 龙骧宫 -->
     <div class="card" data-points='[{"lat":43.2991,"lng":5.4004,"name":"龙骧宫","desc":"马赛的文化与历史之地"}]'>
       <div class="card-title">
         <h3>龙骧宫：马赛的历史与文化</h3>
-      </div>
-      <div class="card-content">
-        漫步于龙骧宫，领略马赛的文化与艺术，感受历史的辉煌与现代的交织。
       </div>
     </div>
   </div>
@@ -275,12 +257,12 @@ images:
   }).addTo(map);
 
 const waypoints = [
-  { lat: 43.2965, lng: 5.3698, name: "马赛老港", desc: "马赛的历史起点，地中海的心脏" },
-  { lat: 43.2907, lng: 5.4373, name: "伊夫岛", desc: "《基督山伯爵》的神秘监狱岛" },
-  { lat: 43.2764, lng: 5.3885, name: "弗留利群岛", desc: "蔚蓝海域中的自然天堂" },
-  { lat: 43.2965, lng: 5.3757, name: "Palais 1860", desc: "19世纪风情的法式宫殿餐厅" },
-  { lat: 43.2965, lng: 5.3670, name: "守护圣母大教堂", desc: "马赛的至高点，俯瞰全城美景" },
-  { lat: 43.2991, lng: 5.4004, name: "龙骧宫", desc: "马赛的文化与历史之地" }
+  { lat: 43.290167, lng: 5.369164, name: "马赛老港", desc: "马赛的历史起点，地中海的心脏" },
+  { lat: 43.279742, lng: 5.325022, name: "伊夫岛", desc: "《基督山伯爵》的神秘监狱岛" },
+  { lat: 43.278625, lng: 5.307833, name: "弗留利群岛", desc: "蔚蓝海域中的自然天堂" },
+  { lat: 43.296147, lng: 5.375386, name: "1860 Le Palais", desc: "19世纪风情的法式宫殿餐厅" },
+  { lat: 43.2841, lng: 5.3710, name: "守护圣母大教堂", desc: "马赛的至高点，俯瞰全城美景" },
+  { lat: 43.304523, lng: 5.397377, name: "龙骧宫", desc: "马赛的文化与历史之地" }
 ];
 
 
