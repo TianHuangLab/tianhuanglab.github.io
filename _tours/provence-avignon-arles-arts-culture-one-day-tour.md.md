@@ -217,6 +217,7 @@ images:
     box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
     cursor: pointer;
     transition: background-color 0.3s ease;
+    display: flex;
   }
 
   .card:hover {
@@ -231,6 +232,7 @@ images:
   .card-content {
     padding: 0.5rem;
     overflow-wrap: break-word; /* 确保文本内容能够正常换行，不会溢出卡片框 */
+    height: auto; /* 保证内容部分可以根据内容自动扩展 */
   }
 
   #map {
