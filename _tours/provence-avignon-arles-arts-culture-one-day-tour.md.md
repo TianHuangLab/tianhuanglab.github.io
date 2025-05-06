@@ -230,9 +230,13 @@ images:
   }
 
   .card-content {
-    padding: 0.5rem;
-    overflow-wrap: break-word; /* 确保文本内容能够正常换行，不会溢出卡片框 */
     height: auto; /* 保证内容部分可以根据内容自动扩展 */
+    padding: 0.5rem;
+    flex: 1 1 auto; /* 使内容区能够自适应高度 */
+    overflow: hidden; /* 防止内容溢出 */
+    min-height: 50px; /* 最小高度防止过小 */
+    white-space: normal; /* 确保文本换行 */
+    word-wrap: break-word; /* 防止长单词溢出 */
   }
 
   #map {
