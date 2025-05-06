@@ -34,6 +34,7 @@ images:
 - **邂逅圣雷米**｜在香气四溢的田园中，感受文艺与自然的和谐交织
 - **登顶城堡**｜穿行山城石径，俯瞰普罗旺斯峡谷，尽览苍穹与岁月
 - **舒适小团**｜灵活路线，精致体验，尽享南法深度文化旅行
+
 ---
 
 ## 行程美图
@@ -192,16 +193,16 @@ images:
 <style>
   .itinerary-container {
     display: flex;
+    align-items: flex-start;
     flex-wrap: wrap;
     gap: 1rem;
-    align-items: flex-start;
   }
 
   .card-list {
     flex: 1;
     max-width: 600px;
     width: 100%;
-    max-height: 600px; /* 支持未来滚动 */
+    max-height: 500px; /* 支持未来滚动 */
     overflow-y: auto;
     display: flex;
     flex-direction: column;
