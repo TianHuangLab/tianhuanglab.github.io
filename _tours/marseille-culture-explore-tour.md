@@ -135,14 +135,14 @@ images:
 <div class="itinerary-container">
   <div class="card-list">
     <!-- 马赛老港 -->
-    <div class="card" data-points='[{"lat":43.2965,"lng":5.3698,"name":"马赛老港","desc":"马赛的历史起点，地中海的心脏"}]'>
+    <div class="card" data-points='[{"lat":43.290167,"lng":5.369164,"name":"马赛老港","desc":"马赛的历史起点，地中海的心脏"}]'>
       <div class="card-title">
         <h3>马赛老港：历史与现代的交融</h3>
       </div>
     </div>
 
     <!-- 伊夫岛 -->
-    <div class="card" data-points='[{"lat":43.2907,"lng":5.4373,"name":"伊夫岛（If岛）","desc":"《基督山伯爵》的神秘监狱岛"}]'>
+    <div class="card" data-points='[{"lat":43.279742,"lng":5.325022,"name":"伊夫岛","desc":"《基督山伯爵》的神秘监狱岛"}]'>
       <div class="card-title">
         <h3>伊夫岛：基督山伯爵的传奇</h3>
       </div>
