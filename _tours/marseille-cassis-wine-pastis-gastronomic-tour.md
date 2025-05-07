@@ -141,18 +141,12 @@ images:
       <div class="card-title">
         <h3>马赛老港：地中海的心跳</h3>
       </div>
-      <div class="card-content">
-        在海风与晨光中出发，感受马赛港口百年不变的城市节奏。
-      </div>
     </div>
 
     <!-- 守护圣母大教堂 -->
     <div class="card" data-points='[{"lat":43.2841,"lng":5.3714,"name":"守护圣母大教堂","desc":"马赛至高点，城市全景尽收眼底"}]'>
       <div class="card-title">
         <h3>守护圣母大教堂：俯瞰全城之美</h3>
-      </div>
-      <div class="card-content">
-        登顶马赛制高点，感受地中海与城市交融的壮阔视野。
       </div>
     </div>
 
@@ -161,28 +155,19 @@ images:
       <div class="card-title">
         <h3>龙骧宫：历史与艺术的交汇</h3>
       </div>
-      <div class="card-content">
-        漫步宫殿庭院，聆听马赛的城市记忆与建筑魅力。
-      </div>
     </div>
 
     <!-- 卡西斯港 -->
     <div class="card" data-points='[{"lat":43.2159,"lng":5.5386,"name":"卡西斯港","desc":"五彩斑斓的小镇港湾"}]'>
       <div class="card-title">
-        <h3>卡西斯港：午餐与自由时光</h3>
-      </div>
-      <div class="card-content">
-        在港口餐厅享用地中海风味午餐，自由探索小镇的迷人角落。
+        <h3>卡西斯港：午餐与小镇漫步</h3>
       </div>
     </div>
 
     <!-- 卡西斯酒庄（城市中心定位） -->
     <div class="card" data-points='[{"lat":43.2159,"lng":5.5373,"name":"卡西斯酒庄","desc":"卡西斯AOC产区的白葡萄酒庄"}]'>
       <div class="card-title">
-        <h3>卡西斯酒庄：在阳光下品一杯白</h3>
-      </div>
-      <div class="card-content">
-        探访本地酒庄，品味独特的南法风土与葡萄芳香。
+        <h3>卡西斯酒庄：体验风味葡萄酒</h3>
       </div>
     </div>
 
@@ -190,9 +175,6 @@ images:
     <div class="card" data-points='[{"lat":43.3087,"lng":5.3666,"name":"茴香酒体验","desc":"传统Pastis文化深度体验（可选）"}]'>
       <div class="card-title">
         <h3>Pastis茴香酒体验（可选）</h3>
-      </div>
-      <div class="card-content">
-        如遇开放日，可参加法式Pastis文化体验，感受南法微醺日常。
       </div>
     </div>
 
