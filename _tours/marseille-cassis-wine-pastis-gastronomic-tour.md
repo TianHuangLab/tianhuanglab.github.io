@@ -2,7 +2,7 @@
 layout: page
 title: 深度探索｜南法马赛普罗旺斯风味美食与美酒之旅一日游
 img: assets/img/0tours/marseille-wine-tasting-tour-4.webp
-importance: 
+importance: 7
 category: 
 pretty_table: true
 images:
@@ -376,7 +376,7 @@ const waypoints = [
 
 ⏩
 
-**第四站｜卡西斯酒庄品酒体验**
+**第四站｜卡西斯小镇酒庄品酒体验**
 
 走入卡西斯的葡萄园，参加一场充满南法风情的酒庄品酒活动（包含于本行程）。在葡萄藤环绕中举杯，品味源于阳光与海风的独特风土之酒。
 
