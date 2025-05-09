@@ -42,7 +42,7 @@ images:
 
 ## 行程美图
 
-<div class="carousel-container" data-images='["tours-1.webp", "tours-1a.webp", "tours-2.webp", "tours-2a.webp", "tours-3.webp", "tours-6.webp", "tours-4.webp", "tours-5.webp", "tours-5a.webp"]'></div>
+<div class="carousel-container" data-images='["tours-1.webp", "tours-2.webp", "tours-2a.webp", "tours-6.webp", "tours-4.webp", "tours-5.webp", "tours-5a.webp", "tour-provence-art-culture-1.webp", "tour-provence-art-culture-3.webp", "tour-provence-art-culture-4.webp", "tour-provence-art-culture-8.webp", "tours-a.webp", "tours-b.webp", "tours-c.webp", "tours-d.webp", "tours-e.webp", "tours-f.webp", "tours-g.webp", "tours-h.webp", "tours-i.webp"]'></div>
 
 <script>
   function loadLocalImages() {
@@ -93,10 +93,10 @@ images:
 | 团期 | 价格 | 行程标准 |
 | --- | --- | --- |
 | 2025年6月28日 | 2150欧/人起 | 全程四星级酒店（含早餐）、中法双语司机和导游服务 |
-| 2025年7月5日、12日、19日、26日| 2250欧/起 | 同上 |
-| 2025年8月2日、9日、16日| 2150欧/起 | 同上 |
-| 2025年9月6日、20日| 2050欧/起 | 同上 |
-| 2025年10月4日| 1950欧/起 | 同上 |
+| 2025年7月5日、12日、19日、26日| 2250欧/人起 | 同上 |
+| 2025年8月2日、9日、16日| 2150欧/人起 | 同上 |
+| 2025年9月6日、20日| 2050欧/人起 | 同上 |
+| 2025年10月4日| 1950欧/人起 | 同上 |
 
 
 **标准说明**
@@ -216,37 +216,29 @@ images:
 ---
 
 ## 行摄印象
-<div class="carousel-container" id="carousel">
-  <!-- 图片将由 JavaScript 动态填充 -->
-</div>
+
+<div class="carousel-container" data-images='["aolitravel.com-visit-south-france-7-day-trip-5a.webp", "aolitravel.com-visit-south-france-7-day-trip-5b.webp", "aolitravel.com-visit-south-france-7-day-trip-6a.webp", "aolitravel.com-visit-south-france-7-day-trip-6b.webp", "aolitravel.com-visit-south-france-7-day-trip-7a.webp", "aolitravel.com-visit-south-france-7-day-trip-7b.webp", "aolitravel.com-visit-south-france-7-day-trip-8.webp"]'></div>
 
 <script>
-  const accessKey = "0Ukx3h0_C18RepNO7qXDQeFSfYQHh7Mr57cNmAN8X-M";
-  const searchQueries = ["marseille", "aix-en-provence", "avignon", "arles", "provence", "nice", "eze", "monaco", "menton", "cannes"];
-  const carouselContainer = document.getElementById("carousel");
-
-  async function fetchUnsplashImages() {
-    try {
-      for (let query of searchQueries) {
-        let response = await fetch(`https://api.unsplash.com/photos/random?query=${query}&client_id=${accessKey}&orientation=landscape`);
-        let data = await response.json();
+  function loadLocalImages() {
+    document.querySelectorAll(".carousel-container").forEach(container => {
+      const images = JSON.parse(container.getAttribute("data-images"));
+      images.forEach(file => {
         let img = document.createElement("img");
-        img.src = data.urls.regular; 
-        img.alt = query;
+        img.src = `/assets/img/36visit-south-france-7-day-trip/${file}`;
+        img.alt = file.replace(/_/g, ' ').replace(/\.webp$/, '');
         img.style.width = "100%";
         img.style.maxWidth = "450px";
-        img.style.height = "auto";
+        img.style.height = "300px";
         img.style.margin = "0 5px";
         img.style.borderRadius = "5px";
         img.style.boxShadow = "0 2px 4px rgba(0, 0, 0, 0.1)";
-        carouselContainer.appendChild(img);
-      }
-    } catch (error) {
-      console.error("Unsplash 图片加载失败", error);
-    }
+        container.appendChild(img);
+      });
+    });
   }
 
-  fetchUnsplashImages();
+  document.addEventListener("DOMContentLoaded", loadLocalImages);
 </script>
 
 ---
