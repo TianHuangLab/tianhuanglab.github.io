@@ -57,7 +57,7 @@ images:
 
 | 团期 | 价格 | 行程标准 |
 | --- | --- | --- |
-| 2025年6月28日 | 2150欧/人起 | 全程四星级酒店（含早餐）、中法双语司机和导游服务 |
+| 2025年6月28日 | 2150欧/人起 | 全程四星级酒店（含早餐）、中英法三语司机、导游和翻译服务 |
 | 2025年7月5日、12日、19日、26日| 2250欧/人起 | 同上 |
 | 2025年8月2日、9日、16日| 2150欧/人起 | 同上 |
 | 2025年9月6日、20日| 2050欧/人起 | 同上 |
@@ -97,7 +97,7 @@ images:
 
 ## 行程路线
 
-<iframe width="100%" height="300px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/zh/map/map_1220937?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true"></iframe><p><a href="//umap.openstreetmap.fr/zh/map/map_1220937?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true">全屏</a></p>
+<iframe width="100%" height="300px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/zh/map/map_1220937?scaleControl=false&miniMap=true&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true#8/43.965/6.108"></iframe><p><a href="//umap.openstreetmap.fr/zh/map/map_1220937?scaleControl=false&miniMap=true&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true#8/43.965/6.108">全屏</a></p>
 
 ---
 
@@ -306,6 +306,7 @@ images:
 ## 行程包含
 
 - **精选行程安排：** 行程中标注的所有游览内容，均为精心策划，确保旅程充实而舒适。
+- **高标准四星级酒店（含早餐）：** 全程安排优质四星级酒店住宿，提供每日早餐，舒适安心，助您养精蓄锐。
 - **专属包车 + 中文导游服务：** 全程使用舒适车型，配备经验丰富的司导人员。小费包含在服务内，无隐形费用，真正的贴心服务体验。
 - **儿童友好出行：** 免费提供儿童安全座椅，确保家庭旅客安心出行。
 - **多语言讲解支持：** 可根据您的需求提供**中文、英语、法语**讲解，满足不同客群需求。
