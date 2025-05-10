@@ -42,49 +42,14 @@ images:
 
 ## 行程美图
 
-<div class="carousel-container" data-images='["tours-1.webp", "tours-2.webp", "tours-2a.webp", "tours-6.webp", "tours-4.webp", "tours-5.webp", "tours-5a.webp", "tour-provence-art-culture-1.webp", "tour-provence-art-culture-3.webp", "tour-provence-art-culture-4.webp", "tour-provence-art-culture-8.webp", "tours-a.webp", "tours-b.webp", "tours-c.webp", "tours-d.webp", "tours-e.webp", "tours-f.webp", "tours-g.webp", "tours-h.webp", "tours-i.webp"]'></div>
+<div class="carousel-container" data-folder="0tours" data-images='[
+  "tours-1.webp", "tours-2.webp", "tours-2a.webp", "tours-6.webp", "tours-4.webp",
+  "tours-5.webp", "tours-5a.webp", "tour-provence-art-culture-1.webp",
+  "tour-provence-art-culture-3.webp", "tour-provence-art-culture-4.webp",
+  "tour-provence-art-culture-8.webp", "tours-a.webp", "tours-b.webp", "tours-c.webp",
+  "tours-d.webp", "tours-e.webp", "tours-f.webp", "tours-g.webp", "tours-h.webp", "tours-i.webp"
+]'></div>
 
-<script>
-  function loadLocalImages() {
-    document.querySelectorAll(".carousel-container").forEach(container => {
-      const images = JSON.parse(container.getAttribute("data-images"));
-      images.forEach(file => {
-        let img = document.createElement("img");
-        img.src = `/assets/img/0tours/${file}`;
-        img.alt = file.replace(/_/g, ' ').replace(/\.webp$/, '');
-        img.style.width = "100%";
-        img.style.maxWidth = "450px";
-        img.style.height = "300px";
-        img.style.margin = "0 5px";
-        img.style.borderRadius = "5px";
-        img.style.boxShadow = "0 2px 4px rgba(0, 0, 0, 0.1)";
-        container.appendChild(img);
-      });
-    });
-  }
-
-  document.addEventListener("DOMContentLoaded", loadLocalImages);
-</script>
-
-<style>
-  .carousel-container {
-    display: flex;
-    overflow-x: auto;
-    scroll-behavior: smooth;
-    white-space: nowrap;
-    padding: 20px;
-    margin: 20px 0;
-  }
-
-  .carousel-container img {
-    width: 100%;
-    max-width: 400px;
-    height: auto;
-    margin: 0 10px;
-    border-radius: 5px;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-  }
-</style>
 
 ---
 
@@ -136,15 +101,15 @@ images:
 
 ---
 
-## 行程详情｜南法七日环线精品之旅
+## 行程详情
 
-**从马赛到蔚蓝海岸，沉浸在阳光、艺术与山海之间的法兰西浪漫**
+从普罗旺斯到蔚蓝海岸，沉浸在阳光、艺术与山海之间的法兰西浪漫。
 
 **出发点｜马赛老港（Vieux-Port de Marseille）**
 
 清晨的马赛，薄雾缭绕，阳光穿透云层洒在老港的水面上。我们从这座地中海的门户城市启程——这里是马赛（Marseille）的心脏，也是法国南部文化交汇的起点。渔船轻轻荡漾，街边咖啡馆飘出浓郁香气，街头艺人拉起小提琴，开启我们第一天的旅程。
 
-**第一天｜卡西斯小镇（Cassis） & 地中海峡湾徒步（Calanques）**
+**第一天｜卡西斯小镇（Cassis） & 地中海峡湾（Calanques）徒步**
 
 沿着蔚蓝的海岸线驶向Cassis——一座如油画般的小镇，色彩斑斓的房屋倒映在港湾之上。我们将在小镇中心悠闲漫步，探访露天市场、品尝本地葡萄酒与鲜美海鲜。
 
@@ -160,7 +125,7 @@ images:
 
 傍晚前驱车前往艾克斯-普罗旺斯（Aix-en-Provence），探访这座充满艺术与温泉文化的典雅之城。
 
-**第三天｜普罗旺斯三色山镇巡礼：石头城（Gordes）→ 红土城（Roussillon）→ 泉水城（Fontaine-de-Vaucluse）**
+**第三天｜普罗旺斯风情小镇巡礼：石头城（Gordes）→ 红土城（Roussillon）→ 泉水城（Fontaine-de-Vaucluse）**
 
 今天深入卢贝隆山谷，探索普罗旺斯最经典的三座山城。
 
@@ -217,22 +182,37 @@ images:
 
 ## 行摄印象
 
-<div class="carousel-container" data-images='["aolitravel.com-visit-south-france-7-day-trip-5a.webp", "aolitravel.com-visit-south-france-7-day-trip-5b.webp", "aolitravel.com-visit-south-france-7-day-trip-6a.webp", "aolitravel.com-visit-south-france-7-day-trip-6b.webp", "aolitravel.com-visit-south-france-7-day-trip-7a.webp", "aolitravel.com-visit-south-france-7-day-trip-7b.webp", "aolitravel.com-visit-south-france-7-day-trip-8.webp"]'></div>
+<div class="carousel-container" data-folder="36visit-south-france-7-day-trip" data-images='[
+  "aolitravel.com-visit-south-france-7-day-trip-5a.webp",
+  "aolitravel.com-visit-south-france-7-day-trip-5b.webp",
+  "aolitravel.com-visit-south-france-7-day-trip-6a.webp",
+  "aolitravel.com-visit-south-france-7-day-trip-6b.webp",
+  "aolitravel.com-visit-south-france-7-day-trip-7a.webp",
+  "aolitravel.com-visit-south-france-7-day-trip-7b.webp",
+  "aolitravel.com-visit-south-france-7-day-trip-8.webp"
+]'></div>
+
 
 <script>
   function loadLocalImages() {
     document.querySelectorAll(".carousel-container").forEach(container => {
-      const images = JSON.parse(container.getAttribute("data-images"));
+      container.innerHTML = ""; // 避免重复加载
+
+      const folder = container.getAttribute("data-folder") || "";
+      const images = JSON.parse(container.getAttribute("data-images") || "[]");
+
       images.forEach(file => {
-        let img = document.createElement("img");
-        img.src = `/assets/img/36visit-south-france-7-day-trip/${file}`;
+        const img = document.createElement("img");
+        img.src = `/assets/img/${folder}/${file}`;
         img.alt = file.replace(/_/g, ' ').replace(/\.webp$/, '');
+        img.loading = "lazy";
         img.style.width = "100%";
         img.style.maxWidth = "450px";
         img.style.height = "300px";
         img.style.margin = "0 5px";
         img.style.borderRadius = "5px";
         img.style.boxShadow = "0 2px 4px rgba(0, 0, 0, 0.1)";
+        img.onerror = () => console.warn("图片加载失败:", img.src);
         container.appendChild(img);
       });
     });
@@ -240,6 +220,27 @@ images:
 
   document.addEventListener("DOMContentLoaded", loadLocalImages);
 </script>
+
+<!-- 公共样式 -->
+<style>
+  .carousel-container {
+    display: flex;
+    overflow-x: auto;
+    scroll-behavior: smooth;
+    white-space: nowrap;
+    padding: 20px 0;
+    margin: 20px 0;
+  }
+
+  .carousel-container img {
+    width: 100%;
+    max-width: 400px;
+    height: auto;
+    margin: 0 10px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+</style>
 
 ---
 
