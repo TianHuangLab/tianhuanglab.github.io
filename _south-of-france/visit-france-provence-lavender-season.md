@@ -16,6 +16,16 @@ tags: 法国 法国旅游 南法 普罗旺斯 薰衣草 瓦伦索勒 索村 塞�
 
 普罗旺斯的薰衣草田是无数旅行者梦寐以求的紫色天堂，每年夏季，这片南法大地便化身为自然的调色盘，散发着迷人的芬芳。本文将为你提供2025年普罗旺斯薰衣草花期最权威预报，揭秘三大最佳观赏区域，并分享独家行程建议，助你规划一场完美的紫色浪漫之旅。
 
+如果你希望轻松体验薰衣草的浪漫之美，不妨了解我们 奥利旅行 精心打造的【薰衣草漫步 + 圣十字湖】一日游项目。在专业导游的带领下，你将畅游瓦朗索勒高原的薰衣草花海，漫步如画村庄，午后还可徜徉于圣十字湖畔，感受普罗旺斯的清新与宁静。
+
+行程涵盖经典景点与小众秘境，适合家庭、情侣或摄影爱好者，尤其适合邮轮停靠马赛的游客短途游览。欢迎点击[了解详情](https://aolitravel.com/tours/france-lavender-lac-saint-croix-one-day-tour/)，预订专属你的紫色假期！
+
+<div class="row justify-content-sm-center">
+    <a href="https://aolitravel.com/tours/france-lavender-lac-saint-croix-one-day-tour/" target="_blank" rel="noopener noreferrer">
+       {% include figure.liquid loading="eager" path="assets/img/37visit-france-provence-lavender-season/visit-france-provence-lavender-season-10.webp" title="aolitravel.com-provence-lavender-season" class="img-fluid rounded z-depth-1 watermarked" alt="薰衣草花期预报provence-lavender-season"%}
+    </a>
+</div>
+
 ---
 
 ## 2025年普罗旺斯薰衣草花期精准预测
@@ -99,9 +109,17 @@ tags: 法国 法国旅游 南法 普罗旺斯 薰衣草 瓦伦索勒 索村 塞�
 
 **傍晚**：返回艾克斯普罗旺斯，在老城区选购薰衣草纪念品。
 
-> 我另外有薰衣草+圣十字湖的游览线路推荐，[点击查看具体行程](https://aolitravel.com/tours/)。当然也可以[联系我](https://aolitravel.com/)，了解更多薰衣草之旅的线路内容！
-> 
 {% include figure.liquid loading="eager" path="assets/img/37visit-france-provence-lavender-season/visit-france-provence-lavender-season-5.webp" title="aolitravel.com-provence-lavender-season" class="img-fluid rounded z-depth-1 watermarked" alt="薰衣草花期预报provence-lavender-season"%}
+
+> 我另外有薰衣草+圣十字湖的游览线路推荐，[点击查看具体行程](https://aolitravel.com/tours/france-lavender-lac-saint-croix-one-day-tour/)。当然也可以[联系我](https://aolitravel.com/)，了解更多薰衣草之旅的线路内容！
+>
+
+<div class="row justify-content-sm-center">
+    <a href="https://aolitravel.com/tours/france-lavender-lac-saint-croix-one-day-tour/" target="_blank" rel="noopener noreferrer">
+       {% include figure.liquid loading="eager" path="assets/img/37visit-france-provence-lavender-season/visit-france-provence-lavender-season-10.webp" title="aolitravel.com-provence-lavender-season" class="img-fluid rounded z-depth-1 watermarked" alt="薰衣草花期预报provence-lavender-season"%}
+    </a>
+</div>
+
 
 ---
 
