@@ -71,7 +71,7 @@ pretty_table: true
 |-------------------------|-------------------------|--------------|--------------|
 | MSC Splendida           | MSC华丽号              | 09:00        | 18:00        |
 | MSC Grandiosa           | MSC鸿图号              | 13:00        | 19:00        |
-| MSC World Europa        | MSC欧洲世界号          | 07:00        | 18:00        |
+| MSC World Europa        | MSC欧罗巴世界号          | 07:00        | 18:00        |
 | Costa Smeralda          | 歌诗达翡翠号           | 09:00        | 18:00        |
 | Costa Toscana           | 歌诗达托斯卡纳号       | 09:00        | 18:00        |
 | MSC Seaside             | MSC海逸号              | 10:00        | 19:00        |
@@ -80,37 +80,22 @@ pretty_table: true
 | MSC Musica              | MSC音乐号              | 09:00        | 17:00        |
 | AIDAcosma               | 爱达科斯玛号           | 08:00        | 17:00        |
 | AIDAstella              | 爱达星辰号             | 08:00        | 17:00        |
-| Costa Favolosa          | 歌诗达童话号           | -            | -            |
 | Costa Fortuna           | 歌诗达命运号           | 09:00        | 17:00        |
-| Costa Fascinosa         | 歌诗达迷人号           | -            | -            |
-| Mein Schiff 1           | 途易邮轮迈希夫1号      | -            | -            |
 | Mein Schiff Relax       | 途易邮轮迈希夫放松号   | 07:00        | 17:00        |
-| MSC Seaview             | MSC海景号              | -            | -            |
-| Norwegian Viva          | 挪威活力号             | -            | -            |
 | Norwegian Sky           | 挪威天空号             | 07:00/12:00  | 18:00/20:00  |
 | Oceania Marina          | 大洋玛丽娜号           | 08:00        | 17:00        |
 | Oceania Nautica         | 大洋诺蒂卡号           | 09:00        | 21:00        |
 | Crystal Serenity        | 水晶宁静号             | 08:00        | 19:00        |
 | Allure Of The Seas      | 海洋魅力号             | 09:00        | 18:00        |
 | Voyager Of The Seas     | 海洋航行者号           | 07:00        | 16:00        |
-| ms Oosterdam            | 欧罗丹号               | -            | -            |
 | Silver Ray              | 银海邮轮Ray号          | 07:00        | 19:00        |
 | Celebrity Equinox       | 名人至日号             | 08:00        | 18:00        |
 | Sun Princess            | 太阳公主号             | 08:00        | 17:00/18:00  |
-| Azamara Quest           | 阿扎马拉追寻号         | -            | -            |
-| Crystal Symphony        | 水晶交响乐号           | -            | -            |
-| Seven Seas Navigator    | 七海领航者号           | -            | -            |
-| Scenic Sapphire         | 景宝石号               | -            | -            |
-| Viking Sea              | 维京海号               | -            | -            |
-| Viking Star             | 维京之星号             | -            | -            |
-| Viking Saturn           | 维京土星号             | -            | -            |
-| Viking Mars             | 维京火星号             | -            | -            |
 | Disney Fantasy          | 迪士尼幻想号           | 09:00        | 18:00        |
 | Vasco da Gama-Nicko     | 尼克号瓦斯科达伽马号   | 08:00        | 20:00        |
 | Marella Discovery       | 马雷拉探索号           | 08:00        | 17:00        |
 | MSC Explora 2           | MSC探索2号             | 09:00        | 19:00        |
 | Spirit of Discovery     | 探索精神号             | 08:00        | 17:00        |
-| Fred Olsen Bolette      | 弗雷德奥尔森博莱特号   | -            | -            |
 
 > ⚠️ 请注意：实际靠岸时间可能因天气、港口调度等因素有所变动，建议于出发前1周再次确认邮轮公司官网信息。
 > 
@@ -135,7 +120,7 @@ pretty_table: true
 
 ---
 
-## 四、我们能为你提供的服务：一站式岸上接待解决方案
+## 四、一站式岸上接待解决方案
 
 如果你希望更加舒适、安全、高效地探索马赛，我们为2025年邮轮游客提供**专属地接服务**：
 
