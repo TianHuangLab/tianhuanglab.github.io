@@ -10,6 +10,7 @@ related_posts: true
 toc:
   sidebar: left
 tags: 法国 法国旅游 南法 马赛 交通攻略 包车 火车 飞机 大巴 邮轮 游轮 一日游
+pretty_table: true
 ---
 
 {% include figure.liquid loading="eager" path="assets/img/59marseille-cruises/france-marseille-cruises-schedule-guide-0.webp" title="aolitravel.com-marseille-cruises-schedule-guide" class="img-fluid rounded z-depth-1 watermarked" alt="马赛邮轮下船游玩攻略marseille-cruises-schedule-guide"%}
@@ -66,23 +67,50 @@ tags: 法国 法国旅游 南法 马赛 交通攻略 包车 火车 飞机 大巴
 
 以下为部分邮轮公司2025年计划停靠马赛的时间安排（信息将持续更新）：
 
-<iframe 
-  src="https://www.cruisemapper.com/ports/marseille-port-68?month=2025-06#schedule" 
-  width="100%" 
-  height="800" 
-  frameborder="0" 
-  loading="lazy"
-  style="border: 1px solid #ccc; border-radius: 8px;">
-</iframe>
-
-
-| 邮轮公司 | 船名 | 到港时间 | 离港时间 | 停靠码头 |
-| --- | --- | --- | --- | --- |
-| MSC地中海邮轮 | MSC World Europa | 08:00 | 18:00 | MPCT |
-| 歌诗达邮轮 | Costa Toscana | 07:30 | 17:00 | MPCT |
-| 挪威邮轮 | Norwegian Epic | 09:00 | 19:00 | MPCT |
-| 公主邮轮 | Enchanted Princess | 08:00 | 17:00 | La Joliette |
-| 精致邮轮 | Celebrity Edge | 10:00 | 20:00 | MPCT |
+| 英文名                  | 中文名                  | 到达时间 | 出发时间 |
+|-------------------------|-------------------------|--------------|--------------|
+| MSC Splendida           | MSC华丽号              | 09:00        | 18:00        |
+| MSC Grandiosa           | MSC鸿图号              | 13:00        | 19:00        |
+| MSC World Europa        | MSC欧洲世界号          | 07:00        | 18:00        |
+| Costa Smeralda          | 歌诗达翡翠号           | 09:00        | 18:00        |
+| Costa Toscana           | 歌诗达托斯卡纳号       | 09:00        | 18:00        |
+| MSC Seaside             | MSC海逸号              | 10:00        | 19:00        |
+| MSC Magnifica           | MSC辉煌号              | 08:00        | 16:00        |
+| MSC Orchestra           | MSC管乐号              | 08:00        | 18:00        |
+| MSC Musica              | MSC音乐号              | 09:00        | 17:00        |
+| AIDAcosma               | 爱达科斯玛号           | 08:00        | 17:00        |
+| AIDAstella              | 爱达星辰号             | 08:00        | 17:00        |
+| Costa Favolosa          | 歌诗达童话号           | -            | -            |
+| Costa Fortuna           | 歌诗达命运号           | 09:00        | 17:00        |
+| Costa Fascinosa         | 歌诗达迷人号           | -            | -            |
+| Mein Schiff 1           | 途易邮轮迈希夫1号      | -            | -            |
+| Mein Schiff Relax       | 途易邮轮迈希夫放松号   | 07:00        | 17:00        |
+| MSC Seaview             | MSC海景号              | -            | -            |
+| Norwegian Viva          | 挪威活力号             | -            | -            |
+| Norwegian Sky           | 挪威天空号             | 07:00/12:00  | 18:00/20:00  |
+| Oceania Marina          | 大洋玛丽娜号           | 08:00        | 17:00        |
+| Oceania Nautica         | 大洋诺蒂卡号           | 09:00        | 21:00        |
+| Crystal Serenity        | 水晶宁静号             | 08:00        | 19:00        |
+| Allure Of The Seas      | 海洋魅力号             | 09:00        | 18:00        |
+| Voyager Of The Seas     | 海洋航行者号           | 07:00        | 16:00        |
+| ms Oosterdam            | 欧罗丹号               | -            | -            |
+| Silver Ray              | 银海邮轮Ray号          | 07:00        | 19:00        |
+| Celebrity Equinox       | 名人至日号             | 08:00        | 18:00        |
+| Sun Princess            | 太阳公主号             | 08:00        | 17:00/18:00  |
+| Azamara Quest           | 阿扎马拉追寻号         | -            | -            |
+| Crystal Symphony        | 水晶交响乐号           | -            | -            |
+| Seven Seas Navigator    | 七海领航者号           | -            | -            |
+| Scenic Sapphire         | 景宝石号               | -            | -            |
+| Viking Sea              | 维京海号               | -            | -            |
+| Viking Star             | 维京之星号             | -            | -            |
+| Viking Saturn           | 维京土星号             | -            | -            |
+| Viking Mars             | 维京火星号             | -            | -            |
+| Disney Fantasy          | 迪士尼幻想号           | 09:00        | 18:00        |
+| Vasco da Gama-Nicko     | 尼克号瓦斯科达伽马号   | 08:00        | 20:00        |
+| Marella Discovery       | 马雷拉探索号           | 08:00        | 17:00        |
+| MSC Explora 2           | MSC探索2号             | 09:00        | 19:00        |
+| Spirit of Discovery     | 探索精神号             | 08:00        | 17:00        |
+| Fred Olsen Bolette      | 弗雷德奥尔森博莱特号   | -            | -            |
 
 > ⚠️ 请注意：实际靠岸时间可能因天气、港口调度等因素有所变动，建议于出发前1周再次确认邮轮公司官网信息。
 > 
@@ -126,11 +154,13 @@ tags: 法国 法国旅游 南法 马赛 交通攻略 包车 火车 飞机 大巴
 ### 🧭 中文导游讲解
 
 - 持牌中文导游陪同，深入了解马赛历史与文化
-- 可配合接送，按小时或天数计费
+- 可配合增加接送服务
 
 ### 🕓 航班 & 邮轮时间全程跟踪
 
 - 无论你是早到晚走，还是仅有半天时间，我们都能根据你邮轮时刻量身定制行程。
+
+---
 
 ### 联系我们
 
