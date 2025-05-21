@@ -40,52 +40,6 @@ layout: default
 
     <div class="clearfix">{{ content }}</div>
 
-<!-- Tour Banner Swiper 插入块 -->
-<section style="margin: 3rem 0;">
-  <h2 style="font-weight: bold; margin-bottom: 1rem;">精选路线推荐</h2>
-  <swiper-container
-    keyboard="true"
-    navigation="true"
-    pagination="true"
-    pagination-clickable="true"
-    pagination-dynamic-bullets="true"
-    rewind="true"
-    style="width: 100%; height: auto; border-radius: 12px; overflow: hidden;"
-  >
-    {% assign banner_paths = 
-      "product-banner-8.png,
-       product-banner-1.png,
-       product-banner-3.png,
-       product-banner-2.png,
-       product-banner-5.png,
-       product-banner-12.png,
-       product-banner-13.png,
-       product-banner-14.png,
-       product-banner-4.png,
-       product-banner-5.png,
-       product-banner-6.png,
-       product-banner-7.png,
-       product-banner-9.png,
-       product-banner-15.png,
-       product-banner-11.png,
-       product-banner-10.png" | split: "," %}
-    {% for banner in banner_paths %}
-    <swiper-slide>
-      {% include figure.liquid 
-        loading="eager" 
-        path="assets/img/0tours/0travel product banner/{{ banner | strip }}" 
-        title="marseille-trip-aolitravel.com" 
-        class="img-fluid rounded z-depth-1" 
-      %}
-    </swiper-slide>
-    {% endfor %}
-  </swiper-container>
-  <div style="text-align: center; margin-top: 1rem;">
-    <a href="{{ '/tours/' | relative_url }}" class="btn btn-outline-primary">查看全部路线</a>
-  </div>
-</section>
-
-
     <!-- News -->
     {% if page.news and site.announcements.enabled %}
       <h2>
