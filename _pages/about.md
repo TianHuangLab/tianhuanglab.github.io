@@ -51,10 +51,10 @@ latest_posts:
 <!-- 产品展示开始 -->
 <div class="row row-cols-1 row-cols-md-3 g-4 mt-4">
 
-  {% assign selected_urls = "https://aolitravel.com/tours/visit-south-france-top-7-days-tour/,https://aolitravel.com/tours/france-lavender-lac-saint-croix-one-day-tour/,https://aolitravel.com/tours/provence-avignon-arles-arts-culture-one-day-tour.md/" | split: "," %}
+  {% assign selected_slugs = "visit-south-france-top-7-days-tour,france-lavender-lac-saint-croix-one-day-tour,provence-avignon-arles-arts-culture-one-day-tour" | split: "," %}
 
-  {% for url in selected_urls %}
-    {% assign project = site.tours | where: "url", url | first %}
+  {% for slug in selected_slugs %}
+    {% assign project = site.tours | where: "slug", slug | first %}
     {% if project %}
       {% include projects.liquid project=project %}
     {% endif %}
@@ -62,6 +62,7 @@ latest_posts:
 
 </div>
 <!-- 产品展示结束 -->
+
 
 <!-- “探索更多路线”按钮 -->
 <div class="d-flex justify-content-center mt-4">
