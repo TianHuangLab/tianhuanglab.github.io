@@ -51,7 +51,7 @@ latest_posts:
 <!-- 产品展示开始 -->
 <div class="row row-cols-1 row-cols-md-3 g-4 mt-4">
 
-  {% assign selected_slugs = "visit-south-france-top-7-days-tour,france-lavender-lac-saint-croix-one-day-tour,provence-avignon-arles-arts-culture-one-day-tour" | split: "," %}
+  {% assign selected_slugs = "visit-south-france-top-7-days-tour,france-lavender-lac-saint-croix-one-day-tour,provence-avignon-arles-arts-culture-one-day-tour," | split: "," %}
 
   {% for slug in selected_slugs %}
     {% assign project = site.tours | where: "slug", slug | first %}
