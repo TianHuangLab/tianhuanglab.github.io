@@ -22,6 +22,31 @@ latest_posts:
 
 至于为什么选择法国？因为这里的人文与自然让我一次次为之惊叹，从巴黎浪漫的街巷到普罗旺斯的薰衣草田，从诺曼底壮丽的海岸到阿尔萨斯的童话村庄，从阿尔卑斯的雪峰到蔚蓝海岸的旖旎风光，再加上享誉世界的法国美食，几乎每个角落都值得细细品味！我希望通过分享我的旅行见闻和感受，为大家写出最实用的法国旅行指南，带你吃喝玩乐全攻略，帮你省时省力，让旅行像呼吸一样轻松惬意，一起玩转这个绝美的国度！
 
+<!-- 💜 时尚紫色滚动 Slogan Ticker 开始 -->
+<div class="slogan-ticker-wrapper" style="overflow: hidden; background: #ffffff; padding: 1rem 0; border-top: 1px solid #e5e5e5; border-bottom: 1px solid #e5e5e5;">
+  <div class="slogan-ticker" style="
+    display: inline-block;
+    white-space: nowrap;
+    animation: tickerScroll 25s linear infinite;
+    font-weight: 600;
+    font-size: 1.1rem;
+    color: #6f42c1;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+  ">
+    奥利旅行 &nbsp; 带你探索法国的未知角落 &nbsp; 在旅途中发现自己 &nbsp; 其实法国不止巴黎 &nbsp; 奥利旅行 &nbsp; 带你邂逅风土美食 &nbsp; 每一段路都是故事 &nbsp; 用脚步书写浪漫 &nbsp;
+  </div>
+</div>
+
+<style>
+@keyframes tickerScroll {
+  0% { transform: translateX(100%); }
+  100% { transform: translateX(-100%); }
+}
+</style>
+<!-- 💜 时尚紫色滚动 Slogan Ticker 结束 -->
+
+
 ---
 
 > “旅行的意义不在于发现新世界，而是拥有新的眼光。” —— 马塞尔·普鲁斯特（Marcel Proust）
@@ -40,9 +65,14 @@ latest_posts:
 
 <!-- Banner 轮播开始 -->
 <swiper-container keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true">
-  <swiper-slide>  {% include figure.liquid loading="eager" path="assets/img/0tours/0travel product banner/product-banner-3.png" title="marseille-trip-aolitravel.com" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>
+    <a href="https://aolitravel.com/tours/" target="_blank" style="display: block;">
+      {% include figure.liquid loading="eager" path="assets/img/0tours/0travel product banner/product-banner-3.png" title="marseille-trip-aolitravel.com" class="img-fluid rounded z-depth-1" %}
+    </a>
+  </swiper-slide>
 </swiper-container>
 <!-- Banner 轮播结束 -->
+
 
 <!-- 产品展示开始 -->
 <div class="row row-cols-1 row-cols-md-3 g-4 mt-4">
@@ -51,6 +81,21 @@ latest_posts:
     {% include projects.liquid %}
   {% endfor %}
 </div>
+
+<!-- 产品展示开始 -->
+<div class="row row-cols-1 row-cols-md-3 g-4 mt-4">
+
+  {% assign selected_urls = "https://aolitravel.com/tours/visit-south-france-top-7-days-tour/,https://aolitravel.com/tours/france-lavender-lac-saint-croix-one-day-tour/,https://aolitravel.com/tours/provence-avignon-arles-arts-culture-one-day-tour.md/" | split: "," %}
+
+  {% for url in selected_urls %}
+    {% assign project = site.tours | where: "url", url | first %}
+    {% if project %}
+      {% include projects.liquid project=project %}
+    {% endif %}
+  {% endfor %}
+
+</div>
+<!-- 产品展示结束 -->
 
 <!-- “探索更多路线”按钮 -->
 <div class="d-flex justify-content-center mt-4">
