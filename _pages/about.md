@@ -22,7 +22,7 @@ latest_posts:
 
 至于为什么选择法国？因为这里的人文与自然让我一次次为之惊叹，从巴黎浪漫的街巷到普罗旺斯的薰衣草田，从诺曼底壮丽的海岸到阿尔萨斯的童话村庄，从阿尔卑斯的雪峰到蔚蓝海岸的旖旎风光，再加上享誉世界的法国美食，几乎每个角落都值得细细品味！我希望通过分享我的旅行见闻和感受，为大家写出最实用的法国旅行指南，带你吃喝玩乐全攻略，帮你省时省力，让旅行像呼吸一样轻松惬意，一起玩转这个绝美的国度！
 
-{% include figure.liquid loading="eager" path="assets/img/0test-elements/ticker.gif" title="aolitravel.com presentation" class="img-fluid rounded z-depth-1" alt="aolitravel.com presentation"%}
+{% include figure.liquid loading="eager" path="assets/img/0test-elements/ticker.gif" title="aolitravel.com presentation" class="img-fluid rounded z-depth-1 shadow-sm w-100" alt="aolitravel.com presentation" watermark="false"%}
 
 
 ---
