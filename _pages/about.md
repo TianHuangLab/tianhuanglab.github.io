@@ -18,11 +18,13 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3
 ---
-嗨！我是奥利飞飞，一个热爱探索的旅游达人，现居法国南部的马赛。几年前，我们从巴黎搬到了这里，在地中海的阳光怀抱中开启了全新的生活篇章。目前，我在一家法国本地的互联网公司担任市场经理，虽然日常“搬砖”，但旅行始终是我的灵魂栖息地。我最享受与家人朋友一起背上行囊去探险，无论是徒步山间、在海边吹风，还是冬天滑雪，每一种体验都充满乐趣。十多年来，我走过三大洲，深度游历了亚欧非十几个国家，尤其对法国情有独钟，而这片土地还有太多美好值得细细丈量。
+嗨！我是奥利飞飞，一个热爱探索的旅游达人，现居法国南部的马赛。几年前，我们从巴黎搬到了这里，在地中海的阳光怀抱中开启了全新的生活篇章。我最享受与家人朋友一起背上行囊去探险，无论是徒步山间、在海边吹风，还是冬天滑雪，每一种体验都充满乐趣。十多年来，我走过三大洲，深度游历了亚欧非十几个国家，尤其对法国情有独钟，而这片土地还有太多美好值得细细丈量。
+
+因此，我和我的伙伴们一起创立了「奥利旅行」。我们是一支立足南法、辐射整个法国的本地地接团队，专注于提供高品质、个性化的法国深度游与定制服务！
 
 至于为什么选择法国？因为这里的人文与自然让我一次次为之惊叹，从巴黎浪漫的街巷到普罗旺斯的薰衣草田，从诺曼底壮丽的海岸到阿尔萨斯的童话村庄，从阿尔卑斯的雪峰到蔚蓝海岸的旖旎风光，再加上享誉世界的法国美食，几乎每个角落都值得细细品味！我希望通过分享我的旅行见闻和感受，为大家写出最实用的法国旅行指南，带你吃喝玩乐全攻略，帮你省时省力，让旅行像呼吸一样轻松惬意，一起玩转这个绝美的国度！
 
-{% include figure.liquid loading="eager" path="assets/img/0test-elements/ticker.gif" title="aolitravel.com presentation" class="img-fluid rounded z-depth-1 shadow-sm w-100" alt="aolitravel.com presentation" watermark="false"%}
+{% include figure.liquid loading="eager" path="assets/img/0test-elements/ticker.png" title="aolitravel.com presentation" class="img-fluid rounded z-depth-1" alt="aolitravel.com presentation" watermark="false"%}
 
 
 ---
