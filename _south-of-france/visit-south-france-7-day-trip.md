@@ -16,7 +16,9 @@ tags: 法国 法国旅游 南法 蔚蓝海岸 普罗旺斯
 
 从马赛老港的渔市和鱼汤，到普罗旺斯中世纪景观和无敌的自然景观打卡，再到尼斯海滨大道悠闲漫步，每天都有新惊喜！薰衣草田、蔚蓝海岸、中世纪古堡…这一路丰富的自然和人文景观，保证让你朋友圈天天被赞爆！
 
-> 关于我：现常驻南法，几年前从巴黎搬到了这里，在地中海的阳光怀抱中开启了全新的生活篇章。深度走过十几个国家，足迹遍布三大洲。日常办公室“搬砖”，但旅行始终是我的灵魂栖息地。爱好山里徒步、海边吹风、冬天滑雪。超懂法国，想要走遍欧洲，记录分享日常生活和足迹。更多内容，欢迎你浏览我的博客或[联系我](https://aolitravel.com/)！
+> 关于我：现常驻南法，几年前从巴黎搬到了马赛，在地中海的阳光怀抱中开启了全新的生活篇章。十多年来，我走过三大洲，深度游历了亚欧非几十个国家，尤其对法国情有独钟，而这片土地还有太多美好值得细细丈量。正因为这份热爱，我和几位志同道合的朋友创立了「奥利旅行」。我们是一支立足南法、服务全法国的本地地接团队，专注打造高品质、个性化的法国深度游与定制行程。不走套路、不赶打卡，只为让你真正看见、感受并爱上法国！
+> 更多内容，欢迎你浏览我的博客或[联系我](https://aolitravel.com/)！
+> 如果你也对以下线路心动，却不想为行程操心，不妨看看我们的[同款旅行产品](https://aolitravel.com/tours/visit-south-france-top-7-days-tour/)，包含更多升级玩法、深度体验，南法的惊喜等你解锁！
 > 
 
 跟着我，7天玩转南法最值得打卡的景点，吃最地道的美食，拍最惊艳的照片！
@@ -83,6 +85,9 @@ tags: 法国 法国旅游 南法 蔚蓝海岸 普罗旺斯
 更多关于南法小镇的内容，请移步我的攻略[《南法Top15最美宝藏小镇推荐!》](https://aolitravel.com/south-of-france/visit-south-france-top-15-villages/)
 {% include figure.liquid loading="eager" path="assets/img/36visit-south-france-7-day-trip/aolitravel.com-visit-south-france-7-day-trip-3a.webp" title="aolitravel.com-visit-south-france-7-day-trip" class="img-fluid rounded z-depth-1 watermarked" alt="南法7日游visit-south-france-7-day-trip"%}
 {% include figure.liquid loading="eager" path="assets/img/36visit-south-france-7-day-trip/aolitravel.com-visit-south-france-7-day-trip-3b.webp" title="aolitravel.com-visit-south-france-7-day-trip" class="img-fluid rounded z-depth-1 watermarked" alt="南法7日游visit-south-france-7-day-trip"%}
+
+> 如果你也对以下线路心动，却不想为行程操心，不妨看看我们的[同款旅行产品](https://aolitravel.com/tours/visit-south-france-top-7-days-tour/)，包含更多升级玩法、深度体验，南法的惊喜等你解锁！
+> 
 
 ---
 
@@ -175,6 +180,9 @@ tags: 法国 法国旅游 南法 蔚蓝海岸 普罗旺斯
 ---
 
 看完是不是已经心动到不行？这趟南法之旅真的绝了！每天都有不一样的风景，吃不完的美食，拍不够的美照。相信我，这绝对会是你今年最难忘的旅行！如果懒得自己做攻略，或者想要更深度地玩法，随时可以找我定制专属行程哦～南法的阳光和大海，等你来撒欢！
+
+> 如果你也对以下线路心动，却不想为行程操心，不妨看看我们的[同款旅行产品](https://aolitravel.com/tours/visit-south-france-top-7-days-tour/)，包含更多升级玩法、深度体验，南法的惊喜等你解锁！
+> 
 
 ### 🌟 定制你的专属南法之旅
 
