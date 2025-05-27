@@ -10,24 +10,23 @@ images:
   slider: true
 ---
 
-<div class="l-body-outset">
-  {% include figure.liquid loading="eager" path="assets/img/0tours/0travel product banner/product-banner-25.png" title="marseille-trip-aolitravel.com" class="img-fluid rounded z-depth-1" %}
-  {% include figure.liquid loading="eager" path="assets/img/0tours/0travel product banner/product-banner-26.png" title="marseille-trip-aolitravel.com" class="img-fluid rounded z-depth-1" %}
-  {% include figure.liquid loading="eager" path="assets/img/0tours/0travel product banner/product-banner-27.png" title="marseille-trip-aolitravel.com" class="img-fluid rounded z-depth-1" %}
-  {% include figure.liquid loading="eager" path="assets/img/0tours/0travel product banner/product-banner-28.png" title="marseille-trip-aolitravel.com" class="img-fluid rounded z-depth-1" %}
-  {% include figure.liquid loading="eager" path="assets/img/0tours/0travel product banner/product-banner-24.png" title="marseille-trip-aolitravel.com" class="img-fluid rounded z-depth-1" %}
-  {% include figure.liquid loading="eager" path="assets/img/0tours/0travel product banner/product-banner-8.png" title="marseille-trip-aolitravel.com" class="img-fluid rounded z-depth-1" %}
-  {% include figure.liquid loading="eager" path="assets/img/0tours/0travel product banner/product-banner-21.png" title="marseille-trip-aolitravel.com" class="img-fluid rounded z-depth-1" %}
-  {% include figure.liquid loading="eager" path="assets/img/0tours/0travel product banner/product-banner-8.png" title="marseille-trip-aolitravel.com" class="img-fluid rounded z-depth-1" %}
-  {% include figure.liquid loading="eager" path="assets/img/0tours/0travel product banner/product-banner-14.png" title="marseille-trip-aolitravel.com" class="img-fluid rounded z-depth-1" %}
-  {% include figure.liquid loading="eager" path="assets/img/0tours/0travel product banner/product-banner-15.png" title="marseille-trip-aolitravel.com" class="img-fluid rounded z-depth-1" %}
-</div>
+<swiper-container keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true">
+  <swiper-slide>  {% include figure.liquid loading="eager" path="assets/img/0tours/0travel product banner/product-banner-25.png" title="marseille-trip-aolitravel.com" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>  {% include figure.liquid loading="eager" path="assets/img/0tours/0travel product banner/product-banner-26.png" title="marseille-trip-aolitravel.com" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>  {% include figure.liquid loading="eager" path="assets/img/0tours/0travel product banner/product-banner-27.png" title="marseille-trip-aolitravel.com" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>  {% include figure.liquid loading="eager" path="assets/img/0tours/0travel product banner/product-banner-28.png" title="marseille-trip-aolitravel.com" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>  {% include figure.liquid loading="eager" path="assets/img/0tours/0travel product banner/product-banner-24.png" title="marseille-trip-aolitravel.com" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>  {% include figure.liquid loading="eager" path="assets/img/0tours/0travel product banner/product-banner-8.png" title="marseille-trip-aolitravel.com" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>  {% include figure.liquid loading="eager" path="assets/img/0tours/0travel product banner/product-banner-21.png" title="marseille-trip-aolitravel.com" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>  {% include figure.liquid loading="eager" path="assets/img/0tours/0travel product banner/product-banner-14.png" title="marseille-trip-aolitravel.com" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>  {% include figure.liquid loading="eager" path="assets/img/0tours/0travel product banner/product-banner-15.png" title="marseille-trip-aolitravel.com" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+</swiper-container>
 
 ---
 
 ## ✨行程亮点
 
-**从巴黎的浪漫艺术，到南法的阳光海岸，一次穿越法兰西灵魂的深度与精华之旅！**
+**从巴黎的宏伟与浪漫艺术，到南法的旖旎风光和阳光海岸，一次穿越法兰西灵魂的深度与精华之旅！**
 
 这是一场从世界艺术之都巴黎出发，逐步深入南法山水与历史的10日之旅。从卢浮宫到埃菲尔铁塔，从圣母院到香榭丽舍；再一路向南，走进马赛老港、普罗旺斯田园、阿维尼翁古城、尼斯海湾与摩纳哥皇宫，感受法兰西的多重魅力。
 
@@ -117,57 +116,57 @@ images:
 
 ---
 
-## 行程详情｜巴黎 · 普罗旺斯 · 蔚蓝海岸10日深度奢旅
+## 行程详情
 
 从**巴黎的艺术心脏**出发，沿途穿越**普罗旺斯山谷风光**，最终抵达**尼斯与摩纳哥的蔚蓝海湾**。这一趟南北穿行的法兰西旅程，是一次横跨时光与地理的文化巡礼，也是一次沉醉自然与艺术的浪漫盛宴。
 
-### 起点｜巴黎戴高乐国际机场（CDG）
+**起点｜巴黎戴高乐国际机场（CDG）**
 
 踏入这座被称为“光之城”的浪漫首都，**圣心大教堂**的晨光、**塞纳河畔**的波光倒影、街头艺人的旋律，将瞬间唤醒你的感官。旅程从充满波西米亚艺术气息的**蒙马特高地**开始，在**卢浮宫**与旷世艺术对话，在**香榭丽舍大道**感受法式生活的优雅节奏，为即将展开的南法篇章积蓄灵感与期待。
 
-### 第一天｜抵达巴黎 → 蒙马特高地 · 圣心大教堂
+**第一天｜抵达巴黎 → 蒙马特高地 · 圣心大教堂**
 
-**关键词：巴黎观景点、蒙马特艺术、城市天际线**
+关键词：巴黎观景点、蒙马特艺术、城市天际线
 
 专人接机，前往市中心酒店安顿休息。午后造访文艺灵魂聚集地——**蒙马特高地 Montmartre**，漫步于鹅卵石铺就的街道间，邂逅即兴表演的音乐家与画师。
 
 登临白色圆顶的**圣心大教堂 Sacré-Cœur**，于夕阳之下俯瞰巴黎全景，开启这场梦幻之旅的第一幅画面。
 
-### 第二天｜卢浮宫 → 协和广场 · 杜乐丽花园 → 香榭丽舍大道 · 凯旋门
+**第二天｜卢浮宫 → 协和广场 · 杜乐丽花园 → 香榭丽舍大道 · 凯旋门**
 
-**关键词：世界三大博物馆、巴黎主轴线、建筑艺术**
+关键词：世界三大博物馆、巴黎主轴线、建筑艺术
 
 上午走入世界艺术宝库——**卢浮宫博物馆 Louvre Museum**，亲见《蒙娜丽莎》的微笑、断臂维纳斯的优雅，感受千年文明的震撼之美。
 
 随后前往**协和广场**与**杜乐丽花园**，于绿意与雕塑之间感受皇家与市民文化的共鸣。下午继续探访**小皇宫与大皇宫**建筑群，再沿**香榭丽舍大道**漫步至地标**凯旋门 Arc de Triomphe**，一览拿破仑帝国的雄心。
 
-### 第三天｜夏乐宫广场 · 埃菲尔铁塔 → 比尔阿克姆桥 → 战神广场 → 老佛爷百货
+**第三天｜夏乐宫广场 · 埃菲尔铁塔 → 比尔阿克姆桥 → 战神广场 → 老佛爷百货**
 
-**关键词：埃菲尔铁塔打卡、电影取景地、巴黎购物攻略**
+关键词：埃菲尔铁塔打卡、电影取景地、巴黎购物攻略
 
 清晨前往观赏**埃菲尔铁塔**绝佳视角的**夏乐宫广场 Trocadéro**，随后前往《盗梦空间》取景地——**比尔阿克姆桥 Pont de Bir-Hakeim**，拍摄巴黎最具标志性的城市轮廓。
 
 在**战神广场**草地上享受一顿法式午餐，午后造访**老佛爷百货 Galeries Lafayette**，体验巴黎时尚、香氛与高定品牌的购物盛宴。
 
-### 第四天｜巴黎左岸文化巡游 → TGV极速南下马赛
+**第四天｜巴黎左岸文化巡游 → TGV极速南下马赛**
 
-**关键词：左岸书店、先贤祠、巴黎圣母院遗址、高铁TGV**
+关键词：左岸书店、先贤祠、巴黎圣母院遗址、高铁TGV
 
 上午造访**巴黎市政厅**与**巴黎圣母院遗址**，走进历史的年轮。随后拜访左岸地标——**莎士比亚书店 Shakespeare & Company**，感受西方文人笔下的巴黎诗意。
 
 继续游览**先贤祠 Panthéon**与**卢森堡公园 Jardin du Luxembourg**，在哲思与绿意之间放慢脚步。傍晚搭乘法国高速列车**TGV**，一路向南，奔赴阳光明媚的港城——**马赛**。
 
-### 第五天｜马赛港口风情巡游 · 艾克斯-普罗旺斯
+**第五天｜马赛港口风情巡游 · 艾克斯-普罗旺斯**
 
-**关键词：马赛老港、地中海全景、普罗旺斯古城**
+关键词：马赛老港、地中海全景、普罗旺斯古城
 
 清晨漫步于**马赛老港 Vieux-Port**，看晨光洒落在帆船与咖啡杯之间，是地中海生活的最真实缩影。
 
 登顶地标建筑**守护圣母大教堂 Notre-Dame de la Garde**，俯瞰马赛城市全景与碧蓝海岸线。午后前往充满艺术气息的**艾克斯-普罗旺斯 Aix-en-Provence**，在塞尚曾驻足的广场与画室周围，感受浓郁的普罗旺斯风情。
 
-### 第六天｜卢贝隆山谷：石头城 · 红土城 · 泉水城
+**第六天｜卢贝隆山谷：石头城 · 红土城 · 泉水城**
 
-**关键词：南法最美村庄、摄影圣地、自然奇景**
+关键词：南法最美村庄、摄影圣地、自然奇景
 
 今天将探索**普罗旺斯三大传奇山村**：
 
@@ -175,33 +174,33 @@ images:
 - **红土城 Roussillon**：沿着赭红色的悬崖步道漫行，沉醉于矿物颜料绘出的梦幻色彩。
 - **泉水城 Fontaine-de-Vaucluse**：探访普罗旺斯最大泉源，绿荫掩映下的泉水涌动，静谧如诗，正是彼得拉克创作的灵感源泉。
 
-### 第七天｜阿维尼翁 → 阿尔勒
+**第七天｜阿维尼翁 → 阿尔勒**
 
-**关键词：教皇宫、断桥、古罗马遗迹、梵高足迹**
+关键词：教皇宫、断桥、古罗马遗迹、梵高足迹
 
 上午走入中世纪重镇**阿维尼翁 Avignon**，参观世界文化遗产**教皇宫 Palais des Papes**与传奇**圣贝内泽断桥 Pont Saint-Bénézet**，感受昔日宗教与政治中心的宏伟与权威。
 
 下午驱车前往**阿尔勒 Arles**，探访**古罗马竞技场**与**梵高咖啡馆**，重温印象派画家的旅法记忆，这座城市正是他最炽热的灵感之地。
 
-### 第八天｜戛纳 → 昂蒂布 → 尼斯
+**第八天｜戛纳 → 昂蒂布 → 尼斯
 
-**关键词：蔚蓝海岸之旅、电影宫、游艇港口、英伦大道**
+关键词：蔚蓝海岸之旅、电影宫、游艇港口、尼斯天使湾海滨大道
 
 上午前往电影与明星之城——**戛纳 Cannes**，踏上象征荣耀的**红毯大道**，感受影展背后的璀璨荣光。
 
 中午前往游艇云集的精致港口小镇**昂蒂布 Antibes**，体验南法上流社会的闲逸生活。傍晚抵达地中海明珠——**尼斯 Nice**，入住海景酒店，于**英国人散步大道 Promenade des Anglais**迎风而行，静赏无边海景和日落霞光。
 
-### 第九天｜埃兹 → 摩纳哥
+**第九天｜埃兹 → 摩纳哥**
 
-**关键词：地中海海景、山顶小镇、摩纳哥王宫、蒙特卡洛赌场**
+关键词：地中海海景、山顶小镇、摩纳哥王宫、蒙特卡洛赌场
 
 上午前往石头砌成的空中小镇——**埃兹 Èze**，造访**香水博物馆 Fragonard Perfume Factory**，漫步山顶花园，俯瞰**蔚蓝海岸**无敌全景，仿佛置身云端之上。
 
 午后深入**摩纳哥 Monaco**，参观**摩纳哥王宫**、见证**蒙特卡洛赌场 Casino de Monte-Carlo**的极致奢华，游艇港口边的每一艘船，都是顶级人生的缩影。
 
-### 第十天｜尼斯市区自由活动 → 尼斯机场返程
+**第十天｜尼斯市区自由活动 → 尼斯机场返程**
 
-**关键词：尼斯老城、蔚蓝海岸纪念品、回程交通**
+关键词：尼斯老城、蔚蓝海岸纪念品、回程交通
 
 行程最后一日，享受**尼斯的慵懒早晨**。你可以在老城巷弄中寻宝，选购地中海风情小物，也可以再次漫步海岸线，记录这段旅程的尾声。
 
