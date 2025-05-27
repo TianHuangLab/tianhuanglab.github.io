@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 10天9夜法国深度漫游｜巴黎·普罗旺斯·蔚蓝海岸浪漫诗意三重奏
-img: assets/img/36visit-south-france-7-day-trip/aolitravel.com-visit-south-france-7-day-trip-0.webp
+img: assets/img/61france-10days-tour/france-10days-tour-0.webp
 nav: false
 importance: 3
 category: 
