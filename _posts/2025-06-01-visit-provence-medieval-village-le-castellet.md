@@ -83,7 +83,7 @@ Bandol的葡萄酒以慕合怀特（Mourvèdre）葡萄为主，这种葡萄需�
 
 如果你是个赛车迷，可能听说过**保罗·里卡德赛道（Circuit Paul Ricard）**——这里每年举办法国F1大奖赛，距离Le Castellet只有10分钟车程。
 
-这条赛道建于1970年，以一位热爱赛酒的富豪保罗·里卡德命名（对，就是那个茴香酒品牌Pastis的创始人！）。它最标志性的特点是蓝白相间的缓冲区，在电视转播里一眼就能认出来。
+这条赛道建于1970年，以一位热爱赛车的富豪保罗·里卡德命名（对，就是那个茴香酒品牌Pastis的创始人！）。它最标志性的特点是蓝白相间的缓冲区，在电视转播里一眼就能认出来。
 
 虽然我们没去赛道参观，但在小镇的高处，隐约能看到远处的赛道轮廓。想象一下，一边是千年古镇的宁静，一边是F1引擎的轰鸣，这种反差还挺有意思的。
 {% include figure.liquid loading="eager" path="assets/img/62provence-le-castellet/aolitravel.com-le-castellet-10.jpeg" title="le-castellet-trip勒卡斯泰莱游记" class="img-fluid rounded z-depth-1" alt="le-castellet-trip勒卡斯泰莱游记"%}
@@ -124,7 +124,7 @@ Bandol的葡萄酒以慕合怀特（Mourvèdre）葡萄为主，这种葡萄需�
 
 别担心！不妨看看我的推荐 - [精选线路](https://aolitravel.com/tours/)，亦或是找我[定制行程](https://aolitravel.com/custom-travel/)
 
-{% include figure.liquid loading="eager" path="assets/img/62provence-le-castellet/aolitravel.com-le-castellet-10.jpeg" title="le-castellet-trip勒卡斯泰莱游记" class="img-fluid rounded z-depth-1" alt="le-castellet-trip勒卡斯泰莱游记"%}
+{% include figure.liquid loading="eager" path="assets/img/62provence-le-castellet/aolitravel.com-le-castellet-0.jpeg" title="le-castellet-trip勒卡斯泰莱游记" class="img-fluid rounded z-depth-1" alt="le-castellet-trip勒卡斯泰莱游记"%}
 
 ---
 
