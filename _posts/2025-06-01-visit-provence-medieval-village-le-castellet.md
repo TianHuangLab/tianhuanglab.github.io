@@ -124,7 +124,7 @@ Bandol的葡萄酒以慕合怀特（Mourvèdre）葡萄为主，这种葡萄需�
 
 别担心！不妨看看我的推荐 - [精选线路](https://aolitravel.com/tours/)，亦或是找我[定制行程](https://aolitravel.com/custom-travel/)
 
-{% include figure.liquid loading="eager" path="assets/img/62provence-le-castellet/aolitravel.com-le-castellet-0.jpeg" title="le-castellet-trip勒卡斯泰莱游记" class="img-fluid rounded z-depth-1" alt="le-castellet-trip勒卡斯泰莱游记"%}
+{% include figure.liquid loading="eager" path="assets/img/62provence-le-castellet/aolitravel.com-le-castellet-11.jpeg" title="le-castellet-trip勒卡斯泰莱游记" class="img-fluid rounded z-depth-1" alt="le-castellet-trip勒卡斯泰莱游记"%}
 
 ---
 
