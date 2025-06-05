@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 法国多尔多涅深度游攻略｜城堡、美食、古镇与慢生活的完美结合
+title: 法国多尔多涅深度游攻略｜城堡、美食、古镇完美结合
 description: 法兰西最被低估的童话地区，多尔多涅的魅力等你解锁！
 img: assets/img/65visit-dordogne/visit-dordogne-travel-guide-3.webp
 importance: 24
