@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 深度体验｜南法普罗旺斯火烈鸟公园、梦幻粉色盐湖与艾格莫尔古城一日游
-img: assets/img/0tours/tour-camargue-1.webp
+title: 深度体验｜火烈鸟公园、梦幻粉色盐湖与艾格莫尔古城一日游
+img: assets/img/0tours/tour-camargue-3a.webp
 importance: 7.5
 category: 
 pretty_table: true
@@ -25,11 +25,11 @@ images:
 
 ### ✨核心亮点
 
-- **卡马尔格火烈鸟保护区观鸟体验**：近距离欣赏粉红火烈鸟群翩翩起舞，感受自然生态之美
-- **普罗旺斯粉色盐湖奇观**：梦幻盐田色彩斑斓，粉色湖水与蓝天白云相映成趣
-- **艾格莫尔中世纪古城穿越之旅**：游览保存完好的古城墙、康斯坦塔塔楼及哥特式圣母教堂
-- **顶级摄影圣地**：自然与历史的完美融合，轻松拍出令人惊艳的旅行大片
-- **小团慢游体验**：马赛出发，专属小团，避开拥挤人潮，深度感受南法悠闲生活节奏
+- **卡马尔格火烈鸟保护区观鸟体验**｜近距离欣赏粉红火烈鸟群翩翩起舞，感受自然生态之美
+- **普罗旺斯粉色盐湖奇观**｜梦幻盐田色彩斑斓，粉色湖水与蓝天白云相映成趣
+- **艾格莫尔中世纪古城穿越之旅**｜游览保存完好的古城墙、康斯坦塔塔楼及哥特式圣母教堂
+- **顶级摄影圣地**｜自然与历史的完美融合，轻松拍出令人惊艳的旅行大片
+- **小团慢游体验**｜马赛出发，专属小团，避开拥挤人潮，深度感受南法悠闲生活节奏
 
 
 ---
@@ -37,6 +37,7 @@ images:
 ## 行程美图
 
 <div class="carousel-container" data-images='["tour-camargue-1.webp", "tour-camargue-2.webp", "tour-camargue-3.webp", "tour-camargue-4.webp", "tour-camargue-6.webp", "tour-camargue-5.webp", "tour-camargue-7.webp", "tour-camargue-8.webp", "tour-camargue-9.webp"]'></div>
+tour-camargue-1.webp
 
 <script>
   function loadLocalImages() {
@@ -98,7 +99,7 @@ images:
 
 <div class="d-flex gap-3 flex-wrap mt-2">
   <!-- 立即预订按钮（跳转至 Stripe 页面）-->
-  <a href="https://book.stripe.com/14k15F0X1bNBaKA148" target="_blank" rel="noopener noreferrer" class="btn btn-lg text-white" style="background-color: #6f42c1; border-radius: 0.75rem;">
+  <a href="https://book.stripe.com/28E6oI86dcpg5g29pY4c808" target="_blank" rel="noopener noreferrer" class="btn btn-lg text-white" style="background-color: #6f42c1; border-radius: 0.75rem;">
     立即预订
   </a>
 
@@ -125,9 +126,11 @@ images:
 
 ## 行程路线
 
-<iframe width="100%" height="300px" frameborder="0" allowfullscreen allow="geolocation" src="[//umap.openstreetmap.fr/en/map/map_1235616?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true#9/43.4888/4.8505](https://umap.openstreetmap.fr/en/map/map_1235616?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true#9/43.4888/4.8505)"></iframe><p><a href="[//umap.openstreetmap.fr/en/map/map_1235616?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true#9/43.4888/4.8505](https://umap.openstreetmap.fr/en/map/map_1235616?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true#9/43.4888/4.8505)">See full screen</a></p>
+<iframe width="100%" height="300px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/zh/map/map_1235616?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true#9/43.5147/4.6582"></iframe><p><a href="//umap.openstreetmap.fr/zh/map/map_1235616?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true#9/43.5147/4.6582">全屏</a></p>
 
 ---
+
+## 行程详情
 
 **出发点｜马赛老港（Vieux-Port, Marseille）**
 
@@ -153,7 +156,7 @@ images:
 
 <div class="d-flex gap-3 flex-wrap mt-2">
   <!-- 立即预订按钮（跳转至 Stripe 页面）-->
-  <a href="https://book.stripe.com/14k15F0X1bNBaKA148" target="_blank" rel="noopener noreferrer" class="btn btn-lg text-white" style="background-color: #6f42c1; border-radius: 0.75rem;">
+  <a href="https://book.stripe.com/28E6oI86dcpg5g29pY4c808" target="_blank" rel="noopener noreferrer" class="btn btn-lg text-white" style="background-color: #6f42c1; border-radius: 0.75rem;">
     立即预订
   </a>
 
