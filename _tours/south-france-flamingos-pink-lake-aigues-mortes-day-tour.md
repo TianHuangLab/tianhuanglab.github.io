@@ -9,9 +9,10 @@ images:
   slider: true
 ---
 
-<div class="l-body-outset">
-  {% include figure.liquid loading="eager" path="assets/img/0tours/0travel product banner/product-banner-12.png" title="south-france-flamingos-pink-lake-aigues-mortes-day-tour-aolitravel.com" class="img-fluid rounded z-depth-1" %}
-</div>
+<swiper-container keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true">
+  <swiper-slide>  {% include figure.liquid loading="eager" path="assets/img/0tours/0travel product banner/product-banner-13.png" title="marseille-trip-aolitravel.com" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>  {% include figure.liquid loading="eager" path="assets/img/0tours/0travel product banner/product-banner-12.png" title="marseille-trip-aolitravel.com" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+</swiper-container>
 
 ---
 
@@ -19,7 +20,7 @@ images:
 
 清晨从马赛出发，开启一场梦幻而浪漫的**南法一日游**，体验**粉色盐湖**与**中世纪古城**的完美融合！
 
-首站直达卡马尔格（Camargue）火烈鸟自然保护区，亲眼目睹成群结队的粉红火烈鸟优雅舞动，感受这片湿地生态的纯净与活力。随后驱车前往著名的普罗旺斯粉色盐湖（Salin d’Aigues-Mortes），漫步在闪耀着梦幻粉色光芒的盐堆之间，捕捉童话般的绝美瞬间，拍出朋友圈最惊艳的旅行大片。最后抵达历史悠久的艾格莫尔古城（Aigues-Mortes），沿着保存完好的中世纪城墙和古老防御塔慢行，穿越时光隧道，探寻骑士与圣王路易九世留下的辉煌印记。
+首站直达卡马尔格湿地（Camargue）火烈鸟自然保护区，亲眼目睹成群结队的粉红火烈鸟优雅舞动，感受这片湿地生态的纯净与活力。随后驱车前往著名的普罗旺斯粉色盐湖（Salin d’Aigues-Mortes），漫步在闪耀着梦幻粉色光芒的盐堆之间，捕捉童话般的绝美瞬间，拍出朋友圈最惊艳的旅行大片。最后抵达历史悠久的艾格莫尔古城（Aigues-Mortes），沿着保存完好的中世纪城墙和古老防御塔慢行，穿越时光隧道，探寻骑士与圣王路易九世留下的辉煌印记。
 
 这条路线完美结合了**自然奇观、梦幻美景与历史文化**，是探索南法风情的理想选择！
 
@@ -37,7 +38,6 @@ images:
 ## 行程美图
 
 <div class="carousel-container" data-images='["tour-camargue-1.webp", "tour-camargue-2.webp", "tour-camargue-3.webp", "tour-camargue-4.webp", "tour-camargue-6.webp", "tour-camargue-5.webp", "tour-camargue-7.webp", "tour-camargue-8.webp", "tour-camargue-9.webp"]'></div>
-tour-camargue-1.webp
 
 <script>
   function loadLocalImages() {
@@ -94,7 +94,7 @@ tour-camargue-1.webp
 
 **标准说明**
 
-- 本线路每周六、周日发团，全年可约，3人起成团，请提前至少3天预订。若您为1至2人或需选择其他出发日期，欢迎联系我们拼团！
+- 本线路每周六、周日发团，全年可约，3人起成团，请提前至少7天预订。若您为1至2人或需选择其他出发日期，欢迎联系我们拼团！
 - 3-8人出行，每人129欧元；9人及以上可享专属优惠，欢迎联系我们定制报价！
 
 <div class="d-flex gap-3 flex-wrap mt-2">
