@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 南法粉色盐湖+中世纪古镇艾格莫尔怎么玩？超详细攻略来了！
+title: 南法粉色盐湖+中世纪古镇艾格莫尔怎么玩？
 description: 超详细攻略来了！一日打卡粉红盐湖+中世纪古镇，小众美景拍爆朋友圈！
 img: assets/img/64visit-salin-aigues-mortes/visit-salin-aigues-mortes-4.webp
 importance: 9
