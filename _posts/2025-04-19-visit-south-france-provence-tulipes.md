@@ -96,7 +96,7 @@ published: true
 
 如果你去阿维尼翁旅行，不妨参考我的这篇攻略：
 
-[🔥 阿维尼翁旅行攻略 | 解锁教皇之城 Top15景点！](https://aolitravel.com/south-of-france/visit-avignon-city-guide-top-15-things-to-do/)
+[🔥 阿维尼翁旅行攻略 解锁教皇之城 Top15景点！](https://aolitravel.com/south-of-france/visit-avignon-city-guide-top-15-things-to-do/)
 
 {% include figure.liquid loading="eager" path="assets/img/21avignon-city-guide-top-15-things-to-do/visit-avignon-city-guide-top-15-things-to-do-0.webp" title="avignon-city-guide-aolitravel.com" class="img-fluid rounded z-depth-1"  alt="阿维尼翁城市旅行指南 avignon complete city guide"%}
 
