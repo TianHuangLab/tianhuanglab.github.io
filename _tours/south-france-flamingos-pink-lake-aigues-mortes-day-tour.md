@@ -37,22 +37,39 @@ images:
 
 ## 行程美图
 
-<div class="carousel-container" data-images='["tour-camargue-1.webp", "tour-camargue-2.webp", "tour-camargue-3.webp", "tour-camargue-4.webp", "tour-camargue-6.webp", "tour-camargue-5.webp", "tour-camargue-7.webp", "tour-camargue-8.webp", "tour-camargue-9.webp"]'></div>
+<div class="carousel-container" data-folder="0tours" data-images='[
+  "tour-camargue-1.webp",
+  "tour-camargue-2.webp",
+  "tour-camargue-3.webp",
+  "tour-camargue-4.webp",
+  "tour-camargue-6.webp",
+  "tour-camargue-5.webp",
+  "tour-camargue-7.webp",
+  "tour-camargue-8.webp",
+  "tour-camargue-9.webp",
+]'></div>
+
 
 <script>
   function loadLocalImages() {
     document.querySelectorAll(".carousel-container").forEach(container => {
-      const images = JSON.parse(container.getAttribute("data-images"));
+      container.innerHTML = ""; // 避免重复加载
+
+      const folder = container.getAttribute("data-folder") || "";
+      const images = JSON.parse(container.getAttribute("data-images") || "[]");
+
       images.forEach(file => {
-        let img = document.createElement("img");
-        img.src = `/assets/img/0tours/${file}`;
+        const img = document.createElement("img");
+        img.src = `/assets/img/${folder}/${file}`;
         img.alt = file.replace(/_/g, ' ').replace(/\.webp$/, '');
+        img.loading = "lazy";
         img.style.width = "100%";
         img.style.maxWidth = "450px";
         img.style.height = "300px";
         img.style.margin = "0 5px";
         img.style.borderRadius = "5px";
         img.style.boxShadow = "0 2px 4px rgba(0, 0, 0, 0.1)";
+        img.onerror = () => console.warn("图片加载失败:", img.src);
         container.appendChild(img);
       });
     });
@@ -61,13 +78,14 @@ images:
   document.addEventListener("DOMContentLoaded", loadLocalImages);
 </script>
 
+<!-- 公共样式 -->
 <style>
   .carousel-container {
     display: flex;
     overflow-x: auto;
     scroll-behavior: smooth;
     white-space: nowrap;
-    padding: 20px;
+    padding: 20px 0;
     margin: 20px 0;
   }
 
