@@ -4,7 +4,7 @@ permalink: /custom-travel/
 title: 定制行程
 description: 轻松定制你的法国旅行计划，带你探索最地道的法国之旅，让旅程变得简单、纯粹、充满惊喜！
 nav: true
-nav_order: 6
+nav_order: 7
 ---
 <style>
 /* 页面整体样式 */
