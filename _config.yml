@@ -166,6 +166,9 @@ collections:
   tours:
     output: true
     permalink: /tours/:path/
+  luxury-villas-hotels:
+    output: true
+    permalink: /luxury-villas-hotels/:path/
   custom-travel:
     output: true
     permalink: /custom-travel/:path/
