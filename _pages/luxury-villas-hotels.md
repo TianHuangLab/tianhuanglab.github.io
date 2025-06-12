@@ -1,6 +1,8 @@
 ---
 layout: page
+title: 私享奢旅
 permalink: /luxury-villas-hotels/
+description: 精选奢华私享别墅与贵族庄园，开启法兰西私享之旅！
 nav: true
 nav_order: 6
 pretty_table: true
