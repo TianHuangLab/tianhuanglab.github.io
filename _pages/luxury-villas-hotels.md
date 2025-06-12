@@ -17,7 +17,7 @@ published: true
   <swiper-slide>  {% include figure.liquid loading="eager" path="assets/img/71-top-villa-hotel/aolitravel.com-top-villa-hotel-reservation-67a.png" title="=aolitravel.com-top-villa-hotel-reservation" class="img-fluid rounded z-depth-1" %}</swiper-slide>
   <swiper-slide>  {% include figure.liquid loading="eager" path="assets/img/71-top-villa-hotel/aolitravel.com-top-villa-hotel-reservation-53a.png" title="=aolitravel.com-top-villa-hotel-reservation" class="img-fluid rounded z-depth-1" %}</swiper-slide>
   <swiper-slide>  {% include figure.liquid loading="eager" path="assets/img/71-top-villa-hotel/aolitravel.com-top-villa-hotel-reservation-64a.png" title="=aolitravel.com-top-villa-hotel-reservation" class="img-fluid rounded z-depth-1" %}</swiper-slide>
-  <swiper-slide>  {% include figure.liquid loading="eager" path="assets/img/71-top-villa-hotel/aolitravel.com-top-villa-hotel-reservation-70a.png" title="=aolitravel.com-top-villa-hotel-reservation" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>  {% include figure.liquid loading="eager" path="assets/img/71-top-villa-hotel/aolitravel.com-top-villa-hotel-reservation-77a.png" title="=aolitravel.com-top-villa-hotel-reservation" class="img-fluid rounded z-depth-1" %}</swiper-slide>
   <swiper-slide>  {% include figure.liquid loading="eager" path="assets/img/71-top-villa-hotel/aolitravel.com-top-villa-hotel-reservation-55a.png" title="=aolitravel.com-top-villa-hotel-reservation" class="img-fluid rounded z-depth-1" %}</swiper-slide>
   <swiper-slide>  {% include figure.liquid loading="eager" path="assets/img/71-top-villa-hotel/aolitravel.com-top-villa-hotel-reservation-72a.png" title="=aolitravel.com-top-villa-hotel-reservation" class="img-fluid rounded z-depth-1" %}</swiper-slide>
 </swiper-container>
@@ -30,7 +30,7 @@ published: true
 
 每一处别墅与庄园，皆由我们亲访筛选，配备泳池、花园、管家、厨师及更多尊享设施。让您的法国假期，在山水与建筑之间，收获一段真正属于自己的诗意生活。
 
-开启奥利臻选之旅，邂逅您理想中的法式奢居。
+开启奥利臻选之旅，邂逅您理想中的法式奢居！
 
 
 <div class="row">
@@ -177,7 +177,7 @@ published: true
   </div>
   <div class="col-md-6">
     <a href="">
-      {% include figure.liquid loading="eager" path="assets/img/71-top-villa-hotel/aolitravel.com-top-villa-hotel-reservation-70.png" title="aolitravel.com-hotel-villa-reservation" class="img-fluid rounded z-depth-1" %}
+      {% include figure.liquid loading="eager" path="assets/img/71-top-villa-hotel/aolitravel.com-top-villa-hotel-reservation-77.png" title="aolitravel.com-hotel-villa-reservation" class="img-fluid rounded z-depth-1" %}
       <p>📍蔚蓝海岸</p>
     </a>
   </div>
@@ -234,7 +234,7 @@ published: true
 
 在您眼前呈现的每一家酒店，无论是位于塞纳河畔的宫殿级奢华，还是藏于山间葡萄园中的私享静谧，背后都凝聚着奥利旅行对品质的严苛把控与多年来在法国当地深耕的合作网络。我们始终相信，真正安心、难忘的住宿体验，来自于对细节的坚持与对伙伴的信任。为此，奥利旅行携手一系列值得信赖的高端酒店集团、别墅管理机构及本地接待平台，构建起一套高效透明的服务体系。
 
-无论是常年合作的 Relais & Châteaux、Preferred Hotels，还是法国本地别墅和酒店等资源，我们都以旅客的需求为核心，甄选最优质、最匹配的住宿方案。正是这样一张强大的合作网络，让我们能为每一位客户，呈现真正值得信赖的精品法式假期。
+无论是常年合作的 Relais & Châteaux、Virtuoso，还是法国本地别墅和酒店等资源，我们都以旅客的需求为核心，甄选最优质、最匹配的住宿方案。正是这样一张强大的合作网络，让我们能为每一位客户，呈现真正值得信赖的精品法式假期！
 
 {% include figure.liquid loading="eager" path="assets/img/67france-hotel-villa/aolitravel.com-hotel-villa-reservation-0.webp" title="aolitravel.com-hotel-villa-reservation" class="img-fluid rounded z-depth-1" %}
 
