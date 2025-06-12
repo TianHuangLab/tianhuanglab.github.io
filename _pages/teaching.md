@@ -12,35 +12,36 @@ published: true
 ---
 
 <swiper-container keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true">
-  <swiper-slide>  {% include figure.liquid loading="eager" path="assets/img/68france-hotel-villa/aolitravel.com-hotel-villa-reservation-1.webp" title="marseille-trip-aolitravel.com" class="img-fluid rounded z-depth-1" %}</swiper-slide>
-  <swiper-slide>  {% include figure.liquid loading="eager" path="assets/img/68france-hotel-villa/aolitravel.com-hotel-villa-reservation-2.webp" title="marseille-trip-aolitravel.com" class="img-fluid rounded z-depth-1" %}</swiper-slide>
-  <swiper-slide>  {% include figure.liquid loading="eager" path="assets/img/68france-hotel-villa/aolitravel.com-hotel-villa-reservation-3.webp" title="marseille-trip-aolitravel.com" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>  {% include figure.liquid loading="eager" path="assets/img/71-top-villa-hotel/aolitravel.com-top-villa-hotel-reservation-67a.png" title="=aolitravel.com-top-villa-hotel-reservation" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>  {% include figure.liquid loading="eager" path="assets/img/71-top-villa-hotel/aolitravel.com-top-villa-hotel-reservation-53a.png" title="=aolitravel.com-top-villa-hotel-reservation" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+    <swiper-slide>  {% include figure.liquid loading="eager" path="assets/img/71-top-villa-hotel/aolitravel.com-top-villa-hotel-reservation-64a.png" title="=aolitravel.com-top-villa-hotel-reservation" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>  {% include figure.liquid loading="eager" path="assets/img/71-top-villa-hotel/aolitravel.com-top-villa-hotel-reservation-70a.png" title="=aolitravel.com-top-villa-hotel-reservation" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+    <swiper-slide>  {% include figure.liquid loading="eager" path="assets/img/71-top-villa-hotel/aolitravel.com-top-villa-hotel-reservation-55a.png" title="=aolitravel.com-top-villa-hotel-reservation" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>  {% include figure.liquid loading="eager" path="assets/img/71-top-villa-hotel/aolitravel.com-top-villa-hotel-reservation-72a.png" title="=aolitravel.com-top-villa-hotel-reservation" class="img-fluid rounded z-depth-1" %}</swiper-slide>
 </swiper-container>
 
 ---
 
-**为您量身打造的完美住宿——奥利旅行，专业呈现**
+## 法式高端别墅 & 贵族庄园假日臻选
 
-作为法国旅行专家，奥利旅行致力于为您精挑细选每一家契合您品味与舒适度的理想酒店。无论是举世闻名的奢华宫殿酒店、优雅精致的五星精品酒店、满载法式风情的古堡酒店，还是温馨宜人的四星度假胜地，我们的高端住宿甄选服务只为呈现法国最出色的体验。
+在奥利旅行，我们深知，真正的法式奢华，不止于酒店——更体现在一座只属于您的别墅或庄园中悄然展开。从蔚蓝海岸到普罗旺斯山丘，从卢瓦尔河谷的葡萄酒庄到巴黎近郊的世袭庄园，我们为您严选法国各地风格各异、独具格调的精品别墅与历史庄园。无论是家族度假、好友聚会，还是特别的纪念日庆典，您都能在此享有专属私密空间与高定服务，尽享如家般的自在与极致的尊崇体验。
 
-我们亲自实地考察每一处合作酒店，确保每一个细节皆臻于完美，并为您争取最具竞争力的专属价格。从一日游到多日深度行程，再到高端酒店与私人别墅预订，奥利旅行陪伴您开启梦幻的法国之旅。
+每一处别墅与庄园，皆由我们亲访筛选，配备泳池、花园、管家、厨师及更多尊享设施。让您的法国假期，在山水与建筑之间，收获一段真正属于自己的诗意生活。
 
-从“住”开始，让旅行回归生活的本真——现在，就与我们一起，邂逅属于您的法兰西之家。
+开启奥利臻选之旅，邂逅您理想中的法式奢居。
 
 
 <div class="row">
   <div class="col-md-6">
     <a href="">
-      {% include figure.liquid loading="eager" path="assets/img/68france-hotel-villa/aolitravel.com-hotel-villa-reservation-1.webp" title="aolitravel.com-hotel-villa-reservation" class="img-fluid rounded z-depth-1" %}
-      <p>Shangri-La Paris</p>
-      <p>香格里拉巴黎大酒店坐落于昔日波拿巴王子罗兰的府邸之中，俯瞰埃菲尔铁塔与塞纳河，尽显极致巴黎风雅。酒店位于巴黎第十六区的核心地段，将欧洲宫廷式的宏伟气度与东方传统待客之道巧妙融合，并同时荣膺“宫殿级酒店”与“历史纪念建筑”双重殊荣。</p>
+      {% include figure.liquid loading="eager" path="assets/img/71-top-villa-hotel/aolitravel.com-top-villa-hotel-reservation-51.png" title="aolitravel.com-hotel-villa-reservation" class="img-fluid rounded z-depth-1" %}
+      <p>📍艾克斯普罗旺斯</p>
     </a>
   </div>
   <div class="col-md-6">
     <a href="">
-      {% include figure.liquid loading="eager" path="assets/img/68france-hotel-villa/aolitravel.com-hotel-villa-reservation-2.webp" title="aolitravel.com-hotel-villa-reservation" class="img-fluid rounded z-depth-1" %}
-      <p>InterContinental Marseille</p>
-      <p>马赛洲际酒店傲然矗立于马赛最古老街区——帕尼耶山丘之上，俯瞰老港风光，是全城最具气势的奢华酒店之一。其恢宏的阶梯、拱顶长廊与壮丽露台，无不见证着这座建筑昔日的辉煌身份——一座辉煌典雅的18世纪历史杰作。</p>
+      {% include figure.liquid loading="eager" path="assets/img/71-top-villa-hotel/aolitravel.com-top-villa-hotel-reservation-52.png" title="aolitravel.com-hotel-villa-reservation" class="img-fluid rounded z-depth-1" %}
+      <p>📍普罗旺斯地区</p>
     </a>
   </div>
 </div>
@@ -48,79 +49,188 @@ published: true
 <div class="row">
   <div class="col-md-6">
     <a href="">
-      {% include figure.liquid loading="eager" path="assets/img/68france-hotel-villa/aolitravel.com-hotel-villa-reservation-3.webp" title="aolitravel.com-hotel-villa-reservation" class="img-fluid rounded z-depth-1" %}
-      <p>La Villa</p>
-      <p>踏入卡尔维高地上的拉维拉酒店，便步入一个非凡的世界。首重尊享，始于视野——酒店花园俯瞰整座海湾与城市，古堡的轮廓清晰可见，气势恢宏。随着时光流转，光影在这片独特的全景之中悄然变幻，展现出无与伦比的自然诗意。</p>
+      {% include figure.liquid loading="eager" path="assets/img/71-top-villa-hotel/aolitravel.com-top-villa-hotel-reservation-53.png" title="aolitravel.com-hotel-villa-reservation" class="img-fluid rounded z-depth-1" %}
+      <p>📍大巴黎附近</p>
     </a>
   </div>
   <div class="col-md-6">
     <a href="">
-      {% include figure.liquid loading="eager" path="assets/img/68france-hotel-villa/aolitravel.com-hotel-villa-reservation-3.webp" title="aolitravel.com-hotel-villa-reservation" class="img-fluid rounded z-depth-1" %}
-      <p>InterContinental Lyon</p>
-      <p>里昂洲际酒店是一座重获新生的历史瑰宝，坐落于美食之都里昂的核心地带。酒店由全球奢华酒店设计大师匠心打造，144间客房与套房将里昂城的醉人风光尽收眼底，为您开启一段魔幻般的视觉盛宴。</p>
+      {% include figure.liquid loading="eager" path="assets/img/71-top-villa-hotel/aolitravel.com-top-villa-hotel-reservation-54.png" title="aolitravel.com-hotel-villa-reservation" class="img-fluid rounded z-depth-1" %}
+      <p>📍香波堡</p>
     </a>
   </div>
 </div>
 
+<div class="row">
+  <div class="col-md-6">
+    <a href="">
+      {% include figure.liquid loading="eager" path="assets/img/71-top-villa-hotel/aolitravel.com-top-villa-hotel-reservation-55.png" title="aolitravel.com-hotel-villa-reservation" class="img-fluid rounded z-depth-1" %}
+      <p>📍诺曼底</p>
+    </a>
+  </div>
+  <div class="col-md-6">
+    <a href="">
+      {% include figure.liquid loading="eager" path="assets/img/71-top-villa-hotel/aolitravel.com-top-villa-hotel-reservation-56.png" title="aolitravel.com-hotel-villa-reservation" class="img-fluid rounded z-depth-1" %}
+      <p>📍多尔多涅</p>
+    </a>
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-md-6">
+    <a href="">
+      {% include figure.liquid loading="eager" path="assets/img/71-top-villa-hotel/aolitravel.com-top-villa-hotel-reservation-57.png" title="aolitravel.com-hotel-villa-reservation" class="img-fluid rounded z-depth-1" %}
+      <p>📍巴黎</p>
+    </a>
+  </div>
+  <div class="col-md-6">
+    <a href="">
+      {% include figure.liquid loading="eager" path="assets/img/71-top-villa-hotel/aolitravel.com-top-villa-hotel-reservation-54.png" title="aolitravel.com-hotel-villa-reservation" class="img-fluid rounded z-depth-1" %}
+      <p>📍雷岛</p>
+    </a>
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-md-6">
+    <a href="">
+      {% include figure.liquid loading="eager" path="assets/img/71-top-villa-hotel/aolitravel.com-top-villa-hotel-reservation-59.png" title="aolitravel.com-hotel-villa-reservation" class="img-fluid rounded z-depth-1" %}
+      <p>📍阿尔卑斯山小镇</p>
+    </a>
+  </div>
+  <div class="col-md-6">
+    <a href="">
+      {% include figure.liquid loading="eager" path="assets/img/71-top-villa-hotel/aolitravel.com-top-villa-hotel-reservation-60.png" title="aolitravel.com-hotel-villa-reservation" class="img-fluid rounded z-depth-1" %}
+      <p>📍普罗旺斯地区</p>
+    </a>
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-md-6">
+    <a href="">
+      {% include figure.liquid loading="eager" path="assets/img/71-top-villa-hotel/aolitravel.com-top-villa-hotel-reservation-61.png" title="aolitravel.com-hotel-villa-reservation" class="img-fluid rounded z-depth-1" %}
+      <p>📍圣特罗佩</p>
+    </a>
+  </div>
+  <div class="col-md-6">
+    <a href="">
+      {% include figure.liquid loading="eager" path="assets/img/71-top-villa-hotel/aolitravel.com-top-villa-hotel-reservation-62.png" title="aolitravel.com-hotel-villa-reservation" class="img-fluid rounded z-depth-1" %}
+      <p>📍巴黎</p>
+    </a>
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-md-6">
+    <a href="">
+      {% include figure.liquid loading="eager" path="assets/img/71-top-villa-hotel/aolitravel.com-top-villa-hotel-reservation-63.png" title="aolitravel.com-hotel-villa-reservation" class="img-fluid rounded z-depth-1" %}
+      <p>📍阿尔卑斯山小镇</p>
+    </a>
+  </div>
+  <div class="col-md-6">
+    <a href="">
+      {% include figure.liquid loading="eager" path="assets/img/71-top-villa-hotel/aolitravel.com-top-villa-hotel-reservation-64.png" title="aolitravel.com-hotel-villa-reservation" class="img-fluid rounded z-depth-1" %}
+      <p>📍比亚里茨</p>
+    </a>
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-md-6">
+    <a href="">
+      {% include figure.liquid loading="eager" path="assets/img/71-top-villa-hotel/aolitravel.com-top-villa-hotel-reservation-65.png" title="aolitravel.com-hotel-villa-reservation" class="img-fluid rounded z-depth-1" %}
+      <p>📍卡西斯海滨小镇</p>
+    </a>
+  </div>
+  <div class="col-md-6">
+    <a href="">
+      {% include figure.liquid loading="eager" path="assets/img/71-top-villa-hotel/aolitravel.com-top-villa-hotel-reservation-66.png" title="aolitravel.com-hotel-villa-reservation" class="img-fluid rounded z-depth-1" %}
+      <p>📍巴黎</p>
+    </a>
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-md-6">
+    <a href="">
+      {% include figure.liquid loading="eager" path="assets/img/71-top-villa-hotel/aolitravel.com-top-villa-hotel-reservation-67.png" title="aolitravel.com-hotel-villa-reservation" class="img-fluid rounded z-depth-1" %}
+      <p>📍蔚蓝海岸</p>
+    </a>
+  </div>
+  <div class="col-md-6">
+    <a href="">
+      {% include figure.liquid loading="eager" path="assets/img/71-top-villa-hotel/aolitravel.com-top-villa-hotel-reservation-68.png" title="aolitravel.com-hotel-villa-reservation" class="img-fluid rounded z-depth-1" %}
+      <p>📍多维尔海滨小镇</p>
+    </a>
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-md-6">
+    <a href="">
+      {% include figure.liquid loading="eager" path="assets/img/71-top-villa-hotel/aolitravel.com-top-villa-hotel-reservation-69.png" title="aolitravel.com-hotel-villa-reservation" class="img-fluid rounded z-depth-1" %}
+      <p>📍吉维尼</p>
+    </a>
+  </div>
+  <div class="col-md-6">
+    <a href="">
+      {% include figure.liquid loading="eager" path="assets/img/71-top-villa-hotel/aolitravel.com-top-villa-hotel-reservation-70.png" title="aolitravel.com-hotel-villa-reservation" class="img-fluid rounded z-depth-1" %}
+      <p>📍蔚蓝海岸</p>
+    </a>
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-md-6">
+    <a href="">
+      {% include figure.liquid loading="eager" path="assets/img/71-top-villa-hotel/aolitravel.com-top-villa-hotel-reservation-71.png" title="aolitravel.com-hotel-villa-reservation" class="img-fluid rounded z-depth-1" %}
+      <p>📍巴黎</p>
+    </a>
+  </div>
+  <div class="col-md-6">
+    <a href="">
+      {% include figure.liquid loading="eager" path="assets/img/71-top-villa-hotel/aolitravel.com-top-villa-hotel-reservation-72.png" title="aolitravel.com-hotel-villa-reservation" class="img-fluid rounded z-depth-1" %}
+      <p>📍波尔多地区</p>
+    </a>
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-md-6">
+    <a href="">
+      {% include figure.liquid loading="eager" path="assets/img/71-top-villa-hotel/aolitravel.com-top-villa-hotel-reservation-73.png" title="aolitravel.com-hotel-villa-reservation" class="img-fluid rounded z-depth-1" %}
+      <p>📍阿尔卑斯山小镇</p>
+    </a>
+  </div>
+  <div class="col-md-6">
+    <a href="">
+      {% include figure.liquid loading="eager" path="assets/img/71-top-villa-hotel/aolitravel.com-top-villa-hotel-reservation-74.png" title="aolitravel.com-hotel-villa-reservation" class="img-fluid rounded z-depth-1" %}
+      <p>📍波尔多地区</p>
+    </a>
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-md-6">
+    <a href="">
+      {% include figure.liquid loading="eager" path="assets/img/71-top-villa-hotel/aolitravel.com-top-villa-hotel-reservation-75.png" title="aolitravel.com-hotel-villa-reservation" class="img-fluid rounded z-depth-1" %}
+      <p>📍土伦</p>
+    </a>
+  </div>
+  <div class="col-md-6">
+    <a href="">
+      {% include figure.liquid loading="eager" path="assets/img/71-top-villa-hotel/aolitravel.com-top-villa-hotel-reservation-6.png" title="aolitravel.com-hotel-villa-reservation" class="img-fluid rounded z-depth-1" %}
+      <p>📍卡西斯海滨小镇</p>
+    </a>
+  </div>
+</div>
 
 ---
 
-<swiper-container keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true">
-  <swiper-slide>  {% include figure.liquid loading="eager" path="assets/img/68france-hotel-villa/aolitravel.com-hotel-villa-reservation-1.webp" title="marseille-trip-aolitravel.com" class="img-fluid rounded z-depth-1" %}</swiper-slide>
-  <swiper-slide>  {% include figure.liquid loading="eager" path="assets/img/68france-hotel-villa/aolitravel.com-hotel-villa-reservation-2.webp" title="marseille-trip-aolitravel.com" class="img-fluid rounded z-depth-1" %}</swiper-slide>
-  <swiper-slide>  {% include figure.liquid loading="eager" path="assets/img/68france-hotel-villa/aolitravel.com-hotel-villa-reservation-3.webp" title="marseille-trip-aolitravel.com" class="img-fluid rounded z-depth-1" %}</swiper-slide>
-</swiper-container>
+在您眼前呈现的每一家酒店，无论是位于塞纳河畔的宫殿级奢华，还是藏于山间葡萄园中的私享静谧，背后都凝聚着奥利旅行对品质的严苛把控与多年来在法国当地深耕的合作网络。我们始终相信，真正安心、难忘的住宿体验，来自于对细节的坚持与对伙伴的信任。为此，奥利旅行携手一系列值得信赖的高端酒店集团、别墅管理机构及本地接待平台，构建起一套高效透明的服务体系。
 
----
-
-
-作为深耕法国旅居美学的专家，我们为您甄选了一系列非凡的度假别墅居所——从文艺复兴时期的贵族古堡、蔚蓝海岸的私人别墅，到阿尔卑斯雪场旁的顶级木屋，每一处都是法兰西生活艺术的绝佳诠释。
-这些精心挑选的物业均位于法国最令人向往的黄金地段，无论是浪漫双人假期、温馨家庭聚会，还是精英好友同游，都能找到完美契合的奢华空间。我们更提供度身定制的尊享服务：
-
-- 米其林星级私厨为您烹制法式飨宴
-- 专业礼宾团队打理一切行程细节
-- 私人水疗师上门服务
-- 专属向导与司机随行
-
-每一处居所都由我们亲自考察，从建筑格调到服务品质，确保符合最严苛的标准。我们更凭借行业资源，为您争取最优越的入住礼遇。
-让住宿本身成为旅行的高光时刻——与奥利旅行一起，以最优雅的方式，书写属于您的法兰西故事。
-
-
-
-<div class="row">
-  <div class="col-md-6">
-    <a href="">
-      {% include figure.liquid loading="eager" path="assets/img/68france-hotel-villa/aolitravel.com-hotel-villa-reservation-1.webp" title="aolitravel.com-hotel-villa-reservation" class="img-fluid rounded z-depth-1" %}
-      <p>位于Aix-en-Provence</p>
-      <p>香格里拉巴黎大酒店坐落于昔日波拿巴王子罗兰的府邸之中，俯瞰埃菲尔铁塔与塞纳河，尽显极致巴黎风雅。</p>
-    </a>
-  </div>
-  <div class="col-md-6">
-    <a href="">
-      {% include figure.liquid loading="eager" path="assets/img/68france-hotel-villa/aolitravel.com-hotel-villa-reservation-2.webp" title="aolitravel.com-hotel-villa-reservation" class="img-fluid rounded z-depth-1" %}
-      <p>位于Provence</p>
-      <p>马赛洲际酒店傲然矗立于马赛最古老街区——帕尼耶山丘之上，俯瞰老港风光，是全城最具气势的奢华酒店之一。</p>
-    </a>
-  </div>
-</div>
-
-<div class="row">
-  <div class="col-md-6">
-    <a href="">
-      {% include figure.liquid loading="eager" path="assets/img/68france-hotel-villa/aolitravel.com-hotel-villa-reservation-3.webp" title="aolitravel.com-hotel-villa-reservation" class="img-fluid rounded z-depth-1" %}
-      <p>位于Chambord</p>
-      <p>踏入卡尔维高地上的拉维拉酒店，便步入一个非凡的世界。</p>
-    </a>
-  </div>
-  <div class="col-md-6">
-    <a href="">
-      {% include figure.liquid loading="eager" path="assets/img/68france-hotel-villa/aolitravel.com-hotel-villa-reservation-3.webp" title="aolitravel.com-hotel-villa-reservation" class="img-fluid rounded z-depth-1" %}
-      <p>位于Paris</p>
-      <p>踏入卡尔维高地上的拉维拉酒店，便步入一个非凡的世界。</p>
-    </a>
-  </div>
-</div>
-
+无论是常年合作的 Relais & Châteaux、Preferred Hotels，还是法国本地别墅和酒店等资源，我们都以旅客的需求为核心，甄选最优质、最匹配的住宿方案。正是这样一张强大的合作网络，让我们能为每一位客户，呈现真正值得信赖的精品法式假期。
 
 
 ---
