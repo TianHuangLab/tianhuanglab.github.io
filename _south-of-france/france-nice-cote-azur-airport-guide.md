@@ -186,7 +186,7 @@ published: true
 
 - Europcar、Avis、Sixt、Hertz、Budget、Goldcar 等
 
-📍图片建议：租车公司门店集锦图
+{% include figure.liquid loading="eager" path="assets/img/72nice-cote-azur-airport/nice-cote-azur-airport-10.webp" title="aolitravel.com-nice-airport-travel-guide" class="img-fluid rounded z-depth-1"  alt="aolitravel.com-nice-airport-travel-guide"%}
 
 ---
 
