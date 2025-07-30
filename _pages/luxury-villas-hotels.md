@@ -10,7 +10,7 @@ images:
   compare: true
   slider: true
 social: true
-published: true
+published: false
 ---
 
 <swiper-container keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true">
