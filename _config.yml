@@ -280,7 +280,7 @@ jekyll-archives:
     tag: "/blog/tag/:name/"
     category: "/blog/category/:name/"
 
-display_tags: ["巴黎", "马赛", "普罗旺斯", "格勒诺布尔", "阿尔卑斯", "法国", "瑞士"] # these tags will be displayed on the front page of your blog
+display_tags: ["巴黎", "马赛", "普罗旺斯", "尼斯", "蔚蓝海岸", "阿维尼翁", "格勒诺布尔", "阿尔卑斯", "法国", "瑞士"] # these tags will be displayed on the front page of your blog
 display_categories: ["文化与历史", "美食与餐厅推荐", "自然风光", "自驾旅行", "节庆与活动"] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
