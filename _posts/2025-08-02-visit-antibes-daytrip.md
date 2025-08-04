@@ -9,7 +9,7 @@ thumbnail: assets/img/76visit-antibes/visit-antibes-daytrip-0.webp
 published: true
 ---
 
-{% include figure.liquid loading="eager" path="assets/img/76visit-antibes/visit-antibes-daytrip-0.webp" title="昂蒂布一日游游记visit-antibes-daytrip" class="img-fluid rounded z-depth-1" alt="昂蒂布一日游游记visit-antibes-daytrip"%}
+{% include figure.liquid loading="eager" path="assets/img/76visit-antibes/visit-antibes-daytrip-1.webp" title="昂蒂布一日游游记visit-antibes-daytrip" class="img-fluid rounded z-depth-1" alt="昂蒂布一日游游记visit-antibes-daytrip"%}
 
 其实Antibes我已经来过很多次了。每次都是陪着家人、朋友，或者带客户旅行。因为总是“带人”，所以行程都偏向配合，走走停停，拍点照片就匆匆离开。虽然每次都觉得这里好美，却始终没有真正静下心来，好好地感受、也从没认真写过一篇属于Antibes的游记。
 
@@ -19,8 +19,9 @@ published: true
 
 所以我决定，好好写一次，把我眼中的Antibes记录下来：这里的蓝天、海风、礁石、沙滩，还有街角那些藏不住生活气息的小店。写给自己，也写给未来某一天想来南法走走的你。
 
+<div class="row justify-content-sm-center">
   <div class="col-sm mt-3 mt-md-0">
-{% include figure.liquid loading="eager" path="assets/img/76visit-antibes/visit-antibes-daytrip-1.webp" title="昂蒂布一日游游记visit-antibes-daytrip" class="img-fluid rounded z-depth-1" alt="昂蒂布一日游游记visit-antibes-daytrip"%}
+{% include figure.liquid loading="eager" path="assets/img/76visit-antibes/visit-antibes-daytrip-0.webp" title="昂蒂布一日游游记visit-antibes-daytrip" class="img-fluid rounded z-depth-1" alt="昂蒂布一日游游记visit-antibes-daytrip"%}
   </div>
   <div class="col-sm mt-3 mt-md-0">
 {% include figure.liquid loading="eager" path="assets/img/76visit-antibes/visit-antibes-daytrip-2.webp" title="昂蒂布一日游游记visit-antibes-daytrip" class="img-fluid rounded z-depth-1" alt="昂蒂布一日游游记visit-antibes-daytrip"%}
@@ -37,7 +38,7 @@ Antibes，中文叫“昂蒂布”，位于法国南部蔚蓝海岸线上。它�
 从火车站出来，五分钟就能看到港口，一排排洁白的游艇在阳光下发光。海水是明亮的蓝，远处云层深处还藏着雪山——每次看见，都会忍不住停下脚步多望几眼。
 
 来Antibes，不需要安排太多计划。这里的节奏就像它的海风一样，温柔、缓慢，适合随心所欲地“浪费时间”。
-
+<div class="row justify-content-sm-center">
   <div class="col-sm mt-3 mt-md-0">
 {% include figure.liquid loading="eager" path="assets/img/76visit-antibes/visit-antibes-daytrip-3.webp" title="昂蒂布一日游游记visit-antibes-daytrip" class="img-fluid rounded z-depth-1" alt="昂蒂布一日游游记visit-antibes-daytrip"%}
   </div>
@@ -61,7 +62,7 @@ Antibes，中文叫“昂蒂布”，位于法国南部蔚蓝海岸线上。它�
 我站在Plage du Ponteil的那一侧回望小镇，眼前的风景几乎和他画里一模一样。那一刻我觉得，我们站在了同一个视角上，跨越了百年。
 
 顺带一提，毕加索也在这里住过。他60岁那年和情人旅居Antibes半年，画了很多跳脱可爱的海洋生物——红色海星、大龙虾什么的。现在老城里的毕加索博物馆，就是他当年创作的地方。
-
+<div class="row justify-content-sm-center">
   <div class="col-sm mt-3 mt-md-0">
 {% include figure.liquid loading="eager" path="assets/img/76visit-antibes/visit-antibes-daytrip-5.webp" title="昂蒂布一日游游记visit-antibes-daytrip" class="img-fluid rounded z-depth-1" alt="昂蒂布一日游游记visit-antibes-daytrip"%}
   </div>
@@ -86,6 +87,7 @@ Antibes，中文叫“昂蒂布”，位于法国南部蔚蓝海岸线上。它�
 6. **老城区闲逛**：沿着小巷回到老城，顺路吃饭喝咖啡
 
 这条路线走起来非常舒服，不用爬坡、一路都是风情，全程在海风中穿行（如果夏天出行，记得注意防晒）。
+<div class="row justify-content-sm-center">
   <div class="col-sm mt-3 mt-md-0">
 {% include figure.liquid loading="eager" path="assets/img/76visit-antibes/visit-antibes-daytrip-7.webp" title="昂蒂布一日游游记visit-antibes-daytrip" class="img-fluid rounded z-depth-1" alt="昂蒂布一日游游记visit-antibes-daytrip"%}
   </div>
@@ -94,6 +96,7 @@ Antibes，中文叫“昂蒂布”，位于法国南部蔚蓝海岸线上。它�
   </div>
 </div>
 
+<div class="row justify-content-sm-center">
   <div class="col-sm mt-3 mt-md-0">
 {% include figure.liquid loading="eager" path="assets/img/76visit-antibes/visit-antibes-daytrip-9.webp" title="昂蒂布一日游游记visit-antibes-daytrip" class="img-fluid rounded z-depth-1" alt="昂蒂布一日游游记visit-antibes-daytrip"%}
   </div>
@@ -146,6 +149,7 @@ Antibes是我心里最“蓝”的地方。不是忧郁的蓝，而是一种透�
 每次离开Antibes，我都会告诉自己：“这次要写一篇游记。”
 
 这次，我终于做到了。
+<div class="row justify-content-sm-center">
   <div class="col-sm mt-3 mt-md-0">
 {% include figure.liquid loading="eager" path="assets/img/76visit-antibes/visit-antibes-daytrip-11.webp" title="昂蒂布一日游游记visit-antibes-daytrip" class="img-fluid rounded z-depth-1" alt="昂蒂布一日游游记visit-antibes-daytrip"%}
   </div>
