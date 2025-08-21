@@ -5,7 +5,6 @@ img: assets/img/2paris-top-20-20.jpg
 importance: 10
 category: 
 pretty_table: true
-nav: false
 images:
   slider: true
 ---
@@ -27,8 +26,6 @@ images:
 
 这是一场短暂却浓缩的巴黎艺术与王权之旅，让你在一天之内领略“光之城”的经典与永恒。
 
----
-
 ✨ **核心亮点**
 
 - **舒心出发**｜灵活接送，无论机场、车站还是酒店，轻松开启巴黎探索
@@ -41,11 +38,17 @@ images:
 
 ## 行程美图
 
-<div class="carousel-container" data-folder="5paris-4days-trip" data-images='[
-  "5paris-4days-trip-0-0.jpg",
-  "5paris-4days-trip-1.jpg",
-  "5paris-4days-trip-2.jpg",
-  "5paris-4days-trip-0.jpg"
+<div class="carousel-container" data-folder="" data-images='[
+  "2paris-top-20-0.jpg",
+  "2paris-top-20-2.jpg",
+  "2paris-top-20-4.jpg",
+  "2paris-top-20-5.jpg",
+  "2paris-top-20-6.jpg",
+  "2paris-top-20-7.jpg",
+  "2paris-top-20-9.jpg",
+  "2paris-top-20-12.jpg",
+  "2paris-top-20-19.jpg",
+  "2paris-top-20-20.jpg"
 ]'></div>
 
 ---
@@ -54,7 +57,7 @@ images:
 
 | 团期 | 人数 | 价格 |
 | --- | --- | --- |
-| 全年可出发（需提前2天预约） | 1-2人 | 请联系我们拼团 |
+| 全年可出发（请提前至少2天预约） | 1-2人 | 请联系我们拼团 |
 | （同上） | 3-8人 | 100欧元/人 |
 | （同上） | 9人及以上 | 价格优惠，请咨询我们 |
 
@@ -63,6 +66,7 @@ images:
 
 - 本线路全年发团，3人起成团，请提前至少2天预订。若您为1至2人或需选择其他出发日期，欢迎联系我们拼团！
 - 3-8人出行，每人100欧元；9人及以上可享专属优惠，欢迎联系我们定制报价！
+- 温馨提示：本行程包含凡尔赛宫内部参观（门票可原价代购，无任何手续费），请您提前告知出行日期以便安排。由于行程时间有限，卢浮宫博物馆、凯旋门及埃菲尔铁塔仅安排外部参观与拍照。
 
 <div class="d-flex gap-3 flex-wrap mt-2">
   <!-- 立即预订按钮（跳转至 Stripe 页面）-->
@@ -93,7 +97,7 @@ images:
 
 ## 行程路线
 
-
+<iframe width="100%" height="300px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/zh/map/map_1270907?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true#10/48.9248/2.0977"></iframe><p><a href="//umap.openstreetmap.fr/zh/map/map_1270907?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true#10/48.9248/2.0977">全屏</a></p>
 
 ---
 
@@ -105,9 +109,9 @@ images:
 
 ⏩
 
-**第一站｜卢浮宫（外观）**
+**第一站｜卢浮宫博物馆 & 杜乐丽花园**
 
-我们的行程从世界最大艺术殿堂——卢浮宫开始。虽然只是外观参观，但玻璃金字塔与古典宫殿交相辉映的画面，足以令人震撼。站在艺术之心的广场上，你能感受到这座博物馆所凝聚的几百年文明与艺术辉煌。
+我们的行程从世界闻名的艺术殿堂——卢浮宫外观开启。即便不入馆参观，玻璃金字塔与古典宫殿交相辉映的景致，依然足以令人惊叹。在这片艺术的心脏广场上，几百年文明与辉煌仿佛在你眼前流动。随后，你可悠然漫步于杜乐丽花园，在花木与喷泉之间感受法式皇家园林的优雅与魅力。
 
 ⏩
 
@@ -117,9 +121,9 @@ images:
 
 ⏩
 
-**第三站｜埃菲尔铁塔（车览）**
+**第三站｜埃菲尔铁塔**
 
-车行至塞纳河畔，埃菲尔铁塔的身影渐渐映入眼帘。它是巴黎最具标志性的浪漫符号，无论从哪个角度眺望，都散发着优雅与力量。车览途中，你将拥有最轻松的方式去欣赏它的雄伟与浪漫气息。
+接着，我们将会带您行至塞纳河畔。埃菲尔铁塔的身影渐渐映入眼帘，它是巴黎最具标志性的浪漫符号，无论从哪个角度眺望，都散发着优雅与力量。行程途中，你将拥有最轻松的方式去欣赏它的雄伟与浪漫气息。
 
 ⏩
 
@@ -154,17 +158,10 @@ images:
 
 ## 行摄印象
 
-<div class="carousel-container" data-folder="" data-images='[
-  "2paris-top-20-0.jpg",
-  "2paris-top-20-3.jpg",
-  "2paris-top-20-4.jpg",
-  "2paris-top-20-5.jpg",
-  "2paris-top-20-6.jpg",
-  "2paris-top-20-7.jpg",
-  "2paris-top-20-9.jpg",
-  "2paris-top-20-12.jpg",
-  "2paris-top-20-19.jpg",
-  "2paris-top-20-20.jpg"
+<div class="carousel-container" data-folder="5paris-4days-trip" data-images='[
+  "5paris-4days-trip-1.jpg",
+  "5paris-4days-trip-2.jpg",
+  "5paris-4days-trip-0.jpg"
 ]'></div>
 
 
@@ -273,10 +270,10 @@ images:
 - **景点游览保障：** 行程所列景点确保100%游览。如遇节假日休息、景点临时关闭等特殊情况，导游将根据实际情况灵活调整，确保整体游览体验。
 - **交通情况提示：** 部分城市在高峰时段可能出现交通拥堵。若因不可控交通因素导致行程延误，敬请旅客耐心配合，理解当地实际情况。
 - **接送服务说明：** 我们可提供接送机、接送站服务，主要覆盖以下交通枢纽：
-    - 马赛艾克斯国际机场（Marseille Aix Airport，机场代码 MRS）
-    - 马赛圣查尔斯火车站（Marseille Saint-Charles Station）
-    - 艾克斯-普罗旺斯火车站 （Aix-en-Provence TGV Station & Train Station）
-    - 其他地区如尼斯（Nice）、蒙彼利埃（Montpillier）等周边国际机场或火车站亦可安排。
+     - 巴黎戴高乐国际机场（Paris Charles de Gaulle Airport，机场代码 CDG）
+     - 巴黎奥利机场（Paris Orly Airport，机场代码 ORY）
+     - 巴黎博韦机场（Paris Beauvais Airport，机场代码 BVA）
+     - 其他地区如里昂（Lyon）、里尔（Lille）等周边国际机场或火车站亦可安排。
 *所有接送服务需另行付费，具体费用请与我们联系确认。可提供中文、英文、法语多语言接送服务，确保您的旅途顺畅安心。*
 
 ---
