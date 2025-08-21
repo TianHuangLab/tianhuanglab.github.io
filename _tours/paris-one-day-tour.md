@@ -40,9 +40,8 @@ images:
 
 <div class="carousel-container" data-folder="" data-images='[
   "2paris-top-20-0.jpg",
-  "2paris-top-20-2.jpg",
   "2paris-top-20-4.jpg",
-  "2paris-top-20-5.jpg",
+  "2paris-top-20-2.jpg",
   "2paris-top-20-6.jpg",
   "2paris-top-20-7.jpg",
   "2paris-top-20-9.jpg",
@@ -70,7 +69,7 @@ images:
 
 <div class="d-flex gap-3 flex-wrap mt-2">
   <!-- 立即预订按钮（跳转至 Stripe 页面）-->
-  <a href="" target="_blank" rel="noopener noreferrer" class="btn btn-lg text-white" style="background-color: #6f42c1; border-radius: 0.75rem;">
+  <a href="https://book.stripe.com/fZufZibip74WbEqcCa4c809" target="_blank" rel="noopener noreferrer" class="btn btn-lg text-white" style="background-color: #6f42c1; border-radius: 0.75rem;">
     立即预订
   </a>
 
@@ -133,7 +132,7 @@ images:
 
 <div class="d-flex gap-3 flex-wrap mt-2">
   <!-- 立即预订按钮（跳转至 Stripe 页面）-->
-  <a href="https://book.stripe.com/28E6oI86dcpg5g29pY4c808" target="_blank" rel="noopener noreferrer" class="btn btn-lg text-white" style="background-color: #6f42c1; border-radius: 0.75rem;">
+  <a href="https://book.stripe.com/fZufZibip74WbEqcCa4c809" target="_blank" rel="noopener noreferrer" class="btn btn-lg text-white" style="background-color: #6f42c1; border-radius: 0.75rem;">
     立即预订
   </a>
 
