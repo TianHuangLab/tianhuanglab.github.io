@@ -58,7 +58,7 @@ images:
   "2paris-top-20-2.jpg",
   "2paris-top-20-6.jpg",
   "2paris-top-20-12.jpg",
-  "2paris-top-20-37.jpg",
+  "2paris-top-20-37.jpg"
 ]'></div>
 
 ---
@@ -76,11 +76,11 @@ images:
 
 - 本线路全年发团，3人起成团，请提前至少2天预订。若您为1至2人或需选择其他出发日期，欢迎联系我们拼团或包车出行！
 - 3-8人出行，每人200欧元；9人及以上可享专属优惠，欢迎联系我们定制报价！
-- 温馨提示：本行程包含卢浮宫、凡尔赛宫和圣心大教堂内部参观（其中卢浮宫和凡尔赛宫门票可原价代购，无任何手续费；巴黎圣母院可帮助预约），请您提前告知出行日期以便安排。由于行程时间有限，凯旋门、埃菲尔铁塔、巴黎市政厅、巴黎圣母院（需提前预约参观）仅安排外部参观与拍照。
+- 温馨提示：本行程包含**卢浮宫、凡尔赛宫和圣心大教堂**的内部参观，其中卢浮宫和凡尔赛宫门票可原价代购，无任何手续费。**巴黎圣母院**内部参观通常需排队**10–30分钟**，可通过提前购买塔楼门票实现快速入场，请您提前告知出行日期以便安排。由于行程时间有限，**凯旋门、埃菲尔铁塔及巴黎市政厅**将仅安排外部参观与拍照。
 
 <div class="d-flex gap-3 flex-wrap mt-2">
   <!-- 立即预订按钮（跳转至 Stripe 页面）-->
-  <a href="" target="_blank" rel="noopener noreferrer" class="btn btn-lg text-white" style="background-color: #6f42c1; border-radius: 0.75rem;">
+  <a href="https://book.stripe.com/cNi28s5Y5cpg7oa7hQ4c80a" target="_blank" rel="noopener noreferrer" class="btn btn-lg text-white" style="background-color: #6f42c1; border-radius: 0.75rem;">
     立即预订
   </a>
 
@@ -116,8 +116,6 @@ images:
 **出发点｜巴黎市区 / 机场 / 火车站**
 
 在晨曦初露之时，我们将从巴黎市区或机场、火车站出发，踏上一场经典的“光之城”探索之旅。车窗外，塞纳河缓缓流淌，古老与浪漫在街角苏醒，一段融合艺术与王权的深度旅程由此开启。
-
----
 
 ### **Day 1｜艺术与巴黎地标**
 
@@ -159,7 +157,7 @@ images:
 
 <div class="d-flex gap-3 flex-wrap mt-2">
   <!-- 立即预订按钮（跳转至 Stripe 页面）-->
-  <a href="" target="_blank" rel="noopener noreferrer" class="btn btn-lg text-white" style="background-color: #6f42c1; border-radius: 0.75rem;">
+  <a href="https://book.stripe.com/cNi28s5Y5cpg7oa7hQ4c80a" target="_blank" rel="noopener noreferrer" class="btn btn-lg text-white" style="background-color: #6f42c1; border-radius: 0.75rem;">
     立即预订
   </a>
 
@@ -188,9 +186,9 @@ images:
   "2paris-top-20-30.jpg",
   "2paris-top-20-29.jpg",
   "2paris-top-20-22.jpg",
-  "2paris-top-20-23.jpg"
+  "2paris-top-20-23.jpg",
   "2paris-top-20-41.jpg",
-  "2paris-top-20-42.jpg",
+  "2paris-top-20-42.jpg"
 ]'></div>
 
 
