@@ -52,7 +52,7 @@ images:
   "2paris-top-20-7.jpg",
   "2paris-top-20-9.jpg",
   "2paris-top-20-19.jpg",
-  "2paris-top-20-20.jpg"
+  "2paris-top-20-20.jpg",
   "2paris-top-20-0.jpg",
   "2paris-top-20-4.jpg",
   "2paris-top-20-2.jpg",
