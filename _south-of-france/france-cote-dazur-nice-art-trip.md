@@ -17,14 +17,18 @@ published: true
 
 如果你问我，什么地方既能让你沉醉在阳光和海风中，又能让你在艺术的海洋里徜徉？答案一定是蔚蓝海岸（Côte d’Azur）。这里不仅是度假天堂，更是艺术家们的灵感圣地。从尼斯（Nice）到摩纳哥（Monaco），从安提布（Antibes）到圣保罗·德旺斯（Saint-Paul de Vence），每一座小城都闪耀着艺术的光芒。
 
-今天，我就带你一起开启一段**艺术博物馆之旅**，轻松、优雅、充满惊喜。我们将走进12座不可错过的博物馆，聊聊它们的历史与文化，交通与票价，还有那些不容错过的展品。最后，我会贴心地为你设计两条完美的一日游线路，让你的旅程既充实又舒心。
+今天，我就带你一起开启一段**艺术博物馆之旅**，轻松、优雅、充满惊喜。我们将走进12座不可错过的博物馆，聊聊它们的历史与文化，交通与票价，还有那些不容错过的展品和它们的艺术文化背景。之后，当你来到法国蔚蓝海岸的时候，你可以自由选择你感兴趣的艺术博物馆，将它们串联成一日游或二日游线路，比如尼斯、摩纳哥的博物馆，或尼斯、滨海卡涅、昂蒂布、戛纳的博物馆，开启属于你自己的蔚蓝海岸艺术之旅！
 
 > 如果你想来法国玩，但是还不知道如何规划行程？路线怎么安排？哪几个城市可以串联起来？如何在小众小镇找到最佳住宿和地道美食？
 > 
 
 别担心！不妨看看我的推荐 - [精选线路](https://aolitravel.com/tours/)，亦或是找我[定制行程](https://aolitravel.com/custom-travel/)
 
-{% include figure.liquid loading="eager" path="assets/img/47visit-toulon/visit-toulon-city-guide-0a.webp" title="aolitravel.com-visit-toulon" class="img-fluid rounded z-depth-1"  alt="土伦游览攻略visit-toulon"%}
+{% include figure.liquid loading="eager" path="assets/img/12nice-top-18-things-to-do/12nice-top-18-things-to-do-4.jpg" title="aolitravel.com-cote-dazur-art-musuem-trip" class="img-fluid rounded z-depth-1"  alt="南法尼斯艺术之旅cote-dazur-art-musuem-trip"%}
+
+更多关于尼斯、蔚蓝海岸或周边普罗旺斯的攻略，可以查看我的以下攻略内容：
+
+[南法旅行攻略](https://aolitravel.com/south-of-france/)
 
 ---
 
@@ -39,6 +43,8 @@ published: true
 {% include figure.liquid loading="eager" path="assets/img/80cote-dazur-nice-art-trip/cote-dazur-nice-art-trip-1.png" title="aolitravel.com-cote-dazur-art-musuem-trip" class="img-fluid rounded z-depth-1"  alt="南法尼斯艺术之旅cote-dazur-art-musuem-trip"%}
 {% include figure.liquid loading="eager" path="assets/img/80cote-dazur-nice-art-trip/cote-dazur-nice-art-trip-1a.png" title="aolitravel.com-cote-dazur-art-musuem-trip" class="img-fluid rounded z-depth-1"  alt="南法尼斯艺术之旅cote-dazur-art-musuem-trip"%}
 
+---
+
 ### 2. 夏加尔博物馆（Musée National Marc Chagall）
 
 - **历史与背景**：夏加尔博物馆是法国为单一艺术家设立的最大规模美术馆之一，也是夏加尔生前亲自参与设计的独特空间。博物馆于1973年开馆，核心收藏是夏加尔最重要的宗教主题系列《圣经信息》（Message Biblique），这些作品用充满梦幻与象征的色彩，重新诠释了《旧约圣经》中的故事。夏加尔以他独有的诗意语言，将爱、信仰与人类的精神追求融合在画布上。除了绘画，博物馆还展示了彩色玻璃、陶瓷和挂毯，充分体现他跨界创作的广度。整个建筑与花园布局也经过精心设计，阳光透过落地窗洒入展厅，使观者仿佛置身一个与神性对话的圣殿。走进这里，你不仅是在欣赏艺术，更像是在聆听一首视觉化的交响曲。
@@ -47,6 +53,8 @@ published: true
 {% include figure.liquid loading="eager" path="assets/img/80cote-dazur-nice-art-trip/cote-dazur-nice-art-trip-2.png" title="aolitravel.com-cote-dazur-art-musuem-trip" class="img-fluid rounded z-depth-1"  alt="南法尼斯艺术之旅cote-dazur-art-musuem-trip"%}
 {% include figure.liquid loading="eager" path="assets/img/80cote-dazur-nice-art-trip/cote-dazur-nice-art-trip-2a.png" title="aolitravel.com-cote-dazur-art-musuem-trip" class="img-fluid rounded z-depth-1"  alt="南法尼斯艺术之旅cote-dazur-art-musuem-trip"%}
 
+---
+
 ### 3. 现代与当代艺术博物馆（MAMAC - Musée d’Art Moderne et d’Art Contemporain）
 
 - **历史与背景**：MAMAC 于1990年开馆，短短几十年间已成为蔚蓝海岸当代艺术的重镇。博物馆建筑由伊夫·巴耶尔（Yves Bayard）和亨利·维代伊（Henri Vidal）设计，四座巨大的白色塔楼通过玻璃步道相连，造型现代而富有未来感。馆藏以欧洲和美国20世纪60年代以来的艺术为核心，涵盖了波普艺术、新现实主义、极简主义与零艺术运动等流派。法国艺术家伊夫·克莱因（Yves Klein）的“国际克莱因蓝”系列在此占有重要位置，还有尼基·德·圣法勒（Niki de Saint Phalle）的雕塑作品，色彩明快、充满想象力。博物馆还定期举办当代艺术家的临时展览，极具实验性和国际视野。顶层露台更是隐藏的惊喜，俯瞰尼斯全城和地中海，一边感受艺术，一边享受风景，美不胜收。
@@ -54,6 +62,8 @@ published: true
 - **票价与官网**：[MAMAC 官网](https://www.mamac-nice.org/)，票价10欧元，目前暂时关闭中，具体开放信息可以查看官网。
 {% include figure.liquid loading="eager" path="assets/img/80cote-dazur-nice-art-trip/cote-dazur-nice-art-trip-3.png" title="aolitravel.com-cote-dazur-art-musuem-trip" class="img-fluid rounded z-depth-1"  alt="南法尼斯艺术之旅cote-dazur-art-musuem-trip"%}
 {% include figure.liquid loading="eager" path="assets/img/80cote-dazur-nice-art-trip/cote-dazur-nice-art-trip-3a.png" title="aolitravel.com-cote-dazur-art-musuem-trip" class="img-fluid rounded z-depth-1"  alt="南法尼斯艺术之旅cote-dazur-art-musuem-trip"%}
+
+---
 
 ### 4. 尼斯美术博物馆（Musée des Beaux-Arts）
 
@@ -148,6 +158,7 @@ published: true
 {% include figure.liquid loading="eager" path="assets/img/80cote-dazur-nice-art-trip/cote-dazur-nice-art-trip-11a.png" title="aolitravel.com-cote-dazur-art-musuem-trip" class="img-fluid rounded z-depth-1"  alt="南法尼斯艺术之旅cote-dazur-art-musuem-trip"%}
 {% include figure.liquid loading="eager" path="assets/img/80cote-dazur-nice-art-trip/cote-dazur-nice-art-trip-11b.png" title="aolitravel.com-cote-dazur-art-musuem-trip" class="img-fluid rounded z-depth-1"  alt="南法尼斯艺术之旅cote-dazur-art-musuem-trip"%}
 
+---
 
 ### 12. 摩纳哥国家新博物馆 Villa Sauber（Nouveau Musée National de Monaco）
 
