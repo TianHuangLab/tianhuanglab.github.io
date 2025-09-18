@@ -30,13 +30,13 @@ Bon voyage！我们一起轻松探索巴黎吧！
 > 顺便提一句，很多第一次来到巴黎的朋友都会问我：除了地铁、巴士和火车，从机场到市区还有更方便的方式吗？答案是肯定的！其实还有一种更省心的选择——直接预订包车服务。不仅可以轻松搞定巴黎机场接送，还能顺带安排一日游或二日游行程。下面就是我们奥利旅行精心推荐的巴黎精选一日游和二日游路线，让你用最舒适的方式开启巴黎之旅！
 > 
 
-<a href="https://aolitravel.com/tours/">
-  {% include figure.liquid 
-     loading="eager" 
-     path="assets/img/0tours/selected-tour-a-paris.png" 
-     title="selected-paris-tours" 
-     class="img-fluid rounded z-depth-1" %}
+
+
+<a href="https://aolitravel.com/tours/" target="_blank" style="display: block;">
+  {% include figure.liquid loading="eager" path="assets/img/0tours/selected-tour-a-paris.png" title="marseille-trip-aolitravel.com" class="img-fluid rounded z-depth-1" %}
 </a>
+
+{% include figure.liquid loading="eager" path="assets/img/0tours/selected-tour-a-paris.png" title="marseille-trip-aolitravel.com" class="img-fluid rounded z-depth-1" link="https://aolitravel.com/tours/" target="_blank"%}
 
 话不多说，接下来就带大家一起看看巴黎机场怎么方便地进出市区！
 
@@ -447,12 +447,8 @@ Roissybus 的班次频率较高，特别适合不想换乘、希望直接到达�
 > 在搞清楚了巴黎机场交通的常见方式之后，如果你希望旅途更省心，特别是带着家人、朋友或者行李较多，其实选择包车会更舒适也更高效。为了方便大家，我特地整理了几条精选路线，不仅涵盖了巴黎机场接送，还结合了一日游和二日游的经典行程。欢迎点击查看！
 > 
 
-<a href="https://aolitravel.com/tours/">
-  {% include figure.liquid 
-     loading="eager" 
-     path="assets/img/0tours/selected-tour-a-paris.png" 
-     title="selected-paris-tours" 
-     class="img-fluid rounded z-depth-1" %}
+<a href="https://aolitravel.com/tours/" target="_blank" style="display: block;">
+  {% include figure.liquid loading="eager" path="assets/img/0tours/selected-tour-a-paris.png" title="marseille-trip-aolitravel.com" class="img-fluid rounded z-depth-1" %}
 </a>
 
 
