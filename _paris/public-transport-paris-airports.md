@@ -161,7 +161,6 @@ Navette N1 每天 **24小时运营**，班次频繁，大约每 **10至15分钟*
 无论是短暂停留还是深度游玩，选择合适的酒店能让旅程更轻松顺利。接下来，我整理了一些巴黎各区的此时此刻有优惠活动的酒店推荐，方便你根据位置和预算挑选最适合的住宿。
 
 <ins class="klk-aff-widget"
-            
             data-aid="81133"
             data-city_id="107"
             data-country_id="1033"
@@ -172,8 +171,8 @@ Navette N1 每天 **24小时运营**，班次频繁，大约每 **10至15分钟*
             data-label2=""
             data-label3=""
             data-prod="deals_widget"
-            data-total="3">
-                <a href="//www.klook.com/">Klook.com</a>
+            data-total="3">               
+<a href="//www.klook.com/">Klook.com</a>
 </ins>
 
 <script type="text/javascript">
@@ -421,7 +420,6 @@ Roissybus 的班次频率较高，特别适合不想换乘、希望直接到达�
 无论是短暂停留还是深度游玩，选择合适的酒店能让旅程更轻松顺利。接下来，我整理了一些巴黎各区的酒店推荐，方便你根据位置和预算挑选最适合的住宿。
 
 <ins class="klk-aff-widget"
-            
             data-aid="81133"
             data-city_id="107"
             data-country_id="1033"
@@ -432,8 +430,8 @@ Roissybus 的班次频率较高，特别适合不想换乘、希望直接到达�
             data-label2=""
             data-label3=""
             data-prod="deals_widget"
-            data-total="3">
-                <a href="//www.klook.com/">Klook.com</a>
+            data-total="3">               
+<a href="//www.klook.com/">Klook.com</a>
 </ins>
 
 <script type="text/javascript">
@@ -663,7 +661,6 @@ Roissybus 的班次频率较高，特别适合不想换乘、希望直接到达�
 [更多关于我的生活记录和感受](https://aolitravel.com/blog/)
 
 <ins class="klk-aff-widget"
-            
             data-aid="81133"
             data-city_id="107"
             data-country_id="1033"
@@ -674,9 +671,10 @@ Roissybus 的班次频率较高，特别适合不想换乘、希望直接到达�
             data-label2=""
             data-label3=""
             data-prod="deals_widget"
-            data-total="6">
-                <a href="//www.klook.com/">Klook.com</a>
+            data-total="6">               
+<a href="//www.klook.com/">Klook.com</a>
 </ins>
+
 <script type="text/javascript">
   (function (d, sc, u) {
     var s = d.createElement(sc),
