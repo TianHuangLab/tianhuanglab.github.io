@@ -19,6 +19,31 @@ map: true
 但别担心，我为你准备了一份简单易懂的攻略，不管是买票、认线路，还是应对换乘，都帮你搞定！让我们一起解锁巴黎地铁的使用秘籍吧 👇
 {% include figure.liquid loading="eager" path="assets/img/6paris-public-transportation/6paris-public-transportation-1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
 
+> 🇫🇷如果你打算来法国玩，却还在想行程怎么排？哪些城市能顺路串联？或者想去点小众小镇，吃吃地道美食、住住有特色的民宿？别急～我都帮你想好了！你可以直接看看我整理的[精选线路](https://aolitravel.com/tours/)，例如巴黎经典之选[一日游线路](https://aolitravel.com/tours/paris-one-day-tour/)或[二日游线路](https://aolitravel.com/tours/paris-two-days-tour/)。如果你想要更特别的体验，也可以找我来做[定制行程](https://aolitravel.com/custom-travel/)。另外，如果你需要巴黎机场接机服务，也别客气找我，从落地那一刻起就帮你安排得妥妥的 ✈️，点这里[联系我们](https://aolitravel.com/)，旅途从第一步就轻松舒心。
+> 
+
+---
+
+**巴黎景点门票推荐**
+在巴黎旅行，除了要熟悉交通出行，更重要的一点是 提前预订景点门票。像卢浮宫、埃菲尔铁塔、凡尔赛宫这些热门景点，常常大排长龙，如果能提前买好 巴黎景点门票和快速通道票，不仅省时省心，还能让你的行程更加高效!
+
+<ins class="klk-aff-widget"  data-adid="1129116" data-lang="" data-currency="" data-cardH="126" data-padding="92" data-lgH="470" data-edgeValue="655" data-prod="static_widget" data-amount="6"><a href="//www.klook.com/">Klook.com</a></ins>
+<script type="text/javascript">
+  (function (d, sc, u) {
+    var s = d.createElement(sc),
+      p = d.getElementsByTagName(sc)[0];
+    s.type = "text/javascript";
+    s.async = true;
+    s.src = u;
+    p.parentNode.insertBefore(s, p);
+  })(
+    document,
+    "script",
+    "https://affiliate.klook.com/widget/fetch-iframe-init.js"
+  );
+</script>
+
+
 ---
 
 ## 🌟 基础知识：巴黎地铁全解析
@@ -151,9 +176,48 @@ Navigo easy 卡不需要任何证件，卡也是不记名的，任何人都可�
 
 4️⃣ 巴黎时有罢工，出发前务必留意地铁运营状况，**提前规划**好路线。
 
----
 
 掌握这些基础知识，巴黎交通就没那么复杂啦。步行感受巴黎的浪漫，地铁则是你的高效出行好帮手！快收藏这份攻略，为你的巴黎之行做好准备吧 🚀
+
+
+---
+
+**巴黎优惠酒店推荐**
+
+在了解了巴黎交通的购票方式之后，你可能会想：那么住在巴黎哪里最方便又舒适呢？
+无论是短暂停留还是深度游玩，选择合适的酒店能让旅程更轻松顺利。接下来，我整理了一些巴黎各区的此时此刻有优惠活动的酒店推荐，方便你根据位置和预算挑选最适合的住宿。
+
+<ins class="klk-aff-widget"
+            data-aid="81133"
+            data-city_id="107"
+            data-country_id="1033"
+            data-tag_id="3"
+            data-currency=""
+            data-lang=""
+            data-label1=""
+            data-label2=""
+            data-label3=""
+            data-prod="deals_widget"
+            data-total="4">               
+<a href="//www.klook.com/">Klook.com</a>
+</ins>
+
+<script type="text/javascript">
+  (function (d, sc, u) {
+    var s = d.createElement(sc),
+      p = d.getElementsByTagName(sc)[0];
+    s.type = "text/javascript";
+    s.async = true;
+    s.src = u;
+    p.parentNode.insertBefore(s, p);
+  })(
+    document,
+    "script",
+    "https://affiliate.klook.com/widget/fetch-iframe-init.js"
+  );
+</script>
+
+---
 
 ## 巴黎公共交通地铁路线图
 
@@ -218,5 +282,181 @@ Navigo easy 卡不需要任何证件，卡也是不记名的，任何人都可�
 在巴黎的大众交通工具上，保持警觉总是明智的选择。记得坐车时，手一直保持在包包上，避免在高发扒手区域暴露贵重物品。这样一来，不仅能让你无忧享受巴黎的美丽，还能保证自己的行李安全，顺利地完成这次旅行。
 
 祝你旅途愉快！
+
+> 如果你想来法国玩，但是还不知道如何规划行程？路线怎么安排？哪几个城市可以串联起来？如何在小众小镇找到最佳住宿和地道美食？别担心！不妨看看我的推荐 - [精选线路](https://aolitravel.com/tours/)，亦或是[联系我](http://aolitravel.com)或是找我[定制行程](https://aolitravel.com/custom-travel/)
+>
+
+---
+
+想了解更多法国的旅行灵感？快来探索我的其他旅游攻略吧！😊🇫🇷
+
+**法国旅游**
+
+[《法国旅行前准备攻略：一站式指南》](https://aolitravel.com/france-travel/france-travel-information/)
+
+[《法国旅行入门攻略：申根旅游签证申请指南》](https://aolitravel.com/france-travel/france-visa-information/)
+
+[《法国文化小课堂｜礼仪、语言、饮食文化、餐馆用餐指南》](https://aolitravel.com/france-travel/french-culture-101-etiquette-language-culinary-dining/)
+
+[《🇫🇷法兰西十二时辰：每个月最该去的绝美秘境，错过等一年！》](https://aolitravel.com/france-travel/explore-france-12-best-monthly-destinations/)
+
+[《法国TOP20滑雪胜地全攻略 ❄️｜探秘阿尔卑斯顶级滑雪天堂》](https://aolitravel.com/france-travel/french-top-20-ski-resort-guides/)
+
+[《法国打折村「不完全指南」带你省钱买大牌！》](https://aolitravel.com/france-travel/france-outlet-shopping-mall-village-guide/)
+
+[《法国看球之旅⚽｜探秘法甲六大豪门》](https://aolitravel.com/france-travel/france-football-league-1-visit-top-6-clubs/)
+
+[《波尔多旅游指南｜探索葡萄酒之城15个宝藏景点》](https://aolitravel.com/france-travel/visit-bordeaux-top-15-things-to-do/)
+
+[《里昂必打卡18大景点：从古迹到艺术，玩转法国“光之城”！》](https://aolitravel.com/france-travel/visit-lyon-top-18-things-to-do/)
+
+[《南法 vs 南意：地中海风情的双面魅力，你Pick哪一边？》](https://aolitravel.com/france-travel/south-france-south-italy-trip-comparison/)
+
+[《玫瑰之城「图卢兹」解锁浪漫与科技的完美之旅》](https://aolitravel.com/france-travel/visit-toulouse-top-12-things-to-do/)
+
+[《欧洲之心「斯特拉斯堡」Top12景点深度游攻略》](https://aolitravel.com/france-travel/visit-strasbourg-top-12-things-to-do/)
+
+[《最美小镇「科尔马」一日游攻略｜仿佛误入童话世界✨》](https://aolitravel.com/france-travel/visit-colmar-1-day-trip/)
+
+[《「格勒诺布尔」终极攻略｜8大必玩景点&美食、远足、滑雪》](https://aolitravel.com/france-travel/visit-grenoble-guide/)
+
+[《南特必玩12大景点全攻略｜教你玩转法国最潮文艺之城！》](https://aolitravel.com/france-travel/visit-nantes-top-12-things-to-do/)
+
+[《3天玩转法国布列塔尼！圣马洛、迪纳尔、迪南、圣米歇尔山全攻略》](https://aolitravel.com/france-travel/visit-brittany-bretagne-saint-malo-dinard-dinan-mont-saint-michel/)
+
+[《雷恩旅游全攻略｜布列塔尼的心脏，历史与活力的魅力之城！》](https://aolitravel.com/france-travel/visit-rennes-top-12-things-to-do/)
+
+[《🇫🇷里尔必玩15大景点全攻略！一次玩透，轻松有趣！》](https://aolitravel.com/france-travel/visit-lille-top-15-things-to-do/)
+
+[《诺曼底之心「鲁昂」城市旅游深度指南｜距离巴黎1.5小时》](https://aolitravel.com/france-travel/visit-rouen-city-guide/)
+
+[《🌿 蒙彼利埃2日生态旅行攻略：徒步、海鲜、运河骑行》](https://aolitravel.com/france-travel/visit-montpellier-city-guide/)
+
+[《🍾香槟之城「兰斯」终极旅行指南》](https://aolitravel.com/france-travel/visit-reims-city-guide/)
+
+[《法国勃艮第童话小城「第戎」的一日旅游攻略》](https://aolitravel.com/france-travel/visit-dijon-city-guide/)
+
+[《探访阿尔卑斯的威尼斯｜我的「安纳西」独家旅游攻略》](https://aolitravel.com/france-travel/visit-alps-annecy-city-guide/)
+
+[《法国世界文化遗产「圣米歇尔山」最全旅行指南！》](https://aolitravel.com/france-travel/visit-saint-michel-mount-normandie/)
+
+[《法国美丽岛「科西嘉」全攻略｜这个地中海神仙小岛也太绝了》](https://aolitravel.com/france-travel/visit-france-corse-guide/)
+
+[《穿越时光的城堡之旅｜法国卢瓦尔河谷最全游览指南》](https://aolitravel.com/france-travel/visit-castles-the-loire-france/)
+
+[《比利牛斯山深藏的安道尔🇦🇩小到离谱，好玩到炸》](https://aolitravel.com/france-travel/visit-pyrenees-andorra-guide/)
+
+[《🇫🇷法国最值得打卡的世界文化遗产TOP15｜一生必去清单》](https://aolitravel.com/france-travel/france-15-unesco-historic-cultural-sites/)
+
+**巴黎**
+
+[《巴黎住宿安全指南｜区域推荐与避坑攻略》](https://aolitravel.com/paris/paris-map-arr/)
+
+[《巴黎必去景点Top20｜一文带你玩转浪漫之都》](https://aolitravel.com/paris/paris-top-20/)
+
+[《2025年最新巴黎机场交通攻略》](https://aolitravel.com/paris/public-transport-paris-airports/)
+
+[《巴黎四天三夜经典行程推荐》](https://aolitravel.com/paris/paris-4days-trip/)
+
+[《最实用的巴黎公共交通指南｜一文看懂怎么选！》](https://aolitravel.com/paris/paris-public-transportation/)
+
+[《巴黎中餐馆卷王争霸赛（上篇）｜干饭人速存！》](https://aolitravel.com/paris/paris-top-50-chinese-restaurants-1/)
+
+[《巴黎中餐馆卷王争霸赛（下篇）｜干饭人速存！》](https://aolitravel.com/paris/paris-top-50-chinese-restaurants-2/)
+
+[《巴黎戴高乐机场最全直飞航班&交通攻略》](https://aolitravel.com/paris/paris-airport-flights-and-pickup/)
+
+[《巴黎迪士尼乐园游玩攻略｜玩转巴黎的魔法世界！》](https://aolitravel.com/paris/visit-disneyland-paris/)
+
+[《必看！凡尔赛宫游览全攻略｜半天&一天行程完美规划》](https://aolitravel.com/paris/visit-versailles/)
+
+[《枫丹白露宫一日游攻略：解锁皇室秘境！》](https://aolitravel.com/paris/visit-fontainebleau/)
+
+[《巴黎周边必去的十个绝美小镇｜1小时交通圈》](https://aolitravel.com/paris/paris-nearby-10-top-villages/)
+
+**南法**
+
+[《最新普罗旺斯薰衣草花期预报💜｜最佳观赏时间与路线》](https://aolitravel.com/south-of-france/visit-france-provence-lavender-season/)
+
+[《🌟南法7天怎么玩？收下这份保姆级攻略！》](https://aolitravel.com/south-of-france/visit-south-france-7-day-trip/)
+
+[《南法Top15最美宝藏小镇推荐!》](https://aolitravel.com/south-of-france/visit-south-france-top-15-villages/)
+
+[《法国马赛-普罗旺斯机场最全指南（含接机服务推荐）！》](https://aolitravel.com/south-of-france/marseille-provence-airport-guide/)
+
+[《🔥巴塞罗那到南法终极交通指南｜私藏路线大公开！》](https://aolitravel.com/south-of-france/from-barcelona-to-marseille-guide/)
+
+[《南法马赛一日游攻略｜本地向导经典路线推荐》](https://aolitravel.com/south-of-france/marseille-1day-trip/)
+
+[《马赛城市住宿指南｜帮你轻松规划马赛之旅》](https://aolitravel.com/south-of-france/marseille-quartier-hotel-recommandation/)
+
+[《马赛必打卡！Top15景点全攻略｜本地向导推荐指南》](https://aolitravel.com/south-of-france/visit-marseille-top15-things-to-do/)
+
+[《南法圣十字湖和看薰衣草最美攻略｜详细停车地点分享》](https://aolitravel.com/south-of-france/visit-lavande-champ-saint-croix-verdon-moustiers-sainte-marie/#%EF%B8%8F-%E7%9C%8B%E6%B9%96%E6%94%BB%E7%95%A5)
+
+[《阿尔勒城市旅行指南｜探索普罗旺斯的魅力》](https://aolitravel.com/south-of-france/visit-arles-city-guide/)
+
+[《「阿维尼翁旅行攻略」解锁教皇之城 🏰 Top15景点！》](https://aolitravel.com/south-of-france/visit-avignon-city-guide-top-15-things-to-do/)
+
+[《南法马赛「城市沙滩」不完全指南》](https://aolitravel.com/south-of-france/marseille-top-beach-guide/)
+
+[《马赛法餐指南｜10家本地人也爱的高分餐厅推荐》](https://aolitravel.com/south-of-france/10-marseille-restaurants-recommandation/)
+
+[《南法粉色盐湖+中世纪古镇艾格莫尔怎么玩？》](https://aolitravel.com/south-of-france/visit-salin-aigues-mortes-camargue-travel-guide/)
+
+[《尼斯最强旅行指南｜Top 18必游景点全攻略》](https://aolitravel.com/south-of-france/nice-top-18-things-to-do/)
+
+[《尼斯住宿全攻略｜7大街区带你解锁南法度假魅力 🌊》](https://aolitravel.com/south-of-france/where-to-stay-in-nice-top7-quariters-hotel-recommandation/)
+
+[《蔚蓝海岸尼斯、摩纳哥、戛纳最强三日游攻略》](https://aolitravel.com/south-of-france/nice-eze-monaco-menton-cannes-3days-trip/)
+
+[《南法宝藏城市「土伦」旅游全攻略》](https://aolitravel.com/south-of-france/visit-toulon-city-guide/)
+
+[《蔚蓝海岸艺术之旅｜尼斯及周边12大博物馆全攻略》](https://aolitravel.com/south-of-france/france-cote-dazur-nice-art-trip/)
+
+**Blog**
+
+[更多关于我的生活记录和感受](https://aolitravel.com/blog/)
+
+
+---
+
+**巴黎优惠酒店推荐**
+
+在了解了巴黎交通的购票方式之后，你可能会想：那么住在巴黎哪里最方便又舒适呢？
+无论是短暂停留还是深度游玩，选择合适的酒店能让旅程更轻松顺利。接下来，我整理了一些巴黎各区的此时此刻有优惠活动的酒店推荐，方便你根据位置和预算挑选最适合的住宿。
+
+<ins class="klk-aff-widget"
+            data-aid="81133"
+            data-city_id="107"
+            data-country_id="1033"
+            data-tag_id="3"
+            data-currency=""
+            data-lang=""
+            data-label1=""
+            data-label2=""
+            data-label3=""
+            data-prod="deals_widget"
+            data-total="6">               
+<a href="//www.klook.com/">Klook.com</a>
+</ins>
+
+<script type="text/javascript">
+  (function (d, sc, u) {
+    var s = d.createElement(sc),
+      p = d.getElementsByTagName(sc)[0];
+    s.type = "text/javascript";
+    s.async = true;
+    s.src = u;
+    p.parentNode.insertBefore(s, p);
+  })(
+    document,
+    "script",
+    "https://affiliate.klook.com/widget/fetch-iframe-init.js"
+  );
+</script>
+
+
+
 
 
