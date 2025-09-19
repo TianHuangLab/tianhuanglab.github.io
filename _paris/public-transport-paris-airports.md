@@ -165,7 +165,7 @@ Navette N1 每天 **24小时运营**，班次频繁，大约每 **10至15分钟*
             data-aid="81133"
             data-city_id="107"
             data-country_id="1033"
-            data-tag_id="0"
+            data-tag_id="3"
             data-currency=""
             data-lang=""
             data-label1=""
@@ -174,7 +174,8 @@ Navette N1 每天 **24小时运营**，班次频繁，大约每 **10至15分钟*
             data-prod="deals_widget"
             data-total="3">
                 <a href="//www.klook.com/">Klook.com</a>
-          </ins>
+</ins>
+
 <script type="text/javascript">
   (function (d, sc, u) {
     var s = d.createElement(sc),
@@ -424,7 +425,7 @@ Roissybus 的班次频率较高，特别适合不想换乘、希望直接到达�
             data-aid="81133"
             data-city_id="107"
             data-country_id="1033"
-            data-tag_id="0"
+            data-tag_id="3"
             data-currency=""
             data-lang=""
             data-label1=""
@@ -433,8 +434,22 @@ Roissybus 的班次频率较高，特别适合不想换乘、希望直接到达�
             data-prod="deals_widget"
             data-total="3">
                 <a href="//www.klook.com/">Klook.com</a>
-          </ins>
+</ins>
 
+<script type="text/javascript">
+  (function (d, sc, u) {
+    var s = d.createElement(sc),
+      p = d.getElementsByTagName(sc)[0];
+    s.type = "text/javascript";
+    s.async = true;
+    s.src = u;
+    p.parentNode.insertBefore(s, p);
+  })(
+    document,
+    "script",
+    "https://affiliate.klook.com/widget/fetch-iframe-init.js"
+  );
+</script>
 
 
 ---
@@ -647,5 +662,33 @@ Roissybus 的班次频率较高，特别适合不想换乘、希望直接到达�
 
 [更多关于我的生活记录和感受](https://aolitravel.com/blog/)
 
-<iframe border="0" src="https://tw.trip.com/partners/ad/DB5459337?Allianceid=5840493&SID=157301299&trip_sub1=%E5%B7%B4%E9%BB%8E%E9%85%92%E5%BA%97" style="width:728px;height:90px" frameborder="0" scrolling="no" style="border:none" id="DB5459337"></iframe>
+<ins class="klk-aff-widget"
+            
+            data-aid="81133"
+            data-city_id="107"
+            data-country_id="1033"
+            data-tag_id="3"
+            data-currency=""
+            data-lang=""
+            data-label1=""
+            data-label2=""
+            data-label3=""
+            data-prod="deals_widget"
+            data-total="6">
+                <a href="//www.klook.com/">Klook.com</a>
+</ins>
+<script type="text/javascript">
+  (function (d, sc, u) {
+    var s = d.createElement(sc),
+      p = d.getElementsByTagName(sc)[0];
+    s.type = "text/javascript";
+    s.async = true;
+    s.src = u;
+    p.parentNode.insertBefore(s, p);
+  })(
+    document,
+    "script",
+    "https://affiliate.klook.com/widget/fetch-iframe-init.js"
+  );
+</script>
 
