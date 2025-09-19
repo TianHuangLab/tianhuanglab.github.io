@@ -8,7 +8,7 @@ images:
   compare: true
   slider: true
 social: true
-published: false
+published: true
 ---
 
 <swiper-container keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true">
@@ -298,5 +298,26 @@ published: false
   </div>
 
 ---
+
+<ins class="klk-aff-widget" data-aid="81133" data-city_id="107" data-country_id="1033" data-tag_id="3" data-currency="" data-lang="" data-label1="" data-label2="" data-label3="" data-prod="deals_widget" data-total="6">
+     
+  <a href="//www.klook.com/">Klook.com</a>
+
+</ins>
+
+<script type="text/javascript">
+  (function (d, sc, u) {
+    var s = d.createElement(sc),
+      p = d.getElementsByTagName(sc)[0];
+    s.type = "text/javascript";
+    s.async = true;
+    s.src = u;
+    p.parentNode.insertBefore(s, p);
+  })(
+    document,
+    "script",
+    "https://affiliate.klook.com/widget/fetch-iframe-init.js"
+  );
+</script>
 
 
