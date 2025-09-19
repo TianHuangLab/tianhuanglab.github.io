@@ -27,16 +27,16 @@ Bon voyage！我们一起轻松探索巴黎吧！
 
 {% include figure.liquid loading="eager" path="assets/img/1cdg-2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
 
-> 顺便提一句，很多第一次来到巴黎的朋友都会问我：除了地铁、巴士和火车，从机场到市区还有更方便的方式吗？答案是肯定的！其实还有一种更省心的选择——直接预订包车服务。不仅可以轻松搞定巴黎机场接送，还能顺带安排一日游或二日游行程。下面就是我们奥利旅行精心推荐的巴黎精选一日游和二日游路线，让你用最舒适的方式开启巴黎之旅！
+> 顺便提一句，很多第一次来到巴黎的朋友都会问我：除了地铁、巴士和火车，从机场到市区还有更方便的方式吗？答案是肯定的！其实还有一种更省心的选择——直接预订包车服务。不仅可以轻松搞定巴黎机场接送，还能顺带安排一日游或二日游行程。下面就是我们奥利旅行精心推荐的[巴黎精选一日游和二日游路线](https://aolitravel.com/tours/)，让你用最舒适的方式开启巴黎之旅！
 > 
 
 
+<div class="banner-link">
+  <a href="https://aolitravel.com/tours/" target="_blank" style="display: block;">
+    {% include figure.liquid loading="eager" path="assets/img/0tours/selected-tour-a-paris.png" title="marseille-trip-aolitravel.com" class="img-fluid rounded z-depth-1" %}
+  </a>
+</div>
 
-<a href="https://aolitravel.com/tours/" target="_blank" style="display: block;">
-  {% include figure.liquid loading="eager" path="assets/img/0tours/selected-tour-a-paris.png" title="marseille-trip-aolitravel.com" class="img-fluid rounded z-depth-1" %}
-</a>
-
-{% include figure.liquid loading="eager" path="assets/img/0tours/selected-tour-a-paris.png" title="marseille-trip-aolitravel.com" class="img-fluid rounded z-depth-1" link="https://aolitravel.com/tours/" target="_blank"%}
 
 话不多说，接下来就带大家一起看看巴黎机场怎么方便地进出市区！
 
@@ -154,7 +154,26 @@ Navette N1 每天 **24小时运营**，班次频繁，大约每 **10至15分钟*
 
 {% include figure.liquid loading="eager" path="assets/img/1cdg-8.png" title="example image" class="img-fluid rounded z-depth-1" %}
 
-### 
+---
+
+<ins class="klk-aff-widget"  data-adid="1128862" data-lang="" data-currency="" data-cardH="126" data-padding="92" data-lgH="470" data-edgeValue="655" data-cid="107" data-tid="" data-amount="3" data-prod="hotel_dynamic_widget"><a href="//www.klook.com/">Klook.com</a></ins>
+<script type="text/javascript">
+  (function (d, sc, u) {
+    var s = d.createElement(sc),
+      p = d.getElementsByTagName(sc)[0];
+    s.type = "text/javascript";
+    s.async = true;
+    s.src = u;
+    p.parentNode.insertBefore(s, p);
+  })(
+    document,
+    "script",
+    "https://affiliate.klook.com/widget/fetch-iframe-init.js"
+  );
+</script>
+
+
+---
 
 ## 机场外部交通（抵达或离开机场）
 
