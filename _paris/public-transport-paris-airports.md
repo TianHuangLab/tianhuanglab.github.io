@@ -171,7 +171,7 @@ Navette N1 每天 **24小时运营**，班次频繁，大约每 **10至15分钟*
             data-label2=""
             data-label3=""
             data-prod="deals_widget"
-            data-total="3">               
+            data-total="4">               
 <a href="//www.klook.com/">Klook.com</a>
 </ins>
 
@@ -430,7 +430,7 @@ Roissybus 的班次频率较高，特别适合不想换乘、希望直接到达�
             data-label2=""
             data-label3=""
             data-prod="deals_widget"
-            data-total="3">               
+            data-total="4">               
 <a href="//www.klook.com/">Klook.com</a>
 </ins>
 
