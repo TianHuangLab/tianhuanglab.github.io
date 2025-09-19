@@ -155,8 +155,26 @@ Navette N1 每天 **24小时运营**，班次频繁，大约每 **10至15分钟*
 {% include figure.liquid loading="eager" path="assets/img/1cdg-8.png" title="example image" class="img-fluid rounded z-depth-1" %}
 
 ---
+**巴黎优惠酒店推荐**
 
-<ins class="klk-aff-widget"  data-adid="1128862" data-lang="" data-currency="" data-cardH="126" data-padding="92" data-lgH="470" data-edgeValue="655" data-cid="107" data-tid="" data-amount="3" data-prod="hotel_dynamic_widget"><a href="//www.klook.com/">Klook.com</a></ins>
+在了解了机场内部的交通方式之后，你可能会想：离开机场后该住在哪里最方便又舒适呢？
+无论是短暂停留还是深度游玩，选择合适的酒店能让旅程更轻松顺利。接下来，我整理了一些巴黎各区的此时此刻有优惠活动的酒店推荐，方便你根据位置和预算挑选最适合的住宿。
+
+<ins class="klk-aff-widget"
+            
+            data-aid="81133"
+            data-city_id="107"
+            data-country_id="1033"
+            data-tag_id="0"
+            data-currency=""
+            data-lang=""
+            data-label1=""
+            data-label2=""
+            data-label3=""
+            data-prod="deals_widget"
+            data-total="3">
+                <a href="//www.klook.com/">Klook.com</a>
+          </ins>
 <script type="text/javascript">
   (function (d, sc, u) {
     var s = d.createElement(sc),
@@ -397,6 +415,30 @@ Roissybus 的班次频率较高，特别适合不想换乘、希望直接到达�
 
 ---
 
+**巴黎优惠酒店推荐**
+在了解了机场到市区的交通方式之后，你可能会想：落地后该住在哪里最方便又舒适呢？
+无论是短暂停留还是深度游玩，选择合适的酒店能让旅程更轻松顺利。接下来，我整理了一些巴黎各区的酒店推荐，方便你根据位置和预算挑选最适合的住宿。
+
+<ins class="klk-aff-widget"
+            
+            data-aid="81133"
+            data-city_id="107"
+            data-country_id="1033"
+            data-tag_id="0"
+            data-currency=""
+            data-lang=""
+            data-label1=""
+            data-label2=""
+            data-label3=""
+            data-prod="deals_widget"
+            data-total="3">
+                <a href="//www.klook.com/">Klook.com</a>
+          </ins>
+
+
+
+---
+
 ## 三款必备的巴黎交通APP
 
 这三款APP，是巴黎交通的“神兵利器”，保证让你顺利到达机场或者顺利出发。
@@ -463,12 +505,14 @@ Roissybus 的班次频率较高，特别适合不想换乘、希望直接到达�
 
 ---
 
-> 在搞清楚了巴黎机场交通的常见方式之后，如果你希望旅途更省心，特别是带着家人、朋友或者行李较多，其实选择包车会更舒适也更高效。为了方便大家，我特地整理了几条精选路线，不仅涵盖了巴黎机场接送，还结合了一日游和二日游的经典行程。欢迎点击查看！
+> 在搞清楚了巴黎机场交通的常见方式之后，如果你希望旅途更省心，特别是带着家人、朋友或者行李较多，其实选择包车会更舒适也更高效。为了方便大家，我特地整理了几条精选路线，不仅涵盖了巴黎机场接送，还结合了[巴黎精选一日游和二日游路线](https://aolitravel.com/tours/)的经典行程。欢迎点击查看！
 > 
 
-<a href="https://aolitravel.com/tours/" target="_blank" style="display: block;">
-  {% include figure.liquid loading="eager" path="assets/img/0tours/selected-tour-a-paris.png" title="marseille-trip-aolitravel.com" class="img-fluid rounded z-depth-1" %}
-</a>
+<div class="banner-link">
+  <a href="https://aolitravel.com/tours/" target="_blank" style="display: block;">
+    {% include figure.liquid loading="eager" path="assets/img/0tours/selected-tour-a-paris.png" title="marseille-trip-aolitravel.com" class="img-fluid rounded z-depth-1" %}
+  </a>
+</div>
 
 
 ---
@@ -602,3 +646,6 @@ Roissybus 的班次频率较高，特别适合不想换乘、希望直接到达�
 **Blog**
 
 [更多关于我的生活记录和感受](https://aolitravel.com/blog/)
+
+<iframe border="0" src="https://tw.trip.com/partners/ad/DB5459337?Allianceid=5840493&SID=157301299&trip_sub1=%E5%B7%B4%E9%BB%8E%E9%85%92%E5%BA%97" style="width:728px;height:90px" frameborder="0" scrolling="no" style="border:none" id="DB5459337"></iframe>
+
