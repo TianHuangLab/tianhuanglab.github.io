@@ -32,13 +32,6 @@ map: true
 > 当然啦，来到法国，巴黎绝对是必打卡的一站！这座城市艺术、历史和浪漫的氛围浓到不行，每一条街都值得停下来走走。但如果你是第一次来，肯定会有点懵：到底先去哪里？怎样才能在有限的时间里看到最精华的部分？别担心～我已经帮你整理好了[巴黎一日游和二日游精选线路](https://aolitravel.com/tours/)，跟着走就能高效打卡，不用再做攻略，也能轻松玩转浪漫之都。
 >
 
-<!--
-<div class="banner-link">
-  <a href="https://aolitravel.com/tours/" target="_blank" style="display: block;">
-    {% include figure.liquid loading="eager" path="assets/img/0tours/selected-tour-a-paris.png" title="marseille-trip-aolitravel.com" class="img-fluid rounded z-depth-1" %}
-  </a>
-</div>
--->
 
 {% include figure.liquid loading="eager" path="assets/img/1cdg-2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
 
