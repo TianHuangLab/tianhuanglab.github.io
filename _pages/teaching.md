@@ -14,11 +14,11 @@ published: true
 
 
 <swiper-container keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true">
-  <swiper-slide>  {% include figure.liquid loading="eager" path="assets/img/0tours/0travel product banner/tool1.png" title="aolitravel.com-trip-tools-hotel-transportation-ticket" class="img-fluid rounded z-depth-1" %}</swiper-slide>
   <swiper-slide>  {% include figure.liquid loading="eager" path="assets/img/0tours/0travel product banner/tool2.png" title="aolitravel.com-trip-tools-hotel-transportation-ticket" class="img-fluid rounded z-depth-1" %}</swiper-slide>
   <swiper-slide>  {% include figure.liquid loading="eager" path="assets/img/0tours/0travel product banner/tool3.png" title="aolitravel.com-trip-tools-hotel-transportation-ticket" class="img-fluid rounded z-depth-1" %}</swiper-slide>
   <swiper-slide>  {% include figure.liquid loading="eager" path="assets/img/0tours/0travel product banner/tool4.png" title="aolitravel.com-trip-tools-hotel-transportation-ticket" class="img-fluid rounded z-depth-1" %}</swiper-slide>
   <swiper-slide>  {% include figure.liquid loading="eager" path="assets/img/0tours/0travel product banner/tool5.png" title="aolitravel.com-trip-tools-hotel-transportation-ticket" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>  {% include figure.liquid loading="eager" path="assets/img/0tours/0travel product banner/tool1.png" title="aolitravel.com-trip-tools-hotel-transportation-ticket" class="img-fluid rounded z-depth-1" %}</swiper-slide>
 </swiper-container>
 
 ---
@@ -31,27 +31,30 @@ published: true
 
 <div class="row">
   <div class="col-md-4">
-    <a href="https://www.trip.com/t/GfnOXXnehR2">
+    <a href="https://www.trip.com/t/GfnOXXnehR2" target="_blank" class="d-block text-decoration-none">
       {% include figure.liquid loading="eager" path="assets/img/0test-elements/tools-partners/1.png" title="aolitravel.com-hotel-villa-reservation" class="img-fluid rounded z-depth-1" %}
-      <p><a href="https://www.trip.com/t/GfnOXXnehR2" target="_blank">Trip.com</a></p>
+      <p class="fw-bold mt-2">Trip.com</p>
       <p>如果你习惯中文预订、需要方便的售后服务，Trip.com 携程旗下的国际版非常适合。它支持人民币、港币、美元等多币种支付，而且无论你人在中国大陆、港澳台还是海外，都能用中文操作和联系客服。经常有优惠活动，尤其是亚洲和欧洲的酒店价格竞争力很强，适合想要方便、省心的旅客。</p>
     </a>
   </div>
+
   <div class="col-md-4">
-    <a href="https://www.booking.com/">
+    <a href="https://www.booking.com/" target="_blank" class="d-block text-decoration-none">
       {% include figure.liquid loading="eager" path="assets/img/0test-elements/tools-partners/4.png" title="aolitravel.com-hotel-villa-reservation" class="img-fluid rounded z-depth-1" %}
-      <p><a href="https://www.booking.com/" target="_blank">Booking.com</p>
+      <p class="fw-bold mt-2">Booking.com</p>
       <p>Booking.com 的优势在于选择多、覆盖面广，几乎全球任何大城市、小镇都有房源。它的取消政策相对灵活，很多酒店可以“先订后付”，这点对行程还没完全确定的人来说非常友好。中文页面做得也很到位，点评系统庞大，可以快速参考其他旅客的真实体验。</p>
     </a>
   </div>
+
   <div class="col-md-4">
-    <a href="https://affiliate.klook.com/redirect?aid=81133&aff_adid=1137208&k_site=https%3A%2F%2Fwww.klook.com%2F">
+    <a href="https://affiliate.klook.com/redirect?aid=81133&aff_adid=1137208&k_site=https%3A%2F%2Fwww.klook.com%2F" target="_blank" class="d-block text-decoration-none">
       {% include figure.liquid loading="eager" path="assets/img/0test-elements/tools-partners/2.png" title="aolitravel.com-hotel-villa-reservation" class="img-fluid rounded z-depth-1" %}
-      <p><a href="https://affiliate.klook.com/redirect?aid=81133&aff_adid=1137208&k_site=https%3A%2F%2Fwww.klook.com%2F" target="_blank">Klook.com</a></p>
+      <p class="fw-bold mt-2">Klook.com</p>
       <p>大家熟悉 Klook 可能是因为它的一日游、门票和交通票券，其实它的酒店板块也越来越完善。在一些热门目的地，比如巴黎、伦敦、东京等地，常常能找到和活动打包的优惠。如果你打算酒店 + 景点门票/活动一起订，Klook 很值得看看。中文客服和移动端体验也很顺手，适合年轻旅行者。</p>
     </a>
   </div>
 </div>
+
 
 ---
 
@@ -194,26 +197,5 @@ published: true
   </div>
 
 ---
-
-<ins class="klk-aff-widget" data-aid="81133" data-city_id="107" data-country_id="1033" data-tag_id="3" data-currency="" data-lang="" data-label1="" data-label2="" data-label3="" data-prod="deals_widget" data-total="6">
-     
-  <a href="//www.klook.com/">Klook.com</a>
-
-</ins>
-
-<script type="text/javascript">
-  (function (d, sc, u) {
-    var s = d.createElement(sc),
-      p = d.getElementsByTagName(sc)[0];
-    s.type = "text/javascript";
-    s.async = true;
-    s.src = u;
-    p.parentNode.insertBefore(s, p);
-  })(
-    document,
-    "script",
-    "https://affiliate.klook.com/widget/fetch-iframe-init.js"
-  );
-</script>
 
 
