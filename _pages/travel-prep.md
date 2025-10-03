@@ -199,3 +199,89 @@ published: true
   </div>
 
 ---
+
+## 探索更多南法旅游体验
+
+还在犹豫如何安排行程？不妨看看我们为您精心准备的南法精选路线，从蔚蓝海岸到普罗旺斯山间小镇，灵感即刻启程！
+在这里，地中海的阳光与风情完美的交融在一起！无论是尼斯的海滩还是马赛的老港，南法的每一处景点都让人流连忘返。[点击这里](https://aolitravel.com/tours/)，探索更多奥利旅行旗下的法国旅游路线!
+
+<div class="row justify-content-sm-center">
+  <div class="col-sm mt-3 mt-md-0">
+    <a href="https://aolitravel.com/tours/">
+      {% include figure.liquid loading="eager" path="assets/img/0tours/0template/1.png" title="south-france-selected-tour" class="img-fluid rounded z-depth-1" alt="south-france-selected-tour南法旅游精选路线" %}
+    </a>
+  </div>
+  <div class="col-sm mt-3 mt-md-0">
+    <a href="https://aolitravel.com/tours/">
+      {% include figure.liquid loading="eager" path="assets/img/0tours/0template/2.png" title="south-france-selected-tour" class="img-fluid rounded z-depth-1" alt="south-france-selected-tour南法旅游精选路线" %}
+    </a>
+  </div>
+</div>
+
+<div class="row justify-content-sm-center">
+  <div class="col-sm mt-3 mt-md-0">
+    <a href="https://aolitravel.com/tours/">
+      {% include figure.liquid loading="eager" path="assets/img/0tours/0template/3.png" title="south-france-selected-tour" class="img-fluid rounded z-depth-1" alt="south-france-selected-tour南法旅游精选路线" %}
+    </a>
+  </div>
+  <div class="col-sm mt-3 mt-md-0">
+    <a href="https://aolitravel.com/tours/">
+      {% include figure.liquid loading="eager" path="assets/img/0tours/0template/4.png" title="south-france-selected-tour" class="img-fluid rounded z-depth-1" alt="south-france-selected-tour南法旅游精选路线" %}
+    </a>
+  </div>
+</div>
+
+<div class="row justify-content-sm-center">
+  <div class="col-sm mt-3 mt-md-0">
+    <a href="https://aolitravel.com/tours/">
+      {% include figure.liquid loading="eager" path="assets/img/0tours/0template/5.png" title="south-france-selected-tour" class="img-fluid rounded z-depth-1" alt="south-france-selected-tour南法旅游精选路线" %}
+    </a>
+  </div>
+  <div class="col-sm mt-3 mt-md-0">
+    <a href="https://aolitravel.com/tours/">
+      {% include figure.liquid loading="eager" path="assets/img/0tours/0template/6.png" title="south-france-selected-tour" class="img-fluid rounded z-depth-1" alt="south-france-selected-tour南法旅游精选路线" %}
+    </a>
+  </div>
+</div>
+
+<div class="row justify-content-sm-center">
+  <div class="col-sm mt-3 mt-md-0">
+    <a href="https://aolitravel.com/tours/">
+      {% include figure.liquid loading="eager" path="assets/img/0tours/0template/7.png" title="south-france-selected-tour" class="img-fluid rounded z-depth-1" alt="south-france-selected-tour南法旅游精选路线" %}
+    </a>
+  </div>
+  <div class="col-sm mt-3 mt-md-0">
+    <a href="https://aolitravel.com/tours/">
+      {% include figure.liquid loading="eager" path="assets/img/0tours/0template/8.png" title="south-france-selected-tour" class="img-fluid rounded z-depth-1" alt="south-france-selected-tour南法旅游精选路线" %}
+    </a>
+  </div>
+</div>
+
+<div class="row justify-content-sm-center">
+  <div class="col-sm mt-3 mt-md-0">
+    <a href="https://aolitravel.com/tours/">
+      {% include figure.liquid loading="eager" path="assets/img/0tours/0template/9.png" title="south-france-selected-tour" class="img-fluid rounded z-depth-1" alt="south-france-selected-tour南法旅游精选路线" %}
+    </a>
+  </div>
+  <div class="col-sm mt-3 mt-md-0">
+    <a href="https://aolitravel.com/tours/">
+      {% include figure.liquid loading="eager" path="assets/img/0tours/0template/10.png" title="south-france-selected-tour" class="img-fluid rounded z-depth-1" alt="south-france-selected-tour南法旅游精选路线" %}
+    </a>
+  </div>
+</div>
+
+<div class="row justify-content-sm-center">
+  <div class="col-sm mt-3 mt-md-0">
+    <a href="https://aolitravel.com/tours/">
+      {% include figure.liquid loading="eager" path="assets/img/0tours/0template/11.png" title="south-france-selected-tour" class="img-fluid rounded z-depth-1" alt="south-france-selected-tour南法旅游精选路线" %}
+    </a>
+  </div>
+  <div class="col-sm mt-3 mt-md-0">
+    <a href="https://aolitravel.com/tours/">
+      {% include figure.liquid loading="eager" path="assets/img/0tours/0template/12.png" title="south-france-selected-tour" class="img-fluid rounded z-depth-1" alt="south-france-selected-tour南法旅游精选路线" %}
+    </a>
+  </div>
+</div>
+
+
+---
