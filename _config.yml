@@ -172,6 +172,9 @@ collections:
   custom-travel:
     output: true
     permalink: /custom-travel/:path/
+  travel-prep:
+    output: true
+    permalink: /travel-prep/:path/
   
 
 announcements:
