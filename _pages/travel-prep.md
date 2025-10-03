@@ -2,6 +2,7 @@
 layout: page
 permalink: /travel-prep/
 title: 旅行准备
+description: 欧洲旅行全攻略：酒店预订、公共交通、自驾、包车、景点门票，一站搞定所有旅行必备工具！
 nav: true
 nav_order: 6
 pretty_table: true
@@ -51,13 +52,6 @@ published: true
     </a>
   </div>
 </div>
-
-
-
-{% include figure.liquid loading="eager" path="assets/img/67france-hotel-villa/aolitravel.com-hotel-villa-reservation-0.webp" title="aolitravel.com-hotel-villa-reservation" class="img-fluid rounded z-depth-1" %}
-
-除了这些大家熟悉的在线预订平台，我们也和世界上一些知名的精品酒店联盟保持合作关系。它们旗下的酒店通常独立、设计感强，而且很有在地特色，适合追求独特体验的旅行者。
-如果你想要的不只是住一晚，而是一次特别的入住体验，这些精品酒店联盟能给你带来更多灵感。下面这张图，就是我们可以帮大家预订的部分合作酒店网络。
 
 
 ---
