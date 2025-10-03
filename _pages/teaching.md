@@ -33,27 +33,29 @@ published: true
   <div class="col-md-4">
     <a href="https://www.trip.com/t/GfnOXXnehR2" target="_blank" class="d-block text-decoration-none">
       {% include figure.liquid loading="eager" path="assets/img/0test-elements/tools-partners/1.png" title="aolitravel.com-hotel-villa-reservation" class="img-fluid rounded z-depth-1" %}
-      <p class="fw-bold mt-2">Trip.com</p>
-      <p>如果你习惯中文预订、需要方便的售后服务，Trip.com 携程旗下的国际版非常适合。它支持人民币、港币、美元等多币种支付，而且无论你人在中国大陆、港澳台还是海外，都能用中文操作和联系客服。经常有优惠活动，尤其是亚洲和欧洲的酒店价格竞争力很强，适合想要方便、省心的旅客。</p>
+      <p class="fw-bold mt-2">Trip.com是携程旗下的国际版一站式出行平台，如果你习惯中文预订、需要方便的售后服务，那么它就非常适合你。而且无论你人在中国大陆、香港、台湾、还是美国，能用人民币、港币、台币、美元等多币种支付。经常有优惠活动，在亚洲和欧洲的酒店价格竞争力很强，适合想要方便、省心的旅客。</p>
     </a>
   </div>
 
   <div class="col-md-4">
     <a href="https://www.booking.com/" target="_blank" class="d-block text-decoration-none">
       {% include figure.liquid loading="eager" path="assets/img/0test-elements/tools-partners/4.png" title="aolitravel.com-hotel-villa-reservation" class="img-fluid rounded z-depth-1" %}
-      <p class="fw-bold mt-2">Booking.com</p>
-      <p>Booking.com 的优势在于选择多、覆盖面广，几乎全球任何大城市、小镇都有房源。它的取消政策相对灵活，很多酒店可以“先订后付”，这点对行程还没完全确定的人来说非常友好。中文页面做得也很到位，点评系统庞大，可以快速参考其他旅客的真实体验。</p>
+      <p class="fw-bold mt-2">Booking.com 的优势在于选择多、覆盖面广，几乎全球任何大城市、小镇都有房源。它的取消政策相对灵活，很多酒店可以“先订后付”，这点对行程还没完全确定的人来说非常友好。中文页面做得也很到位，点评系统庞大，可以快速参考其他旅客的真实体验。</p>
     </a>
   </div>
 
   <div class="col-md-4">
     <a href="https://affiliate.klook.com/redirect?aid=81133&aff_adid=1137208&k_site=https%3A%2F%2Fwww.klook.com%2F" target="_blank" class="d-block text-decoration-none">
       {% include figure.liquid loading="eager" path="assets/img/0test-elements/tools-partners/2.png" title="aolitravel.com-hotel-villa-reservation" class="img-fluid rounded z-depth-1" %}
-      <p class="fw-bold mt-2">Klook.com</p>
-      <p>大家熟悉 Klook 可能是因为它的一日游、门票和交通票券，其实它的酒店板块也越来越完善。在一些热门目的地，比如巴黎、伦敦、东京等地，常常能找到和活动打包的优惠。如果你打算酒店 + 景点门票/活动一起订，Klook 很值得看看。中文客服和移动端体验也很顺手，适合年轻旅行者。</p>
+      <p class="fw-bold mt-2">大家熟悉 Klook 可能是因为它的一日游、门票和交通票券，其实它的酒店板块也越来越完善。在一些热门目的地，比如巴黎、伦敦、东京等地，常常能找到和活动打包的优惠。如果你打算酒店 + 景点门票/活动一起订，Klook 很值得看看。中文客服和移动端体验也很顺手，适合年轻旅行者。</p>
     </a>
   </div>
 </div>
+
+除了这些大家熟悉的在线预订平台，我们也和世界上一些知名的精品酒店联盟保持合作关系。它们旗下的酒店通常独立、设计感强，而且很有在地特色，适合追求独特体验的旅行者。
+如果你想要的不只是住一晚，而是一次特别的入住体验，这些精品酒店联盟能给你带来更多灵感。下面这张图，就是我们可以帮大家预订的部分合作酒店网络。
+
+{% include figure.liquid loading="eager" path="assets/img/67france-hotel-villa/aolitravel.com-hotel-villa-reservation-0.webp" title="aolitravel.com-hotel-villa-reservation" class="img-fluid rounded z-depth-1" %}
 
 
 ---
@@ -68,17 +70,23 @@ published: true
   <div class="col-md-4">
     <a href="https://www.thetrainline.com/">
       {% include figure.liquid loading="eager" path="assets/img/0test-elements/tools-partners/5.png" title="aolitravel.com-tools" class="img-fluid rounded z-depth-1" %}
-      <p><a href="https://www.thetrainline.com/" target="_blank">Trainline.com</a></p>
-      <p>如果你准备坐火车在欧洲各国之间穿梭，Trainline 是一定要收藏的。它几乎涵盖法国、意大利、德国、瑞士、西班牙等国家的铁路公司，能直接比价不同车次，找到最合适的班次和价格。中文页面很友好，付款支持人民币/信用卡/支付宝等，出票速度快，电子票直接发邮箱或手机 App，拿着二维码就能上车。欧洲火车票早买相对便宜，尤其是跨国线路，一般提前买能省下一大笔。</p>
+      <p class="fw-bold mt-2">如果你准备坐火车在欧洲各国之间穿梭，Trainline是一定要收藏的。它几乎涵盖法国、意大利、德国、瑞士、西班牙等国家的铁路公司，能直接比价不同车次，找到最合适的班次和价格。中文页面很友好，付款支持人民币/信用卡/支付宝等，出票速度快，电子票直接发邮箱或手机 App，拿着二维码就能上车。欧洲火车票早买相对便宜，尤其是跨国线路，一般提前买能省下一大笔。</p>
     </a>
   </div>
   <div class="col-md-4">
     <a href="https://www.trip.com/t/ooxZ6LofhR2">
       {% include figure.liquid loading="eager" path="assets/img/0test-elements/tools-partners/1.png" title="aolitravel.com-tools" class="img-fluid rounded z-depth-1" %}
-      <p><a href="https://www.trip.com/t/ooxZ6LofhR2" target="_blank">Trip.com</a></p>
-      <p>如果你更喜欢自驾探索，比如南法普罗旺斯小镇、意大利托斯卡纳的乡间，或者瑞士的湖区小镇，租车会比火车方便很多。Trip.com（携程旗下国际平台）在租车领域覆盖面很广，能比价全球各大租车公司，价格透明，还经常有中文客服协助。对于讲中文的旅客来说，无论你在大陆、港澳台还是海外，用它租车都非常顺手，而且支持多币种支付，省去了不少麻烦。另外，在欧洲租车记得提前确认国际驾照或官方认证的翻译件，不同国家的规定可能略有不同。</p>
+      <p class="fw-bold mt-2">如果你更喜欢自驾探索，比如南法普罗旺斯小镇、意大利托斯卡纳乡间，或瑞士的湖区小镇，租车会比火车方便得多。Trip.com在租车领域覆盖面广，能比价全球公司，价格透明，还有中文客服协助。对讲中文的旅客来说，无论在大陆、港澳台还是海外，都能顺手操作，并支持多币种支付，省去不少麻烦。另外，在欧洲租车记得提前确认国际驾照或官方认证翻译件，不同国家规定可能不同。</p>
     </a>
   </div>
+ <div class="col-md-4">
+  <div style="cursor:pointer;" onclick="openTidio()">
+    {% include figure.liquid loading="eager" path="assets/img/53marseille-provence-airport-guide/marseille-provence-airport-guide-8.webp" title="aolitravel.com-tools" class="img-fluid rounded z-depth-1" %}
+    <p class="fw-bold mt-2">想找一个比自驾省心但比报团更灵活的方案？不妨试试我们的奥利旅行包车服务！自营车队覆盖南法核心线路，法国、瑞士、意大利也有可靠合作伙伴。专业司机、灵活行程、随时接送，让你轻松畅游小镇与风景名胜，不用担心路线和停车。📩点击咨询，让你的欧洲之旅更省心！
+    </p>
+  </div>
+ </div>
+  
 </div>
 
 ---
@@ -93,15 +101,13 @@ published: true
   <div class="col-md-4">
     <a href="https://gyg.me/Vt3w1cGQ">
       {% include figure.liquid loading="eager" path="assets/img/0test-elements/tools-partners/3.png" title="aolitravel.com-tools" class="img-fluid rounded z-depth-1" %}
-      <p><a href="https://gyg.me/Vt3w1cGQ" target="_blank">Getyourguide.com</a></p>
-      <p>GetYourGuide 可以说是欧洲本地活动最全的平台之一。无论你是想在巴黎预订卢浮宫免排队门票，还是去瑞士少女峰一日游，基本都能找到。它的优势在于合作供应商多、选择范围广，很多独特的小众体验也能搜到。支持中文界面和移动端预订，付款后会收到电子凭证，出示二维码就能直接入场，非常方便。</p>
+      <p class="fw-bold mt-2">GetYourGuide 可以说是欧洲本地活动最全的平台之一。无论你是想预订巴黎卢浮宫免门票，还是去瑞士少女峰一日游，基本都能找到。它的优势在于合作供应商多、选择范围广，很多独特的小众体验也能搜到。支持中文界面和移动端预订，付款后会收到电子凭证，出示二维码就能直接入场，非常方便。</p>
     </a>
   </div>
   <div class="col-md-4">
     <a href="https://affiliate.klook.com/redirect?aid=81133&aff_adid=1137208&k_site=https%3A%2F%2Fwww.klook.com%2F">
       {% include figure.liquid loading="eager" path="assets/img/0test-elements/tools-partners/2.png" title="aolitravel.com-tools" class="img-fluid rounded z-depth-1" %}
-      <p><a href="https://affiliate.klook.com/redirect?aid=81133&aff_adid=1137208&k_site=https%3A%2F%2Fwww.klook.com%2F" target="_blank">Klook.com</a></p>
-      <p>Klook 在亚洲知名度很高，但其实在欧洲和全球各地的活动也越来越多。它常常会推出门票 + 接送 + 体验的组合优惠，特别适合想省心、一次性搞定行程的旅行者。中文页面和 App 用起来很顺手，而且经常有折扣码，适合预算有限又想玩得丰富的人。</p>
+      <p class="fw-bold mt-2">Klook 在亚洲知名度很高，但其实在欧洲和全球各地的活动也越来越多。它常常会推出门票 + 接送 + 体验的组合优惠，特别适合想省心、一次性搞定行程的旅行者。中文页面和 App 用起来很顺手，而且经常有折扣码，适合预算有限又想玩得丰富的人。</p>
     </a>
   </div>
 </div>
@@ -112,9 +118,11 @@ published: true
 
 ## 实用票券
 
-去欧洲旅行，提前预订景点门票真的能省下不少时间和麻烦。巴黎迪士尼、埃菲尔铁塔游船、博物馆、主题乐园……这些热门景点现场买票经常需要排长队，尤其是旺季。为了让大家玩得轻松，我整理了一些可靠的平台和推荐票务，让你能提前锁定心仪的门票，直接扫码入场，无需排队。
+去欧洲旅行，提前预订景点门票真的能省下不少时间和麻烦！巴黎迪士尼、埃菲尔铁塔游船、各大博物馆、主题乐园……这些热门景点现场买票经常要排长队，尤其是旺季。为了让大家玩得轻松，我整理了一些可靠的推荐票务信息，让你提前锁定心仪门票，直接扫码入场，无需排队。
 
-目前，我的推荐主要覆盖**法国**各大热门景点，包括巴黎、普罗旺斯、小镇主题公园以及博物馆等，满足不同旅行需求。无论你是家庭出游、情侣浪漫之旅还是自由行探索，这里都能帮你快速找到合适的门票，节省宝贵的旅行时间。
+以下这些票券都是我们能够代购的，而且**部分热门门票价格甚至比官方略有优惠**，比现场买票更划算。需要注意的是，像**巴黎时装周**等部分热门活动或票圈，预订前建议先咨询可用日期，以免错过心仪场次。
+
+目前，我的推荐主要覆盖法国各大热门景点，包括大巴黎地区、南法、特色小镇、主题公园以及各类博物馆，满足不同旅行需求。无论你是家庭出游、情侣浪漫之旅，还是自由行探索，这里都能帮你快速找到合适的门票，节省宝贵的旅行时间。
 
 <table
   data-click-to-select="true"
@@ -126,15 +134,14 @@ published: true
   <thead>
     <tr>
       <th data-checkbox="true"></th>
-      <th data-field="id" data-halign="left" data-align="center" data-sortable="true">城市</th>
-      <th data-field="name" data-halign="center" data-align="right" data-sortable="true">门票</th>
-      <th data-field="price" data-halign="right" data-align="left" data-sortable="true">价格</th>
+      <th data-field="城市" data-halign="left" data-align="left" data-sortable="true">城市</th>
+      <th data-field="门票" data-halign="left" data-align="left" data-sortable="true">门票</th>
+      <th data-field="价格" data-halign="left" data-align="left" data-sortable="true">价格</th>
     </tr>
   </thead>
 </table>
 
 
-{% include figure.liquid loading="eager" path="assets/img/67france-hotel-villa/aolitravel.com-hotel-villa-reservation-0.webp" title="aolitravel.com-hotel-villa-reservation" class="img-fluid rounded z-depth-1" %}
 
 
 ---
@@ -151,9 +158,8 @@ published: true
 
   <!-- 右侧文字内容 + 按钮 -->
   <div style="flex: 2;">
-    <p>Hello，已经在法国、瑞士、意大利等地旅行多年，足迹遍及南法蔚蓝海岸、小镇山城以及意大利经典城市。最爱漫步戛纳海岸、探索瑞士雪山小镇和意大利水城风情。欢迎来到这个分享欧洲自由行攻略、旅行路线、美食体验和实用工具的小天地。如果你有任何问题，欢迎联系我！</p>
+    <p>感谢你看到这里！以上内容都是我十多年在法国、瑞士、意大利等欧洲十多个国家旅行的亲身经验总结。无论你是想探索城市风光、自然景色，还是自驾、跟团或包车游；不管你想找美食、合适住宿，还是购买景点门票，相信在这个板块都能帮你找到实用信息。总之，欢迎来到这个分享欧洲自由行攻略、旅行路线、美食体验和实用工具的小天地！📩 如果有任何问题，随时联系我，让你的欧洲之旅更轻松、更顺心。</p>
     <p><a href="https://aolitravel.com/">了解我更多...</a></p>
-    <p>想要咨询任何旅游路线？也欢迎联系我们：</p>
 
     <!-- 嵌入按钮 -->
     <div class="d-flex gap-3 flex-wrap mt-2">
@@ -197,5 +203,7 @@ published: true
   </div>
 
 ---
+
+
 
 
