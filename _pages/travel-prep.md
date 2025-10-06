@@ -53,6 +53,23 @@ published: true
   </div>
 </div>
 
+<div class="row">
+  <div class="col-md-4">
+    <a href="https://www.anrdoezrs.net/click-101555905-13831003" target="_blank" class="d-block text-decoration-none">
+      {% include figure.liquid loading="eager" path="assets/img/0test-elements/tools-partners/8.png" title="aolitravel.com-hotel-villa-reservation" class="img-fluid rounded z-depth-1" %}
+      <p class="fw-bold mt-2">hotel.com是国际化酒店预订平台，覆盖全球数十万家酒店和民宿。它的亮点是新升级的积分系统，每次预订有积分赠送可用于下次预订抵扣。支持多币种支付，取消灵活，界面简洁，搜索和筛选功能强大，真实点评丰富。如果你想 高频出行奖励 + 便捷预订体验，这家是不错的选择。</p>
+    </a>
+  </div>
+
+  <div class="col-md-4">
+    <a href="https://www.jdoqocy.com/click-101555905-15606970" target="_blank" class="d-block text-decoration-none">
+      {% include figure.liquid loading="eager" path="assets/img/0test-elements/tools-partners/7.png" title="aolitravel.com-hotel-villa-reservation" class="img-fluid rounded z-depth-1" %}
+      <p class="fw-bold mt-2">Expedia是全球知名一站式旅游平台，覆盖酒店、机票、租车和度假套餐。多币种支付、灵活取消，网站和APP使用顺畅。通过我的页面预订最近更新的Top Deals，可享高达七五折优惠，行程集中管理又省心，非常划算。</p>
+    </a>
+  </div>
+
+</div>
+
 
 ---
 
@@ -72,7 +89,7 @@ published: true
   <div class="col-md-4">
     <a href="https://www.trip.com/t/ooxZ6LofhR2">
       {% include figure.liquid loading="eager" path="assets/img/0test-elements/tools-partners/1.png" title="aolitravel.com-tools" class="img-fluid rounded z-depth-1" %}
-      <p class="fw-bold mt-2">如果你更喜欢自驾探索，比如南法普罗旺斯小镇、意大利托斯卡纳乡间，或瑞士的湖区小镇，租车会比火车方便得多。Trip.com在租车领域覆盖面广，能比价全球公司，价格透明，还有中文客服协助。对讲中文的旅客来说，无论在大陆、港澳台还是海外，都能顺手操作，并支持多币种支付，省去不少麻烦。另外，在欧洲租车记得提前确认国际驾照或官方认证翻译件，不同国家规定可能不同。</p>
+      <p class="fw-bold mt-2">如果你更喜欢自驾探索，比如南法普罗旺斯小镇、意大利托斯卡纳乡间，或瑞士的湖区小镇，租车会比火车方便得多。Trip.com在租车领域覆盖面广，能比价全球公司，价格透明，还有中文客服协助。对讲中文的旅客来说，无论在世界哪里，都能顺手操作，并支持多币种支付，省去不少麻烦。另外，在欧洲租车记得提前确认国际驾照或官方认证翻译件，不同国家规定可能不同。</p>
     </a>
   </div>
  <div class="col-md-4">
