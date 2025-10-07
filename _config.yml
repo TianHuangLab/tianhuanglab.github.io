@@ -175,6 +175,9 @@ collections:
   travel-prep:
     output: true
     permalink: /travel-prep/:path/
+  switzerland:
+    output: true
+    permalink: /switzerland/:path/
   
 
 announcements:
