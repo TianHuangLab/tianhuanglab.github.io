@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 从日内瓦出发的一日慢行｜8个让人心动的瑞士湖畔小镇
+title: 从日内瓦出发的一日慢行｜8个推荐的湖畔小镇
 description: 这些环日内瓦湖的小镇兼具风光与生活质感，是度假的完美去处！
 img: assets/img/83geneva-lake-town/geneva-lake-town-0.webp
 importance: 2
@@ -110,7 +110,6 @@ published: true
 - **品尝美食**：尝试瑞士传统的奶酪火锅和巧克力，满足味蕾。
 - **参加文化活动**：洛桑常年举办各类文化活动和节庆，丰富多彩。
 {% include figure.liquid loading="eager" path="assets/img/83geneva-lake-town/geneva-lake-town-3b.webp" title="aolitravel.com-geneve-visit-8-lake-town" class="img-fluid rounded z-depth-1" alt="瑞士日内瓦湖8个度假小镇景点攻略"%}
-{% include figure.liquid loading="eager" path="assets/img/83geneva-lake-town/geneva-lake-town-3c.webp" title="aolitravel.com-geneve-visit-8-lake-town" class="img-fluid rounded z-depth-1" alt="瑞士日内瓦湖8个度假小镇景点攻略"%}
 
 
 ---
