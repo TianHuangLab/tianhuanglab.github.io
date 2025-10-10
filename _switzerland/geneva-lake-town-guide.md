@@ -53,6 +53,58 @@ published: true
 
 ---
 
+**日内瓦高评分酒店推荐**
+
+<div class="row">
+  <div class="col-md-4">
+    <a href="https://www.trip.com/t/qcOf6eGRnR2">
+      {% include figure.liquid loading="eager" path="assets/img/85geneva-hotels/geneva-hotel-1.webp" title="日内瓦布里斯托尔酒店" class="img-fluid rounded z-depth-1" %}
+      <p>⭐⭐⭐⭐</p>
+      <p>日内瓦布里斯托尔酒店（近火车站）</p>
+    </a>
+  </div>
+  <div class="col-md-4">
+    <a href="https://www.trip.com/t/adL6uKDRnR2">
+      {% include figure.liquid loading="eager" path="assets/img/85geneva-hotels/geneva-hotel-2.webp" title="日内瓦伯尔尼纳酒店" class="img-fluid rounded z-depth-1" %}
+      <p>⭐⭐⭐</p>
+      <p>日内瓦伯尔尼纳酒店（近火车站）</p>
+    </a>
+  </div>
+  <div class="col-md-4">
+    <a href="https://www.trip.com/t/NmyDMCERnR2">
+      {% include figure.liquid loading="eager" path="assets/img/85geneva-hotels/geneva-hotel-3.webp" title="日内瓦瑞士酒店（近火车站）" class="img-fluid rounded z-depth-1" %}
+      <p>⭐⭐⭐</p>
+      <p>瑞士酒店（近火车站）</p>
+    </a>
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-md-4">
+    <a href="https://www.trip.com/t/62Dz9tIRnR2">
+      {% include figure.liquid loading="eager" path="assets/img/85geneva-hotels/geneva-hotel-4.webp" title="日内瓦Holiday Inn Express（近机场）" class="img-fluid rounded z-depth-1" %}
+      <p>⭐⭐⭐</p>
+      <p>Holiday Inn Express（近机场）</p>
+    </a>
+  </div>
+  <div class="col-md-4">
+    <a href="https://www.trip.com/t/xAMiMxKRnR2">
+      {% include figure.liquid loading="eager" path="assets/img/85geneva-hotels/geneva-hotel-5.webp" title="日內瓦机场B&B酒店" class="img-fluid rounded z-depth-1" %}
+      <p>⭐⭐⭐</p>
+      <p>日內瓦机场B&B酒店</p>
+    </a>
+  </div>
+  <div class="col-md-4">
+    <a href="https://www.trip.com/t/CX5w3rNRnR2">
+      {% include figure.liquid loading="eager" path="assets/img/85geneva-hotels/geneva-hotel-6.webp" title="日內瓦青年旅舍" class="img-fluid rounded z-depth-1" %}
+      <p>⭐⭐</p>
+      <p>日內瓦青年旅舍</p>
+    </a>
+  </div>
+</div>
+
+---
+
 ## 🇨🇭蒙特勒（Montreux）
 
 ### 历史文化
@@ -231,6 +283,58 @@ published: true
 
 ---
 
+**日内瓦高评分酒店推荐**
+
+<div class="row">
+  <div class="col-md-4">
+    <a href="https://www.trip.com/t/qcOf6eGRnR2">
+      {% include figure.liquid loading="eager" path="assets/img/85geneva-hotels/geneva-hotel-1.webp" title="日内瓦布里斯托尔酒店" class="img-fluid rounded z-depth-1" %}
+      <p>⭐⭐⭐⭐</p>
+      <p>日内瓦布里斯托尔酒店（近火车站）</p>
+    </a>
+  </div>
+  <div class="col-md-4">
+    <a href="https://www.trip.com/t/adL6uKDRnR2">
+      {% include figure.liquid loading="eager" path="assets/img/85geneva-hotels/geneva-hotel-2.webp" title="日内瓦伯尔尼纳酒店" class="img-fluid rounded z-depth-1" %}
+      <p>⭐⭐⭐</p>
+      <p>日内瓦伯尔尼纳酒店（近火车站）</p>
+    </a>
+  </div>
+  <div class="col-md-4">
+    <a href="https://www.trip.com/t/NmyDMCERnR2">
+      {% include figure.liquid loading="eager" path="assets/img/85geneva-hotels/geneva-hotel-3.webp" title="日内瓦瑞士酒店（近火车站）" class="img-fluid rounded z-depth-1" %}
+      <p>⭐⭐⭐</p>
+      <p>瑞士酒店（近火车站）</p>
+    </a>
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-md-4">
+    <a href="https://www.trip.com/t/62Dz9tIRnR2">
+      {% include figure.liquid loading="eager" path="assets/img/85geneva-hotels/geneva-hotel-4.webp" title="日内瓦Holiday Inn Express（近机场）" class="img-fluid rounded z-depth-1" %}
+      <p>⭐⭐⭐</p>
+      <p>Holiday Inn Express（近机场）</p>
+    </a>
+  </div>
+  <div class="col-md-4">
+    <a href="https://www.trip.com/t/xAMiMxKRnR2">
+      {% include figure.liquid loading="eager" path="assets/img/85geneva-hotels/geneva-hotel-5.webp" title="日內瓦机场B&B酒店" class="img-fluid rounded z-depth-1" %}
+      <p>⭐⭐⭐</p>
+      <p>日內瓦机场B&B酒店</p>
+    </a>
+  </div>
+  <div class="col-md-4">
+    <a href="https://www.trip.com/t/CX5w3rNRnR2">
+      {% include figure.liquid loading="eager" path="assets/img/85geneva-hotels/geneva-hotel-6.webp" title="日內瓦青年旅舍" class="img-fluid rounded z-depth-1" %}
+      <p>⭐⭐</p>
+      <p>日內瓦青年旅舍</p>
+    </a>
+  </div>
+</div>
+
+---
+
 ## 🇫🇷托农莱班（Thonon-les-Bains）
 
 ### 历史文化
@@ -337,3 +441,55 @@ published: true
 [比利牛斯山深藏的安道尔🇦🇩小到离谱，好玩到炸](https://aolitravel.com/france-travel/visit-pyrenees-andorra-guide/)
 
 [🇫🇷法国最值得打卡的世界文化遗产TOP15｜一生必去清单](https://aolitravel.com/france-travel/france-15-unesco-historic-cultural-sites/)
+
+---
+
+**日内瓦高评分酒店推荐**
+
+<div class="row">
+  <div class="col-md-4">
+    <a href="https://www.trip.com/t/qcOf6eGRnR2">
+      {% include figure.liquid loading="eager" path="assets/img/85geneva-hotels/geneva-hotel-1.webp" title="日内瓦布里斯托尔酒店" class="img-fluid rounded z-depth-1" %}
+      <p>⭐⭐⭐⭐</p>
+      <p>日内瓦布里斯托尔酒店（近火车站）</p>
+    </a>
+  </div>
+  <div class="col-md-4">
+    <a href="https://www.trip.com/t/adL6uKDRnR2">
+      {% include figure.liquid loading="eager" path="assets/img/85geneva-hotels/geneva-hotel-2.webp" title="日内瓦伯尔尼纳酒店" class="img-fluid rounded z-depth-1" %}
+      <p>⭐⭐⭐</p>
+      <p>日内瓦伯尔尼纳酒店（近火车站）</p>
+    </a>
+  </div>
+  <div class="col-md-4">
+    <a href="https://www.trip.com/t/NmyDMCERnR2">
+      {% include figure.liquid loading="eager" path="assets/img/85geneva-hotels/geneva-hotel-3.webp" title="日内瓦瑞士酒店（近火车站）" class="img-fluid rounded z-depth-1" %}
+      <p>⭐⭐⭐</p>
+      <p>瑞士酒店（近火车站）</p>
+    </a>
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-md-4">
+    <a href="https://www.trip.com/t/62Dz9tIRnR2">
+      {% include figure.liquid loading="eager" path="assets/img/85geneva-hotels/geneva-hotel-4.webp" title="日内瓦Holiday Inn Express（近机场）" class="img-fluid rounded z-depth-1" %}
+      <p>⭐⭐⭐</p>
+      <p>Holiday Inn Express（近机场）</p>
+    </a>
+  </div>
+  <div class="col-md-4">
+    <a href="https://www.trip.com/t/xAMiMxKRnR2">
+      {% include figure.liquid loading="eager" path="assets/img/85geneva-hotels/geneva-hotel-5.webp" title="日內瓦机场B&B酒店" class="img-fluid rounded z-depth-1" %}
+      <p>⭐⭐⭐</p>
+      <p>日內瓦机场B&B酒店</p>
+    </a>
+  </div>
+  <div class="col-md-4">
+    <a href="https://www.trip.com/t/CX5w3rNRnR2">
+      {% include figure.liquid loading="eager" path="assets/img/85geneva-hotels/geneva-hotel-6.webp" title="日內瓦青年旅舍" class="img-fluid rounded z-depth-1" %}
+      <p>⭐⭐</p>
+      <p>日內瓦青年旅舍</p>
+    </a>
+  </div>
+</div>
