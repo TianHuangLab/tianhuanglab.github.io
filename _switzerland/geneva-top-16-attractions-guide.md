@@ -49,7 +49,57 @@ published: true
 
 {% include figure.liquid loading="eager" path="assets/img/82geneva-top-attractions/geneva-top-attractions-2.webp" title="aolitravel.com-geneve-top16-things-to-do" class="img-fluid rounded z-depth-1" alt="瑞士日内瓦top16景点攻略"%}
 
-    
+---
+
+**日内瓦高评分酒店推荐**
+
+<div class="row">
+  <div class="col-md-4">
+    <a href="https://www.trip.com/t/qcOf6eGRnR2">
+      {% include figure.liquid loading="eager" path="assets/img/85geneva-hotels/geneva-hotel-1.webp" title="日内瓦布里斯托尔酒店" class="img-fluid rounded z-depth-1" %}
+      <p>⭐⭐⭐⭐</p>
+      <p>日内瓦布里斯托尔酒店（近火车站）</p>
+    </a>
+  </div>
+  <div class="col-md-4">
+    <a href="https://www.trip.com/t/adL6uKDRnR2">
+      {% include figure.liquid loading="eager" path="assets/img/85geneva-hotels/geneva-hotel-2.webp" title="日内瓦伯尔尼纳酒店" class="img-fluid rounded z-depth-1" %}
+      <p>⭐⭐⭐</p>
+      <p>日内瓦伯尔尼纳酒店（近火车站）</p>
+    </a>
+  </div>
+  <div class="col-md-4">
+    <a href="https://www.trip.com/t/NmyDMCERnR2">
+      {% include figure.liquid loading="eager" path="assets/img/85geneva-hotels/geneva-hotel-3.webp" title="日内瓦瑞士酒店（近火车站）" class="img-fluid rounded z-depth-1" %}
+      <p>⭐⭐⭐</p>
+      <p>瑞士酒店（近火车站）</p>
+    </a>
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-md-4">
+    <a href="https://www.trip.com/t/62Dz9tIRnR2">
+      {% include figure.liquid loading="eager" path="assets/img/85geneva-hotels/geneva-hotel-4.webp" title="日内瓦Holiday Inn Express（近机场）" class="img-fluid rounded z-depth-1" %}
+      <p>⭐⭐⭐</p>
+      <p>Holiday Inn Express（近机场）</p>
+    </a>
+  </div>
+  <div class="col-md-4">
+    <a href="https://www.trip.com/t/xAMiMxKRnR2">
+      {% include figure.liquid loading="eager" path="assets/img/85geneva-hotels/geneva-hotel-5.webp" title="日內瓦机场B&B酒店" class="img-fluid rounded z-depth-1" %}
+      <p>⭐⭐⭐</p>
+      <p>日內瓦机场B&B酒店</p>
+    </a>
+  </div>
+  <div class="col-md-4">
+    <a href="https://www.trip.com/t/CX5w3rNRnR2">
+      {% include figure.liquid loading="eager" path="assets/img/85geneva-hotels/geneva-hotel-6.webp" title="日內瓦青年旅舍" class="img-fluid rounded z-depth-1" %}
+      <p>⭐⭐</p>
+      <p>日內瓦青年旅舍</p>
+    </a>
+  </div>
+</div>
 
 ---
 
@@ -147,7 +197,57 @@ published: true
 
 {% include figure.liquid loading="eager" path="assets/img/82geneva-top-attractions/geneva-top-attractions-10.webp" title="aolitravel.com-geneve-top16-things-to-do" class="img-fluid rounded z-depth-1" alt="瑞士日内瓦top16景点攻略"%}
 
-    
+---
+
+**日内瓦高评分酒店推荐**
+
+<div class="row">
+  <div class="col-md-4">
+    <a href="https://www.trip.com/t/qcOf6eGRnR2">
+      {% include figure.liquid loading="eager" path="assets/img/85geneva-hotels/geneva-hotel-1.webp" title="日内瓦布里斯托尔酒店" class="img-fluid rounded z-depth-1" %}
+      <p>⭐⭐⭐⭐</p>
+      <p>日内瓦布里斯托尔酒店（近火车站）</p>
+    </a>
+  </div>
+  <div class="col-md-4">
+    <a href="https://www.trip.com/t/adL6uKDRnR2">
+      {% include figure.liquid loading="eager" path="assets/img/85geneva-hotels/geneva-hotel-2.webp" title="日内瓦伯尔尼纳酒店" class="img-fluid rounded z-depth-1" %}
+      <p>⭐⭐⭐</p>
+      <p>日内瓦伯尔尼纳酒店（近火车站）</p>
+    </a>
+  </div>
+  <div class="col-md-4">
+    <a href="https://www.trip.com/t/NmyDMCERnR2">
+      {% include figure.liquid loading="eager" path="assets/img/85geneva-hotels/geneva-hotel-3.webp" title="日内瓦瑞士酒店（近火车站）" class="img-fluid rounded z-depth-1" %}
+      <p>⭐⭐⭐</p>
+      <p>瑞士酒店（近火车站）</p>
+    </a>
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-md-4">
+    <a href="https://www.trip.com/t/62Dz9tIRnR2">
+      {% include figure.liquid loading="eager" path="assets/img/85geneva-hotels/geneva-hotel-4.webp" title="日内瓦Holiday Inn Express（近机场）" class="img-fluid rounded z-depth-1" %}
+      <p>⭐⭐⭐</p>
+      <p>Holiday Inn Express（近机场）</p>
+    </a>
+  </div>
+  <div class="col-md-4">
+    <a href="https://www.trip.com/t/xAMiMxKRnR2">
+      {% include figure.liquid loading="eager" path="assets/img/85geneva-hotels/geneva-hotel-5.webp" title="日內瓦机场B&B酒店" class="img-fluid rounded z-depth-1" %}
+      <p>⭐⭐⭐</p>
+      <p>日內瓦机场B&B酒店</p>
+    </a>
+  </div>
+  <div class="col-md-4">
+    <a href="https://www.trip.com/t/CX5w3rNRnR2">
+      {% include figure.liquid loading="eager" path="assets/img/85geneva-hotels/geneva-hotel-6.webp" title="日內瓦青年旅舍" class="img-fluid rounded z-depth-1" %}
+      <p>⭐⭐</p>
+      <p>日內瓦青年旅舍</p>
+    </a>
+  </div>
+</div>
 
 ---
 
@@ -292,7 +392,57 @@ published: true
 
 {% include figure.liquid loading="eager" path="assets/img/82geneva-top-attractions/geneva-top-attractions-22.webp" title="aolitravel.com-geneve-top16-things-to-do" class="img-fluid rounded z-depth-1" alt="瑞士日内瓦top16景点攻略"%}
     
+---
 
+**日内瓦高评分酒店推荐**
+
+<div class="row">
+  <div class="col-md-4">
+    <a href="https://www.trip.com/t/qcOf6eGRnR2">
+      {% include figure.liquid loading="eager" path="assets/img/85geneva-hotels/geneva-hotel-1.webp" title="日内瓦布里斯托尔酒店" class="img-fluid rounded z-depth-1" %}
+      <p>⭐⭐⭐⭐</p>
+      <p>日内瓦布里斯托尔酒店（近火车站）</p>
+    </a>
+  </div>
+  <div class="col-md-4">
+    <a href="https://www.trip.com/t/adL6uKDRnR2">
+      {% include figure.liquid loading="eager" path="assets/img/85geneva-hotels/geneva-hotel-2.webp" title="日内瓦伯尔尼纳酒店" class="img-fluid rounded z-depth-1" %}
+      <p>⭐⭐⭐</p>
+      <p>日内瓦伯尔尼纳酒店（近火车站）</p>
+    </a>
+  </div>
+  <div class="col-md-4">
+    <a href="https://www.trip.com/t/NmyDMCERnR2">
+      {% include figure.liquid loading="eager" path="assets/img/85geneva-hotels/geneva-hotel-3.webp" title="日内瓦瑞士酒店（近火车站）" class="img-fluid rounded z-depth-1" %}
+      <p>⭐⭐⭐</p>
+      <p>瑞士酒店（近火车站）</p>
+    </a>
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-md-4">
+    <a href="https://www.trip.com/t/62Dz9tIRnR2">
+      {% include figure.liquid loading="eager" path="assets/img/85geneva-hotels/geneva-hotel-4.webp" title="日内瓦Holiday Inn Express（近机场）" class="img-fluid rounded z-depth-1" %}
+      <p>⭐⭐⭐</p>
+      <p>Holiday Inn Express（近机场）</p>
+    </a>
+  </div>
+  <div class="col-md-4">
+    <a href="https://www.trip.com/t/xAMiMxKRnR2">
+      {% include figure.liquid loading="eager" path="assets/img/85geneva-hotels/geneva-hotel-5.webp" title="日內瓦机场B&B酒店" class="img-fluid rounded z-depth-1" %}
+      <p>⭐⭐⭐</p>
+      <p>日內瓦机场B&B酒店</p>
+    </a>
+  </div>
+  <div class="col-md-4">
+    <a href="https://www.trip.com/t/CX5w3rNRnR2">
+      {% include figure.liquid loading="eager" path="assets/img/85geneva-hotels/geneva-hotel-6.webp" title="日內瓦青年旅舍" class="img-fluid rounded z-depth-1" %}
+      <p>⭐⭐</p>
+      <p>日內瓦青年旅舍</p>
+    </a>
+  </div>
+</div>
 
 ---
 
@@ -393,7 +543,57 @@ published: true
 {% include figure.liquid loading="eager" path="assets/img/82geneva-top-attractions/geneva-top-attractions-29.webp" title="aolitravel.com-geneve-top16-things-to-do" class="img-fluid rounded z-depth-1" alt="瑞士日内瓦top16景点攻略"%}
 {% include figure.liquid loading="eager" path="assets/img/82geneva-top-attractions/geneva-top-attractions-30.webp" title="aolitravel.com-geneve-top16-things-to-do" class="img-fluid rounded z-depth-1" alt="瑞士日内瓦top16景点攻略"%}
 
-    
+---
+
+**日内瓦高评分酒店推荐**
+
+<div class="row">
+  <div class="col-md-4">
+    <a href="https://www.trip.com/t/qcOf6eGRnR2">
+      {% include figure.liquid loading="eager" path="assets/img/85geneva-hotels/geneva-hotel-1.webp" title="日内瓦布里斯托尔酒店" class="img-fluid rounded z-depth-1" %}
+      <p>⭐⭐⭐⭐</p>
+      <p>日内瓦布里斯托尔酒店（近火车站）</p>
+    </a>
+  </div>
+  <div class="col-md-4">
+    <a href="https://www.trip.com/t/adL6uKDRnR2">
+      {% include figure.liquid loading="eager" path="assets/img/85geneva-hotels/geneva-hotel-2.webp" title="日内瓦伯尔尼纳酒店" class="img-fluid rounded z-depth-1" %}
+      <p>⭐⭐⭐</p>
+      <p>日内瓦伯尔尼纳酒店（近火车站）</p>
+    </a>
+  </div>
+  <div class="col-md-4">
+    <a href="https://www.trip.com/t/NmyDMCERnR2">
+      {% include figure.liquid loading="eager" path="assets/img/85geneva-hotels/geneva-hotel-3.webp" title="日内瓦瑞士酒店（近火车站）" class="img-fluid rounded z-depth-1" %}
+      <p>⭐⭐⭐</p>
+      <p>瑞士酒店（近火车站）</p>
+    </a>
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-md-4">
+    <a href="https://www.trip.com/t/62Dz9tIRnR2">
+      {% include figure.liquid loading="eager" path="assets/img/85geneva-hotels/geneva-hotel-4.webp" title="日内瓦Holiday Inn Express（近机场）" class="img-fluid rounded z-depth-1" %}
+      <p>⭐⭐⭐</p>
+      <p>Holiday Inn Express（近机场）</p>
+    </a>
+  </div>
+  <div class="col-md-4">
+    <a href="https://www.trip.com/t/xAMiMxKRnR2">
+      {% include figure.liquid loading="eager" path="assets/img/85geneva-hotels/geneva-hotel-5.webp" title="日內瓦机场B&B酒店" class="img-fluid rounded z-depth-1" %}
+      <p>⭐⭐⭐</p>
+      <p>日內瓦机场B&B酒店</p>
+    </a>
+  </div>
+  <div class="col-md-4">
+    <a href="https://www.trip.com/t/CX5w3rNRnR2">
+      {% include figure.liquid loading="eager" path="assets/img/85geneva-hotels/geneva-hotel-6.webp" title="日內瓦青年旅舍" class="img-fluid rounded z-depth-1" %}
+      <p>⭐⭐</p>
+      <p>日內瓦青年旅舍</p>
+    </a>
+  </div>
+</div>
 
 ---
 
@@ -439,60 +639,113 @@ published: true
 
 [南法旅游攻略全集](https://aolitravel.com/south-of-france/)
 
-[《法国旅行前准备攻略：一站式指南》](https://aolitravel.com/france-travel/france-travel-information/)
+[法国旅行前准备攻略：一站式指南](https://aolitravel.com/france-travel/france-travel-information/)
 
-[《法国旅行入门攻略：申根旅游签证申请指南》](https://aolitravel.com/france-travel/france-visa-information/)
+[法国旅行入门攻略：申根旅游签证申请指南](https://aolitravel.com/france-travel/france-visa-information/)
 
-[《法国文化小课堂｜礼仪、语言、饮食文化、餐馆用餐指南》](https://aolitravel.com/france-travel/french-culture-101-etiquette-language-culinary-dining/)
+[法国文化小课堂｜礼仪、语言、饮食文化、餐馆用餐指南](https://aolitravel.com/france-travel/french-culture-101-etiquette-language-culinary-dining/)
 
-[《🇫🇷法兰西十二时辰：每个月最该去的绝美秘境，错过等一年！》](https://aolitravel.com/france-travel/explore-france-12-best-monthly-destinations/)
+[🇫🇷法兰西十二时辰：每个月最该去的绝美秘境，错过等一年！](https://aolitravel.com/france-travel/explore-france-12-best-monthly-destinations/)
 
-[《法国TOP20滑雪胜地全攻略 ❄️｜探秘阿尔卑斯顶级滑雪天堂》](https://aolitravel.com/france-travel/french-top-20-ski-resort-guides/)
+[法国TOP20滑雪胜地全攻略 ❄️｜探秘阿尔卑斯顶级滑雪天堂](https://aolitravel.com/france-travel/french-top-20-ski-resort-guides/)
 
-[《法国打折村「不完全指南」带你省钱买大牌！》](https://aolitravel.com/france-travel/france-outlet-shopping-mall-village-guide/)
+[法国打折村「不完全指南」带你省钱买大牌！](https://aolitravel.com/france-travel/france-outlet-shopping-mall-village-guide/)
 
-[《法国看球之旅⚽｜探秘法甲六大豪门》](https://aolitravel.com/france-travel/france-football-league-1-visit-top-6-clubs/)
+[法国看球之旅⚽｜探秘法甲六大豪门](https://aolitravel.com/france-travel/france-football-league-1-visit-top-6-clubs/)
 
-[《波尔多旅游指南｜探索葡萄酒之城15个宝藏景点》](https://aolitravel.com/france-travel/visit-bordeaux-top-15-things-to-do/)
+[波尔多旅游指南｜探索葡萄酒之城15个宝藏景点](https://aolitravel.com/france-travel/visit-bordeaux-top-15-things-to-do/)
 
-[《里昂必打卡18大景点：从古迹到艺术，玩转法国“光之城”！》](https://aolitravel.com/france-travel/visit-lyon-top-18-things-to-do/)
+[里昂必打卡18大景点：从古迹到艺术，玩转法国“光之城”！](https://aolitravel.com/france-travel/visit-lyon-top-18-things-to-do/)
 
-[《南法 vs 南意：地中海风情的双面魅力，你Pick哪一边？》](https://aolitravel.com/france-travel/south-france-south-italy-trip-comparison/)
+[南法 vs 南意：地中海风情的双面魅力，你Pick哪一边？](https://aolitravel.com/france-travel/south-france-south-italy-trip-comparison/)
 
-[《玫瑰之城「图卢兹」解锁浪漫与科技的完美之旅》](https://aolitravel.com/france-travel/visit-toulouse-top-12-things-to-do/)
+[玫瑰之城「图卢兹」解锁浪漫与科技的完美之旅](https://aolitravel.com/france-travel/visit-toulouse-top-12-things-to-do/)
 
-[《欧洲之心「斯特拉斯堡」Top12景点深度游攻略》](https://aolitravel.com/france-travel/visit-strasbourg-top-12-things-to-do/)
+[欧洲之心「斯特拉斯堡」Top12景点深度游攻略](https://aolitravel.com/france-travel/visit-strasbourg-top-12-things-to-do/)
 
-[《最美小镇「科尔马」一日游攻略｜仿佛误入童话世界✨》](https://aolitravel.com/france-travel/visit-colmar-1-day-trip/)
+[最美小镇「科尔马」一日游攻略｜仿佛误入童话世界✨](https://aolitravel.com/france-travel/visit-colmar-1-day-trip/)
 
-[《「格勒诺布尔」终极攻略｜8大必玩景点&美食、远足、滑雪》](https://aolitravel.com/france-travel/visit-grenoble-guide/)
+[「格勒诺布尔」终极攻略｜8大必玩景点&美食、远足、滑雪](https://aolitravel.com/france-travel/visit-grenoble-guide/)
 
-[《南特必玩12大景点全攻略｜教你玩转法国最潮文艺之城！》](https://aolitravel.com/france-travel/visit-nantes-top-12-things-to-do/)
+[南特必玩12大景点全攻略｜教你玩转法国最潮文艺之城！](https://aolitravel.com/france-travel/visit-nantes-top-12-things-to-do/)
 
-[《3天玩转法国布列塔尼！圣马洛、迪纳尔、迪南、圣米歇尔山全攻略》](https://aolitravel.com/france-travel/visit-brittany-bretagne-saint-malo-dinard-dinan-mont-saint-michel/)
+[3天玩转法国布列塔尼！圣马洛、迪纳尔、迪南、圣米歇尔山全攻略](https://aolitravel.com/france-travel/visit-brittany-bretagne-saint-malo-dinard-dinan-mont-saint-michel/)
 
-[《雷恩旅游全攻略｜布列塔尼的心脏，历史与活力的魅力之城！》](https://aolitravel.com/france-travel/visit-rennes-top-12-things-to-do/)
+[雷恩旅游全攻略｜布列塔尼的心脏，历史与活力的魅力之城！](https://aolitravel.com/france-travel/visit-rennes-top-12-things-to-do/)
 
-[《🇫🇷里尔必玩15大景点全攻略！一次玩透，轻松有趣！》](https://aolitravel.com/france-travel/visit-lille-top-15-things-to-do/)
+[🇫🇷里尔必玩15大景点全攻略！一次玩透，轻松有趣！](https://aolitravel.com/france-travel/visit-lille-top-15-things-to-do/)
 
-[《诺曼底之心「鲁昂」城市旅游深度指南｜距离巴黎1.5小时》](https://aolitravel.com/france-travel/visit-rouen-city-guide/)
+[诺曼底之心「鲁昂」城市旅游深度指南｜距离巴黎1.5小时](https://aolitravel.com/france-travel/visit-rouen-city-guide/)
 
-[《🌿 蒙彼利埃2日生态旅行攻略：徒步、海鲜、运河骑行》](https://aolitravel.com/france-travel/visit-montpellier-city-guide/)
+[🌿 蒙彼利埃2日生态旅行攻略：徒步、海鲜、运河骑行](https://aolitravel.com/france-travel/visit-montpellier-city-guide/)
 
-[《🍾香槟之城「兰斯」终极旅行指南》](https://aolitravel.com/france-travel/visit-reims-city-guide/)
+[🍾香槟之城「兰斯」终极旅行指南](https://aolitravel.com/france-travel/visit-reims-city-guide/)
 
-[《法国勃艮第童话小城「第戎」的一日旅游攻略》](https://aolitravel.com/france-travel/visit-dijon-city-guide/)
+[法国勃艮第童话小城「第戎」的一日旅游攻略](https://aolitravel.com/france-travel/visit-dijon-city-guide/)
 
-[《探访阿尔卑斯的威尼斯｜我的「安纳西」独家旅游攻略》](https://aolitravel.com/france-travel/visit-alps-annecy-city-guide/)
+[探访阿尔卑斯的威尼斯｜我的「安纳西」独家旅游攻略](https://aolitravel.com/france-travel/visit-alps-annecy-city-guide/)
 
-[《法国世界文化遗产「圣米歇尔山」最全旅行指南！》](https://aolitravel.com/france-travel/visit-saint-michel-mount-normandie/)
+[法国世界文化遗产「圣米歇尔山」最全旅行指南！](https://aolitravel.com/france-travel/visit-saint-michel-mount-normandie/)
 
-[《法国美丽岛「科西嘉」全攻略｜这个地中海神仙小岛也太绝了》](https://aolitravel.com/france-travel/visit-france-corse-guide/)
+[法国美丽岛「科西嘉」全攻略｜这个地中海神仙小岛也太绝了](https://aolitravel.com/france-travel/visit-france-corse-guide/)
 
-[《穿越时光的城堡之旅｜法国卢瓦尔河谷最全游览指南》](https://aolitravel.com/france-travel/visit-castles-the-loire-france/)
+[穿越时光的城堡之旅｜法国卢瓦尔河谷最全游览指南](https://aolitravel.com/france-travel/visit-castles-the-loire-france/)
 
-[《比利牛斯山深藏的安道尔🇦🇩小到离谱，好玩到炸》](https://aolitravel.com/france-travel/visit-pyrenees-andorra-guide/)
+[比利牛斯山深藏的安道尔🇦🇩小到离谱，好玩到炸](https://aolitravel.com/france-travel/visit-pyrenees-andorra-guide/)
 
-[《🇫🇷法国最值得打卡的世界文化遗产TOP15｜一生必去清单》](https://aolitravel.com/france-travel/france-15-unesco-historic-cultural-sites/)
+[🇫🇷法国最值得打卡的世界文化遗产TOP15｜一生必去清单](https://aolitravel.com/france-travel/france-15-unesco-historic-cultural-sites/)
+
+
+---
+
+**日内瓦高评分酒店推荐**
+
+<div class="row">
+  <div class="col-md-4">
+    <a href="https://www.trip.com/t/qcOf6eGRnR2">
+      {% include figure.liquid loading="eager" path="assets/img/85geneva-hotels/geneva-hotel-1.webp" title="日内瓦布里斯托尔酒店" class="img-fluid rounded z-depth-1" %}
+      <p>⭐⭐⭐⭐</p>
+      <p>日内瓦布里斯托尔酒店（近火车站）</p>
+    </a>
+  </div>
+  <div class="col-md-4">
+    <a href="https://www.trip.com/t/adL6uKDRnR2">
+      {% include figure.liquid loading="eager" path="assets/img/85geneva-hotels/geneva-hotel-2.webp" title="日内瓦伯尔尼纳酒店" class="img-fluid rounded z-depth-1" %}
+      <p>⭐⭐⭐</p>
+      <p>日内瓦伯尔尼纳酒店（近火车站）</p>
+    </a>
+  </div>
+  <div class="col-md-4">
+    <a href="https://www.trip.com/t/NmyDMCERnR2">
+      {% include figure.liquid loading="eager" path="assets/img/85geneva-hotels/geneva-hotel-3.webp" title="日内瓦瑞士酒店（近火车站）" class="img-fluid rounded z-depth-1" %}
+      <p>⭐⭐⭐</p>
+      <p>瑞士酒店（近火车站）</p>
+    </a>
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-md-4">
+    <a href="https://www.trip.com/t/62Dz9tIRnR2">
+      {% include figure.liquid loading="eager" path="assets/img/85geneva-hotels/geneva-hotel-4.webp" title="日内瓦Holiday Inn Express（近机场）" class="img-fluid rounded z-depth-1" %}
+      <p>⭐⭐⭐</p>
+      <p>Holiday Inn Express（近机场）</p>
+    </a>
+  </div>
+  <div class="col-md-4">
+    <a href="https://www.trip.com/t/xAMiMxKRnR2">
+      {% include figure.liquid loading="eager" path="assets/img/85geneva-hotels/geneva-hotel-5.webp" title="日內瓦机场B&B酒店" class="img-fluid rounded z-depth-1" %}
+      <p>⭐⭐⭐</p>
+      <p>日內瓦机场B&B酒店</p>
+    </a>
+  </div>
+  <div class="col-md-4">
+    <a href="https://www.trip.com/t/CX5w3rNRnR2">
+      {% include figure.liquid loading="eager" path="assets/img/85geneva-hotels/geneva-hotel-6.webp" title="日內瓦青年旅舍" class="img-fluid rounded z-depth-1" %}
+      <p>⭐⭐</p>
+      <p>日內瓦青年旅舍</p>
+    </a>
+  </div>
+</div>
 
 
