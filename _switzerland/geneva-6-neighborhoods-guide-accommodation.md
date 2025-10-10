@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 日内瓦6大街区推荐与住宿指南
-description: 瑞士自由行必看，带你轻松玩转瑞士最有魅力城市
+description: 瑞士自由行必看，带你轻松玩转瑞士最具风情的国际都市!
 img: assets/img/84geneva-6-neighborhoods/geneva-6-neighborhoods-0.webp
 importance: 3
 category: 法语区
@@ -10,6 +10,7 @@ toc:
   sidebar: left
 tags: 瑞士 日内瓦 住宿 推荐街区 线路攻略 行程
 published: true
+pretty_table: true
 ---
 
 {% include figure.liquid loading="eager" path="assets/img/84geneva-6-neighborhoods/geneva-6-neighborhoods-0.webp" title="aolitravel.com-geneva-6-neighborhoods-guide-accommodation" class="img-fluid rounded z-depth-1" alt="瑞士日内瓦6大街区推荐与住宿指南"%}
@@ -17,7 +18,7 @@ published: true
 日内瓦，这座兼具历史底蕴与现代活力的瑞士城市，总能给人惊喜。无论是第一次来还是多次造访，你总能在湖光山色、历史建筑和独特街区中找到新的体验。这里不仅有美丽的日内瓦湖，还拥有充满故事的街区，每一个街区都有自己的魅力和特色。今天，我就带你走进日内瓦六个最具代表性的街区，帮你规划一次既轻松又深度的城市之旅。
 
 
-> 关于我：现常驻南法，几年前从巴黎搬到了这里，在地中海的阳光下开启了全新的生活篇章。走过十几个国家，足迹遍布三大洲，但无论走多远，旅行始终是我灵魂的栖息地，爱在山间徒步、海边吹风，冬天则滑雪畅玩。超懂**法国**，也深知邻近**瑞士**的魅力——如果你被**日内瓦攻略**吸引，不妨顺便参考我的**法国旅游攻略（含[巴黎](https://aolitravel.com/paris/)、[南法](https://aolitravel.com/south-of-france/)、[法国全集](https://aolitravel.com/france-travel/)、[精选路线](https://aolitravel.com/tours/)）**，帮你把欧洲之旅延伸得更精彩、更顺畅。从南法阳光海岸到北部历史名城，我把旅行路线、景点和实用经验都整理好了，让你的旅程轻松不踩雷！
+> 关于我：现常驻南法，几年前从巴黎搬到了这里，在地中海的阳光下开启了全新的生活篇章。走过十几个国家，足迹遍布三大洲，但无论走多远，旅行始终是我灵魂的栖息地，爱在山间徒步、海边吹风，冬天则滑雪畅玩。超懂**法国**，也深知邻近**瑞士**的魅力——如果你被我的**日内瓦攻略**吸引，不妨顺便参考我的**法国旅游攻略（含[巴黎](https://aolitravel.com/paris/)、[南法](https://aolitravel.com/south-of-france/)、[法国全集](https://aolitravel.com/france-travel/)、[精选路线](https://aolitravel.com/tours/)）**，帮你把欧洲之旅延伸得更精彩、更顺畅。从南法阳光海岸到北部历史名城，我把旅行路线、景点和实用经验都整理好了，让你的旅程轻松不踩雷！
 >
 
 
@@ -32,7 +33,7 @@ published: true
 
 ### 1. 老城区（Vieille Ville）——历史的心脏
 
-老城区无疑是日内瓦的历史核心。这里的石板街道、古老建筑和迷人广场让人仿佛穿越回中世纪。**圣彼得大教堂（Cathédrale Saint-Pierre）是这里的标志性建筑，你可以登上塔楼俯瞰全城美景。别忘了去看看塔韦尔之家（Maison Tavel）**，它是日内瓦现存最古老的建筑，记录着城市几百年的历史变迁。
+老城区无疑是日内瓦的历史核心。这里的石板街道、古老建筑和迷人广场让人仿佛穿越回中世纪。**圣彼得大教堂（Cathédrale Saint-Pierre）** 是这里的标志性建筑，你可以登上塔楼俯瞰全城美景。别忘了去看看塔韦尔之家（Maison Tavel），它是日内瓦现存最古老的建筑，记录着城市几百年的历史变迁。
 
 沿街还有许多精致的手工艺品店和温馨的咖啡馆，非常适合慢慢逛、随意停下拍照或享受咖啡。老城区不仅是文化爱好者的天堂，也是初次来日内瓦游客的首选打卡地。
 
@@ -42,7 +43,7 @@ published: true
 
 ---
 
-**日内瓦酒店高评分推荐**
+**日内瓦高评分酒店推荐**
 
 <div class="row">
   <div class="col-md-4">
@@ -118,7 +119,7 @@ published: true
 
 ### 4. 欧沃韦区（Eaux-Vives）——湖畔休闲天堂
 
-欧沃韦区以美丽的湖景和绿地著称，是日内瓦最适合休闲放松的街区之一。**英式花园（Jardin Anglais）**是这里的亮点，既适合慢跑，也适合野餐或散步。沿湖的步道上有许多咖啡馆和餐厅，你可以边喝咖啡边欣赏日内瓦湖的美景，完全沉浸在湖畔悠闲氛围中。
+欧沃韦区以美丽的湖景和绿地著称，是日内瓦最适合休闲放松的街区之一。**英式花园（Jardin Anglais）** 是这里的亮点，既适合慢跑，也适合野餐或散步。沿湖的步道上有许多咖啡馆和餐厅，你可以边喝咖啡边欣赏日内瓦湖的美景，完全沉浸在湖畔悠闲氛围中。
 
 无论是家庭、情侣，还是独自旅行者，都能在欧沃韦找到自己的小确幸。这里的自然景观与城市生活完美结合，是体验日内瓦慢生活的绝佳地点。
 {% include figure.liquid loading="eager" path="assets/img/84geneva-6-neighborhoods/geneva-6-neighborhoods-4.webp" title="aolitravel.com-geneva-6-neighborhoods-guide-accommodation" class="img-fluid rounded z-depth-1" alt="瑞士日内瓦6大街区推荐与住宿指南"%}
@@ -126,7 +127,7 @@ published: true
 
 ---
 
-**日内瓦酒店高评分推荐**
+**日内瓦高评分酒店推荐**
 
 
 <div class="row">
@@ -229,7 +230,7 @@ published: true
 
 ---
 
-**日内瓦酒店高评分推荐**
+**日内瓦高评分酒店推荐**
 
 
 <div class="row">
@@ -357,7 +358,7 @@ published: true
 
 ---
 
-**日内瓦酒店高评分推荐**
+**日内瓦高评分酒店推荐**
 
 
 <div class="row">
