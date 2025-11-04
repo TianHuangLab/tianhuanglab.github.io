@@ -262,7 +262,7 @@ Rigi山海拔约1800米，山上山下美景令人屏息，如果你走这个线
 > 如果你想来法国玩，但是还不知道如何规划行程？路线怎么安排？哪几个城市可以串联起来？如何在小众小镇找到最佳住宿和地道美食？别担心！不妨看看我的推荐 - [精选线路](https://aolitravel.com/tours/)，亦或是[联系我](http://aolitravel.com)或是找我[定制行程](https://aolitravel.com/custom-travel/)
 >
 
-{% include figure.liquid loading="eager" path="assets/img/90lucerne/lucerne-26.webp" title="aolitravel.com-lucerne-two-days-tour瑞士卢塞恩两日游攻略" class="img-fluid rounded z-depth-1" alt="aolitravel.com-lucerne-two-days-tour瑞士卢塞恩两日游攻略"%}
+{% include figure.liquid loading="eager" path="assets/img/90lucerne/lucerne-27.webp" title="aolitravel.com-lucerne-two-days-tour瑞士卢塞恩两日游攻略" class="img-fluid rounded z-depth-1" alt="aolitravel.com-lucerne-two-days-tour瑞士卢塞恩两日游攻略"%}
 
 ---
 
