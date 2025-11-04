@@ -179,7 +179,6 @@ published: true
 - 内部免费参观，壮丽拱门、祭坛及17世纪管风琴
 - 珍宝室需导览，约10-12瑞士法郎
 {% include figure.liquid loading="eager" path="assets/img/90lucerne/lucerne-16.webp" title="aolitravel.com-lucerne-two-days-tour瑞士卢塞恩两日游攻略" class="img-fluid rounded z-depth-1" alt="aolitravel.com-lucerne-two-days-tour瑞士卢塞恩两日游攻略"%}
-{% include figure.liquid loading="eager" path="assets/img/90lucerne/lucerne-17.webp" title="aolitravel.com-lucerne-two-days-tour瑞士卢塞恩两日游攻略" class="img-fluid rounded z-depth-1" alt="aolitravel.com-lucerne-two-days-tour瑞士卢塞恩两日游攻略"%}
 
 
 ---
@@ -197,7 +196,7 @@ published: true
 
 ### 第二天：卢塞恩湖游 & 瑞士阿尔卑斯探险
 
-卢塞恩之旅必不可少：**湖上游船 + 阿尔卑斯山探险**！
+卢塞恩之旅必不可少：**湖上游船 + 阿尔卑斯山探险**！这几座山峰均位于卢塞恩附近，可以任选一座上去参观。如果想要全部参观的话，就需要更多的时间，基本上前三座山峰对应大半天的游览时间，最后少女峰稍微更远一些，需要一整天的时间，总之你可以根据自己的行程提前考虑希望参观哪座山峰！
 
 - **Rigi瑞吉山**：湖上游船 + 欧洲首条山区铁路，约75-85瑞士法郎，Swiss Travel Pass免费
 {% include figure.liquid loading="eager" path="assets/img/90lucerne/lucerne-19.webp" title="aolitravel.com-lucerne-two-days-tour瑞士卢塞恩两日游攻略" class="img-fluid rounded z-depth-1" alt="aolitravel.com-lucerne-two-days-tour瑞士卢塞恩两日游攻略"%}
@@ -249,7 +248,7 @@ published: true
 Rigi山海拔约1800米，山上山下美景令人屏息，如果你走这个线路，相信这趟自助一日游会是你卢塞恩之旅的最大亮点！
 
 **小贴士**：携带现金以备现金支付餐厅，并穿着分层衣物，山区空气清凉。
-{% include figure.liquid loading="eager" path="assets/img/90lucerne/lucerne-25.webp" title="aolitravel.com-lucerne-two-days-tour瑞士卢塞恩两日游攻略" class="img-fluid rounded z-depth-1" alt="aolitravel.com-lucerne-two-days-tour瑞士卢塞恩两日游攻略"%}
+{% include figure.liquid loading="eager" path="assets/img/90lucerne/lucerne-25.png" title="aolitravel.com-lucerne-two-days-tour瑞士卢塞恩两日游攻略" class="img-fluid rounded z-depth-1" alt="aolitravel.com-lucerne-two-days-tour瑞士卢塞恩两日游攻略"%}
 
 ---
 
