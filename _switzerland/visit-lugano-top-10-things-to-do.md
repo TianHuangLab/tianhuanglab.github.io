@@ -22,7 +22,7 @@ published: true
 
 无论你是第一次来瑞士，还是计划深度游，这篇卢加诺自由行攻略，都会帮你在有限时间里，发现这座城市最动人的一面。
 
-> 关于我：现常驻南法，几年前从巴黎搬到了这里，在地中海的阳光下开启了全新的生活篇章。走过十几个国家，足迹遍布三大洲，但无论走多远，旅行始终是我灵魂的栖息地，爱在山间徒步、海边吹风，冬天则滑雪畅玩。超懂**法国**，也深知邻近**瑞士**的魅力——如果你被**卢塞恩攻略**吸引，不妨顺便参考我的**法国旅游攻略（含[巴黎](https://aolitravel.com/paris/)、[南法](https://aolitravel.com/south-of-france/)、[法国全集](https://aolitravel.com/france-travel/)、[精选路线](https://aolitravel.com/tours/)）**，帮你把欧洲之旅延伸得更精彩、更顺畅。从南法阳光海岸到北部历史名城，我把旅行路线、景点和实用经验都整理好了，让你的旅程轻松不踩雷！
+> 关于我：现常驻南法，几年前从巴黎搬到了这里，在地中海的阳光下开启了全新的生活篇章。走过十几个国家，足迹遍布三大洲，但无论走多远，旅行始终是我灵魂的栖息地，爱在山间徒步、海边吹风，冬天则滑雪畅玩。超懂**法国**，也深知邻近**瑞士**的魅力——如果你被这篇**卢加诺攻略**吸引，不妨顺便参考我的**法国旅游攻略（含[巴黎](https://aolitravel.com/paris/)、[南法](https://aolitravel.com/south-of-france/)、[法国全集](https://aolitravel.com/france-travel/)、[精选路线](https://aolitravel.com/tours/)）**，帮你把欧洲之旅延伸得更精彩、更顺畅。从南法阳光海岸到北部历史名城，我把旅行路线、景点和实用经验都整理好了，让你的旅程轻松不踩雷！
 >
 
 {% include figure.liquid loading="eager" path="assets/img/92lugano/lugano-1a.webp" title="aolitravel.com-lugano-tour瑞士卢加诺攻略" class="img-fluid rounded z-depth-1" alt="aolitravel.com-lugano-tour瑞士卢加诺攻略"%}
