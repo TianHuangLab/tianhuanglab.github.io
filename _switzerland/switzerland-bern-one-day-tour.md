@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 伯尔尼一日游攻略｜深度游玩历史、文化与自然风光
+title: 伯尔尼一日游攻略｜深度体验历史文化、自然风光
 description: 瑞士首都，名气虽不及苏黎世和日内瓦，但是不可错过！
 img: assets/img/91bern/bern-0.webp
 importance: 3
