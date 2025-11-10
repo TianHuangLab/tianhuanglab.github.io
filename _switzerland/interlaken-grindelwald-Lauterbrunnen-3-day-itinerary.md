@@ -14,11 +14,11 @@ published: true
 
 {% include figure.liquid loading="eager" path="assets/img/93interlaken-grindelwald-Lauterbrunnen/interlaken-grindelwald-Lauterbrunnen-0.webp" title="aolitravel.com-interlaken-grindelwald-Lauterbrunnen-guide-因特拉肯、格林德瓦尔德、劳特布伦嫩全攻略攻略" class="img-fluid rounded z-depth-1" alt="aolitravel.com-interlaken-grindelwald-Lauterbrunnen-guide-因特拉肯、格林德瓦尔德、劳特布伦嫩全攻略攻略"%}
 
-如果来瑞士旅游，那么最美的中部湖光山色绝对不能错过！可以说，我们对瑞士的绝大部分想象，都来自这个地区的美景！今天我要给大家带来一篇超级实用的**瑞士中部三日游攻略**，如果你计划来瑞士，时间有限，那么用短短三天体验最经典的瑞士自然风光，绝对是最棒的选择之一。这篇攻略中，我将以瑞士中部山区小镇 **格林德瓦尔德（Grindelwald）** 为基地，带你玩遍 **因特拉肯（Interlaken）及周边** 的山谷、湖泊、瀑布，体验刺激的山地活动，还额外推荐隐藏的美食和小众景点。
+如果来瑞士旅游，那么最美的中部湖光山色绝对不能错过！可以说，我们对瑞士的绝大部分想象，都来自这个地区的美景！今天我要给大家带来一篇超级实用的**瑞士中部三日游攻略**，如果你计划来瑞士，时间有限，那么用短短三天体验最经典的瑞士自然风光，位于瑞士中部的伯尔尼高地的湖区小镇绝对是最棒的选择之一。这篇攻略中，我将以瑞士中部山区小镇 **格林德瓦尔德（Grindelwald）** 为基地，带你玩遍 **因特拉肯（Interlaken）及周边** 的山谷、湖泊、瀑布，体验刺激的山地活动，还额外推荐隐藏的美食和小众景点。
 
 所以，不管你是第一次来瑞士，还是只想在夏季用几天时间尽情感受阿尔卑斯风光，这篇攻略都能帮你省去大量功课时间，让你行程紧凑又充实。废话不多说，我直接进入主题！
 
-> 关于我：现常驻南法，几年前从巴黎搬到了这里，在地中海的阳光下开启了全新的生活篇章。走过十几个国家，足迹遍布三大洲，但无论走多远，旅行始终是我灵魂的栖息地，爱在山间徒步、海边吹风，冬天则滑雪畅玩。超懂**法国**，也深知邻近**瑞士**的魅力——如果你被这篇**卢加诺攻略**吸引，不妨顺便参考我的**法国旅游攻略（含[巴黎](https://aolitravel.com/paris/)、[南法](https://aolitravel.com/south-of-france/)、[法国全集](https://aolitravel.com/france-travel/)、[精选路线](https://aolitravel.com/tours/)）**，帮你把欧洲之旅延伸得更精彩、更顺畅。从南法阳光海岸到北部历史名城，我把旅行路线、景点和实用经验都整理好了，让你的旅程轻松不踩雷！
+> 关于我：现常驻南法，几年前从巴黎搬到了这里，在地中海的阳光下开启了全新的生活篇章。走过十几个国家，足迹遍布三大洲，但无论走多远，旅行始终是我灵魂的栖息地，爱在山间徒步、海边吹风，冬天则滑雪畅玩。超懂**法国**，也深知邻近**瑞士**的魅力——如果你被这篇**瑞士中部旅游攻略**吸引，不妨顺便参考我的**法国旅游攻略（含[巴黎](https://aolitravel.com/paris/)、[南法](https://aolitravel.com/south-of-france/)、[法国全集](https://aolitravel.com/france-travel/)、[精选路线](https://aolitravel.com/tours/)）**，帮你把欧洲之旅延伸得更精彩、更顺畅。从南法阳光海岸到北部历史名城，我把旅行路线、景点和实用经验都整理好了，让你的旅程轻松不踩雷！
 >
 
 {% include figure.liquid loading="eager" path="assets/img/93interlaken-grindelwald-Lauterbrunnen/interlaken-grindelwald-Lauterbrunnen-0a.webp" title="aolitravel.com-interlaken-grindelwald-Lauterbrunnen-guide-因特拉肯、格林德瓦尔德、劳特布伦嫩全攻略攻略" class="img-fluid rounded z-depth-1" alt="aolitravel.com-interlaken-grindelwald-Lauterbrunnen-guide-因特拉肯、格林德瓦尔德、劳特布伦嫩全攻略攻略"%}
@@ -54,18 +54,18 @@ published: true
 - **山地滑板车（Mountain Scooter）**：排队最少，可以一路滑回村里。
 
 如果不喜欢这些刺激项目，也可以乘缆车直接下山，但这些活动是来到 Grindelwald First 的精华，强烈推荐尝试。
-{% include figure.liquid loading="eager" path="assets/img/93interlaken-grindelwald-Lauterbrunnen/interlaken-grindelwald-Lauterbrunnen-1c.webp" title="aolitravel.com-interlaken-grindelwald-Lauterbrunnen-guide-因特拉肯、格林德瓦尔德、劳特布伦嫩全攻略攻略" class="img-fluid rounded z-depth-1" alt="aolitravel.com-interlaken-grindelwald-Lauterbrunnen-guide-因特拉肯、格林德瓦尔德、劳特布伦嫩全攻略攻略"%}
+{% include figure.liquid loading="eager" path="assets/img/93interlaken-grindelwald-Lauterbrunnen/interlaken-grindelwald-Lauterbrunnen-1c.jpg" title="aolitravel.com-interlaken-grindelwald-Lauterbrunnen-guide-因特拉肯、格林德瓦尔德、劳特布伦嫩全攻略攻略" class="img-fluid rounded z-depth-1" alt="aolitravel.com-interlaken-grindelwald-Lauterbrunnen-guide-因特拉肯、格林德瓦尔德、劳特布伦嫩全攻略攻略"%}
 
 ### **小众山峰推荐 Färich（Fin Egg）**
 
 如果你早上在 Grindelwald First 错过滑索，还可以前往 **Färich 缆车站**，这里游客较少，景色同样绝佳，还有山地过山车和滑索等活动，非常适合午后体验。
-{% include figure.liquid loading="eager" path="assets/img/93interlaken-grindelwald-Lauterbrunnen/interlaken-grindelwald-Lauterbrunnen-1d.webp" title="aolitravel.com-interlaken-grindelwald-Lauterbrunnen-guide-因特拉肯、格林德瓦尔德、劳特布伦嫩全攻略攻略" class="img-fluid rounded z-depth-1" alt="aolitravel.com-interlaken-grindelwald-Lauterbrunnen-guide-因特拉肯、格林德瓦尔德、劳特布伦嫩全攻略攻略"%}
+{% include figure.liquid loading="eager" path="assets/img/93interlaken-grindelwald-Lauterbrunnen/interlaken-grindelwald-Lauterbrunnen-1d.jpg" title="aolitravel.com-interlaken-grindelwald-Lauterbrunnen-guide-因特拉肯、格林德瓦尔德、劳特布伦嫩全攻略攻略" class="img-fluid rounded z-depth-1" alt="aolitravel.com-interlaken-grindelwald-Lauterbrunnen-guide-因特拉肯、格林德瓦尔德、劳特布伦嫩全攻略攻略"%}
 
 
 ### **夜晚体验：Grindelwald Canyon & 缆车火锅**
 
 如果是周五晚上，不妨去 **Grindelwald Canyon**，夜晚灯光点亮峡谷，神秘梦幻。晚餐推荐 **Bader Hotel 的缆车火锅**，他们用真实老缆车改造成用餐舱，在山谷中享用瑞士奶酪火锅，美景与美食兼得，非常适合浪漫或家庭出游。
-{% include figure.liquid loading="eager" path="assets/img/93interlaken-grindelwald-Lauterbrunnen/interlaken-grindelwald-Lauterbrunnen-1e.webp" title="aolitravel.com-interlaken-grindelwald-Lauterbrunnen-guide-因特拉肯、格林德瓦尔德、劳特布伦嫩全攻略攻略" class="img-fluid rounded z-depth-1" alt="aolitravel.com-interlaken-grindelwald-Lauterbrunnen-guide-因特拉肯、格林德瓦尔德、劳特布伦嫩全攻略攻略"%}
+{% include figure.liquid loading="eager" path="assets/img/93interlaken-grindelwald-Lauterbrunnen/interlaken-grindelwald-Lauterbrunnen-1e.jpg" title="aolitravel.com-interlaken-grindelwald-Lauterbrunnen-guide-因特拉肯、格林德瓦尔德、劳特布伦嫩全攻略攻略" class="img-fluid rounded z-depth-1" alt="aolitravel.com-interlaken-grindelwald-Lauterbrunnen-guide-因特拉肯、格林德瓦尔德、劳特布伦嫩全攻略攻略"%}
 
 
 ---
@@ -98,7 +98,7 @@ published: true
 2. **Ballenberg 露天博物馆**
     
     乘公交或自驾前往，这里集合了瑞士各地传统农舍和建筑，仿佛缩小版瑞士，适合家庭带孩子游玩。还可以体验制作木制小牛玩具，非常有趣。
-{% include figure.liquid loading="eager" path="assets/img/93interlaken-grindelwald-Lauterbrunnen/interlaken-grindelwald-Lauterbrunnen-2d.webp" title="aolitravel.com-interlaken-grindelwald-Lauterbrunnen-guide-因特拉肯、格林德瓦尔德、劳特布伦嫩全攻略攻略" class="img-fluid rounded z-depth-1" alt="aolitravel.com-interlaken-grindelwald-Lauterbrunnen-guide-因特拉肯、格林德瓦尔德、劳特布伦嫩全攻略攻略"%}
+{% include figure.liquid loading="eager" path="assets/img/93interlaken-grindelwald-Lauterbrunnen/interlaken-grindelwald-Lauterbrunnen-2d.jpg" title="aolitravel.com-interlaken-grindelwald-Lauterbrunnen-guide-因特拉肯、格林德瓦尔德、劳特布伦嫩全攻略攻略" class="img-fluid rounded z-depth-1" alt="aolitravel.com-interlaken-grindelwald-Lauterbrunnen-guide-因特拉肯、格林德瓦尔德、劳特布伦嫩全攻略攻略"%}
 
     
 
@@ -147,12 +147,12 @@ Mürren 是步行村落，如果体力充沛，可以继续乘缆车上**雪朗�
 3. **装备**：登山鞋或防滑运动鞋必备，尤其是徒步 Bachalpsee 和 Trümmelbach 瀑布时。
 4. **用餐**：尽量提前预约热门餐厅，特别是山顶餐厅和缆车火锅。
 5. **拍照**：早晨和傍晚光线最佳，游客少，拍照体验最佳。
-{% include figure.liquid loading="eager" path="assets/img/93interlaken-grindelwald-Lauterbrunnen/interlaken-grindelwald-Lauterbrunnen-4.webp" title="aolitravel.com-interlaken-grindelwald-Lauterbrunnen-guide-因特拉肯、格林德瓦尔德、劳特布伦嫩全攻略攻略" class="img-fluid rounded z-depth-1" alt="aolitravel.com-interlaken-grindelwald-Lauterbrunnen-guide-因特拉肯、格林德瓦尔德、劳特布伦嫩全攻略攻略"%}
+{% include figure.liquid loading="eager" path="assets/img/93interlaken-grindelwald-Lauterbrunnen/interlaken-grindelwald-Lauterbrunnen-4.jpg" title="aolitravel.com-interlaken-grindelwald-Lauterbrunnen-guide-因特拉肯、格林德瓦尔德、劳特布伦嫩全攻略攻略" class="img-fluid rounded z-depth-1" alt="aolitravel.com-interlaken-grindelwald-Lauterbrunnen-guide-因特拉肯、格林德瓦尔德、劳特布伦嫩全攻略攻略"%}
 
 
 ---
 
-这就是我走过多次瑞士山山水水之后，整理的 **瑞士中部三日游攻略**，覆盖了 **格林德瓦尔德、因特拉肯、布里恩茨湖和劳特布伦嫩谷** 的主要景点，安排紧凑却不失舒适，既能欣赏瑞士最经典的山水美景，也能体验刺激的山地活动。无论你是朋友还是家庭出行，无论是第一次来瑞士还是再次探访瑞士，无论是希望在短时间内玩遍经典景点还是想要更加深入瑞士风景，这份攻略都能帮你省心省力，让你探索旅途中的更多惊喜！
+这就是我走过多次瑞士山山水水之后，整理的 **瑞士中部三日游攻略**，覆盖了 **格林德瓦尔德、因特拉肯、布里恩茨湖和劳特布伦嫩山谷** 的主要景点，安排紧凑却不失舒适，既能欣赏瑞士最经典的山水美景，也能体验刺激的山地活动。无论你是朋友还是家庭出行，无论是第一次来瑞士还是再次探访瑞士，无论是希望在短时间内玩遍经典景点还是想要更加深入瑞士风景，这份攻略都能帮你省心省力，让你探索旅途中的更多惊喜！
 
 > 出发前，总少不了做点功课，对吧？为了让你的行程更轻松，我整理了我常用、靠谱的[短途游览](https://aolitravel.com/tours/)、[酒店、机票、车票、租车或包车预订和旅行资源](https://aolitravel.com/travel-prep/)。无论你是想找舒适酒店，还是提前搞定交通或当地体验，这个旅行准备工具页面都能帮你轻松搞定一切。用了这些推荐，你再也不用东奔西找，既省时又省心。想让你的欧洲或法国之旅顺利又精彩？从这里开始，就对了！
 > 
