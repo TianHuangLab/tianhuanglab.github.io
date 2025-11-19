@@ -7,6 +7,7 @@ importance: 3.5
 category: 蔚蓝海岸
 related_publications: false
 related_posts: true
+pretty_table: true
 toc:
   sidebar: left
 tags: 法国 蔚蓝海岸 南法 线路攻略 行程 尼斯机场
