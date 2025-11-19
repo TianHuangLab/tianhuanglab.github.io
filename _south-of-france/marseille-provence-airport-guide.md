@@ -7,6 +7,7 @@ importance: 5
 category: 解锁南法
 related_publications: false
 related_posts: true
+pretty_table: true
 toc:
   sidebar: left
 tags: 法国 法国旅游 南法 普罗旺斯机场 马赛机场 交通攻略
