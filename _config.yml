@@ -20,7 +20,7 @@ keywords: 法国旅游攻略, 法国, 法国旅游, 南法, 巴黎, 尼斯, 马�
 lang: en, cn, fr # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
-url: https://aolitravel.com/ # the base hostname & protocol for your site
+url: https://aolitravel.com # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
@@ -171,7 +171,7 @@ collections:
     permalink: /luxury-villas-hotels/:path/
   custom-travel:
     output: true
-    permalink: custom-travel/:path/
+    permalink: /custom-travel/:path/
   travel-prep:
     output: true
     permalink: /travel-prep/:path/
