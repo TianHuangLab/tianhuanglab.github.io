@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://aolitravel.com//sitemap.xml
+Sitemap: https://aolitravel.com/sitemap.xml
