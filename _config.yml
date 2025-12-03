@@ -171,7 +171,7 @@ collections:
     permalink: /luxury-villas-hotels/:path/
   custom-travel:
     output: true
-    permalink: /custom-travel/:path/
+    permalink: custom-travel/:path/
   travel-prep:
     output: true
     permalink: /travel-prep/:path/
