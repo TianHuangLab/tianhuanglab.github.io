@@ -1,0 +1,55 @@
+---
+layout: default
+title: 行程单
+permalink: /itinerary.html
+---
+
+<script>
+  const PASSWORD = "123"; // 设置访问密码
+  let attempts = 0;
+
+  function checkPassword() {
+    const input = prompt("请输入访问密码：");
+    attempts++;
+    if (input === PASSWORD) {
+      document.getElementById("itinerary-content").style.display = "block";
+    } else {
+      if (attempts < 3) {
+        alert("密码错误，请重试！");
+        checkPassword();
+      } else {
+        alert("尝试次数过多，访问被拒绝。");
+        window.location.href = "/";
+      }
+    }
+  }
+
+  document.addEventListener("DOMContentLoaded", checkPassword);
+
+  // 从 URL 获取 client 参数
+  function getClientFromURL() {
+    const params = new URLSearchParams(window.location.search);
+    return params.get('client') || "Alice"; // 默认 Alice
+  }
+</script>
+
+<div id="itinerary-content" style="display:none;">
+  {% assign client = "Alice" %} <!-- 默认客户 -->
+  {% assign client_from_url = client %}
+
+  <!-- 这里我们用 Liquid 循环查找行程 -->
+  {% assign itinerary = site.data.itineraries | where: "client", client_from_url | first %}
+
+  <h1>{{ itinerary.title }}</h1>
+
+  {% for day in itinerary.days %}
+    <div class="itinerary-day">
+      <h2>第{{ day.day }}天：{{ day.title }}</h2>
+      <ul>
+        {% for act in day.activities %}
+          <li><strong>{{ act.time }}</strong> - {{ act.activity }}</li>
+        {% endfor %}
+      </ul>
+    </div>
+  {% endfor %}
+</div>
