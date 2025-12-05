@@ -1,28 +1,60 @@
 - client: Alice
-  title: "法国浪漫之旅"
-  days:
+  personal_info:
+    full_name: "Smith Rhodes"
+    email: "info.smith@example.com"
+    address: "15 Hodges Mews, High Wycombe, HP12 3JL, United Kingdom"
+    purpose: "Business Travel"
+    reservation_id: "ZX4556WS24613"
+  flights:
+    - date: "15 Jun 21, Sat"
+      departure_time: "04:50 AM"
+      airline: "IndiGo Airways"
+      confirm_code: "#MG245C"
+      departure: "New Delhi (DEL)"
+      gate: "A-2"
+      arrival_time: "09:30 AM"
+  car_rentals:
+    - company: "Shapath Car Rental"
+      pick_up_time: "16 Jun 21, Sat - 07:30 AM"
+      pick_up_location: "High Wycombe"
+      drop_off_time: "16 Jun 21, Sat - 10:25 AM"
+      drop_off_location: "High Wycombe"
+  hotels:
+    - name: "The Orchid Hotel"
+      check_in: "16 Jun 21, Sat"
+      check_out: "18 Jun 21, Sat"
+      room_no: "342"
+      booking_no: "HQM3912704"
+      address: "Plot No.3, Nr. HDFC Bank, Ashram Road, Ahmedabad, Gujarat, India."
+  daily_itinerary:
     - day: 1
-      title: "巴黎市区游"
-      activities:
-        - time: "09:00"
-          activity: "埃菲尔铁塔参观"
-        - time: "12:00"
-          activity: "塞纳河午餐游船"
+      date: "2025-09-17"
+      weekday: "Wednesday"
+      city: "巴黎"
+      overview: "当天根据航班时间，安排接机送至酒店后自行办理入住。夜宿：巴黎。"
+      flight_info: "9月17日 CA875，01:55 北京-07:25 巴黎"
+      hotel:
+        name: "Novotel Paris La Défense Nanterre 或同等级其他酒店"
+        address: "14 Rue des 3 Fontanot, 92000 Nanterre, 法国"
     - day: 2
-      title: "卢瓦尔河谷城堡"
-      activities:
-        - time: "08:00"
-          activity: "出发前往卢瓦尔河谷"
-        - time: "10:30"
-          activity: "参观香波堡"
-
-- client: Bob
-  title: "瑞士阿尔卑斯徒步"
-  days:
-    - day: 1
-      title: "因特拉肯徒步"
-      activities:
-        - time: "09:00"
-          activity: "从酒店出发徒步"
-        - time: "12:00"
-          activity: "湖边野餐"
+      date: "2025-09-18"
+      weekday: "Thursday"
+      city: "巴黎"
+      overview: "早餐后前往游览卢浮宫，之后返回市区游览巴黎圣母院（外观）、西岱岛、埃菲尔铁塔（外观）、战神广场，随后乘坐塞纳河游船，船游大小皇宫、协和广场等，最后返回酒店。夜宿：巴黎。"
+      flight_info: ""
+      hotel:
+        name: "Novotel Paris La Défense Nanterre 或同等级其他酒店"
+        address: "14 Rue des 3 Fontanot, 92000 Nanterre, 法国"
+    - day: 3
+      date: "2025-09-19"
+      weekday: "Friday"
+      city: "巴黎"
+      overview: "早餐后前往游览凡尔赛宫，之后返回市区游览奥斯曼大街、皇家大道、巴黎歌剧院（外观）、春天百货、巴黎老佛爷，随后返回酒店。夜宿：巴黎。"
+      flight_info: ""
+      hotel:
+        name: "Novotel Paris La Défense Nanterre 或同等级其他酒店"
+        address: "14 Rue des 3 Fontanot, 92000 Nanterre, 法国"
+  notes:
+    fees: "总费用：$2500"
+    important_tips: "请携带有效身份证件及保险信息。"
+    safety: "巴黎夜晚请注意保管贵重物品。"
