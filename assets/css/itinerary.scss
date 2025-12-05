@@ -1,42 +1,81 @@
-$purple: #b6a3d8;
-$purple-dark: #7f6bb3;
-$bg-light: #f7f4fb;
+$color-primary: #8e7cc3;
+$color-light: #f4f0fb;
+$color-text: #333;
 
-.itinerary-container {
-  padding: 2rem;
-  background: $bg-light;
-
-  h2, h3, h5 {
-    color: $purple-dark;
-  }
-
-  .sub-en { font-size: 0.8em; color: #777; }
-
-  .section-block {
-    background: white;
-    padding: 1.5rem;
-    border-radius: 12px;
-    margin-bottom: 2rem;
-    border-left: 6px solid $purple;
-  }
-
-  .sub-card, .day-card {
-    background: #fff;
-    padding: 1rem;
-    border-radius: 10px;
-    border: 1px solid #e8e2f7;
-    margin-bottom: 1rem;
-  }
-
-  .day-header {
-    font-weight: bold;
-    color: $purple-dark;
-    font-size: 1.1rem;
-    margin-bottom: .7rem;
-  }
-
-  .day-body p {
-    margin-bottom: .4rem;
-  }
+.itinerary-page {
+  background: $color-light;
+  font-family: "PingFang SC", "Microsoft YaHei", sans-serif;
+  color: $color-text;
+  padding: 20px;
 }
 
+.container {
+  max-width: 900px;
+  margin: auto;
+}
+
+.card {
+  background: white;
+  border-left: 5px solid $color-primary;
+  border-radius: 12px;
+  padding: 20px;
+  margin-bottom: 25px;
+  box-shadow: 0 2px 8px rgba(0,0,0,.07);
+}
+
+.main-title {
+  color: $color-primary;
+  text-align: center;
+  font-size: 28px;
+  margin-bottom: 10px;
+  font-weight: 700;
+}
+
+.sub-title {
+  text-align: center;
+  color: #666;
+  margin-bottom: 5px;
+}
+
+.day-block h3 {
+  color: $color-primary;
+  margin-top: 15px;
+}
+
+.day-block h4 {
+  margin: 8px 0;
+  font-weight: 600;
+}
+
+hr {
+  border: none;
+  border-top: 1px dashed #ccc;
+  margin: 20px 0;
+}
+
+/* 密码界面 */
+#password-screen {
+  display: flex;
+  justify-content: center;
+  padding-top: 80px;
+}
+
+.pw-box {
+  max-width: 350px;
+  text-align: center;
+}
+
+button {
+  padding: 10px 18px;
+  margin-top: 10px;
+  border: none;
+  border-radius: 8px;
+  background: $color-primary;
+  color: white;
+  cursor: pointer;
+}
+
+.error {
+  color: red;
+  margin-top: 8px;
+}
