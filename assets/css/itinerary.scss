@@ -1,0 +1,15 @@
+.itinerary-day {
+  margin-bottom: 2rem;
+  h2 {
+    font-size: 1.5rem;
+    color: #2c3e50;
+  }
+  ul {
+    list-style: none;
+    padding: 0;
+    li {
+      padding: 0.5rem 0;
+      border-bottom: 1px dashed #ccc;
+    }
+  }
+}
