@@ -1,36 +1,37 @@
-client_id: "client1"
-password: "7788"
-
 basic:
   title: "法国深度体验行程单"
   client_name: "张三"
-  phone: "13800000000"
   travelers: 2
   start_date: "2025-09-17"
   end_date: "2025-09-26"
 
+password: "7788"
+
 join_info:
   join_city: "巴黎"
   join_date: "2025-09-17"
-  join_flight: "9月17日 CA875，01:55北京-07:25巴黎"
-  join_note: "当天接机后送往酒店办理入住。"
+  join_note: "当天接机送至酒店后自行办理入住"
+  join_flight: "CA875，01:55 北京 - 07:25 巴黎"
 
 leave_info:
   leave_city: "尼斯"
   leave_date: "2025-09-26"
-  leave_flight: "9月26日 BA343，11:35尼斯-12:50伦敦"
-  leave_note: "送机至尼斯机场后结束行程。"
+  leave_note: "送机到机场办理登机"
+  leave_flight: "BA343，11:35 尼斯 - 12:50 伦敦"
 
-important_note: "*所有时间可能因现场情况调整。*"
+important_note: "*所有时间均为计划时间，行程时间以现场确认为准，堵车晚点频繁发生，请留出足够时间安排后续行程。*"
+
+options:
+  show_join_leave: true
+  show_daily: true
+  show_expense: true
 
 daily_itinerary:
   - day: 1
     date: "2025-09-17"
     weekday: "星期三"
     title: "巴黎抵达"
-    content: |
-      专车接机后送往酒店。
-      夜宿：巴黎。
+    content: "当天根据航班时间，安排接机送至酒店后自行办理入住。"
     hotel:
       name: "Novotel Paris La Défense Nanterre"
       address: "14 Rue des 3 Fontanot, 92000 Nanterre, 法国"
@@ -38,26 +39,17 @@ daily_itinerary:
   - day: 2
     date: "2025-09-18"
     weekday: "星期四"
-    title: "卢浮宫 + 巴黎市区景点"
-    content: |
-      游览卢浮宫；下午观光巴黎圣母院、西岱岛、埃菲尔铁塔等。
-      夜宿：巴黎。
+    title: "卢浮宫 & 市区游"
+    content: "早餐后游览卢浮宫，之后返回市区游览巴黎圣母院（外观）、西岱岛、埃菲尔铁塔（外观）、战神广场，乘坐塞纳河游船，船游大小皇宫、协和广场等。"
     hotel:
       name: "Novotel Paris La Défense Nanterre"
       address: "14 Rue des 3 Fontanot, 92000 Nanterre, 法国"
 
 expense:
   included:
-    - 酒店住宿
-    - 景点门票
+    - "机票"
+    - "酒店住宿"
+    - "景点门票"
   excluded:
-    - 餐饮
-    - 保险
-
-options:
-  show_flight: false
-  show_hotel: true
-  show_car_rental: false
-  show_expense: true
-  show_daily: true
-  show_join_leave: true
+    - "个人消费"
+    - "小费"
