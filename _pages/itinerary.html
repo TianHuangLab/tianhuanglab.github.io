@@ -5,51 +5,165 @@ permalink: /itinerary.html
 ---
 
 <script>
-  const PASSWORD = "123"; // 设置访问密码
-  let attempts = 0;
+  const PASSWORD = "123";
 
-  function checkPassword() {
-    const input = prompt("请输入访问密码：");
-    attempts++;
-    if (input === PASSWORD) {
-      document.getElementById("itinerary-content").style.display = "block";
-    } else {
-      if (attempts < 3) {
-        alert("密码错误，请重试！");
-        checkPassword();
-      } else {
-        alert("尝试次数过多，访问被拒绝。");
-        window.location.href = "/";
-      }
-    }
-  }
-
-  document.addEventListener("DOMContentLoaded", checkPassword);
-
-  // 从 URL 获取 client 参数
   function getClientFromURL() {
     const params = new URLSearchParams(window.location.search);
-    return params.get('client') || "Alice"; // 默认 Alice
+    return params.get('client');
   }
+
+  document.addEventListener("DOMContentLoaded", () => {
+    const client = getClientFromURL();
+    if(!client) {
+      window.location.href = "/";
+      return;
+    }
+
+    let attempts = 0;
+    function checkPassword() {
+      const input = prompt("请输入访问密码：");
+      attempts++;
+      if (input === PASSWORD) {
+        document.getElementById("itinerary-content").style.display = "block";
+      } else {
+        if (attempts < 3) {
+          alert("密码错误，请重试！");
+          checkPassword();
+        } else {
+          alert("尝试次数过多，访问被拒绝。");
+          window.location.href = "/";
+        }
+      }
+    }
+
+    checkPassword();
+  });
 </script>
 
-<div id="itinerary-content" style="display:none;">
-  {% assign client = "Alice" %} <!-- 默认客户 -->
-  {% assign client_from_url = client %}
+<div class="container-fluid itinerary-container" id="itinerary-content" style="display:none;">
 
-  <!-- 这里我们用 Liquid 循环查找行程 -->
+  <!-- Header -->
+  <header>
+    <div class="row align-items-center">
+      <div class="col-sm-7 text-center text-sm-left mb-3 mb-sm-0">
+        <img id="logo" src="/assets/images/logo.png" title="Logo" alt="Logo">
+      </div>
+      <div class="col-sm-5 text-center text-sm-right">
+        <h4 class="text-7 mb-0">Travel Itinerary</h4>
+      </div>
+    </div>
+    <hr class="my-4">
+  </header>
+
+  {% assign client_from_url = "Alice" %}
   {% assign itinerary = site.data.itineraries | where: "client", client_from_url | first %}
 
-  <h1>{{ itinerary.title }}</h1>
-
-  {% for day in itinerary.days %}
-    <div class="itinerary-day">
-      <h2>第{{ day.day }}天：{{ day.title }}</h2>
-      <ul>
-        {% for act in day.activities %}
-          <li><strong>{{ act.time }}</strong> - {{ act.activity }}</li>
-        {% endfor %}
-      </ul>
+  <!-- Personal Info -->
+  <main>
+    <div class="row mb-4">
+      <div class="col-sm-4">
+        <strong>Full Name:</strong><p>{{ itinerary.personal_info.full_name }}</p>
+        <strong>Email:</strong><p>{{ itinerary.personal_info.email }}</p>
+      </div>
+      <div class="col-sm-4">
+        <strong>Purpose of Travel:</strong><p>{{ itinerary.personal_info.purpose }}</p>
+        <strong>Reservation Id:</strong><p>{{ itinerary.personal_info.reservation_id }}</p>
+      </div>
+      <div class="col-sm-4">
+        <strong>Address:</strong>
+        <address>{{ itinerary.personal_info.address }}</address>
+      </div>
     </div>
-  {% endfor %}
+
+    <!-- Flights -->
+    {% for flight in itinerary.flights %}
+    <div class="card mb-4">
+      <div class="card-header"><h5><i class="fa fa-plane"></i> Departing Flight</h5></div>
+      <div class="card-body row">
+        <div class="col-sm-4"><span>Date:</span><p>{{ flight.date }}</p></div>
+        <div class="col-sm-4"><span>Departure Time:</span><p>{{ flight.departure_time }}</p></div>
+        <div class="col-sm-4"><span>Airline:</span><p>{{ flight.airline }}</p></div>
+        <div class="col-sm-4"><span>Confirm Code:</span><p>{{ flight.confirm_code }}</p></div>
+        <div class="col-sm-4"><span>Departure:</span><p>{{ flight.departure }}</p></div>
+        <div class="col-sm-4"><span>Gate:</span><p>{{ flight.gate }}</p></div>
+        <div class="col-sm-4"><span>Arrival Time:</span><p>{{ flight.arrival_time }}</p></div>
+      </div>
+    </div>
+    {% endfor %}
+
+    <!-- Car Rentals -->
+    {% for car in itinerary.car_rentals %}
+    <div class="card mb-4">
+      <div class="card-header"><h5><i class="fa fa-car"></i> Car Rental</h5></div>
+      <div class="card-body row">
+        <div class="col-sm-4"><span>Company:</span><p>{{ car.company }}</p></div>
+        <div class="col-sm-4"><span>Pick Up Time:</span><p>{{ car.pick_up_time }}</p></div>
+        <div class="col-sm-4"><span>Pick Up Location:</span><p>{{ car.pick_up_location }}</p></div>
+        <div class="col-sm-4"><span>Drop Off Time:</span><p>{{ car.drop_off_time }}</p></div>
+        <div class="col-sm-4"><span>Drop Off Location:</span><p>{{ car.drop_off_location }}</p></div>
+      </div>
+    </div>
+    {% endfor %}
+
+    <!-- Hotels -->
+    {% for hotel in itinerary.hotels %}
+    <div class="card mb-4">
+      <div class="card-header"><h5><i class="fa fa-hotel"></i> Hotel</h5></div>
+      <div class="card-body row">
+        <div class="col-sm-4"><span>Hotel Name:</span><p>{{ hotel.name }}</p></div>
+        <div class="col-sm-4"><span>Check In:</span><p>{{ hotel.check_in }}</p></div>
+        <div class="col-sm-4"><span>Check Out:</span><p>{{ hotel.check_out }}</p></div>
+        <div class="col-sm-4"><span>Room No:</span><p>{{ hotel.room_no }}</p></div>
+        <div class="col-sm-4"><span>Booking No:</span><p>{{ hotel.booking_no }}</p></div>
+        <div class="col-sm-4"><span>Address:</span><p>{{ hotel.address }}</p></div>
+      </div>
+    </div>
+    {% endfor %}
+
+    <!-- Daily Itinerary -->
+    {% for day in itinerary.daily_itinerary %}
+    <div class="card mb-4">
+      <div class="card-header bg-primary text-white">
+        <h5>
+          第{{ day.day }}天 / Day{{ day.day }} 
+          {{ day.date }} / {{ day.date | date: "%d %b %Y" }} 
+          星期{{ day.weekday }}
+          - {{ day.city }}
+        </h5>
+      </div>
+      <div class="card-body">
+        <p>{{ day.overview }}</p>
+        {% if day.flight_info %}
+        <p><strong>航班信息：</strong>{{ day.flight_info }}</p>
+        {% endif %}
+        {% if day.hotel %}
+        <p><strong>夜宿：</strong>{{ day.hotel.name }}</p>
+        <p><strong>地址：</strong>{{ day.hotel.address }}</p>
+        {% endif %}
+      </div>
+    </div>
+    {% endfor %}
+
+    <!-- Notes -->
+    <div class="card mb-4">
+      <div class="card-header"><h5><i class="fa fa-info-circle"></i> Important Information</h5></div>
+      <div class="card-body">
+        <p><strong>Fees:</strong> {{ itinerary.notes.fees }}</p>
+        <p><strong>Important Tips:</strong> {{ itinerary.notes.important_tips }}</p>
+        <p><strong>Safety:</strong> {{ itinerary.notes.safety }}</p>
+      </div>
+    </div>
+
+  </main>
+
+  <!-- Footer -->
+  <footer class="text-center mt-4 mb-4">
+    <p><strong>Gloo Inc.</strong><br>4th Floor, Plot No.22, Above Public Park, 145 Murphy Canyon Rd, Suite 100-18, San Diego CA 2028.</p>
+    <hr>
+    <p class="text-1"><strong>NOTE :</strong> This is computer generated receipt and does not require physical signature.</p>
+    <div class="btn-group btn-group-sm d-print-none">
+      <a href="javascript:window.print()" class="btn btn-light border"><i class="fa fa-print"></i> Print</a>
+      <a href="" class="btn btn-light border"><i class="fa fa-download"></i> Download</a>
+    </div>
+  </footer>
 </div>
