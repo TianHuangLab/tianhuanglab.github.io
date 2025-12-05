@@ -1,60 +1,146 @@
-- client: Alice
-  personal_info:
-    full_name: "Smith Rhodes"
-    email: "info.smith@example.com"
-    address: "15 Hodges Mews, High Wycombe, HP12 3JL, United Kingdom"
-    purpose: "Business Travel"
-    reservation_id: "ZX4556WS24613"
-  flights:
-    - date: "15 Jun 21, Sat"
-      departure_time: "04:50 AM"
-      airline: "IndiGo Airways"
-      confirm_code: "#MG245C"
-      departure: "New Delhi (DEL)"
-      gate: "A-2"
-      arrival_time: "09:30 AM"
-  car_rentals:
-    - company: "Shapath Car Rental"
-      pick_up_time: "16 Jun 21, Sat - 07:30 AM"
-      pick_up_location: "High Wycombe"
-      drop_off_time: "16 Jun 21, Sat - 10:25 AM"
-      drop_off_location: "High Wycombe"
-  hotels:
-    - name: "The Orchid Hotel"
-      check_in: "16 Jun 21, Sat"
-      check_out: "18 Jun 21, Sat"
-      room_no: "342"
-      booking_no: "HQM3912704"
-      address: "Plot No.3, Nr. HDFC Bank, Ashram Road, Ahmedabad, Gujarat, India."
-  daily_itinerary:
-    - day: 1
+# ============================================
+# 多客户行程数据库
+# 每位客户一个 key，如 clientA / clientB / client2025 等
+# ============================================
+
+clientA:
+  password: "yourPassword123"   # 访问密码
+
+  # --------------------------
+  # 基本信息（中英双语）
+  # --------------------------
+  title_cn: "法国经典深度游 10 天行程单"
+  title_en: "France Classic 10-Day Itinerary"
+
+  traveler_name: "张三"
+  reference_no: "FR-2025-001"
+
+  # --------------------------
+  # 参团信息（新增）
+  # --------------------------
+  tour_info:
+    join:
+      location_cn: "巴黎"
+      location_en: "Paris"
       date: "2025-09-17"
-      weekday: "Wednesday"
-      city: "巴黎"
-      overview: "当天根据航班时间，安排接机送至酒店后自行办理入住。夜宿：巴黎。"
-      flight_info: "9月17日 CA875，01:55 北京-07:25 巴黎"
-      hotel:
-        name: "Novotel Paris La Défense Nanterre 或同等级其他酒店"
-        address: "14 Rue des 3 Fontanot, 92000 Nanterre, 法国"
-    - day: 2
+      description_cn: "当天根据航班时间，安排接机送至酒店后自行办理入住。"
+      description_en: "Airport pickup according to flight schedule and transfer to hotel for check-in."
+
+      flight_cn: "9月17日 CA875，01:55 北京 - 07:25 巴黎"
+      flight_en: "Sept 17 CA875, 01:55 Beijing – 07:25 Paris"
+
+    leave:
+      location_cn: "尼斯"
+      location_en: "Nice"
+      date: "2025-09-26"
+      description_cn: "当天根据航班时间，送机至机场，自行办理登机。"
+      description_en: "Transfer to airport depending on flight time; self check-in."
+
+      flight_cn: "9月26日 BA343，11:35 尼斯 - 12:50 伦敦"
+      flight_en: "Sept 26 BA343, 11:35 Nice – 12:50 London"
+
+    note_cn: "*所有时间均为计划时间，行程以现场确认为准。堵车晚点频繁发生，请预留充足时间。"
+    note_en: "*All times are planned and subject to local confirmation. Delays may occur; please allow sufficient buffer time."
+
+  # --------------------------
+  # 航班信息（可选）
+  # --------------------------
+  flights:
+    - title_cn: "抵达航班"
+      title_en: "Arrival Flight"
+      info_cn: "9月17日 CA875，01:55 北京 - 07:25 巴黎"
+      info_en: "Sept 17 CA875, 01:55 Beijing – 07:25 Paris"
+
+    - title_cn: "离开航班"
+      title_en: "Departure Flight"
+      info_cn: "9月26日 BA343，11:35 尼斯 - 12:50 伦敦"
+      info_en: "Sept 26 BA343, 11:35 Nice – 12:50 London"
+
+  # --------------------------
+  # 酒店信息（可选）
+  # --------------------------
+  hotels:
+    - city_cn: "巴黎"
+      city_en: "Paris"
+      name: "Novotel Paris La Défense Nanterre"
+      address: "14 Rue des 3 Fontanot, 92000 Nanterre, France"
+      nights: 3
+
+  # --------------------------
+  # 租车信息（可选）
+  # --------------------------
+  car_rental:
+    provider: "Avis / Europcar"
+    pickup: "Paris CDG Airport"
+    dropoff: "Nice Airport"
+    dates: "2025-09-17 → 2025-09-26"
+
+  # --------------------------
+  # 新增：信息板块（费用/重要提示/安全提示）
+  # 缺省则前端自动隐藏
+  # --------------------------
+  info_blocks:
+    cost_info_cn: "费用包含：酒店住宿、游览大巴、部分门票。不含私人消费。"
+    cost_info_en: "Includes: hotels, transportation, some tickets. Excludes personal expenses."
+
+    important_notice_cn: "巴黎及欧洲城市交通拥堵严重，请务必保持准时。"
+    important_notice_en: "European traffic may be congested; please remain punctual."
+
+    safety_tips_cn: "注意保管贵重物品，谨防扒手。"
+    safety_tips_en: "Keep valuables safe; beware of pickpockets."
+
+  # --------------------------
+  # 每日行程（支持不限天数）
+  # --------------------------
+  daily_itinerary:
+    - day_number: 1
+      date: "2025-09-17"
+      weekday_cn: "星期三"
+      weekday_en: "Wednesday"
+      title_cn: "巴黎（仅含接机服务）"
+      title_en: "Paris (Airport Pickup Only)"
+      description_cn: >
+        当天根据航班时间，安排接机送至酒店后自行办理入住。
+        夜宿：巴黎。
+      description_en: >
+        Airport pickup based on flight schedule and transfer to hotel for check-in.
+        Overnight: Paris.
+      hotel: "Novotel Paris La Défense Nanterre"
+      address: "14 Rue des 3 Fontanot, 92000 Nanterre"
+
+      extra_cn: "航班信息：9月17日 CA875，北京 → 巴黎"
+      extra_en: "Flight: CA875 Beijing → Paris"
+
+    - day_number: 2
       date: "2025-09-18"
-      weekday: "Thursday"
-      city: "巴黎"
-      overview: "早餐后前往游览卢浮宫，之后返回市区游览巴黎圣母院（外观）、西岱岛、埃菲尔铁塔（外观）、战神广场，随后乘坐塞纳河游船，船游大小皇宫、协和广场等，最后返回酒店。夜宿：巴黎。"
-      flight_info: ""
-      hotel:
-        name: "Novotel Paris La Défense Nanterre 或同等级其他酒店"
-        address: "14 Rue des 3 Fontanot, 92000 Nanterre, 法国"
-    - day: 3
+      weekday_cn: "星期四"
+      weekday_en: "Thursday"
+      title_cn: "巴黎市区游览"
+      title_en: "Paris City Tour"
+      description_cn: >
+        早餐后游览卢浮宫、巴黎圣母院（外观）、西岱岛、埃菲尔铁塔（外观）、
+        战神广场、塞纳河游船等。
+        夜宿：巴黎。
+      description_en: >
+        Visit the Louvre, Notre-Dame (outside), Île de la Cité,
+        Eiffel Tower (outside), Champ de Mars, and enjoy a Seine River cruise.
+        Overnight: Paris.
+      hotel: "Novotel Paris La Défense Nanterre"
+      address: "14 Rue des 3 Fontanot, 92000 Nanterre"
+
+    - day_number: 3
       date: "2025-09-19"
-      weekday: "Friday"
-      city: "巴黎"
-      overview: "早餐后前往游览凡尔赛宫，之后返回市区游览奥斯曼大街、皇家大道、巴黎歌剧院（外观）、春天百货、巴黎老佛爷，随后返回酒店。夜宿：巴黎。"
-      flight_info: ""
-      hotel:
-        name: "Novotel Paris La Défense Nanterre 或同等级其他酒店"
-        address: "14 Rue des 3 Fontanot, 92000 Nanterre, 法国"
-  notes:
-    fees: "总费用：$2500"
-    important_tips: "请携带有效身份证件及保险信息。"
-    safety: "巴黎夜晚请注意保管贵重物品。"
+      weekday_cn: "星期五"
+      weekday_en: "Friday"
+      title_cn: "凡尔赛宫 + 奥斯曼大街"
+      title_en: "Versailles Palace + Paris Shopping"
+      description_cn: >
+        早餐后前往凡尔赛宫，随后返回市区游览奥斯曼大街、
+        皇家大道、巴黎歌剧院（外观）、春天百货、老佛爷百货。
+        夜宿：巴黎。
+      description_en: >
+        Visit Versailles Palace, then return to Paris for sightseeing and shopping
+        along Boulevard Haussmann and nearby landmarks.
+        Overnight: Paris.
+      hotel: "Novotel Paris La Défense Nantere"
+      address: "14 Rue des 3 Fontanot, 92000 Nanterre"
