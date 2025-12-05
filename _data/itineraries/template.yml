@@ -1,0 +1,70 @@
+# ===============================
+# 通用模板 - 新客户复制本文件即可
+# ===============================
+
+client_id: "template"
+password: "1234"
+
+basic:
+  title: "欧洲深度游行程单"
+  client_name: "客户姓名"
+  phone: "联系方式"
+  travelers: 2
+  start_date: "2025-09-17"
+  end_date: "2025-09-26"
+
+join_info:
+  join_city: "巴黎"
+  join_date: "2025-09-17"
+  join_flight: "9月17日 CA875，01:55北京-07:25巴黎"
+  join_note: "当天根据航班时间，安排接机送至酒店后自行办理入住。"
+
+leave_info:
+  leave_city: "尼斯"
+  leave_date: "2025-09-26"
+  leave_flight: "9月26日 BA343，11:35尼斯(蔚蓝海岸T1)-12:50伦敦"
+  leave_note: "当天根据航班时间，安排送机至机场后自行办理登机。"
+
+important_note: "*所有时间均为计划时间，如遇堵车、延误请以现场确认为准。*"
+
+daily_itinerary:
+  - day: 1
+    date: "2025-09-17"
+    weekday: "星期三"
+    title: "巴黎（当天仅含接机服务）"
+    content: |
+      当天根据航班时间安排接机，并送往酒店办理入住。
+      夜宿：巴黎。
+    hotel:
+      name: "Novotel Paris La Défense Nanterre 或同级"
+      address: "14 Rue des 3 Fontanot, 92000 Nanterre, 法国"
+
+  - day: 2
+    date: "2025-09-18"
+    weekday: "星期四"
+    title: "巴黎市区观光"
+    content: |
+      早餐后游览卢浮宫；下午前往巴黎圣母院（外观）、西岱岛、埃菲尔铁塔（外观）、战神广场；
+      傍晚乘坐塞纳河游船。
+      夜宿：巴黎。
+    hotel:
+      name: "Novotel Paris La Défense Nanterre 或同级"
+      address: "14 Rue des 3 Fontanot, 92000 Nanterre, 法国"
+
+expense:
+  included:
+    - 全程酒店住宿
+    - 行程所列景点门票
+    - 部分城市交通
+  excluded:
+    - 午餐与晚餐
+    - 个人消费
+    - 旅游保险
+
+options:
+  show_flight: true
+  show_hotel: true
+  show_car_rental: false
+  show_expense: true
+  show_daily: true
+  show_join_leave: true
