@@ -1,0 +1,28 @@
+- client: Alice
+  title: "法国浪漫之旅"
+  days:
+    - day: 1
+      title: "巴黎市区游"
+      activities:
+        - time: "09:00"
+          activity: "埃菲尔铁塔参观"
+        - time: "12:00"
+          activity: "塞纳河午餐游船"
+    - day: 2
+      title: "卢瓦尔河谷城堡"
+      activities:
+        - time: "08:00"
+          activity: "出发前往卢瓦尔河谷"
+        - time: "10:30"
+          activity: "参观香波堡"
+
+- client: Bob
+  title: "瑞士阿尔卑斯徒步"
+  days:
+    - day: 1
+      title: "因特拉肯徒步"
+      activities:
+        - time: "09:00"
+          activity: "从酒店出发徒步"
+        - time: "12:00"
+          activity: "湖边野餐"
