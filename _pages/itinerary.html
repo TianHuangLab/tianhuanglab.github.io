@@ -1,169 +1,216 @@
 ---
 layout: default
-title: 行程单
+title: 行程单 Travel Itinerary
 permalink: /itinerary.html
 ---
 
+<!-- ========== Password + Client Validation ========== -->
 <script>
-  const PASSWORD = "123";
+  const PASSWORD = "123456";
 
-  function getClientFromURL() {
-    const params = new URLSearchParams(window.location.search);
-    return params.get('client');
-  }
+  const getClient = () => new URLSearchParams(window.location.search).get("client");
 
   document.addEventListener("DOMContentLoaded", () => {
-    const client = getClientFromURL();
-    if(!client) {
+    const client = getClient();
+    if (!client) {
       window.location.href = "/";
       return;
     }
 
-    let attempts = 0;
-    function checkPassword() {
-      const input = prompt("请输入访问密码：");
-      attempts++;
+    let tries = 0;
+    function ask() {
+      const input = prompt("请输入访问密码 / Enter password:");
+      tries++;
       if (input === PASSWORD) {
-        document.getElementById("itinerary-content").style.display = "block";
+        document.getElementById("itinerary").style.display = "block";
       } else {
-        if (attempts < 3) {
-          alert("密码错误，请重试！");
-          checkPassword();
-        } else {
-          alert("尝试次数过多，访问被拒绝。");
+        if (tries < 3) ask();
+        else {
+          alert("密码错误次数过多 / Too many incorrect attempts.");
           window.location.href = "/";
         }
       }
     }
-
-    checkPassword();
+    ask();
   });
 </script>
 
-<div class="container-fluid itinerary-container" id="itinerary-content" style="display:none;">
+<div id="itinerary" class="itinerary-container" style="display:none;">
 
-  <!-- Header -->
-  <header>
-    <div class="row align-items-center">
-      <div class="col-sm-7 text-center text-sm-left mb-3 mb-sm-0">
-        <img id="logo" src="/assets/images/logo.png" title="Logo" alt="Logo">
-      </div>
-      <div class="col-sm-5 text-center text-sm-right">
-        <h4 class="text-7 mb-0">Travel Itinerary</h4>
-      </div>
+{% assign client_name = page.client | default: site.params.default_client %}
+{% assign client = "Alice" %} 
+{% assign itinerary = site.data.itineraries | where: "client", client | first %}
+
+<!-- =============================== -->
+<!-- HEADER -->
+<!-- =============================== -->
+<header class="mb-4">
+  <div class="row">
+    <div class="col-sm-7">
+      <img src="/assets/images/logo.png" alt="Logo">
     </div>
-    <hr class="my-4">
-  </header>
-
-  {% assign client_from_url = "Alice" %}
-  {% assign itinerary = site.data.itineraries | where: "client", client_from_url | first %}
-
-  <!-- Personal Info -->
-  <main>
-    <div class="row mb-4">
-      <div class="col-sm-4">
-        <strong>Full Name:</strong><p>{{ itinerary.personal_info.full_name }}</p>
-        <strong>Email:</strong><p>{{ itinerary.personal_info.email }}</p>
-      </div>
-      <div class="col-sm-4">
-        <strong>Purpose of Travel:</strong><p>{{ itinerary.personal_info.purpose }}</p>
-        <strong>Reservation Id:</strong><p>{{ itinerary.personal_info.reservation_id }}</p>
-      </div>
-      <div class="col-sm-4">
-        <strong>Address:</strong>
-        <address>{{ itinerary.personal_info.address }}</address>
-      </div>
+    <div class="col-sm-5 text-sm-right text-center">
+      <h2>行程单 <span class="sub-en">Travel Itinerary</span></h2>
     </div>
+  </div>
+  <hr>
+</header>
 
-    <!-- Flights -->
-    {% for flight in itinerary.flights %}
-    <div class="card mb-4">
-      <div class="card-header"><h5><i class="fa fa-plane"></i> Departing Flight</h5></div>
-      <div class="card-body row">
-        <div class="col-sm-4"><span>Date:</span><p>{{ flight.date }}</p></div>
-        <div class="col-sm-4"><span>Departure Time:</span><p>{{ flight.departure_time }}</p></div>
-        <div class="col-sm-4"><span>Airline:</span><p>{{ flight.airline }}</p></div>
-        <div class="col-sm-4"><span>Confirm Code:</span><p>{{ flight.confirm_code }}</p></div>
-        <div class="col-sm-4"><span>Departure:</span><p>{{ flight.departure }}</p></div>
-        <div class="col-sm-4"><span>Gate:</span><p>{{ flight.gate }}</p></div>
-        <div class="col-sm-4"><span>Arrival Time:</span><p>{{ flight.arrival_time }}</p></div>
-      </div>
+
+<!-- =============================== -->
+<!-- PERSONAL INFO -->
+<!-- =============================== -->
+{% if itinerary.personal_info %}
+<section class="section-block">
+  <h3>旅客信息 <span class="sub-en">Traveler Information</span></h3>
+
+  <div class="row">
+    <div class="col-sm-4"><strong>姓名 / Name:</strong><p>{{ itinerary.personal_info.full_name }}</p></div>
+    <div class="col-sm-4"><strong>邮箱 / Email:</strong><p>{{ itinerary.personal_info.email }}</p></div>
+    <div class="col-sm-4"><strong>行程编号 / Reservation ID:</strong><p>{{ itinerary.personal_info.reservation_id }}</p></div>
+    <div class="col-sm-12"><strong>地址 / Address:</strong><p>{{ itinerary.personal_info.address }}</p></div>
+  </div>
+</section>
+{% endif %}
+
+
+<!-- =============================== -->
+<!-- JOINING INFO / 参团信息 -->
+<!-- =============================== -->
+{% if itinerary.joining_info %}
+<section class="section-block">
+  <h3>参团信息 <span class="sub-en">Joining Information</span></h3>
+
+  <div class="row">
+    <div class="col-sm-6">
+      <h5>上团详情 <span class="sub-en">Start of Tour</span></h5>
+      <p><strong>上团地点 / City:</strong> {{ itinerary.joining_info.depart_city }}</p>
+      <p><strong>上团日期 / Date:</strong> {{ itinerary.joining_info.depart_date }}</p>
+      <p>{{ itinerary.joining_info.depart_note }}</p>
+      <p><strong>航班 / Flight:</strong> {{ itinerary.joining_info.depart_flight }}</p>
     </div>
-    {% endfor %}
-
-    <!-- Car Rentals -->
-    {% for car in itinerary.car_rentals %}
-    <div class="card mb-4">
-      <div class="card-header"><h5><i class="fa fa-car"></i> Car Rental</h5></div>
-      <div class="card-body row">
-        <div class="col-sm-4"><span>Company:</span><p>{{ car.company }}</p></div>
-        <div class="col-sm-4"><span>Pick Up Time:</span><p>{{ car.pick_up_time }}</p></div>
-        <div class="col-sm-4"><span>Pick Up Location:</span><p>{{ car.pick_up_location }}</p></div>
-        <div class="col-sm-4"><span>Drop Off Time:</span><p>{{ car.drop_off_time }}</p></div>
-        <div class="col-sm-4"><span>Drop Off Location:</span><p>{{ car.drop_off_location }}</p></div>
-      </div>
-    </div>
-    {% endfor %}
-
-    <!-- Hotels -->
-    {% for hotel in itinerary.hotels %}
-    <div class="card mb-4">
-      <div class="card-header"><h5><i class="fa fa-hotel"></i> Hotel</h5></div>
-      <div class="card-body row">
-        <div class="col-sm-4"><span>Hotel Name:</span><p>{{ hotel.name }}</p></div>
-        <div class="col-sm-4"><span>Check In:</span><p>{{ hotel.check_in }}</p></div>
-        <div class="col-sm-4"><span>Check Out:</span><p>{{ hotel.check_out }}</p></div>
-        <div class="col-sm-4"><span>Room No:</span><p>{{ hotel.room_no }}</p></div>
-        <div class="col-sm-4"><span>Booking No:</span><p>{{ hotel.booking_no }}</p></div>
-        <div class="col-sm-4"><span>Address:</span><p>{{ hotel.address }}</p></div>
-      </div>
-    </div>
-    {% endfor %}
-
-    <!-- Daily Itinerary -->
-    {% for day in itinerary.daily_itinerary %}
-    <div class="card mb-4">
-      <div class="card-header bg-primary text-white">
-        <h5>
-          第{{ day.day }}天 / Day{{ day.day }} 
-          {{ day.date }} / {{ day.date | date: "%d %b %Y" }} 
-          星期{{ day.weekday }}
-          - {{ day.city }}
-        </h5>
-      </div>
-      <div class="card-body">
-        <p>{{ day.overview }}</p>
-        {% if day.flight_info %}
-        <p><strong>航班信息：</strong>{{ day.flight_info }}</p>
-        {% endif %}
-        {% if day.hotel %}
-        <p><strong>夜宿：</strong>{{ day.hotel.name }}</p>
-        <p><strong>地址：</strong>{{ day.hotel.address }}</p>
-        {% endif %}
-      </div>
-    </div>
-    {% endfor %}
-
-    <!-- Notes -->
-    <div class="card mb-4">
-      <div class="card-header"><h5><i class="fa fa-info-circle"></i> Important Information</h5></div>
-      <div class="card-body">
-        <p><strong>Fees:</strong> {{ itinerary.notes.fees }}</p>
-        <p><strong>Important Tips:</strong> {{ itinerary.notes.important_tips }}</p>
-        <p><strong>Safety:</strong> {{ itinerary.notes.safety }}</p>
-      </div>
+    <div class="col-sm-6">
+      <h5>下团详情 <span class="sub-en">End of Tour</span></h5>
+      <p><strong>下团地点 / City:</strong> {{ itinerary.joining_info.end_city }}</p>
+      <p><strong>下团日期 / Date:</strong> {{ itinerary.joining_info.end_date }}</p>
+      <p>{{ itinerary.joining_info.end_note }}</p>
+      <p><strong>航班 / Flight:</strong> {{ itinerary.joining_info.end_flight }}</p>
     </div>
 
-  </main>
-
-  <!-- Footer -->
-  <footer class="text-center mt-4 mb-4">
-    <p><strong>Gloo Inc.</strong><br>4th Floor, Plot No.22, Above Public Park, 145 Murphy Canyon Rd, Suite 100-18, San Diego CA 2028.</p>
-    <hr>
-    <p class="text-1"><strong>NOTE :</strong> This is computer generated receipt and does not require physical signature.</p>
-    <div class="btn-group btn-group-sm d-print-none">
-      <a href="javascript:window.print()" class="btn btn-light border"><i class="fa fa-print"></i> Print</a>
-      <a href="" class="btn btn-light border"><i class="fa fa-download"></i> Download</a>
+    <div class="col-sm-12 mt-2 text-muted">
+      {{ itinerary.joining_info.disclaimer }}
     </div>
-  </footer>
+  </div>
+</section>
+{% endif %}
+
+
+<!-- =============================== -->
+<!-- FLIGHTS SECTION -->
+<!-- =============================== -->
+{% if itinerary.flights %}
+<section class="section-block">
+  <h3>航班信息 <span class="sub-en">Flight Information</span></h3>
+
+  {% for flight in itinerary.flights %}
+  <div class="sub-card">
+    <div class="row">
+      <div class="col-sm-4"><strong>起飞时间 / Departure:</strong> {{ flight.departure_time }}</div>
+      <div class="col-sm-4"><strong>到达时间 / Arrival:</strong> {{ flight.arrival_time }}</div>
+      <div class="col-sm-4"><strong>航空公司 / Airline:</strong> {{ flight.airline }}</div>
+      <div class="col-sm-4"><strong>航班号 / Code:</strong> {{ flight.confirm_code }}</div>
+      <div class="col-sm-4"><strong>出发地 / From:</strong> {{ flight.departure }}</div>
+      <div class="col-sm-4"><strong>登机口 / Gate:</strong> {{ flight.gate }}</div>
+    </div>
+  </div>
+  {% endfor %}
+</section>
+{% endif %}
+
+
+<!-- =============================== -->
+<!-- HOTELS -->
+<!-- =============================== -->
+{% if itinerary.hotels %}
+<section class="section-block">
+  <h3>酒店信息 <span class="sub-en">Hotel</span></h3>
+
+  {% for hotel in itinerary.hotels %}
+  <div class="sub-card">
+    <p><strong>酒店名称 / Name:</strong> {{ hotel.name }}</p>
+    <p><strong>入住日期 / Check-in:</strong> {{ hotel.check_in }}</p>
+    <p><strong>退房日期 / Check-out:</strong> {{ hotel.check_out }}</p>
+    <p><strong>房号 / Room:</strong> {{ hotel.room_no }}</p>
+    <p><strong>预订号 / Booking No:</strong> {{ hotel.booking_no }}</p>
+    <p><strong>地址 / Address:</strong> {{ hotel.address }}</p>
+  </div>
+  {% endfor %}
+</section>
+{% endif %}
+
+
+<!-- =============================== -->
+<!-- CAR RENTALS -->
+<!-- =============================== -->
+{% if itinerary.car_rentals %}
+<section class="section-block">
+  <h3>租车信息 <span class="sub-en">Car Rental</span></h3>
+
+  {% for car in itinerary.car_rentals %}
+  <div class="sub-card">
+    <p><strong>公司 / Company:</strong> {{ car.company }}</p>
+    <p><strong>取车时间 / Pick-up:</strong> {{ car.pick_up_time }}</p>
+    <p><strong>取车地点 / Location:</strong> {{ car.pick_up_location }}</p>
+    <p><strong>还车时间 / Drop-off:</strong> {{ car.drop_off_time }}</p>
+    <p><strong>还车地点 / Location:</strong> {{ car.drop_off_location }}</p>
+  </div>
+  {% endfor %}
+</section>
+{% endif %}
+
+
+<!-- =============================== -->
+<!-- DAILY ITINERARY -->
+<!-- =============================== -->
+{% if itinerary.daily_itinerary %}
+<section class="section-block">
+  <h3>每日行程 <span class="sub-en">Daily Itinerary</span></h3>
+
+  {% for day in itinerary.daily_itinerary %}
+  <div class="day-card">
+    <div class="day-header">
+      第{{ day.day }}天 Day {{ day.day }} — {{ day.city }}  
+      <span class="date">{{ day.date }} ({{ day.weekday }})</span>
+    </div>
+    <div class="day-body">
+      <p>{{ day.overview }}</p>
+
+      {% if day.flight_info %}
+      <p><strong>航班信息 / Flight:</strong> {{ day.flight_info }}</p>
+      {% endif %}
+
+      {% if day.hotel %}
+      <p><strong>夜宿 / Hotel:</strong> {{ day.hotel.name }}</p>
+      <p><strong>地址 / Address:</strong> {{ day.hotel.address }}</p>
+      {% endif %}
+    </div>
+  </div>
+  {% endfor %}
+</section>
+{% endif %}
+
+
+<!-- =============================== -->
+<!-- NOTES / 信息板块 -->
+<!-- =============================== -->
+{% if itinerary.notes %}
+<section class="section-block">
+  <h3>附加信息 <span class="sub-en">Additional Information</span></h3>
+
+  <p><strong>费用 / Fees:</strong> {{ itinerary.notes.fees }}</p>
+  <p><strong>提示 / Tips:</strong> {{ itinerary.notes.important_tips }}</p>
+  <p><strong>安全提示 / Safety:</strong> {{ itinerary.notes.safety }}</p>
+</section>
+{% endif %}
+
 </div>
