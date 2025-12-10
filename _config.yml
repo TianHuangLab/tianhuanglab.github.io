@@ -178,9 +178,9 @@ collections:
   switzerland:
     output: true
     permalink: /switzerland/:path/
-  itineraries:
+  store:
     output: true
-    permalink: /itinerary/:name/
+    permalink: /store/:name/
 
   
 
