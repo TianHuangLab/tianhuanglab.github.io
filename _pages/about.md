@@ -91,6 +91,29 @@ latest_posts:
 
 ---
 
+在奥利旅行，每一条路线都是精心策划的欧洲探索体验，让你走进法国的浪漫街头，感受瑞士的纯净山河，品味意大利的艺术气息。而旅行的美好，不止于脚步触及的风景。我们将这些文化灵感延伸到生活中，打造了专属的旅行文创周边——原创设计的 T 恤、特色马克杯，以及即将推出的袜子、卫衣、包袋等好物。无论是穿在身上、摆在桌上，还是作为礼物送给朋友，都能让每一份旅行回忆在日常中延续。
+
+---
+
+<div class="store-banner" style="text-align: center; margin: 20px 0;">
+  <a href="https://aolitravel.tpopsite.com/" target="_blank" style="display: inline-block;">
+    {% include figure.liquid 
+       loading="eager" 
+       path="assets/img/0tours/0travel product banner/store-banner-1.png" 
+       title="aolitravel.com-official-store" 
+       class="img-fluid rounded z-depth-1" 
+       alt="aolitravel.com-official-store"
+    %}
+  </a>
+</div>
+
+  
+---
+
+旅行的精彩不仅在目的地的风光，更在探索和发现的过程。为了让你的每一次旅程更有深度，我精心整理了最新的旅行资讯、目的地故事和实用攻略。在我们的 News & Blog 中，你可以了解我们的最新动态，以及我和家人朋友在法国、瑞士、意大利旅行时体验到的文化风情和感受！你可以从中获取独家旅行建议，还能发现那些不为人知的景点与体验，丰富你的旅行灵感。无论是规划下一次出行，还是在家回味旅行灵感，这里都是你的专属参考与灵感宝库！
+
+---
+
 <!--
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
