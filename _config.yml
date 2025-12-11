@@ -262,11 +262,6 @@ defaults:
       path: "assets"
     values:
       sitemap: false
-  - scope:
-      path: "_itineraries"
-    values:
-      sitemap: false
-      robots: noindex, nofollow
 
 
 sass:
