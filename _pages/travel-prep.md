@@ -3,7 +3,7 @@ layout: page
 permalink: /travel-prep/
 title: 旅行准备
 description: 欧洲旅行全攻略：酒店预订、公共交通、自驾、包车、景点门票，一站搞定所有旅行必备工具！
-nav: true
+nav: false
 nav_order: 6
 pretty_table: true
 images:
