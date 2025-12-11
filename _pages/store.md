@@ -2,8 +2,8 @@
 layout: page
 title: 旅行好物
 permalink: /store/
-redirect: https://aolitravel.tpopsite.com/
-nav: true
+redirect_to: https://aolitravel.tpopsite.com/
+nav: false
 nav_order: 8
 published: true
 ---
