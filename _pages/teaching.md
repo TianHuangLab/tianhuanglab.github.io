@@ -13,115 +13,95 @@ social: true
 published: true
 ---
 
-
-
-
 <div class="container-fluid itinerary-container">
 
   <!-- ================= Traveler Information ================= -->
-  <section>
+  <section class="mb-4">
     <div class="row">
-      <div class="col-sm-4">
-        <strong class="font-weight-600">姓名：</strong>
-        <p>Smith Rhodes</p>
-
-        <strong class="font-weight-600">邮箱地址：</strong>
-        <p>info.smith@example.com</p>
-
-        <strong class="font-weight-600">联系电话：</strong>
-        <p>(0033) 6 89 89 89 89</p>
-
-        <strong class="font-weight-600">参团人数：</strong>
-        <p>共计3人</p>
-        
+      <!-- 左侧信息 -->
+      <div class="col-md-4 col-sm-12 mb-3">
+        <p><strong class="font-weight-600">姓名：</strong> Smith Rhodes</p>
+        <p><strong class="font-weight-600">邮箱地址：</strong> info.smith@example.com</p>
+        <p><strong class="font-weight-600">联系电话：</strong> (0033) 6 89 89 89 89</p>
+        <p><strong class="font-weight-600">参团人数：</strong> 共计3人</p>
       </div>
 
-      <div class="col-sm-4">
-        <strong class="font-weight-600">预订编号：</strong>
-        <p>20251225zhang</p>
-
-        <strong class="font-weight-600">旅行线路：</strong>
-        <p>南法普罗旺斯风情7日游</p>
-
-        <strong class="font-weight-600">往返信息：</strong>
-        <p>上团地点&日期：马赛 2025年12月16日<br>
-           上团地点&日期：尼斯 2025年12月25日
+      <!-- 中间信息 -->
+      <div class="col-md-4 col-sm-12 mb-3">
+        <p><strong class="font-weight-600">预订编号：</strong> 20251225zhang</p>
+        <p><strong class="font-weight-600">旅行线路：</strong> 南法普罗旺斯风情7日游</p>
+        <p><strong class="font-weight-600">往返信息：</strong><br>
+           2025年12月16日 马赛 上团 <br>
+           2025年12月25日 尼斯 下团
         </p>
-
       </div>
 
-      <div class="col-sm-4">
-        <strong class="font-weight-600">导游姓名：</strong>
-        <p>黄导</p>
-
-        <strong class="font-weight-600">导游电话：</strng>
-        <p>(0033) 6 89 89 89 89</p>
-
-        <strong class="font-weight-600">车辆信息：</strong>
-        <p>商务五座车</p>
-        
+      <!-- 右侧信息 -->
+      <div class="col-md-4 col-sm-12 mb-3">
+        <p><strong class="font-weight-600">导游姓名：</strong> 黄导</p>
+        <p><strong class="font-weight-600">导游电话：</strong> (0033) 6 89 89 89 89</p>
+        <p><strong class="font-weight-600">车辆信息：</strong> 商务五座车</p>
       </div>
     </div>
   </section>
 
----
+  <hr>
 
-<!-- ================= Itinerary ================= -->
-
-
+  <!-- ================= Itinerary ================= -->
   <section class="card mt-4">
-  <!-- 日期 -->
-  <div class="card-header">
-    <h5 class="m-0">
-      第一天 2025年12月16日 星期二
-    </h5>
-  </div>
+    <!-- 日期 -->
+    <div class="card-header">
+      <h5 class="m-0">第一天 2025年12月16日 星期二</h5>
+    </div>
 
-  <!-- 今日行程内容 -->
-  <div class="card-body">
-    <div class="row mt-n3">
-      <!-- 城市行程 -->
-      <div class="col-sm-12 mt-3">
-        <span>今日行程:</span>
-        <p class="font-weight-600 mb-0">马赛 - 戛纳 - 尼斯</p>
-      </div>
+    <!-- 今日行程内容 -->
+    <div class="card-body">
+      <div class="row">
+        <!-- 城市行程 -->
+        <div class="col-12 mt-3">
+          <span>今日行程:</span>
+          <p class="font-weight-600 mb-0">马赛 - 戛纳 - 尼斯</p>
+        </div>
 
-      <!-- 航班信息（可选） -->
-      <div class="col-sm-4 mt-3">
-        <span>航班:</span>
-        <p class="font-weight-600 mb-0">AF1234</p>
-      </div>
+        <!-- 航班信息（可选） -->
+        <div class="col-md-4 col-sm-12 mt-3">
+          <span>航班:</span>
+          <p class="font-weight-600 mb-0">AF1234</p>
+        </div>
 
-      <div class="col-sm-4 mt-3">
-        <span>出发时间:</span>
-        <p class="font-weight-600 mb-0">08:30 AM</p>
-      </div>
+        <div class="col-md-4 col-sm-12 mt-3">
+          <span>出发时间:</span>
+          <p class="font-weight-600 mb-0">08:30 AM</p>
+        </div>
 
-      <div class="col-sm-4 mt-3">
-        <span>抵达时间:</span>
-        <p class="font-weight-600 mb-0">09:45 AM</p>
-      </div>
+        <div class="col-md-4 col-sm-12 mt-3">
+          <span>抵达时间:</span>
+          <p class="font-weight-600 mb-0">09:45 AM</p>
+        </div>
 
-      <!-- 行程内容 -->
-      <div class="col-sm-12 mt-3">
-        <span>行程安排:</span>
-        <p class="font-weight-600 mb-0">
-          上午游览马赛老港，品尝地中海美食；中午乘坐火车前往戛纳，参观影节宫；下午驱车前往尼斯，漫步英国大道。
-        </p>
-      </div>
+        <!-- 行程内容 -->
+        <div class="col-12 mt-3">
+          <span>行程安排:</span>
+          <p class="font-weight-600 mb-0">
+            上午游览马赛老港，品尝地中海美食；中午乘坐火车前往戛纳，参观影节宫；下午驱车前往尼斯，漫步英国大道。
+          </p>
+        </div>
 
-      <!-- 住宿信息 -->
-      <div class="col-sm-12 mt-3">
-        <span>住宿地址:</span>
-        <p class="font-weight-600 mb-0">
-          Hôtel Negresco, 37 Promenade des Anglais, 06000 Nice, France
-        </p>
+        <!-- 住宿信息 -->
+        <div class="col-12 mt-3">
+          <span>住宿地址:</span>
+          <p class="font-weight-600 mb-0">
+            Hôtel Negresco, 37 Promenade des Anglais, 06000 Nice, France
+          </p>
+        </div>
       </div>
     </div>
-  </div>
-</section>
+  </section>
 
----
+</div>
+
+
+
 
 # 费用说明
 
@@ -277,147 +257,6 @@ published: true
 | 警火急救 | 112 |
 | 领事保护 | 12301 |
 | 紧急联系 | 0033（0）9 51 86 99 99 |
-
----
-
-
-  <!-- ================= Flight ================= -->
-  <!-- 
-  <section class="card mt-4">
-    <div class="card-header">
-      <h5 class="m-0">
-        <span class="text-muted mr-2"><i class="fa fa-plane"></i></span>
-        Departing Flight
-      </h5>
-    </div>
-
-    <div class="card-body">
-      <div class="row mt-n3">
-        <div class="col-sm-4 mt-3">
-          <span>Date:</span>
-          <p class="font-weight-600 mb-0">15 Jun 21, Sat</p>
-        </div>
-
-        <div class="col-sm-4 mt-3">
-          <span>Departure Time:</span>
-          <p class="font-weight-600 mb-0">04:50 AM</p>
-        </div>
-
-        <div class="col-sm-4 mt-3">
-          <span>Airline:</span>
-          <p class="font-weight-600 mb-0">IndiGo Airways</p>
-        </div>
-
-        <div class="col-sm-4 mt-3">
-          <span>Confirm Code:</span>
-          <p class="font-weight-600 mb-0">#MG245C</p>
-        </div>
-
-        <div class="col-sm-4 mt-3">
-          <span>Departure:</span>
-          <p class="font-weight-600 mb-0">New Delhi (DEL)</p>
-        </div>
-
-        <div class="col-sm-4 mt-3">
-          <span>Gate:</span>
-          <p class="font-weight-600 mb-0">A-2</p>
-        </div>
-
-        <div class="col-sm-4 mt-3">
-          <span>Arrival Time:</span>
-          <p class="font-weight-600 mb-0">09:30 AM</p>
-        </div>
-      </div>
-    </div>
-  </section>
-  -->
-
-  <!-- ================= Car Rental ================= -->
-  <section class="card mt-4">
-    <div class="card-header">
-      <h5 class="m-0">
-        <span class="text-muted mr-2"><i class="fa fa-car"></i></span>
-        Car Rental
-      </h5>
-    </div>
-
-    <div class="card-body">
-      <div class="row mt-n3">
-        <div class="col-sm-4 mt-3">
-          <span>Company:</span>
-          <p class="font-weight-600 mb-0">Shapath Car Rental</p>
-        </div>
-
-        <div class="col-sm-4 mt-3">
-          <span>Pick-up Time:</span>
-          <p class="font-weight-600 mb-0">16 Jun 21, Sat – 07:30 AM</p>
-        </div>
-
-        <div class="col-sm-4 mt-3">
-          <span>Pick-up Location:</span>
-          <p class="font-weight-600 mb-0">High Wycombe</p>
-        </div>
-
-        <div class="col-sm-4 mt-3">
-          <span>Drop-off Time:</span>
-          <p class="font-weight-600 mb-0">16 Jun 21, Sat – 10:25 AM</p>
-        </div>
-
-        <div class="col-sm-4 mt-3">
-          <span>Drop-off Location:</span>
-          <p class="font-weight-600 mb-0">High Wycombe</p>
-        </div>
-      </div>
-    </div>
-  </section>
-
-  <!-- ================= Hotel ================= -->
-  <section class="card mt-4">
-    <div class="card-header">
-      <h5 class="m-0">
-        <span class="text-muted mr-2"><i class="fa fa-hotel"></i></span>
-        Hotel
-      </h5>
-    </div>
-
-    <div class="card-body">
-      <div class="row mt-n3">
-        <div class="col-sm-4 mt-3">
-          <span>Hotel Name:</span>
-          <p class="font-weight-600 mb-0">The Orchid Hotel</p>
-        </div>
-
-        <div class="col-sm-4 mt-3">
-          <span>Check-in:</span>
-          <p class="font-weight-600 mb-0">16 Jun 21, Sat</p>
-        </div>
-
-        <div class="col-sm-4 mt-3">
-          <span>Check-out:</span>
-          <p class="font-weight-600 mb-0">18 Jun 21, Sat</p>
-        </div>
-
-        <div class="col-sm-4 mt-3">
-          <span>Room No:</span>
-          <p class="font-weight-600 mb-0">342</p>
-        </div>
-
-        <div class="col-sm-4 mt-3">
-          <span>Booking No:</span>
-          <p class="font-weight-600 mb-0">HQM3912704</p>
-        </div>
-
-        <div class="col-sm-4 mt-3">
-          <span>Hotel Address:</span>
-          <p class="font-weight-600 mb-0">
-            Plot No.3, Nr. HDFC Bank, Ashram Road, Ahmedabad, Gujarat, India.
-          </p>
-        </div>
-      </div>
-    </div>
-  </section>
-
-</div>
 
 
 ---
