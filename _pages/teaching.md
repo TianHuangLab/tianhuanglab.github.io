@@ -13,6 +13,8 @@ social: true
 published: true
 ---
 
+---
+
 <div class="container-fluid itinerary-container">
 
   <!-- ================= Traveler Information ================= -->
@@ -100,14 +102,15 @@ published: true
 
 </div>
 
+---
 
 
 
 # 费用说明
 
-## 费用包含
+### 费用包含
 
-1. **酒店**：舒适型 3-5 星级酒店，共 6 晚。
+1. **酒店**：舒适型 3-5 星级酒店，共 6 晚。/不包含
 2. **餐饮**：酒店早餐及其它形式自助餐，共 9 餐。
 3. **执行费用**：包括游客城市税、进城费、居住税、过路/过桥费、停车燃油费、司导餐补等行程内执行费用。
 4. **车辆**：5 座商务旅行车；提供巴黎、马赛接机服务，雷恩、尼斯送机服务。
@@ -115,7 +118,7 @@ published: true
 6. **行李**：每人 1 件 23 公斤行李及 1 件随身行李。
 7. **门票及体验**：包括圣特罗佩出海渡轮、塞纳河游船、埃兹热带植物园、卢浮宫、凡尔赛宫、莫奈花园首通门票。
 
-## 费用不包含
+### 费用不包含
 
 1. **护照**：个人护照费用。
 2. **签证**：行程中所列旅游国家所需的观光签证费用。
@@ -134,7 +137,7 @@ published: true
 
 # 注意事项
 
-## 行程说明
+### 行程说明
 
 1. **重要提示**：请在集合前检查邮箱、短信，保持手机畅通，更新电子团书链接。非紧急事项请咨询客服，上团当天导游微信及电话启用。
 2. **投诉与建议**：可拨打投诉热线 0033 7 83 27 19 88 或发送邮件至 contact@aolitravel.com。
@@ -145,7 +148,7 @@ published: true
 7. **集合要求**：请提前 15 分钟到达集合地点，迟到或中途加入视为自动放弃后续行程，费用不退。
 8. **自行脱团**：视为解除合同，自动放弃后续行程，费用不退。
 
-## 酒店须知
+### 酒店须知
 
 1. 额外加住酒店及交通服务需额外支付，城市税自理，请咨询销售顾问。
 2. 全程为两人间或三人间，床型不可选，三人间可能需拼房。
@@ -153,18 +156,18 @@ published: true
 4. 欧洲酒店全面禁烟，禁止在房间内做饭，不提供一次性洗漱用品，退房时间为 11:00 前。
 5. 酒店烟雾探测器敏感，如触发报警将产生罚款。
 
-## 行李提醒
+### 行李提醒
 
 1. 请勿携带贵重物品，重要证件及贵重物品请随身保管，旅行社不承担行李保管责任。
 2. 旅行途中如物品丢失，旅行社可出具报案材料，但赔偿由个人保险处理。
 
-## 行车安全
+### 行车安全
 
 1. 巴士司机每日工作不超过 10 小时，保证连续 12 小时休息，行程中请勿打扰司机。
 2. 全程系好安全带，禁止将身体伸出窗外或在车内走动。儿童需使用安全座椅或高座椅。
 3. 特殊疾病游客需随身携带急救药品，并提前告知导游和旅行社。
 
-## 其他注意事项
+### 其他注意事项
 
 1. 旅行社无法协助欧盟退税审批，敬请理解。
 2. 行前准备请参考《重要提醒》文档。
@@ -177,9 +180,7 @@ published: true
 
 为了保障您的旅行顺利、安全、愉快，请仔细阅读以下内容，并提前做好准备。
 
----
-
-## 一、文明出行
+### 一、文明出行
 
 请每位游客在出境前注意以下事项，展现中国公民良好形象：
 
@@ -189,9 +190,7 @@ published: true
 - **健康与娱乐**：进行有益身心的活动，远离赌博和色情场所。
 - **紧急求助**：遇到困难，可及时联系领馆，确保安全。
 
----
-
-## 二、行前准备
+### 二、行前准备
 
 1. **健康信息与药品**：如有慢性病或紧急疾病（糖尿病、心脏病、哮喘等），请提前告知旅行社并携带必备药品。药品请随身携带，切勿放入行李箱。
 2. **保险**：建议购买合法的申根旅游保险，覆盖行李、财产、行程取消/延误等情况。既往病史需提供诊断证明和处方。
@@ -204,9 +203,7 @@ published: true
 9. **电子设备**：照相机电池和存储卡充足，长焦镜头及摄像机需申报，避免回国重复缴税。
 10. **法规了解**：提前了解欧盟及目的地国家的法律法规，遵守拍摄及无人机使用规定。
 
----
-
-## 三、酒店须知
+### 三、酒店须知
 
 - 欧洲酒店多响应环保政策，不提供一次性牙刷、拖鞋等，请自备。
 - 电源插头与国内不同，请准备转换器。
@@ -216,18 +213,14 @@ published: true
 - 房型安排以两人间为主，三人间为一大一小床或双床加床。
 - 酒店严格禁烟禁火，抽烟或使用火源会罚款。
 
----
-
-## 四、交通及行车
+### 四、交通及行车
 
 - 请遵守当地交通法规，全程系安全带，儿童必须使用安全座椅。
 - 旅行途中，请勿随意与司机交谈，保持车内秩序。
 - 个人贵重物品随身携带，不要放置车内或酒店房间，以防盗抢。
 - 高风险活动（滑雪、潜水、登山等）需量力而行，严格遵守安全指示。
 
----
-
-## 五、安全提示
+### 五、安全提示
 
 - 注意个人财物安全，尽量锁好行李。
 - 夜间或自由活动请告知导游，避免单独出行。
@@ -237,9 +230,7 @@ published: true
 - 高风险活动遵守规定，儿童需家长陪同。
 - 切勿随意接受陌生人食物或药品。
 
----
-
-## 六、其他注意事项
+### 六、其他注意事项
 
 - 出境小费请入乡随俗，支付标准参考行程单。
 - 熟悉当地法律、风俗、宗教及禁忌，尤其是教堂着装规定。
@@ -248,9 +239,7 @@ published: true
 - 避免显眼名牌饰品，以防盗抢。
 - 海滨、滑雪及户外活动请遵守安全警示。
 
----
-
-## 七、应急联络
+### 七、应急联络
 
 | 类型 | 电话 |
 | --- | --- |
@@ -260,88 +249,4 @@ published: true
 
 
 ---
-
-## 行程介绍
-
-<table
-  data-click-to-select="true"
-  data-height="460"
-  data-pagination="true"
-  data-search="true"
-  data-toggle="table"
-  data-url="{{ '/assets/json/paris_tickets.json' | relative_url }}">
-  <thead>
-    <tr>
-      <th data-checkbox="true"></th>
-       <th data-field="门票" data-halign="left" data-align="left" data-sortable="true">行程天数</th>
-       <th data-field="门票" data-halign="left" data-align="left" data-sortable="true">日期景点</th>
-       <th data-field="门票" data-halign="left" data-align="left" data-sortable="true">城市景点</th>
-       <th data-field="价格" data-halign="left" data-align="left" data-sortable="true">行程安排</th>
-       <th data-field="价格" data-halign="left" data-align="left" data-sortable="true">住宿信息</th>
-    </tr>
-  </thead>
-</table>
-
----
-
-## 联系我们
-
-<!-- 人物介绍板块 -->
-<div style="display: flex; align-items: center; gap: 20px; margin: 2em 0;">
-
-  <!-- 左侧头像（圆形） -->
-  <div style="flex: 1; text-align: center;">
-    {% include figure.liquid loading="eager" path="assets/img/profile-tian.jpg" title="aolitravel.com recommandation" class="img-fluid rounded-circle mx-auto d-block rounded z-depth-1" alt="aolitravel.com" %}
-  </div>
-
-  <!-- 右侧文字内容 + 按钮 -->
-  <div style="flex: 2;">
-    <p>感谢你看到这里！以上内容都是我十多年在法国、瑞士、意大利等欧洲十多个国家旅行的亲身经验总结。无论你是想探索城市风光、自然景色，还是自驾、跟团或包车游；不管你想找美食、合适住宿，还是购买景点门票，相信在这个板块都能帮你找到实用信息。总之，欢迎来到这个分享欧洲自由行攻略、旅行路线、美食体验和实用工具的小天地！📩 如果有任何问题，随时联系我，让你的欧洲之旅更轻松、更顺心。</p>
-    <p><a href="https://aolitravel.com/">了解我更多...</a></p>
-
-    <!-- 嵌入按钮 -->
-    <div class="d-flex gap-3 flex-wrap mt-2">
-      <a href="mailto:contact@aolitravel.com" class="btn btn-lg text-white" style="background-color: #6f42c1; border-radius: 0.75rem;">
-        发送邮件
-      </a>
-      <button class="btn btn-lg text-white" style="background-color: #6f42c1; border-radius: 0.75rem;" onclick="openTidio()">
-        在线聊天
-      </button>
-    </div>
-  </div>
-
-</div>
-
-<!-- 聊天脚本 -->
-<script>
-  function openTidio() {
-    if (window.tidioChatApi) {
-      window.tidioChatApi.open();
-    } else {
-      alert("聊天加载中，请稍后重试。");
-    }
-  }
-</script>
-
----
-
-## 定制旅行
-
-还没找到完美的行程？让我们为您量身定制！
-如果您觉得这个行程不完全符合您的需求，没关系！我非常乐意根据您的兴趣、时间和预算，为您量身定制独特的旅行方案。
-无论是探索更多的隐藏景点，还是想要更灵活的安排，我们都可以为您打造专属的旅程。
-立即联系我们，告诉我们您的旅行梦想，我们将尽快为您设计出最适合的完美行程！
-
-💬 [点击这里](https://aolitravel.com/custom-travel/)与我们取得联系，开始您的定制之旅！
-
-  <div>
-    <a href="https://aolitravel.com/custom-travel/">
-      {% include figure.liquid loading="eager" path="assets/img/0tours/0template/0a.png" title="france-custom-tour" class="img-fluid rounded z-depth-1" alt="france-custom-tour" %}
-    </a>
-  </div>
-
----
-
-
-
 
