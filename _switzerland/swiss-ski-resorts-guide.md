@@ -123,7 +123,7 @@ pretty_table: true
 
 [点击查看雪场官网](https://www.jungfrau.ch/fr-ch/jungfrau-ski-region/grindelwald-wengen/?srsltid=AfmBOoq9D-OgNfbXG-UQC7KWqj3HIakFCgFsRRmyf8XcOWNqFS0eroq1)
 {% include figure.liquid loading="eager" path="assets/img/100swiss-ski/swiss-ski-5a.webp" title="瑞士最全滑雪攻略-aolitravel.com-swiss-ski-resorts-guide.md" class="img-fluid rounded z-depth-1" alt="瑞士最全滑雪攻略swiss-ski-resorts-guide.md"%}
-{% include figure.liquid loading="eager" path="assets/img/100swiss-ski/swiss-ski-5b.webp" title="瑞士最全滑雪攻略-aolitravel.com-swiss-ski-resorts-guide.md" class="img-fluid rounded z-depth-1" alt="瑞士最全滑雪攻略swiss-ski-resorts-guide.md"%}
+{% include figure.liquid loading="eager" path="assets/img/100swiss-ski/swiss-ski-5c.webp" title="瑞士最全滑雪攻略-aolitravel.com-swiss-ski-resorts-guide.md" class="img-fluid rounded z-depth-1" alt="瑞士最全滑雪攻略swiss-ski-resorts-guide.md"%}
 
 ---
 
