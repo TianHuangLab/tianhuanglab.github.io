@@ -100,6 +100,74 @@ published: true
     </div>
   </section>
 
+    <section class="card mt-4">
+    <!-- 日期 -->
+    <div class="card-header">
+      <h5 class="m-0">第二天 2025年12月17日 星期三</h5>
+    </div>
+
+    <!-- 今日行程内容 -->
+    <div class="card-body">
+      <div class="row">
+        <!-- 城市行程 -->
+        <div class="col-12 mt-3">
+          <span>今日行程:</span>
+          <p class="font-weight-600 mb-0">马赛 - 戛纳 - 尼斯</p>
+        </div>
+
+        <!-- 行程内容 -->
+        <div class="col-12 mt-3">
+          <span>行程安排:</span>
+          <p class="font-weight-600 mb-0">
+            上午游览马赛老港，品尝地中海美食；中午乘坐火车前往戛纳，参观影节宫；下午驱车前往尼斯，漫步英国大道。
+          </p>
+        </div>
+
+        <!-- 住宿信息 -->
+        <div class="col-12 mt-3">
+          <span>住宿地址:</span>
+          <p class="font-weight-600 mb-0">
+            Hôtel Negresco, 37 Promenade des Anglais, 06000 Nice, France
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+      <section class="card mt-4">
+    <!-- 日期 -->
+    <div class="card-header">
+      <h5 class="m-0">第三天 2025年12月18日 星期四</h5>
+    </div>
+
+    <!-- 今日行程内容 -->
+    <div class="card-body">
+      <div class="row">
+        <!-- 城市行程 -->
+        <div class="col-12 mt-3">
+          <span>今日行程:</span>
+          <p class="font-weight-600 mb-0">马赛 - 戛纳 - 尼斯</p>
+        </div>
+
+        <!-- 行程内容 -->
+        <div class="col-12 mt-3">
+          <span>行程安排:</span>
+          <p class="font-weight-600 mb-0">
+            上午游览马赛老港，品尝地中海美食；中午乘坐火车前往戛纳，参观影节宫；下午驱车前往尼斯，漫步英国大道。
+          </p>
+        </div>
+
+        <!-- 住宿信息 -->
+        <div class="col-12 mt-3">
+          <span>住宿地址:</span>
+          <p class="font-weight-600 mb-0">
+            Hôtel Negresco, 37 Promenade des Anglais, 06000 Nice, France
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
 </div>
 
 ---
@@ -245,7 +313,7 @@ published: true
 | --- | --- |
 | 警火急救 | 112 |
 | 领事保护 | 12301 |
-| 紧急联系 | 0033（0）9 51 86 99 99 |
+| 紧急联系 | （0033）9 51 86 99 99 |
 
 
 ---
