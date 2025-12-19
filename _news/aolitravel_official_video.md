@@ -17,7 +17,7 @@ published: true
             path="https://media.aolitravel.com/aolitravel.mp4" 
             class="img-fluid w-100 rounded z-depth-1" 
             controls=true 
-            autoplay=true 
+            autoplay=false 
         %}
     </div>
 </div>
