@@ -3,10 +3,12 @@ layout: post
 title: 尼斯美食不完全指南｜推荐5家我喜欢的法餐餐厅，让你第一次来就不踩雷～
 date: 2025-12-17 20:00:00
 description: 第一次来尼斯，不想踩雷？我整理了尼斯老城、港口附近本地人最爱的餐厅，从隐藏小巷到游客区靠谱法餐，让你轻松探索地道尼斯美食。
-tags: 法国 尼斯 蔚蓝海岸 美食 尼斯美食 尼斯餐厅推荐 尼斯餐厅 南法美食 南法餐厅
+tags: 法国 尼斯 蔚蓝海岸 美食 餐厅推荐
 categories: 美食与餐厅推荐
 thumbnail: assets/img/101nice-restaurants/nice-restaurant-0.webp
 published: true
+toc:
+  sidebar: left
 ---
 
 {% include figure.liquid loading="eager" path="assets/img/101nice-restaurants/nice-restaurant-0.webp" title="尼斯餐厅推荐nice-restaurant-guide-french-cuisine" class="img-fluid rounded z-depth-1" alt="尼斯餐厅推荐nice-restaurant-guide-french-cuisine"%}
@@ -26,15 +28,15 @@ published: true
 
 ---
 
-## La Merenda｜尼斯老城的“灵魂餐厅”
+### La Merenda｜尼斯老城的“灵魂餐厅”
 
 如果只能在尼斯推荐一家餐厅，那我大概会选一家“小馆子” **La Merenda**。
 {% include figure.liquid loading="eager" path="assets/img/101nice-restaurants/nice-restaurant-1.webp" title="尼斯餐厅推荐nice-restaurant-guide-french-cuisine" class="img-fluid rounded z-depth-1" alt="尼斯餐厅推荐nice-restaurant-guide-french-cuisine"%}
 
 
-这家小餐厅在尼斯几乎是“机构级”的存在，不靠宣传、不走网红路线，但来过的人往往会年复一年地回来。就连设计了尼斯标志性“方头图书馆”的艺术家 Ben，生前都是这里的常客。
+这家小餐厅在尼斯很多本地人都知道，没有太多宣传、也不是网红餐馆，但来过的人往往会年复一年地回来。就连设计了尼斯标志性“城市图书馆”的艺术家 Ben，生前都是这里的常客。
 
-主厨 Dominique 的背景也很硬核——他曾是摩纳哥和尼斯 Negresco 酒店的米其林星级厨师。但在 1996 年，他和妻子 Danielle 决定放下那两颗星，接手这家已经经营了 30 年的小餐馆，只做自己真正想做的菜。
+主厨 Dominique 的背景也很漂亮——他曾是摩纳哥和尼斯 Negresco 酒店（尼斯最久负盛名的酒店）的米其林星级厨师。但在 1996 年，他和妻子 Danielle 决定放下那两颗星，接手这家已经经营了 30 年的小餐馆，只做自己真正想做的菜。
 
 餐厅最多只能坐 20 个人，厨房非常小，但整个节奏一点都不慌。每天的菜单直接写在黑板上，用的食材全部来自当天早上 **Cours Saleya 市场**。
 
