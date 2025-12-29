@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 巴黎圣母院游记攻略｜历史、建筑与周边旅行指南
-description: 带你领略这座跨越八百年的历史与建筑瑰宝，赶紧收藏！
+title: 巴黎圣母院游记攻略｜历史建筑与周边旅行指南
+description: 带你领略这座跨越八百多年的历史与建筑瑰宝，赶紧收藏！
 img: assets/img/104paris-notre-dame/notre-dame-paris-0.webp
 importance: 5.2
 category: 巴黎
