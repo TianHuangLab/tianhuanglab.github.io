@@ -15,7 +15,7 @@ map: true
 
 以下是我几次探索格勒诺布尔时收集的餐厅和甜品店推荐清单，地址及简要介绍附上，帮你轻松规格勒诺布尔之旅 🍴🎿：
 
-
+<!--
 ```geojson
 {
   "type": "FeatureCollection",
@@ -143,11 +143,13 @@ map: true
   ]
 }
 ```
+-->
+
 
 ### 🍽️ 餐厅推荐
 **1. Lion et Poisson老味道**
 📍 地址：11 Av. Alsace Lorraine, 38000 Grenoble
-🌟 很棒的一家中餐厅，值得推荐！
+🌟 我每次去格勒诺布尔都会去拜访的一家中餐厅，非常值得推荐！
 
 **2. Restaurant l'Épicurien**
 📍 地址：1 Place aux Herbes, 38000 Grenoble
