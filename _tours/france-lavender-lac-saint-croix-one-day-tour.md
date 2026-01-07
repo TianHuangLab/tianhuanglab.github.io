@@ -86,19 +86,19 @@ images:
 
 | 团期 | 人数 | 价格 |
 | --- | --- | --- |
-| 6-7月每周六、周日出发（需提前预约） | 1-2人 | 请联系我们拼团 |
-| （同上） | 3-8人 | 99欧元/人 |
+| 6-8月每周六、周日出发（需提前预约） | 1-2人 | 请联系我们拼团 |
+| （同上） | 3-8人 | 100欧元/人起 |
 | （同上） | 9人及以上 | 价格优惠，请咨询我们 |
 
 
 **标准说明**
 
-- 本线路6至7月期间每周六、周日发团，全年可约，3人起成团，请提前至少3天预订。若您为1至2人或需选择其他出发日期，欢迎联系我们拼团！
-- 3-8人出行，每人99欧元；9人及以上可享专属优惠，欢迎联系我们定制报价！
+- 本线路于 6–8 月每周六、周日发团，全年其他月份均需预约，3 人起成团，请至少提前 3 天预订。若您为 1–3 人或希望选择其他出发日期，欢迎联系我们咨询拼团或私享方案。
+- 4–8 人同行，人均约 100 欧元 / 人起；9 人及以上可享更优惠的专属报价，欢迎联系我们定制行程。
 
 <div class="d-flex gap-3 flex-wrap mt-2">
-  <!-- 立即预订按钮（跳转至 Stripe 页面）-->
-  <a href="https://buy.stripe.com/aEUcOn7lp5pd2e44gi" target="_blank" rel="noopener noreferrer" class="btn btn-lg text-white" style="background-color: #6f42c1; border-radius: 0.75rem;">
+  <!-- 立即预订按钮 -->
+  <a href="https://tally.so/r/wayz8W" target="_blank" rel="noopener noreferrer" class="btn btn-lg text-white" style="background-color: #6f42c1; border-radius: 0.75rem;">
     立即预订
   </a>
 
@@ -155,8 +155,8 @@ images:
 最后，我们来到碧蓝如宝石的圣十字湖畔。湖水清澈如镜，倒映着阿尔卑斯南麓的群山与蔚蓝天空。你可以选择自由散步湖边、乘皮划艇进入维尔东峡谷，或静静坐在湖畔感受自然的宁静与辽阔，为这趟南法之旅画上圆满句点。
 
 <div class="d-flex gap-3 flex-wrap mt-2">
-  <!-- 立即预订按钮（跳转至 Stripe 页面）-->
-  <a href="https://buy.stripe.com/aEUcOn7lp5pd2e44gi" target="_blank" rel="noopener noreferrer" class="btn btn-lg text-white" style="background-color: #6f42c1; border-radius: 0.75rem;">
+  <!-- 立即预订按钮-->
+  <a href="https://tally.so/r/wayz8W" target="_blank" rel="noopener noreferrer" class="btn btn-lg text-white" style="background-color: #6f42c1; border-radius: 0.75rem;">
     立即预订
   </a>
 
