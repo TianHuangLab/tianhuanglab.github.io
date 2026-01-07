@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 巴黎埃菲尔铁塔完整指南|购票、拍照、登塔全攻略
-description: 一文详解埃菲尔铁塔
+title: 巴黎埃菲尔铁塔完整指南|购票拍照、登塔全攻略
+description: 一文详解埃菲尔铁塔历史文化与参观攻略
 img: assets/img/106tour-eiffel/eiffel-tower-1.webp
 importance: 5.1
 category: 巴黎
@@ -9,10 +9,11 @@ related_publications: false
 related_posts: true
 toc:
   sidebar: left
-tags: 法国 巴黎 巴黎埃菲尔铁塔 巴黎景点 巴黎地标 法国景点 世界地标 塞纳河
+tags: 法国 巴黎 埃菲尔铁塔 巴黎埃菲尔铁塔 巴黎景点 巴黎地标 法国景点 世界地标 塞纳河
 map: true
 ---
 
+{% include figure.liquid loading="eager" path="assets/img/2paris-top-20-0.jpg" title="巴黎埃菲尔铁塔全攻略-paris-eiffel-tower-guide" class="img-fluid rounded z-depth-1" alt="巴黎埃菲尔铁塔全攻略-paris-eiffel-tower-guide" %}
 
 埃菲尔铁塔是**法国最著名的地标之一**，也是**世界上最知名的城市背景**。对于大多数游客来说，它是巴黎旅行的必打卡之地——无论是第一次到访，还是重游巴黎，可以说，铁塔都是留下特别瞬间的理想背景。
 
@@ -25,7 +26,6 @@ map: true
 
 {% include figure.liquid loading="eager" path="assets/img/106tour-eiffel/eiffel-tower-1.webp" title="巴黎埃菲尔铁塔全攻略-paris-eiffel-tower-guide" class="img-fluid rounded z-depth-1" alt="巴黎埃菲尔铁塔全攻略-paris-eiffel-tower-guide" %}
 
-更多关于巴黎的旅游攻略，欢迎查看我的：[巴黎旅游攻略合集](https://aolitravel.com/paris/)
 
 ---
 
@@ -69,7 +69,10 @@ map: true
 - **从巴黎圣母院出发**：可乘坐 RER，车程大约 **20分钟**
 - **从卢浮宫出发**：通过地铁或公交换乘，整体约 **30分钟**
 - 乘坐**公交车**前往大约需要 **25分钟**，而如果时间充裕，沿着塞纳河一路步行，大约 **30分钟**，沿途风景非常好，是很多游客和当地人都很喜欢的走法
-{% include figure.liquid loading="eager" path="assets/img/106tour-eiffel/eiffel-tower-3a.webp" title="巴黎埃菲尔铁塔全攻略-paris-eiffel-tower-guide" class="img-fluid rounded z-depth-1" alt="巴黎埃菲尔铁塔全攻略-paris-eiffel-tower-guide" %}
+
+点击查看[巴黎公共交通](https://www.ratp.fr/sites/default/files/plans-lignes/Plans-essentiels/Plan-Metro.1736413859.pdf)的路线图（pdf格式）
+
+{% include figure.liquid loading="eager" path="assets/img/106tour-eiffel/eiffel-tower-9.webp" title="巴黎埃菲尔铁塔全攻略-paris-eiffel-tower-guide" class="img-fluid rounded z-depth-1" alt="巴黎埃菲尔铁塔全攻略-paris-eiffel-tower-guide" %}
 
 埃菲尔铁塔周边分布着多个地铁站和郊区列车站，下车后步行约 10分钟即可看到铁塔的身影。对不少人来说，第一次从街角“突然看到”铁塔的那一刻，本身就是一次难忘的体验。
 
@@ -89,7 +92,7 @@ map: true
 **第一层**是离地面最近的一层，也是最容易被低估的一层。这里分布着**三座红色建筑**，里面设有小型剧院、餐厅、纪念品商店，以及介绍埃菲尔铁塔历史与建造过程的展览，非常适合在登塔前先了解这座建筑的背景。
 
 这一层最受欢迎的，莫过于**中央区域的玻璃地板**。透过脚下的透明玻璃，可以直接看到几十米下方的地面，行人和车辆都变得很小。第一次走上去时，多多少少都会有点腿软——如果你不太怕高，这绝对是一个值得尝试的小挑战。
-{% include figure.liquid loading="eager" path="assets/img/106tour-eiffel/eiffel-tower-4a.webp" title="巴黎埃菲尔铁塔全攻略-paris-eiffel-tower-guide" class="img-fluid rounded z-depth-1" alt="巴黎埃菲尔铁塔全攻略-paris-eiffel-tower-guide" %}
+{% include figure.liquid loading="eager" path="assets/img/106tour-eiffel/eiffel-tower-9a.webp" title="巴黎埃菲尔铁塔全攻略-paris-eiffel-tower-guide" class="img-fluid rounded z-depth-1" alt="巴黎埃菲尔铁塔全攻略-paris-eiffel-tower-guide" %}
 {% include figure.liquid loading="eager" path="assets/img/106tour-eiffel/eiffel-tower-4b.webp" title="巴黎埃菲尔铁塔全攻略-paris-eiffel-tower-guide" class="img-fluid rounded z-depth-1" alt="巴黎埃菲尔铁塔全攻略-paris-eiffel-tower-guide" %}
 
 
@@ -102,7 +105,7 @@ map: true
 {% include figure.liquid loading="eager" path="assets/img/106tour-eiffel/eiffel-tower-4d.webp" title="巴黎埃菲尔铁塔全攻略-paris-eiffel-tower-guide" class="img-fluid rounded z-depth-1" alt="巴黎埃菲尔铁塔全攻略-paris-eiffel-tower-guide" %}
 
 
-### 第三层（塔顶）：真正站在巴黎之上
+### 第三层（塔顶）：巴黎云端
 
 **第三层，也就是塔顶**，面积相对较小，但体验感最强。这里主要用于观景，设有室内观景甲板和露天平台，即使天气稍凉，也可以先在室内欣赏，再走到室外感受巴黎的风。
 
@@ -184,7 +187,7 @@ map: true
 > 出发前，总少不了做点功课，对吧？为了让你的行程更轻松，我整理了三大实用资源：👉1.[**精选路线**](https://aolitravel.com/tours/)：汇集我们自己运营、靠谱的巴黎和南法游览路线，让你玩得尽兴又不踩雷。 👉2.[**旅行工具**](https://aolitravel.com/travel-prep/)：酒店、机票、车票、租车或包车预订，以及各种旅行资源，一站搞定行程安排。 👉3.[**旅行商城**](https://aolitravel.com/store/)：我们陆续上新精选旅行好物，从出行装备到当地特色小物，让旅程更舒适、更有趣。用上这些推荐，你再也不用东奔西找，既省时又省心。想让你的欧洲或瑞士之旅顺利又精彩？从这里开始，就对了！
 >
 
-{% include figure.liquid loading="eager" path="assets/img/106tour-eiffel/eiffel-tower-8.webp" title="巴黎埃菲尔铁塔全攻略-paris-eiffel-tower-guide" class="img-fluid rounded z-depth-1" alt="巴黎埃菲尔铁塔全攻略-paris-eiffel-tower-guide" %}
+{% include figure.liquid loading="eager" path="assets/img/2paris-top-20-2.jpg" title="巴黎埃菲尔铁塔全攻略-paris-eiffel-tower-guide" class="img-fluid rounded z-depth-1" alt="巴黎埃菲尔铁塔全攻略-paris-eiffel-tower-guide" %}
 
 ---
 
