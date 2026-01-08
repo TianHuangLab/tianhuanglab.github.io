@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 卢浮宫旅游全攻略｜必看杰作、参观技巧和推荐路线
-description: 带你高效探索世界瑰宝卢浮宫博物馆，玩转巴黎
+title: 卢浮宫旅游全攻略｜必看杰作、参观技巧和路线
+description: 带你高效探索世界瑰宝卢浮宫博物馆，一起玩转巴黎
 img: assets/img/107louvre/louvre-0.webp
 importance: 5.3
 category: 巴黎
@@ -24,7 +24,7 @@ map: true
 > 关于我：现常驻南法，几年前从巴黎搬到了这里，在地中海的阳光下开启了全新的生活篇章。走过十几个国家，足迹遍布三大洲，但无论走多远，旅行始终是我灵魂的栖息地，爱在山间徒步、海边吹风，冬天则滑雪畅玩。超懂**法国**——如果你被这篇**巴黎卢浮宫博物馆攻略**吸引，不妨顺便参考我的其他**法国旅游攻略（含[巴黎](https://aolitravel.com/paris/)、[南法](https://aolitravel.com/south-of-france/)、[法国全集](https://aolitravel.com/france-travel/)、[精选路线](https://aolitravel.com/tours/)）**，帮你把欧洲之旅延伸得更精彩、更顺畅。从南法阳光海岸到北部历史名城，我把旅行路线、景点和实用经验都整理好了，让你的旅程轻松不踩雷！
 >
 
-{% include figure.liquid loading="eager" path="assets/img/107louvre/louvre-0a.webp" title="巴黎卢浮宫博物馆全攻略-paris-louvre-guide" class="img-fluid rounded z-depth-1" alt="巴黎卢浮宫博物馆全攻略-paris-louvre-guide" %}
+{% include figure.liquid loading="eager" path="assets/img/2paris-top-20-8.jpg" title="巴黎卢浮宫博物馆全攻略-paris-louvre-guide" class="img-fluid rounded z-depth-1" alt="巴黎卢浮宫博物馆全攻略-paris-louvre-guide" %}
 
 
 ---
@@ -172,7 +172,7 @@ map: true
 - **莫利恩咖啡厅（Café Mollien）和马利咖啡厅（Café Marly）**：最受欢迎的两家咖啡厅之一，可以边品咖啡边欣赏玻璃金字塔的美景。莫利恩咖啡厅地址在德农馆一层，法国绘画部（红厅）附近；营业时间是每天上午 9:45 至下午 4:45 开放，周三和周五开放至晚上 7:45。马利咖啡厅地址在玻璃金字塔侧面，营业时间是每日早8点 - 凌晨2点。
 - **卢浮宫面包坊：**地址是在-2层，玻璃金字塔下方，营业时间是每日9-18点，周三和周五夜场至晚上20:30。
 
-> 建议：如果你想在游览间隙拍几张漂亮的照片或放松休息，Café Mollia的座位和视角非常理想。
+> 建议：如果你想在游览间隙拍几张漂亮的照片或放松休息，Café Mollien的座位和视角非常理想。
 > 
 {% include figure.liquid loading="eager" path="assets/img/107louvre/louvre-3a.webp" title="巴黎卢浮宫博物馆全攻略-paris-louvre-guide" class="img-fluid rounded z-depth-1" alt="巴黎卢浮宫博物馆全攻略-paris-louvre-guide" %}
 
@@ -201,52 +201,52 @@ map: true
 
 ## 四、高效路线与十大必看杰作
 
-为了在有限时间内尽可能多地欣赏卢浮宫的精华作品，建议从**戴·利昂入口（Porte de Lion）进入，并尽量在开馆时就开始参观，这样可以避开高峰人流，同时保证拍照和观赏体验。以下路线按照逻辑顺序安排，覆盖十大必看杰作**，让你高效又充实地游览卢浮宫。
+为了在有限时间内尽可能多地欣赏卢浮宫的精华作品，建议从**戴·利昂入口（Porte de Lion）** 进入，并尽量在开馆时就开始参观，这样可以避开高峰人流，同时保证拍照和观赏体验。以下路线按照逻辑顺序安排，覆盖十大必看杰作，让你高效又充实地游览卢浮宫。
 
-### **Level 1（地面至一楼）— 西班牙与意大利绘画起步**
+### **从地面至一楼 — 西班牙与意大利绘画开始**
 
 1. **718号展厅：17世纪西班牙绘画**
-    - 展厅收藏了西班牙黄金时代的代表作品，如贝拉斯克斯的肖像画。
-    - 建议：这里人少，适合慢慢欣赏细腻的色彩和光影效果。
+   展厅收藏了西班牙黄金时代的代表作品，如贝拉斯克斯的肖像画。
+   建议：这里人少，适合慢慢欣赏细腻的色彩和光影效果。
 {% include figure.liquid loading="eager" path="assets/img/107louvre/louvre-4-1.webp" title="巴黎卢浮宫博物馆全攻略-paris-louvre-guide" class="img-fluid rounded z-depth-1" alt="巴黎卢浮宫博物馆全攻略-paris-louvre-guide" %}
 
     
 2. **意大利绘画展厅（同世纪作品）**
-    - 展出文艺复兴时期的意大利画作，为后续大画廊做好铺垫。
-    - 建议：注意细看人物表情和透视手法，这是文艺复兴的精髓。
+   展出文艺复兴时期的意大利画作，为后续大画廊做好铺垫。
+   建议：注意细看人物表情和透视手法，这是文艺复兴的精髓。
 {% include figure.liquid loading="eager" path="assets/img/107louvre/louvre-4-2.webp" title="巴黎卢浮宫博物馆全攻略-paris-louvre-guide" class="img-fluid rounded z-depth-1" alt="巴黎卢浮宫博物馆全攻略-paris-louvre-guide" %}
 
     
 3. **大画廊（Grand Gallery）— 文艺复兴意大利大师作品**
-    - 这里是卢浮宫最著名的展厅之一，墙上排列着达·芬奇、乔托、拉斐尔、委罗内塞等大师作品。
-    - **711号展厅**：**蒙娜丽莎**
-        - 世界上最著名的画作之一，近距离欣赏需要排队，但绝对值得。
+这里是卢浮宫最著名的展厅之一，墙上排列着达·芬奇、乔托、拉斐尔、委罗内塞等大师作品。
+**711号展厅**：**蒙娜丽莎**
+世界上最著名的画作之一，近距离欣赏需要排队，但绝对值得。
 {% include figure.liquid loading="eager" path="assets/img/107louvre/louvre-4-4.webp" title="巴黎卢浮宫博物馆全攻略-paris-louvre-guide" class="img-fluid rounded z-depth-1" alt="巴黎卢浮宫博物馆全攻略-paris-louvre-guide" %}
 
-    - **同步欣赏**：维罗内塞的《迦拿的婚宴》，壮丽的宗教场景和色彩运用令人叹为观止。
+**同时欣赏**：维罗内塞的《迦拿的婚宴》，壮丽的宗教场景和色彩运用令人叹为观止。
 {% include figure.liquid loading="eager" path="assets/img/107louvre/louvre-4-5.webp" title="巴黎卢浮宫博物馆全攻略-paris-louvre-guide" class="img-fluid rounded z-depth-1" alt="巴黎卢浮宫博物馆全攻略-paris-louvre-guide" %}
 
-    - 建议：拍摄蒙娜丽莎时尽量提前调整角度，用广角镜头可以避开人群。
+建议：拍摄蒙娜丽莎时尽量提前调整角度，用广角镜头可以避开人群。
 {% include figure.liquid loading="eager" path="assets/img/107louvre/louvre-4-3.webp" title="巴黎卢浮宫博物馆全攻略-paris-louvre-guide" class="img-fluid rounded z-depth-1" alt="巴黎卢浮宫博物馆全攻略-paris-louvre-guide" %}
 
 
 ### **登农翼（Denon Wing）— 欧洲绘画与历史名作**
 
 1. **萨莫特拉斯的胜利女神（703号展厅）**
-    - 这尊雕像被安置在楼梯顶部，象征力量与动感，游客不可错过。
+   这尊雕像被安置在楼梯顶部，象征力量与动感，游客不可错过。
 {% include figure.liquid loading="eager" path="assets/img/107louvre/louvre-4-6.webp" title="巴黎卢浮宫博物馆全攻略-paris-louvre-guide" class="img-fluid rounded z-depth-1" alt="巴黎卢浮宫博物馆全攻略-paris-louvre-guide" %}
  
 2. **加冕拿破仑（雅克-路易·大卫）**
-    - 展示法国皇帝加冕仪式的宏大场景，感受历史与权力的壮丽画面。
+   展示法国皇帝加冕仪式的宏大场景，感受历史与权力的壮丽画面。
 {% include figure.liquid loading="eager" path="assets/img/107louvre/louvre-4-7.webp" title="巴黎卢浮宫博物馆全攻略-paris-louvre-guide" class="img-fluid rounded z-depth-1" alt="巴黎卢浮宫博物馆全攻略-paris-louvre-guide" %}
 
 3. **梅杜莎之筏（杰里科）**
-    - 充满悲壮气息的历史画作，细节丰富，情感表达强烈。
+   充满悲壮气息的历史画作，细节丰富，情感表达强烈。
 {% include figure.liquid loading="eager" path="assets/img/107louvre/louvre-4-8.webp" title="巴黎卢浮宫博物馆全攻略-paris-louvre-guide" class="img-fluid rounded z-depth-1" alt="巴黎卢浮宫博物馆全攻略-paris-louvre-guide" %}
 
 4. **自由引导人民（德拉克洛瓦）**
-    - 法国浪漫主义绘画代表作，体现革命精神与自由理想。
-    - 建议：登农翼大画廊人流相对较多，建议先拍照记录，再仔细欣赏细节。
+   法国浪漫主义绘画代表作，体现革命精神与自由理想。
+   建议：登农翼大画廊人流相对较多，建议先拍照记录，再仔细欣赏细节。
 {% include figure.liquid loading="eager" path="assets/img/107louvre/louvre-4-9.webp" title="巴黎卢浮宫博物馆全攻略-paris-louvre-guide" class="img-fluid rounded z-depth-1" alt="巴黎卢浮宫博物馆全攻略-paris-louvre-guide" %}
 
     
@@ -254,19 +254,19 @@ map: true
 ### **雕塑与苏利翼（Sully Wing）— 古代文明与经典雕塑**
 
 1. **普西莎与爱神（安东尼奥卡诺瓦）**
-    - 新古典主义雕塑杰作，展现优雅的姿态和精致的细节。
+   新古典主义雕塑杰作，展现优雅的姿态和精致的细节。
 {% include figure.liquid loading="eager" path="assets/img/107louvre/louvre-4-10.webp" title="巴黎卢浮宫博物馆全攻略-paris-louvre-guide" class="img-fluid rounded z-depth-1" alt="巴黎卢浮宫博物馆全攻略-paris-louvre-guide" %}
 
     
 2. **米洛的维纳斯**
-    - 卢浮宫最知名的雕塑之一，希腊古典美的典范，位于苏利翼中心展厅。
-    - 建议：从不同角度欣赏，能发现不同的美感和比例之美。
+   卢浮宫最知名的雕塑之一，希腊古典美的典范，位于苏利翼中心展厅。
+   建议：从不同角度欣赏，能发现不同的美感和比例之美。
 {% include figure.liquid loading="eager" path="assets/img/107louvre/louvre-4-11.webp" title="巴黎卢浮宫博物馆全攻略-paris-louvre-guide" class="img-fluid rounded z-depth-1" alt="巴黎卢浮宫博物馆全攻略-paris-louvre-guide" %}
 
     
 3. **埃及大狮身人面像与汉谟拉比法典**
-    - 大狮身人面像：古埃及文明象征，神秘而庄严。
-    - 汉谟拉比法典（公元前1750年）：巴比伦楔形文字刻石，是世界上现存最早、保存最完好的法律文献之一。
+   大狮身人面像：古埃及文明象征，神秘而庄严。
+   汉谟拉比法典（公元前1750年）：巴比伦楔形文字刻石，是世界上现存最早、保存最完好的法律文献之一。
 {% include figure.liquid loading="eager" path="assets/img/107louvre/louvre-4-12.webp" title="巴黎卢浮宫博物馆全攻略-paris-louvre-guide" class="img-fluid rounded z-depth-1" alt="巴黎卢浮宫博物馆全攻略-paris-louvre-guide" %}
 
     
@@ -274,7 +274,7 @@ map: true
 参观卢浮宫时，不必追求“看完所有展品”，因为博物馆面积太大，集中精力欣赏重点作品才能真正感受艺术魅力。建议按照推荐路线花费2–3小时完成核心观展，如果有整天时间，可以再探索其他展区。拍照时，早晨或傍晚光线柔和、人少的时段效果最佳，雕塑和绘画作品尽量避免使用闪光灯。途中可在Café Mollia或Angelina茶室稍作休息，补充体力再继续观展。
 
 按照这条路线，你既能高效打卡卢浮宫的经典杰作，又能轻松享受游览体验，不错过任何亮点。
-{% include figure.liquid loading="eager" path="assets/img/107louvre/louvre-4-0.webp" title="巴黎卢浮宫博物馆全攻略-paris-louvre-guide" class="img-fluid rounded z-depth-1" alt="巴黎卢浮宫博物馆全攻略-paris-louvre-guide" %}
+{% include figure.liquid loading="eager" path="assets/img/2paris-top-20-9a.jpg" title="巴黎卢浮宫博物馆全攻略-paris-louvre-guide" class="img-fluid rounded z-depth-1" alt="巴黎卢浮宫博物馆全攻略-paris-louvre-guide" %}
 
 
 ---
