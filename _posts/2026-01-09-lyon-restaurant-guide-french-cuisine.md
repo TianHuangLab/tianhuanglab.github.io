@@ -19,8 +19,10 @@ toc:
 
 话不多说，直接进入正题！
 
-> 关于我：现常驻法国南部（马赛&尼斯），几年前从巴黎搬来，在地中海的阳光中开启新的生活。走过几十个国家，足迹遍布三大洲。旅行不仅是热爱，更是我的生活方式。喜欢山野徒步、海边吹风，也享受冬日滑雪的自在时刻。深度了解法国，也期待走遍欧洲，记录并分享真实的生活与旅行体验。欢迎你参考我的**法国旅游攻略（含[巴黎](https://aolitravel.com/paris/)、[南法](https://aolitravel.com/south-of-france/)、[法国全集](https://aolitravel.com/france-travel/)、[精选路线](https://aolitravel.com/tours/)）**，帮你把欧洲之旅延伸得更精彩、更顺畅。同时，我与伙伴共同创立法国 **「奥利旅行」**，作为立足南法、辐射法国及瑞士、意大利的本地地接团队，专注于高品质、个性化的[**法国深度游](https://aolitravel.com/tours/)** 与 **[定制服务](https://aolitravel.com/custom-travel/)**。
+> 关于我：现常驻法国南部（马赛&尼斯），几年前从巴黎搬来，在地中海的阳光中开启新的生活。走过几十个国家，足迹遍布三大洲。旅行不仅是热爱，更是我的生活方式。喜欢山野徒步、海边吹风，也享受冬日滑雪的自在时刻。深度了解法国，也期待走遍欧洲，记录并分享真实的生活与旅行体验。欢迎你参考我的**法国旅游攻略（含[巴黎](https://aolitravel.com/paris/)、[南法](https://aolitravel.com/south-of-france/)、[法国全集](https://aolitravel.com/france-travel/)、[精选路线](https://aolitravel.com/tours/)）**，帮你把欧洲之旅延伸得更精彩、更顺畅。同时，我与伙伴共同创立法国 **「奥利旅行」**，作为立足南法、辐射法国及瑞士、意大利的本地地接团队，专注于高品质、个性化的 **[法国深度游](https://aolitravel.com/tours/)** 与 **[定制服务](https://aolitravel.com/custom-travel/)**。
 >
+
+另外，如果你还在规划在里昂的行程，不妨参考我的里昂攻略：[里昂必打卡18大景点：从古迹到艺术，玩转法国“光之城”！](https://aolitravel.com/france-travel/visit-lyon-top-18-things-to-do/)
 
 ---
 
@@ -34,7 +36,7 @@ toc:
 {% include figure.liquid loading="eager" path="assets/img/108lyon-restaurants/lyon-restaurant-2.webp" title="里昂美食推荐-lyon-bouchon-restaurant-guide" class="img-fluid rounded z-depth-1" alt="里昂美食推荐-lyon-bouchon-restaurant-guide"%}
 
 
-一般在一家 Bouchon餐馆，我会推荐遗下几道很经典的菜和一道甜品，是我觉得很有代表性的：
+一般在一家 Bouchon餐馆，我会推荐以下几道很经典的菜和一道甜品，是我觉得很有代表性的：
 
 **第一是 Salade Lyonnaise （英语：Lyonnaise salad）**：生菜、新鲜烤面包丁、脆猪五花、配上水波蛋，底下淋着香醇的油醋汁。拌匀后每一口都咸香丰盈，味道浓郁却不腻，非常满足。
 {% include figure.liquid loading="eager" path="assets/img/108lyon-restaurants/lyon-restaurant-2a.webp" title="里昂美食推荐-lyon-bouchon-restaurant-guide" class="img-fluid rounded z-depth-1" alt="里昂美食推荐-lyon-bouchon-restaurant-guide"%}
@@ -77,7 +79,7 @@ toc:
 
 ## 3. **Café Comptoir Brunet**｜尝了血肠 & 安杜耶香肠
 
-接下来是另一家我尝试过的 Bouchon餐馆，叫做**Café Comptoir Brunet**。刚坐下他们就会送上新鲜酸面包和盐，再配上本地生啤酒。菜单上太多美味，让人难以抉择。
+接下来是另一家我尝试过的 Bouchon餐馆，叫做**Café Comptoir Brunet**。刚坐下他们就会送上现烤的手工面包，再配上本地产的啤酒。菜单上太多美味，让人难以抉择。
 
 我点了当地特色 **血肠（Boudin Noir）**，搭配土豆泥和烤苹果。味道浓郁、丰富，也有点奇怪。如果你不能接受猪下水做的食物，那么我这道菜我不建议你点，但是恰好如果你喜欢口感厚重、风味浓郁的菜，这道绝对让你印象深刻。
 
@@ -95,7 +97,7 @@ toc:
 
 这是我前面推荐的美食里唯一一个甜点，里昂的 **粉红榛果（Praline）** 是一定要尝的特色。
 
-无论是榛果挞、法式软面包，还是其他甜点，这种用粉色糖衣包裹的杏仁，几乎随处可见。甜而不腻、口感丰富，我每次在里昂都会特地去 **Panatera 面包店**，就是为了吃它的榛果布里欧修，回味无穷！
+无论是榛果挞、法式软面包，还是其他甜点，这种用粉色糖衣包裹的杏仁，几乎随处可见。甜而不腻、口感丰富，我每次在里昂都会特地去 **Panaterra 面包店**，就是为了吃它的法式榛果挞，回味无穷！
 {% include figure.liquid loading="eager" path="assets/img/108lyon-restaurants/lyon-restaurant-4.webp" title="里昂美食推荐-lyon-bouchon-restaurant-guide" class="img-fluid rounded z-depth-1" alt="里昂美食推荐-lyon-bouchon-restaurant-guide"%}
 {% include figure.liquid loading="eager" path="assets/img/108lyon-restaurants/lyon-restaurant-4a.webp" title="里昂美食推荐-lyon-bouchon-restaurant-guide" class="img-fluid rounded z-depth-1" alt="里昂美食推荐-lyon-bouchon-restaurant-guide"%}
 
@@ -109,7 +111,7 @@ toc:
 - **Brasserie Georges**：经典老牌，奶油鱼肉卷必试
 - **Bouchon**：体验地道里昂料理，Salade Lyonnaise + 粉红榛果挞必点
 - **特色香肠**：血肠、安杜耶香肠和猪五花，风味浓郁、风味独特，略重口，慎点！
-- **甜点**：粉红榛果甜品和布里欧修，甜而不腻、老少皆宜
+- **甜点**：粉红榛果甜品和法式软面包，甜而不腻、老少皆宜
 
 总之，如果你来法国旅游，同时计划游览里昂的话，千万别错过这些地道法餐体验。食物选择丰富，量大美味、氛围好、服务热情，绝对会让你的法国之行更完美。
 
@@ -198,7 +200,7 @@ toc:
 
 [最实用的巴黎公共交通指南｜一文看懂怎么选！](https://aolitravel.com/paris/paris-public-transportation/)
 
-[巴黎埃菲尔铁塔完整指南|购票拍照、登塔全攻略](https://aolitravel.com/paris/eiffel-tower-paris-guide/)
+[巴黎埃菲尔铁塔完整指南｜购票拍照、登塔全攻略](https://aolitravel.com/paris/eiffel-tower-paris-guide/)
 
 [巴黎圣母院游记攻略｜历史建筑与周边旅行指南](https://aolitravel.com/paris/notre-dame-paris-guide/)
 
