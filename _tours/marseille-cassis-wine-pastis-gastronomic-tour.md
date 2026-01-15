@@ -93,20 +93,20 @@ images:
 
 | 团期 | 人数 | 价格 |
 | --- | --- | --- |
-| 全年每周六、周日出发（需提前预约） | 1人 | 请联系我们拼团 |
-| （同上） | 2-8人 | 149欧元/人 |
+| 全年每周六、周日出发（需提前预约） | 1-2人 | 请联系我们拼团 |
+| （同上） | 3-8人 | 150欧元/人起 |
 | （同上） | 9人及以上 | 价格优惠，请咨询我们 |
 
 
 **标准说明**
 
-- 本线路每周六、周日发团，全年可约，2人起成团，请提前至少3天预订。若您为1人出行或需选择其他出发日期，欢迎联系我们拼团！
-- 2-8人出行，每人149欧元；9人及以上可享专属优惠，欢迎联系我们定制报价！
+- 本线路每周六、周日发团，全年可约，3人起成团，请提前至少3天预订。若您为1-2人出行或需选择其他出发日期，欢迎联系我们拼团！
+- 3-8人出行，每人150欧元起；9人及以上可享专属优惠，欢迎联系我们定制报价！
 - 本行程特别安排当地特色酒庄品酒体验！另有机会品尝普罗旺斯传统茴香酒 Pastis，感受南法独有的风味魅力！
 
 <div class="d-flex gap-3 flex-wrap mt-2">
   <!-- 立即预订按钮（跳转至 Stripe 页面）-->
-  <a href="https://book.stripe.com/8wM29JeNR7xl8Cs7sz" target="_blank" rel="noopener noreferrer" class="btn btn-lg text-white" style="background-color: #6f42c1; border-radius: 0.75rem;">
+  <a href="https://tally.so/r/wayz8W" target="_blank" rel="noopener noreferrer" class="btn btn-lg text-white" style="background-color: #6f42c1; border-radius: 0.75rem;">
     立即预订
   </a>
 
@@ -176,7 +176,7 @@ images:
 
 <div class="d-flex gap-3 flex-wrap mt-2">
   <!-- 立即预订按钮（跳转至 Stripe 页面）-->
-  <a href="https://book.stripe.com/8wM29JeNR7xl8Cs7sz" target="_blank" rel="noopener noreferrer" class="btn btn-lg text-white" style="background-color: #6f42c1; border-radius: 0.75rem;">
+  <a href="https://tally.so/r/wayz8W" target="_blank" rel="noopener noreferrer" class="btn btn-lg text-white" style="background-color: #6f42c1; border-radius: 0.75rem;">
     立即预订
   </a>
 
