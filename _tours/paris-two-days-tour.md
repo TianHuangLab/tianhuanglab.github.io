@@ -68,20 +68,20 @@ images:
 | 团期 | 人数 | 价格 |
 | --- | --- | --- |
 | 全年可出发（请提前至少2天预约） | 1-2人 | 请联系我们拼团 |
-| （同上） | 3-8人 | 200欧元/人 |
+| （同上） | 3-8人 | 200欧元/人起 |
 | （同上） | 9人及以上 | 价格优惠，请咨询我们 |
 
 
 **标准说明**
 
-- 本线路全年发团，3人起成团，请提前至少2天预订。若您为1至2人或需选择其他出发日期，欢迎联系我们拼团或包车出行！
-- 3-8人出行，每人200欧元；9人及以上可享专属优惠，欢迎联系我们定制报价！
+- 本线路全年发团，3人起成团，请提前至少3天预订。若您为1至2人或需选择其他出发日期，欢迎联系我们拼团或包车出行！
+- 3-8人出行，每人200欧元起；9人及以上可享专属优惠，欢迎联系我们定制报价！
 - 本行程未包含酒店住宿，您可自由选择并在巴黎范围内自行预订。我们可根据您的行程安排，提供巴黎市区范围内的上门接送服务；如您需要，我们也很乐意协助代为预订合适的酒店。
 - 温馨提示：本行程包含**卢浮宫、凡尔赛宫和圣心大教堂**的内部参观，其中卢浮宫和凡尔赛宫门票可原价代购，无任何手续费。此外，我们可协助您以优惠价格预订**塞纳河游船**门票，方便您轻松登船。**巴黎圣母院**内部参观通常需排队**10–30分钟**，可通过提前购买塔楼门票实现快速入场，请您提前告知出行日期以便安排。由于行程时间有限，**凯旋门、埃菲尔铁塔及巴黎市政厅**将仅安排外部参观与拍照。
 
 <div class="d-flex gap-3 flex-wrap mt-2">
   <!-- 立即预订按钮（跳转至 Stripe 页面）-->
-  <a href="https://book.stripe.com/cNi28s5Y5cpg7oa7hQ4c80a" target="_blank" rel="noopener noreferrer" class="btn btn-lg text-white" style="background-color: #6f42c1; border-radius: 0.75rem;">
+  <a href="https://tally.so/r/wayz8W" target="_blank" rel="noopener noreferrer" class="btn btn-lg text-white" style="background-color: #6f42c1; border-radius: 0.75rem;">
     立即预订
   </a>
 
@@ -158,7 +158,7 @@ images:
 
 <div class="d-flex gap-3 flex-wrap mt-2">
   <!-- 立即预订按钮（跳转至 Stripe 页面）-->
-  <a href="https://book.stripe.com/cNi28s5Y5cpg7oa7hQ4c80a" target="_blank" rel="noopener noreferrer" class="btn btn-lg text-white" style="background-color: #6f42c1; border-radius: 0.75rem;">
+  <a href="https://tally.so/r/wayz8W" target="_blank" rel="noopener noreferrer" class="btn btn-lg text-white" style="background-color: #6f42c1; border-radius: 0.75rem;">
     立即预订
   </a>
 
