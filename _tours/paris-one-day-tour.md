@@ -56,20 +56,20 @@ images:
 
 | 团期 | 人数 | 价格 |
 | --- | --- | --- |
-| 全年可出发（请提前至少2天预约） | 1-2人 | 请联系我们拼团 |
-| （同上） | 3-8人 | 100欧元/人 |
+| 全年可出发（请提前至少3天预约） | 1-2人 | 请联系我们拼团 |
+| （同上） | 3-8人 | 100欧元/人起 |
 | （同上） | 9人及以上 | 价格优惠，请咨询我们 |
 
 
 **标准说明**
 
-- 本线路全年发团，3人起成团，请提前至少2天预订。若您为1至2人或需选择其他出发日期，欢迎联系我们拼团！
-- 3-8人出行，每人100欧元；9人及以上可享专属优惠，欢迎联系我们定制报价！
-- 温馨提示：本行程包含凡尔赛宫内部参观（门票可原价代购，无任何手续费），请您提前告知出行日期以便安排。由于行程时间有限，卢浮宫博物馆、凯旋门及埃菲尔铁塔仅安排外部参观与拍照。
+- 本线路全年发团，3人起成团，请提前至少3天预订。若您为1至2人或需选择其他出发日期，欢迎联系我们拼团！
+- 3-8人出行，每人100欧元起；9人及以上可享专属优惠，欢迎联系我们定制报价！
+- 温馨提示：本行程包含凡尔赛宫内部参观（门票可原价代购，无任何手续费），请您提前告知出行日期以便安排。由于行程时间有限，卢浮宫博物馆、凯旋门及埃菲尔铁塔仅安排外部参观与拍照。如果您有以上景点参观需求，欢迎联系我们告知！
 
 <div class="d-flex gap-3 flex-wrap mt-2">
   <!-- 立即预订按钮（跳转至 Stripe 页面）-->
-  <a href="https://book.stripe.com/fZufZibip74WbEqcCa4c809" target="_blank" rel="noopener noreferrer" class="btn btn-lg text-white" style="background-color: #6f42c1; border-radius: 0.75rem;">
+  <a href="https://tally.so/r/wayz8W" target="_blank" rel="noopener noreferrer" class="btn btn-lg text-white" style="background-color: #6f42c1; border-radius: 0.75rem;">
     立即预订
   </a>
 
@@ -132,7 +132,7 @@ images:
 
 <div class="d-flex gap-3 flex-wrap mt-2">
   <!-- 立即预订按钮（跳转至 Stripe 页面）-->
-  <a href="https://book.stripe.com/fZufZibip74WbEqcCa4c809" target="_blank" rel="noopener noreferrer" class="btn btn-lg text-white" style="background-color: #6f42c1; border-radius: 0.75rem;">
+  <a href="https://tally.so/r/wayz8W" target="_blank" rel="noopener noreferrer" class="btn btn-lg text-white" style="background-color: #6f42c1; border-radius: 0.75rem;">
     立即预订
   </a>
 
