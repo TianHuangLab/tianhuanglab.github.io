@@ -93,19 +93,19 @@ images:
 | 团期 | 人数 | 价格 |
 | --- | --- | --- |
 | 全年每周六、周日出发（需提前预约） | 1-2人 | 请联系我们拼团 |
-| （同上） | 3-8人 | 109欧元/人 |
+| （同上） | 3-8人 | 110欧元/人起 |
 | （同上） | 9人及以上 | 价格优惠，请咨询我们 |
 
 
 **标准说明**
 
 - 本线路每周六、周日发团，全年可约，3人起成团，请提前至少3天预订。若您为1至2人或需选择其他出发日期，欢迎联系我们拼团！
-- 3-8人出行，每人109欧元；9人及以上可享专属优惠，欢迎联系我们定制报价！
+- 3-8人出行，每人110欧元起；9人及以上可享专属优惠，欢迎联系我们定制报价！
 - 本行程包含往返马赛老港、伊夫岛和弗留利群岛的渡轮船票！
 
 <div class="d-flex gap-3 flex-wrap mt-2">
   <!-- 立即预订按钮（跳转至 Stripe 页面）-->
-  <a href="https://book.stripe.com/8wMcOn9tx6th1a07sy" target="_blank" rel="noopener noreferrer" class="btn btn-lg text-white" style="background-color: #6f42c1; border-radius: 0.75rem;">
+  <a href="https://tally.so/r/wayz8W" target="_blank" rel="noopener noreferrer" class="btn btn-lg text-white" style="background-color: #6f42c1; border-radius: 0.75rem;">
     立即预订
   </a>
 
@@ -169,7 +169,7 @@ images:
 
 <div class="d-flex gap-3 flex-wrap mt-2">
   <!-- 立即预订按钮（跳转至 Stripe 页面）-->
-  <a href="https://book.stripe.com/8wMcOn9tx6th1a07sy" target="_blank" rel="noopener noreferrer" class="btn btn-lg text-white" style="background-color: #6f42c1; border-radius: 0.75rem;">
+  <a href="https://tally.so/r/wayz8W" target="_blank" rel="noopener noreferrer" class="btn btn-lg text-white" style="background-color: #6f42c1; border-radius: 0.75rem;">
     立即预订
   </a>
 
