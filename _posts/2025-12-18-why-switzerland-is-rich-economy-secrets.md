@@ -18,7 +18,7 @@ toc:
 
 大多数人对瑞士的印象大概差不多：**干净整洁的城市、高度发达的基础设施和壮美的自然景观**。但实际上，瑞士的厉害远不止这些。作为一个高度服务型的自由市场经济国家，瑞士人低调，但财富和生活质量都让全世界羡慕。今天，我想用轻松的方式，和大家聊聊瑞士是如何在历史、经济和社会制度的多重作用下，成为世界最富裕国家之一的，同时分享一些瑞士生活的小故事和观察。
 
-> 关于我：现常驻南法，几年前从巴黎搬到了这里，在地中海的阳光下开启了全新的生活篇章。走过十几个国家，足迹遍布三大洲，但无论走多远，旅行始终是我灵魂的栖息地，爱在山间徒步、海边吹风，冬天则滑雪畅玩。超懂**法国**——如果你被这篇**尼斯美食餐厅推荐不完全指南**吸引，不妨顺便参考我的其他**法国旅游攻略（含[巴黎](https://aolitravel.com/paris/)、[南法](https://aolitravel.com/south-of-france/)、[法国全集](https://aolitravel.com/france-travel/)、[精选路线](https://aolitravel.com/tours/)）**，帮你把欧洲之旅延伸得更精彩、更顺畅。从南法阳光海岸到北部历史名城，我把旅行路线、景点和实用经验都整理好了，让你的旅程轻松不踩雷！
+> 关于我：现常驻南法，几年前从巴黎搬到了这里，在地中海的阳光下开启了全新的生活篇章。走过十几个国家，足迹遍布三大洲，但无论走多远，旅行始终是我灵魂的栖息地，爱在山间徒步、海边吹风，冬天则滑雪畅玩。超懂**法国**——如果你被这篇**为什么瑞士这么富裕？** 吸引，不妨顺便参考我的其他欧洲旅游攻略，比如我的 **法国旅游攻略（含[巴黎](https://aolitravel.com/paris/)、[南法](https://aolitravel.com/south-of-france/)、[法国全集](https://aolitravel.com/france-travel/)、[精选路线](https://aolitravel.com/tours/)）**，帮你把欧洲之旅延伸得更精彩、更顺畅。从南法阳光海岸到北部历史名城，我把旅行路线、景点和实用经验都整理好了，让你的旅程轻松不踩雷！
 >
 
 {% include figure.liquid loading="eager" path="assets/img/102why-swiss-is-rich/switzerland-economy-1.webp" title="为什么瑞士经济富裕-why-switzerland-is-rich" class="img-fluid rounded z-depth-1" alt="为什么瑞士经济富裕-why-switzerland-is-rich"%}
