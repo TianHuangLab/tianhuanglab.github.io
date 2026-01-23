@@ -2,7 +2,7 @@
 layout: page
 title: 南法｜艾克斯-普罗旺斯历史与旅游全攻略
 description: 由罗马温泉孕育、以大学与艺术闻名的南法名城
-img: assets/img/113aix-en-provence/aix-en-provence-0.webp
+img: assets/img/113aix-en-provence/aix-en-provence-b.webp
 importance: 11
 category: 普罗旺斯
 related_publications: false
@@ -16,7 +16,7 @@ published: true
 
 {% include figure.liquid loading="eager" path="assets/img/113aix-en-provence/aix-en-provence-0.webp" title="艾克斯普罗旺斯历史与旅行指南-aix-en-provence-history-travel-guide" class="img-fluid rounded z-depth-1"  alt="艾克斯普罗旺斯历史与旅行指南-aix-en-provence-history-travel-guide"%}
 
-如果你从没听说过 **艾克斯·普罗旺斯（Aix-en-Provence）**这个城市名字，那不怪你😂，因为它的确是一座相对比较小众的南法旅游城市；但如果你以前听说过这座城市的名字，那么当再次提起的时候，你可能大概率会联想到三样东西：
+如果你从没听说过 **艾克斯·普罗旺斯（Aix-en-Provence）** 这个城市名字，那不怪你😂，因为它的确是一座相对比较小众的南法旅游城市；但如果你以前听说过这座城市的名字，那么当再次提起的时候，你可能大概率会联想到三样东西：
 
 塞尚、阳光、喷泉。
 
@@ -32,6 +32,9 @@ published: true
 为了方便你规划自己的行程，我把这座城市的地图链接放在这里，欢迎点击查看[艾克斯·普罗旺斯旅游地图](https://www.calameo.com/aixenprovencetourism/read/0052814974a7e1ca69b50)
 
 如果你想了解更多南法旅游内容，欢迎移步我的[南法旅游攻略](https://aolitravel.com/south-of-france/)。
+
+{% include figure.liquid loading="eager" path="assets/img/113aix-en-provence/aix-en-provence-0b.webp" title="艾克斯普罗旺斯历史与旅行指南-aix-en-provence-history-travel-guide" class="img-fluid rounded z-depth-1"  alt="艾克斯普罗旺斯历史与旅行指南-aix-en-provence-history-travel-guide"%}
+
 
 ---
 
@@ -104,7 +107,7 @@ published: true
 如果你今天在市中心看到“Thermes”“Eaux”“Fontaine”这些词，请记住：
 
 **艾克斯从第一天起，就是一座温泉之城。**
-{% include figure.liquid loading="eager" path="assets/img/113aix-en-provence/aix-en-provence-3.webp" title="艾克斯普罗旺斯历史与旅行指南-aix-en-provence-history-travel-guide" class="img-fluid rounded z-depth-1"  alt="艾克斯普罗旺斯历史与旅行指南-aix-en-provence-history-travel-guide"%}
+{% include figure.liquid loading="eager" path="assets/img/113aix-en-provence/aix-en-provence-0b.webp" title="艾克斯普罗旺斯历史与旅行指南-aix-en-provence-history-travel-guide" class="img-fluid rounded z-depth-1"  alt="艾克斯普罗旺斯历史与旅行指南-aix-en-provence-history-travel-guide"%}
 
 
 ---
@@ -236,7 +239,7 @@ published: true
 但也正是这种“被忽略”，
 
 **让艾克斯逃过了工业化的粗暴改造。**
-{% include figure.liquid loading="eager" path="assets/img/113aix-en-provence/aix-en-provence-14.webp" title="艾克斯普罗旺斯历史与旅行指南-aix-en-provence-history-travel-guide" class="img-fluid rounded z-depth-1"  alt="艾克斯普罗旺斯历史与旅行指南-aix-en-provence-history-travel-guide"%}
+{% include figure.liquid loading="eager" path="assets/img/113aix-en-provence/aix-en-provence-a.webp" title="艾克斯普罗旺斯历史与旅行指南-aix-en-provence-history-travel-guide" class="img-fluid rounded z-depth-1"  alt="艾克斯普罗旺斯历史与旅行指南-aix-en-provence-history-travel-guide"%}
 
 
 ---
@@ -307,7 +310,7 @@ published: true
 > 出发前，总少不了做点功课，对吧？为了让你的行程更轻松，我整理了三大实用资源：👉1.[**精选路线**](https://aolitravel.com/tours/)：汇集我们自己运营、靠谱的巴黎和南法游览路线，让你玩得尽兴又不踩雷。 👉2.[**旅行工具**](https://aolitravel.com/travel-prep/)：酒店、机票、车票、租车或包车预订，以及各种旅行资源，一站搞定行程安排。 👉3.[**旅行商城**](https://aolitravel.com/store/)：我们陆续上新精选旅行好物，从出行装备到当地特色小物，让旅程更舒适、更有趣。用上这些推荐，你再也不用东奔西找，既省时又省心。想让你的欧洲或瑞士之旅顺利又精彩？从这里开始，就对了！
 >
 
-{% include figure.liquid loading="eager" path="assets/img/113aix-en-provence/aix-en-provence-13.webp" title="艾克斯普罗旺斯历史与旅行指南-aix-en-provence-history-travel-guide" class="img-fluid rounded z-depth-1"  alt="艾克斯普罗旺斯历史与旅行指南-aix-en-provence-history-travel-guide"%}
+{% include figure.liquid loading="eager" path="assets/img/113aix-en-provence/aix-en-provence-b.webp" title="艾克斯普罗旺斯历史与旅行指南-aix-en-provence-history-travel-guide" class="img-fluid rounded z-depth-1"  alt="艾克斯普罗旺斯历史与旅行指南-aix-en-provence-history-travel-guide"%}
 
 ---
 
