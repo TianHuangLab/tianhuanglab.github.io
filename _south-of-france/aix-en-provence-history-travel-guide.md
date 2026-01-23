@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 南法｜艾克斯-普罗旺斯历史与旅游全攻略
-description: 由罗马温泉孕育、以大学与艺术闻名的南法名城
+description: 一座由罗马温泉孕育、因大学与艺术焕发生机的南法历史名城
 img: assets/img/113aix-en-provence/aix-en-provence-b.webp
 importance: 11
 category: 普罗旺斯
@@ -32,8 +32,6 @@ published: true
 为了方便你规划自己的行程，我把这座城市的地图链接放在这里，欢迎点击查看[艾克斯·普罗旺斯旅游地图](https://www.calameo.com/aixenprovencetourism/read/0052814974a7e1ca69b50)
 
 如果你想了解更多南法旅游内容，欢迎移步我的[南法旅游攻略](https://aolitravel.com/south-of-france/)。
-
-{% include figure.liquid loading="eager" path="assets/img/113aix-en-provence/aix-en-provence-0b.webp" title="艾克斯普罗旺斯历史与旅行指南-aix-en-provence-history-travel-guide" class="img-fluid rounded z-depth-1"  alt="艾克斯普罗旺斯历史与旅行指南-aix-en-provence-history-travel-guide"%}
 
 
 ---
