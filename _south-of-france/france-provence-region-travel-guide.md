@@ -35,7 +35,7 @@ published: true
 
 ---
 
-## 02｜普罗旺斯怎么玩？路线规划与整体思路
+## 1｜普罗旺斯怎么玩？路线规划与整体思路
 
 其实，普罗旺斯不仅是旅行目的地，而且非常适合做“组合式旅行”。城市之间距离合理，交通选择多样，不需要每天更换住宿，也不必高度依赖自驾。这一点，对第一次来欧洲的旅行者尤其友好。
 
@@ -63,7 +63,7 @@ published: true
 
 ---
 
-## 03｜普罗旺斯必去城市全攻略
+## 2｜普罗旺斯必去城市全攻略
 
 ### 马赛：普罗旺斯的入口与现实感
 
@@ -118,7 +118,7 @@ published: true
 
 如果你想在南法找到一座**最能让人理解中世纪欧洲是什么样子**的城市，阿维尼翁几乎是绕不开的一站。
 
-[阿维尼翁旅行攻略 | 解锁教皇城🏰Top15景点！](https://aolitravel.com/south-of-france/visit-avignon-city-guide-top-15-things-to-do/)
+[阿维尼翁旅行攻略｜解锁教皇城Top15景点！](https://aolitravel.com/south-of-france/visit-avignon-city-guide-top-15-things-to-do/)
 
 [旅行小记｜再游阿维尼翁教皇宫：穿越信仰与权力的中世纪权力迷宫](https://aolitravel.com/blog/2025/avignon-palais-des-papes-guide/)
 {% include figure.liquid loading="eager" path="assets/img/114provence/provence-3d.webp" title="普罗旺斯攻略全集france-provence-region-travel-guide" class="img-fluid rounded z-depth-1" alt="普罗旺斯攻略全集france-provence-region-travel-guide"%}
@@ -184,7 +184,7 @@ published: true
 
 ---
 
-## 04｜普罗旺斯小镇与自然景观玩法
+## 3｜普罗旺斯小镇与自然景观玩法
 
 如果你把普罗旺斯只当成城市游，那你其实只看到了它的一半。离开城市以后，普罗旺斯会突然变得更像“电影里的南法”：仿佛光线更柔，空气更干净，连风都有了味道。
 
@@ -213,7 +213,7 @@ published: true
 
 ---
 
-## 05｜普罗旺斯薰衣草季完整解读
+## 4｜普罗旺斯薰衣草季完整解读
 
 普罗旺斯的薰衣草是一种“季节限定的自然盛宴”！
 
@@ -243,7 +243,7 @@ published: true
 
 ---
 
-## 06｜普罗旺斯交通与抵达方式
+## 5｜普罗旺斯交通与抵达方式
 
 说到普罗旺斯的交通，其实最关键的一点是：**你要先想清楚“从哪里进来”，再决定怎么走。**
 
@@ -281,7 +281,7 @@ published: true
 
 ---
 
-## 07｜普罗旺斯常见问题 FAQ
+## 6｜普罗旺斯常见问题 FAQ
 
 ### 1. 第一次去普罗旺斯，选哪座城市最合适？
 
@@ -299,7 +299,7 @@ published: true
 
 城市之间的火车、城际巴士网络还算完善，常见的热门城市之间交通都能衔接上。
 
-至于小镇和一些自然景点，如果你不自驾，可以选择一日游、拼车或者包车。这样既省事，也不会因为交通而把行程变得很累。
+至于城市外的普罗旺斯自然人文景观，比如去看薰衣草和圣十字湖，亦或者是去普罗旺斯石头城等，公共交通不太推荐。如果你不自驾，可以选择一日游、拼车或者包车。这样既省事，也不会因为交通而把行程变得很累。
 
 更多在南法的一日游、多日游及包车方案，欢迎查看我们的：
 
@@ -311,9 +311,9 @@ published: true
 
 ### 3. 什么时候去最舒服？
 
-如果你想“天气最舒服、行程最不费劲”，**五月、六月和九月**通常是最合适的时间。
+实际上，从3月中下旬开始到11月中旬，我认为都是适合在普罗旺斯地区旅行的时间，因为不同的季节有不同的景观和人文风情！
 
-这段时间温度适中、阳光也足够，但又不会像七八月那样热得让人想一直躲在室内。
+但如果你想“天气最舒服、行程最不费劲”，**五月、六月和九月**通常是我认为最合适的时间。这段时间温度适中、阳光也足够，但又不会像七八月那样热得让人想一直躲在室内。
 
 当然，如果你是冲薰衣草来的，那 **六月到七月**就是最关键的窗口期，只是这段时间人会非常多，计划要提前一点，也欢迎**联系我**提前安排你的行程！
 
@@ -350,10 +350,15 @@ published: true
 以下是从马赛出发的一日游精选路线推荐：
 
 [经典之选｜南法马赛与卡西斯海滨小镇一日游](https://aolitravel.com/tours/marseille-cassis-one-day-tour/)
+
 [经典之选｜南法普罗旺斯薰衣草漫步与圣十字湖一日游](https://aolitravel.com/tours/france-lavender-lac-saint-croix-one-day-tour/)
+
 [经典之选｜南法普罗旺斯浪漫风情小镇全景一日游](https://aolitravel.com/tours/provence-fontaine-vaucluse-gordes-roussillon-one-day-tour/)
+
 [经典之选｜南法普罗旺斯艺术与古迹之旅一日游](https://aolitravel.com/tours/provence-avignon-arles-arts-culture-one-day-tour.md/)
+
 [深度体验｜火烈鸟公园、梦幻粉色盐湖与艾格莫尔古城一日游](https://aolitravel.com/tours/south-france-flamingos-pink-lake-aigues-mortes-day-tour/)
+
 
 ---
 
@@ -384,7 +389,7 @@ published: true
 - 马赛鱼汤（Bouillabaisse）
 - 橄榄油、普罗旺斯香草等当地特色调味
     
-    你可以在马赛、阿维尼翁、艾克斯等城市的餐厅里体验到最地道的版本。
+你可以在马赛、阿维尼翁、艾克斯等城市的餐厅里体验到最地道的版本。
     
 
 我这里写过几篇在普罗旺斯地区的美食分享攻略，欢迎查看：
