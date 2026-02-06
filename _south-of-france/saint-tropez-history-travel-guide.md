@@ -135,10 +135,10 @@ A：强烈建议。这里保留了中世纪风貌，是理解圣特罗佩历史�
 
 **Q5：圣特罗佩的奢侈品店在哪里？**
 
-A：在圣特罗佩逛奢侈品店最方便的地方就是老城中心和港口周边，尤其是Rue François Sibilli、Rue Gambetta、Rue Georges Clemenceau这几条街，你几步路就能找到Louis Vuitton、Hermès、Chanel、Dior、Gucci等全球顶级品牌，夏天还有不少临时 Pop‑Up 店，边逛还能边享受地中海风情，非常适合奢侈品购物一日游。
+A：在圣特罗佩逛奢侈品店最方便的地方就是老城中心和港口周边，尤其是Rue François Sibilli、Rue Gambetta、Rue Georges Clemenceau这几条街，你几步路就能找到Louis Vuitton、Hermès、Chanel、Dior、Gucci等全球顶级品牌，夏天还有不少临时 Pop‑Up 店，边逛还能边享受地中海风情，非常适合奢侈品购物一日游。另外，购物之后，记得向店里工作人员咨询退税哦！
 
 
-{% include figure.liquid loading="eager" path="https://iconicriviera.com/wp-content/uploads/2020/07/st-tropez-travel-art-museum-1.jpg" title="圣特罗佩旅游攻略saint-tropez-history-travel-guide" class="img-fluid rounded z-depth-1"  alt="圣特罗佩旅游攻略saint-tropez-history-travel-guide"%}
+{% include figure.liquid loading="eager" path="assets/img/115saint-tropez/saint-tropez-9.webp" title="圣特罗佩旅游攻略saint-tropez-history-travel-guide" class="img-fluid rounded z-depth-1"  alt="圣特罗佩旅游攻略saint-tropez-history-travel-guide"%}
 
 ---
 
