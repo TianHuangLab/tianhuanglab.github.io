@@ -35,7 +35,7 @@ published: true
 ### 圣特罗佩为什么会出现在这个小湾里？
 
 先说位置。圣特罗佩坐落在**圣特罗佩湾（Golfe de Saint-Tropez）南侧**，它不在尼斯，也不在马赛，反而藏在两者之间一个很隐蔽的天然港湾里。
-{% include figure.liquid loading="eager" path="assets/img/115saint-tropez/saint-tropez-0b.webp" title="圣特罗佩旅游攻略saint-tropez-history-travel-guide" class="img-fluid rounded z-depth-1"  alt="圣特罗佩旅游攻略saint-tropez-history-travel-guide"%}
+{% include figure.liquid loading="eager" path="assets/img/115saint-tropez/saint-tropez-0b.png" title="圣特罗佩旅游攻略saint-tropez-history-travel-guide" class="img-fluid rounded z-depth-1"  alt="圣特罗佩旅游攻略saint-tropez-history-travel-guide"%}
 
 
 对古代航海者来说，这里简直是救命港——风暴来了，船只一拐进湾里，基本安全了。但安全港湾也有风险，水下暗礁复杂、船只密集容易碰撞沉没。换句话说，从一开始，圣特罗佩就是个**既安全又危险的港口**，命运总爱开这种双重玩笑。
@@ -126,10 +126,19 @@ A：传说夸大了圣托尔佩漂流的神迹，但罗马沉船、弗雷瑞斯�
 
 A：不必。夏天热闹，春秋气温更舒适，更适合拍照、看历史遗迹，也能避开人群，慢慢品味小镇。
 
+{% include figure.liquid loading="eager" path="assets/img/115saint-tropez/saint-tropez-7.webp" title="圣特罗佩旅游攻略saint-tropez-history-travel-guide" class="img-fluid rounded z-depth-1"  alt="圣特罗佩旅游攻略saint-tropez-history-travel-guide"%}
+
+
 **Q4：加桑值得专门去吗？**
 
 A：强烈建议。这里保留了中世纪风貌，是理解圣特罗佩历史不可或缺的一部分。
-{% include figure.liquid loading="eager" path="assets/img/115saint-tropez/saint-tropez-7.webp" title="圣特罗佩旅游攻略saint-tropez-history-travel-guide" class="img-fluid rounded z-depth-1"  alt="圣特罗佩旅游攻略saint-tropez-history-travel-guide"%}
+
+**Q5：圣特罗佩的奢侈品店在哪里？**
+
+A：在圣特罗佩逛奢侈品店最方便的地方就是老城中心和港口周边，尤其是Rue François Sibilli、Rue Gambetta、Rue Georges Clemenceau这几条街，你几步路就能找到Louis Vuitton、Hermès、Chanel、Dior、Gucci等全球顶级品牌，夏天还有不少临时 Pop‑Up 店，边逛还能边享受地中海风情，非常适合奢侈品购物一日游。
+
+
+{% include figure.liquid loading="eager" path="https://iconicriviera.com/wp-content/uploads/2020/07/st-tropez-travel-art-museum-1.jpg" title="圣特罗佩旅游攻略saint-tropez-history-travel-guide" class="img-fluid rounded z-depth-1"  alt="圣特罗佩旅游攻略saint-tropez-history-travel-guide"%}
 
 ---
 
