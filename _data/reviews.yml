@@ -1,49 +1,31 @@
-- name: 小李
+# _data/reviews.yml
+# 每条评论必须是列表项 (-)
+# id: 唯一标识符
+# name: 评论人姓名
+# avatar: 存放在 /assets/img/reviews/ 下
+# comment: 评论内容
+# date: 评论日期，格式 YYYY-MM-DD
+
+- id: "review1"
+  name: 张三
   avatar: /assets/img/0customer-review/1.jpg
-  comment: 南法行程安排得太棒了，特别是普罗旺斯小镇，风景如画！
-  date: 2025-06-15
+  comment: 南法行程安排得非常棒，风景和美食都让人惊喜！
+  date: "2025-06-01"
 
-- name: Anna
-  avatar: /assets/img/0customer-review/2.jpg
-  comment: 尼斯和马赛的住宿推荐非常实用，让我们的自驾游轻松又愉快。
-  date: 2025-07-02
+- id: "review2"
+  name: 李四
+  avatar: /assets/img/0customer-review/1.jpg
+  comment: 非常喜欢普罗旺斯的薰衣草花田，导游也很专业。
+  date: "2025-06-05"
 
-- name: 王先生
-  avatar: /assets/img/0customer-review/3.jpg
-  comment: 专业向导安排的葡萄酒庄体验很赞，孩子们也很开心。
-  date: 2025-07-10
+- id: "review3"
+  name: 王五
+  avatar: /assets/img/0customer-review/1.jpg
+  comment: 南法小镇的氛围太美了，强烈推荐！
+  date: "2025-06-10"
 
-- name: Claire
-  avatar: /assets/img/0customer-review/4.jpg
-  comment: 蔚蓝海岸的路线设计很顺，摄影点安排得非常好！
-  date: 2025-07-18
-
-  - name: Claire
-  avatar: /assets/img/0customer-review/5.jpg
-  comment: 蔚蓝海岸的路线设计很顺，摄影点安排得非常好！
-  date: 2025-07-19
-
-  - name: Claire
-  avatar: /assets/img/0customer-review/6.jpg
-  comment: 蔚蓝海岸的路线设计很顺，摄影点安排得非常好！
-  date: 2025-07-20
-
-  - name: Claire
-  avatar: /assets/img/0customer-review/7.jpg
-  comment: 蔚蓝海岸的路线设计很顺，摄影点安排得非常好！
-  date: 2025-07-21
-
-  - name: Claire
-  avatar: /assets/img/0customer-review/8.jpg
-  comment: 蔚蓝海岸的路线设计很顺，摄影点安排得非常好！
-  date: 2025-07-22
-
-  - name: Claire
-  avatar: /assets/img/0customer-review/9.jpg
-  comment: 蔚蓝海岸的路线设计很顺，摄影点安排得非常好！
-  date: 2025-07-23
-
-  - name: Claire
-  avatar: /assets/img/0customer-review/10.jpg
-  comment: 蔚蓝海岸的路线设计很顺，摄影点安排得非常好！
-  date: 2025-07-18
+- id: "review4"
+  name: 赵六
+  avatar: /assets/img/0customer-review/1.jpg
+  comment: 美食和酒庄体验都很棒，完全超出预期。
+  date: "2025-06-12"
