@@ -7,25 +7,25 @@
 # date: 评论日期，格式 YYYY-MM-DD
 
 - id: "review1"
-  name: 张三
+  name: 曲奇🍪
   avatar: /assets/img/0customer-review/1.jpg
-  comment: 南法行程安排得非常棒，风景和美食都让人惊喜！
+  comment: 和黄导一起南法行程安排得非常棒，风景和美食都让人惊喜！
   date: "2025-06-01"
 
 - id: "review2"
-  name: 李四
-  avatar: /assets/img/0customer-review/1.jpg
+  name: 爱玲
+  avatar: /assets/img/0customer-review/2.jpg
   comment: 非常喜欢普罗旺斯的薰衣草花田，导游也很专业。
   date: "2025-06-05"
 
 - id: "review3"
-  name: 王五
-  avatar: /assets/img/0customer-review/1.jpg
+  name: jisfs
+  avatar: /assets/img/0customer-review/3.jpg
   comment: 南法小镇的氛围太美了，强烈推荐！
   date: "2025-06-10"
 
 - id: "review4"
-  name: 赵六
-  avatar: /assets/img/0customer-review/1.jpg
+  name: adnses
+  avatar: /assets/img/0customer-review/4.jpg
   comment: 美食和酒庄体验都很棒，完全超出预期。
   date: "2025-06-12"
