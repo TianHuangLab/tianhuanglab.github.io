@@ -288,7 +288,7 @@ pretty_table: true
 
 [最实用的巴黎公共交通指南｜一文看懂怎么选！](https://aolitravel.com/paris/paris-public-transportation/)
 
-[巴黎埃菲尔铁塔完整指南|购票拍照、登塔全攻略](https://aolitravel.com/paris/eiffel-tower-paris-guide/)
+[巴黎埃菲尔铁塔完整指南｜购票拍照、登塔全攻略](https://aolitravel.com/paris/eiffel-tower-paris-guide/)
 
 [巴黎圣母院游记攻略｜历史建筑与周边旅行指南](https://aolitravel.com/paris/notre-dame-paris-guide/)
 
