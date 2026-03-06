@@ -17,13 +17,13 @@ latest_posts:
   limit: 3
 ---
 
-嗨！我是奥利飞飞，一个热爱探索的旅游达人，目前生活在法国南部的马赛&尼斯地区。
+嗨！我是奥利飞飞，一个热爱探索的旅游达人，目前生活在法国南部（马赛&尼斯）。
 
 几年前，我们从巴黎搬到了这里，在地中海温暖的阳光与海风中开启了全新的生活篇章。对我来说，旅行是一种生活方式，我最享受与家人朋友一起背上行囊去探索世界：无论是山间徒步、海边漫步，还是冬天在雪山滑雪，每一种体验都充满自由与乐趣。十多年来，我走过三大洲，深度游历了亚欧非几十个国家。但走得越多，越发现自己对法国情有独钟，而南法的风土人情更是我最为着迷的一部分。
 
 因此，我和我的伙伴们一起创立了 **「奥利旅行」**。我们是一支立足南法、服务覆盖整个法国，并辐射瑞士、意大利和西班牙等周边国家的地接团队，专注于提供高品质、个性化的法国深度游与定制旅行（**邮轮岸上观光、包车游、跟团游、城市接送、商务与会展安排以及独家路线定制等**），致力于让每一段旅程都轻松、安心且难忘！多年来，我们已逐步发展为普罗旺斯地区最为活跃且成熟的华人地接团队，拥有稳定的本地团队和丰富的南法资源。
 
-至于为什么选择扎根法国？因为这里的人文与自然让我一次次为之惊叹，从巴黎浪漫的街巷到普罗旺斯的薰衣草田，从诺曼底壮丽的海岸到阿尔萨斯的童话村庄，从阿尔卑斯的雪峰到蔚蓝海岸的旖旎风光，再加上享誉世界的法国美食，几乎每个角落都值得细细品味！我也希望通过分享自己的旅行见闻和经验，为大家写出最实用、最真实的法国旅行攻略：带你了解当地文化、吃遍地道美食、发现隐藏美景，让你的法国之旅不仅省时省力，而且更深入，也更难忘！
+至于为什么选择扎根法国？是因为这里的人文与自然让我一次次为之惊叹，从巴黎浪漫的街巷到普罗旺斯的薰衣草田，从诺曼底壮丽的海岸到阿尔萨斯的童话村庄，从阿尔卑斯的雪峰到蔚蓝海岸的旖旎风光，再加上享誉世界的法国美食，几乎每个角落都值得细细品味！我也希望通过分享自己的旅行见闻和经验，为大家写出最实用、最真实的法国旅行攻略：带你了解当地文化、吃遍地道美食、发现隐藏美景，让你的法国之旅不仅省时省力，而且更深入，也更难忘！
 
 期待在法国🇫🇷与你相遇，一起玩转这个美丽的国度！ 
 
@@ -95,159 +95,226 @@ latest_posts:
 
 ---
 
-## 客户信任墙
-
 <div class="client-wall">
-  <h2 class="wall-title">他们选择了奥利旅行</h2>
-  <p class="wall-subtitle">来自世界各地游客朋友的真实旅行体验</p>
 
-  <div class="client-grid">
-    {% for client in site.data.reviews %}
-    <div class="client-item">
-      <img src="{{ client.avatar }}" alt="{{ client.name }}">
-      <div class="client-popup">
-        <div class="client-name">{{ client.name }}</div>
-        <div class="client-meta">{{ client.date }} · {{ client.route }}</div>
-        <div class="client-stars">
-          {% for i in (1..client.rating) %}★{% endfor %}
-        </div>
-        <div class="client-review">{{ client.review }}</div>
-      </div>
-    </div>
-    {% endfor %}
-  </div>
+<h2 class="wall-title">
+已经有来自世界各地的朋友，把他们的旅程托付给奥利旅行
+</h2>
+
+<p class="wall-subtitle">
+1000+ 位游客 · 100+ 邮轮团队 · 4.9/5 ⭐ 平均评分
+</p>
+
+<div class="client-grid">
+
+{% for client in site.data.reviews %}
+<div class="client-item">
+
+<img src="{{ client.avatar }}" alt="{{ client.name }}">
+
+<div class="client-popup">
+<div class="client-name">{{ client.name }}</div>
+<div class="client-meta">{{ client.date }} · {{ client.route }}</div>
+
+<div class="client-stars">
+{% for i in (1..client.rating) %}★{% endfor %}
+</div>
+
+<div class="client-review">
+{{ client.review }}
+</div>
+</div>
+
+</div>
+{% endfor %}
+
+<!-- 更多头像 -->
+<div class="client-item more-clients">
+
+<div class="more-avatar">...</div>
+
+<div class="client-popup">
+更多游客故事仍在不断增加中，<br>
+期待与你相遇共同书写我们的章节！
+</div>
+
+</div>
+
+</div>
 </div>
 
 <style>
+
 .client-wall{
-  max-width:1200px;
-  margin:40px auto;
-  text-align:center;
+max-width:1100px;
+margin:50px auto;
+text-align:center;
 }
+
 .wall-title{
-  font-size:32px;
-  font-weight:600;
-  margin-bottom:10px;
+font-size:30px;
+font-weight:600;
+margin-bottom:8px;
 }
+
 .wall-subtitle{
-  color:#777;
-  margin-bottom:30px;
+color:#777;
+font-size:15px;
+margin-bottom:25px;
 }
+
 .client-grid{
-  display:flex;
-  overflow-x:auto;
-  scroll-behavior: smooth;
-  gap:12px;
-  padding:10px 0;
+display:grid;
+grid-template-rows:repeat(2, auto);
+grid-auto-flow:column;
+gap:14px;
+overflow-x:auto;
+padding:10px 0;
+scroll-behavior:smooth;
 }
+
 .client-item{
-  position: relative;
-  flex: 0 0 auto;
-  width:60px;
-  height:60px;
-  border-radius:50%;
-  overflow:hidden;
-  cursor:pointer;
-  transition: transform 0.3s;
+position:relative;
+width:64px;
+height:64px;
+border-radius:50%;
+flex:0 0 auto;
+cursor:pointer;
+transition:transform .3s;
 }
+
 .client-item img{
-  width:100%;
-  height:100%;
-  object-fit:cover;
-  border-radius:50%;
+width:100%;
+height:100%;
+border-radius:50%;
+object-fit:cover;
+box-shadow:0 6px 16px rgba(0,0,0,0.15);
 }
+
 .client-item:hover{
-  transform:scale(1.2);
-  z-index:10;
+transform:scale(1.18);
+z-index:10;
 }
+
+.more-avatar{
+width:64px;
+height:64px;
+border-radius:50%;
+display:flex;
+align-items:center;
+justify-content:center;
+font-size:26px;
+background:#f3f3f3;
+color:#888;
+font-weight:600;
+}
+
 .client-popup{
-  position:absolute;
-  bottom:120%;
-  left:50%;
-  transform:translateX(-50%);
-  width:220px;
-  background:rgba(255,255,255,0.95);
-  backdrop-filter:blur(8px);
-  border-radius:12px;
-  padding:12px;
-  box-shadow:0 15px 35px rgba(0,0,0,0.18);
-  opacity:0;
-  pointer-events:none;
-  transition:all .3s ease;
-  z-index:20;
-  text-align:left;
-  font-size:13px;
+position:absolute;
+bottom:120%;
+left:50%;
+transform:translateX(-50%);
+width:240px;
+background:rgba(255,255,255,0.95);
+backdrop-filter:blur(8px);
+border-radius:12px;
+padding:14px;
+box-shadow:0 15px 35px rgba(0,0,0,0.18);
+opacity:0;
+pointer-events:none;
+transition:all .25s ease;
+z-index:20;
+text-align:left;
+font-size:13px;
 }
+
 .client-item:hover .client-popup{
-  opacity:1;
-  transform:translate(-50%,-8px);
+opacity:1;
+transform:translate(-50%,-8px);
 }
+
 .client-name{
-  font-weight:600;
-  margin-bottom:4px;
+font-weight:600;
+margin-bottom:4px;
 }
+
 .client-meta{
-  color:#666;
-  margin-bottom:4px;
-  font-size:12px;
+color:#777;
+font-size:12px;
+margin-bottom:4px;
 }
+
 .client-stars{
-  color:#f5a623;
-  margin-bottom:4px;
+color:#f5a623;
+margin-bottom:4px;
 }
+
 .client-review{
-  color:#555;
-  font-size:12px;
+color:#555;
+font-size:12px;
+line-height:1.4;
 }
+
+.client-grid::-webkit-scrollbar{
+display:none;
+}
+
 </style>
 
 <script>
+
 document.addEventListener("DOMContentLoaded", function() {
-  const grid = document.querySelector(".client-grid");
-  let isDown = false;
-  let startX;
-  let scrollLeft;
 
-  grid.addEventListener('mousedown', (e) => {
-    isDown = true;
-    grid.classList.add('active');
-    startX = e.pageX - grid.offsetLeft;
-    scrollLeft = grid.scrollLeft;
-  });
+const grid = document.querySelector(".client-grid");
 
-  grid.addEventListener('mouseleave', () => {
-    isDown = false;
-    grid.classList.remove('active');
-  });
+let isDown = false;
+let startX;
+let scrollLeft;
 
-  grid.addEventListener('mouseup', () => {
-    isDown = false;
-    grid.classList.remove('active');
-  });
-
-  grid.addEventListener('mousemove', (e) => {
-    if(!isDown) return;
-    e.preventDefault();
-    const x = e.pageX - grid.offsetLeft;
-    const walk = (x - startX) * 2; // 滑动速度
-    grid.scrollLeft = scrollLeft - walk;
-  });
-
-  // 支持触摸滑动 (mobile)
-  let startTouchX = 0;
-  let scrollStart = 0;
-
-  grid.addEventListener('touchstart', (e) => {
-    startTouchX = e.touches[0].pageX;
-    scrollStart = grid.scrollLeft;
-  });
-
-  grid.addEventListener('touchmove', (e) => {
-    const x = e.touches[0].pageX;
-    const walk = (x - startTouchX) * 2;
-    grid.scrollLeft = scrollStart - walk;
-  });
+grid.addEventListener('mousedown', (e) => {
+isDown = true;
+startX = e.pageX - grid.offsetLeft;
+scrollLeft = grid.scrollLeft;
 });
+
+grid.addEventListener('mouseleave', () => {
+isDown = false;
+});
+
+grid.addEventListener('mouseup', () => {
+isDown = false;
+});
+
+grid.addEventListener('mousemove', (e) => {
+
+if(!isDown) return;
+
+e.preventDefault();
+
+const x = e.pageX - grid.offsetLeft;
+
+const walk = (x - startX) * 2;
+
+grid.scrollLeft = scrollLeft - walk;
+
+});
+
+let startTouchX = 0;
+let scrollStart = 0;
+
+grid.addEventListener('touchstart', (e) => {
+startTouchX = e.touches[0].pageX;
+scrollStart = grid.scrollLeft;
+});
+
+grid.addEventListener('touchmove', (e) => {
+const x = e.touches[0].pageX;
+const walk = (x - startTouchX) * 2;
+grid.scrollLeft = scrollStart - walk;
+});
+
+});
+
 </script>
 
 ---
