@@ -102,6 +102,7 @@ latest_posts:
 
 ## 客户信任墙
 
+{% raw %}
 <div class="client-wall">
 
 <h2 class="wall-title">他们选择了奥利旅行</h2>
@@ -128,6 +129,7 @@ latest_posts:
 </div>
 
 </div>
+{% endraw %}
 
 <style>
 .client-wall{
@@ -204,7 +206,6 @@ latest_posts:
   color:#555;
 }
 </style>
-
 
 ---
 
