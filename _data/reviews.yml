@@ -9,23 +9,159 @@
 - id: "review1"
   name: 曲奇🍪
   avatar: /assets/img/0customer-review/1.jpg
-  comment: 和黄导一起南法行程安排得非常棒，风景和美食都让人惊喜！
-  date: "2025-06-01"
+  date: 2025年7月
+  route: 马赛邮轮岸上观光 + 普罗旺斯
+  # rating: 5
+  # review: 行程安排非常专业，体验很好。
 
 - id: "review2"
-  name: 爱玲
+  name: 曲奇🍪
   avatar: /assets/img/0customer-review/2.jpg
-  comment: 非常喜欢普罗旺斯的薰衣草花田，导游也很专业。
-  date: "2025-06-05"
+  date: 2025年7月
+  route: 马赛邮轮岸上观光 + 普罗旺斯
+  # rating: 5
+  # review: 行程安排非常专业，体验很好。
 
 - id: "review3"
-  name: jisfs
+  name: 
   avatar: /assets/img/0customer-review/3.jpg
-  comment: 南法小镇的氛围太美了，强烈推荐！
-  date: "2025-06-10"
+  date: 2025年7月
+  route: 马赛邮轮岸上观光 + 普罗旺斯
+  # rating: 5
+  # review: 行程安排非常专业，体验很好。
 
 - id: "review4"
-  name: adnses
+  name: 
   avatar: /assets/img/0customer-review/4.jpg
-  comment: 美食和酒庄体验都很棒，完全超出预期。
-  date: "2025-06-12"
+  date: 2025年7月
+  route: 马赛邮轮岸上观光 + 普罗旺斯
+  # rating: 5
+  # review: 行程安排非常专业，体验很好。
+
+- id: "review5"
+  name: 
+  avatar: /assets/img/0customer-review/5.jpg
+  date: 2025年7月
+  route: 马赛邮轮岸上观光 + 普罗旺斯
+  # rating: 5
+  # review: 行程安排非常专业，体验很好。
+
+- id: "review6"
+  name: 
+  avatar: /assets/img/0customer-review/6.jpg
+  date: 2025年7月
+  route: 马赛邮轮岸上观光 + 普罗旺斯
+  # rating: 5
+  # review: 行程安排非常专业，体验很好。
+
+- id: "review7"
+  name: 
+  avatar: /assets/img/0customer-review/7.jpg
+  date: 2025年7月
+  route: 马赛邮轮岸上观光 + 普罗旺斯
+  # rating: 5
+  # review: 行程安排非常专业，体验很好。
+
+- id: "review8"
+  name: 
+  avatar: /assets/img/0customer-review/8.jpg
+  date: 2025年7月
+  route: 马赛邮轮岸上观光 + 普罗旺斯
+  # rating: 5
+  # review: 行程安排非常专业，体验很好。
+
+- id: "review9"
+  name: 
+  avatar: /assets/img/0customer-review/9.jpg
+  date: 2025年7月
+  route: 马赛邮轮岸上观光 + 普罗旺斯
+  # rating: 5
+  # review: 行程安排非常专业，体验很好。
+
+- id: "review10"
+  name: 
+  avatar: /assets/img/0customer-review/10.jpg
+  date: 2025年7月
+  route: 马赛邮轮岸上观光 + 普罗旺斯
+  # rating: 5
+  # review: 行程安排非常专业，体验很好。
+
+- id: "review11"
+  name: 
+  avatar: /assets/img/0customer-review/11.jpg
+  date: 2025年7月
+  route: 马赛邮轮岸上观光 + 普罗旺斯
+  # rating: 5
+  # review: 行程安排非常专业，体验很好。
+
+- id: "review12"
+  name: 
+  avatar: /assets/img/0customer-review/12.jpg
+  date: 2025年7月
+  route: 马赛邮轮岸上观光 + 普罗旺斯
+  # rating: 5
+  # review: 行程安排非常专业，体验很好。
+
+- id: "review13"
+  name: 
+  avatar: /assets/img/0customer-review/13.jpg
+  date: 2025年7月
+  route: 马赛邮轮岸上观光 + 普罗旺斯
+  # rating: 5
+  # review: 行程安排非常专业，体验很好。
+
+- id: "review14"
+  name: 
+  avatar: /assets/img/0customer-review/14.jpg
+  date: 2025年7月
+  route: 马赛邮轮岸上观光 + 普罗旺斯
+  # rating: 5
+  # review: 行程安排非常专业，体验很好。
+
+- id: "review15"
+  name: 
+  avatar: /assets/img/0customer-review/15.jpg
+  date: 2025年7月
+  route: 马赛邮轮岸上观光 + 普罗旺斯
+  # rating: 5
+  # review: 行程安排非常专业，体验很好。
+
+- id: "review16"
+  name: 
+  avatar: /assets/img/0customer-review/16.jpg
+  date: 2025年7月
+  route: 马赛邮轮岸上观光 + 普罗旺斯
+  # rating: 5
+  # review: 行程安排非常专业，体验很好。
+
+- id: "review17"
+  name: 
+  avatar: /assets/img/0customer-review/17.jpg
+  date: 2025年7月
+  route: 马赛邮轮岸上观光 + 普罗旺斯
+  # rating: 5
+  # review: 行程安排非常专业，体验很好。
+
+- id: "review18"
+  name: 
+  avatar: /assets/img/0customer-review/18.jpg
+  date: 2025年7月
+  route: 马赛邮轮岸上观光 + 普罗旺斯
+  # rating: 5
+  # review: 行程安排非常专业，体验很好。
+
+- id: "review19"
+  name: 
+  avatar: /assets/img/0customer-review/19.jpg
+  date: 2025年7月
+  route: 马赛邮轮岸上观光 + 普罗旺斯
+  # rating: 5
+  # review: 行程安排非常专业，体验很好。
+
+- id: "review20"
+  name: 
+  avatar: /assets/img/0customer-review/20.jpg
+  date: 2025年7月
+  route: 马赛邮轮岸上观光 + 普罗旺斯
+  # rating: 5
+  # review: 行程安排非常专业，体验很好。
