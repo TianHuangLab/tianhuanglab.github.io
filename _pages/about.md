@@ -100,6 +100,114 @@ latest_posts:
 
 ---
 
+## 客户信任墙
+
+<div class="client-wall">
+
+<h2 class="wall-title">他们选择了奥利旅行</h2>
+<p class="wall-subtitle">来自世界各地游客朋友的真实旅行体验</p>
+
+<div class="client-grid">
+
+{% for client in site.data.reviews %}
+  <div class="client-item">
+    <img src="{{ client.avatar }}" alt="{{ client.name }}">
+    <div class="client-popup">
+      <div class="client-name">{{ client.name }}</div>
+      <div class="client-meta">{{ client.date }} · {{ client.route }}</div>
+      <div class="client-stars">
+        {% for i in (1..client.rating) %}
+          ★
+        {% endfor %}
+      </div>
+      <div class="client-review">{{ client.review }}</div>
+    </div>
+  </div>
+{% endfor %}
+
+</div>
+
+</div>
+
+<style>
+.client-wall{
+  margin:80px auto;
+  max-width:1100px;
+  text-align:center;
+}
+.wall-title{
+  font-size:32px;
+  font-weight:600;
+  margin-bottom:10px;
+}
+.wall-subtitle{
+  color:#777;
+  margin-bottom:50px;
+}
+.client-grid{
+  display:grid;
+  grid-template-columns:repeat(auto-fill,minmax(90px,1fr));
+  gap:28px;
+  justify-items:center;
+}
+.client-item{
+  position:relative;
+}
+.client-item img{
+  width:90px;
+  height:90px;
+  border-radius:50%;
+  object-fit:cover;
+  cursor:pointer;
+  transition:all .35s ease;
+  box-shadow:0 8px 20px rgba(0,0,0,0.12);
+}
+.client-item img:hover{
+  transform:translateY(-4px) scale(1.05);
+  box-shadow:0 15px 35px rgba(0,0,0,0.2);
+}
+.client-popup{
+  position:absolute;
+  bottom:120%;
+  left:50%;
+  transform:translateX(-50%);
+  width:260px;
+  padding:16px;
+  background:rgba(255,255,255,0.95);
+  backdrop-filter:blur(10px);
+  border-radius:12px;
+  box-shadow:0 20px 40px rgba(0,0,0,0.18);
+  opacity:0;
+  pointer-events:none;
+  transition:all .3s ease;
+  z-index:10;
+}
+.client-item:hover .client-popup{
+  opacity:1;
+  transform:translate(-50%,-8px);
+}
+.client-name{
+  font-weight:600;
+  margin-bottom:6px;
+}
+.client-meta{
+  font-size:13px;
+  color:#666;
+  margin-bottom:6px;
+}
+.client-stars{
+  color:#f5a623;
+  margin-bottom:6px;
+}
+.client-review{
+  font-size:13px;
+  color:#555;
+}
+</style>
+
+
+---
+
 > 在奥利旅行，每一条路线都是精心策划的欧洲探索体验，让你走进法国的浪漫街头，感受瑞士的纯净山河，品味意大利的艺术气息。而旅行的美好，不止于脚步触及的风景。我们将这些文化灵感延伸到生活中，打造了专属的旅行文创周边——原创设计的 T 恤、特色马克杯，以及即将推出的袜子、卫衣、包袋等好物。无论是穿在身上、摆在桌上，还是作为礼物送给朋友，都能让每一份旅行回忆在日常中延续。
 >
 
