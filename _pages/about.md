@@ -102,7 +102,7 @@ latest_posts:
 </h2>
 
 <p class="wall-subtitle">
-1000+ 位游客 · 100+ 邮轮团队 · 4.9/5 ⭐ 平均评分
+1000+ 位游客 · 10+ 年本地经验 · 4.9 / 5 ⭐ 游客满意度
 </p>
 
 <div class="client-grid">
@@ -228,10 +228,12 @@ text-align:left;
 font-size:13px;
 }
 
+/* 暂时关闭 popup
 .client-item:hover .client-popup{
 opacity:1;
 transform:translate(-50%,-8px);
 }
+*/
 
 .client-name{
 font-weight:600;
