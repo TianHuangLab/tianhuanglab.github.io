@@ -18,13 +18,13 @@ images:
 
 ## ✨行程亮点
 
-**普罗旺斯2天1夜漫游，从地中海海港马赛出发，穿梭古城、山谷与花田，在短短48小时里感受南法阳光、古镇与自然交织的浪漫。**
+**从地中海海港马赛出发，开启你的普罗旺斯2天1夜漫游,我们将带你穿梭普罗旺斯的古城、山谷与花田，在短短48小时里感受南法阳光、古镇与自然交织的浪漫！**
 
 第一天，从马赛老港启程，登上俯瞰城市全景的守护圣母大教堂，感受千年古城的历史厚重。随后驱车前往峡湾边的渔村——卡西斯，漫步蔚蓝海岸，感受海风、阳光与松香交织的南法生活韵味。夜宿马赛，让城市的夜景与港口的灯火为旅程拉开序幕。
 
 第二天，沿途探访阿维尼翁古城，漫步教皇宫与断桥，穿越中世纪文明的低语。随后踏入泉水城与石头城，如画的山村错落在山谷间，充满普罗旺斯独有的乡野气息。最后前往塞南克修道院，聆听宁静山谷中的宗教与自然合奏，将身心彻底沉浸于南法的慢生活。行程可在阿维尼翁或马赛结束，为短途旅行画下完美句点。
 
-### 🌟核心亮点
+🌟**核心亮点**
 
 - **海港与峡湾**｜马赛老港、卡西斯小镇，感受地中海阳光与港口风情
 - **古城巡礼**｜阿维尼翁教皇宫、断桥，穿梭中世纪历史与宗教的回响
@@ -49,17 +49,17 @@ images:
 
 | 团期 | 人数 | 价格 | 行程标准 |
 | --- | --- | --- | --- |
-| 全年每周三、周六、周日可出发（需提前预约） | 1-2人 | 请联系我们拼团 | 一晚四星级酒店（含早餐）、中英法三语司机、导游和翻译服务 |
-| 同上 | 3-8人 | 280欧元/人起 | 同上 |
+| 全年每周三、周六可出发（需提前预约） | 1-2人 | 请联系我们拼团或包车 | 一晚三星级酒店（含早餐）、中英法三语司机、导游和翻译服务 |
+| 同上 | 3-8人 | 290欧元/人起 | 同上 |
 | 同上 | 9人及以上 | 价格优惠，请咨询我们 | 同上 |
 
 
 **标准说明**
 
-- 本线路2人起成团，建议至少提前7天预订。
-- 单人出行？欢迎联系我们拼团。4人及以上同行可享专属优惠，敬请咨询！
-- 9人以上团队出行？可定制专属行程与报价，我们将为您推荐更多精彩路线与专属惊喜。
-- 全程入住高标准四星级酒店（含早餐），午餐与晚餐敬请自理，以便您自由选择当地美食。
+- 本线路于全年每周三、周六可发团，3 人起成团，请至少提前 3 天预订。
+- 若您为 1–3 人或希望选择其他出发日期，欢迎联系我们咨询拼团或私享方案。
+- 4–8 人同行，人均约 290 欧元 / 人起；9 人及以上可享更优惠的专属报价，欢迎联系我们定制行程。
+- 本路线含高标准三星级酒店（含早餐），午餐与晚餐敬请自理，以便您自由选择当地美食。
 - 本行程为深度体验游，费用全含，无隐藏消费，仅个人支出需自理。
 - **特别赠送：阿维尼翁教皇宫门票！**
 
@@ -88,17 +88,18 @@ images:
 ## 行程路线
 
 
+<iframe style="width: 100%; height: 300px; border: 0;" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/zh/map/map_1374740?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true#9/43.658931/4.998779"></iframe><p><a href="//umap.openstreetmap.fr/zh/map/map_1374740?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true#9/43.658931/4.998779">全屏</a></p>
+
+
 ---
 
 ## 行程详情
 
-### **出发点｜马赛老港（Vieux-Port de Marseille）**
+**出发点｜马赛老港（Vieux-Port de Marseille）**
 
 清晨，薄雾轻绕马赛，阳光穿透云层，洒在老港闪烁的水面上。渔船轻轻摇曳，街边咖啡馆飘出浓郁香气，街头艺人的小提琴声悠然回响——就在这一刻，我们的普罗旺斯之旅悄然开启。
 
----
-
-### **第一天｜马赛市区 & 卡西斯小镇**
+**第一天｜马赛市区 & 卡西斯小镇**
 
 **守护圣母大教堂（Basilique Notre-Dame de la Garde）**
 
@@ -114,9 +115,7 @@ images:
 
 夜宿马赛，港口夜景与海风为第一天的旅程落下浪漫帷幕。
 
----
-
-### **第二天｜普罗旺斯山谷 & 阿维尼翁古城**
+**第二天｜普罗旺斯山谷 & 阿维尼翁古城**
 
 **阿维尼翁（Avignon）**
 
@@ -149,38 +148,9 @@ images:
 
 ## 行摄印象
 
-<div class="carousel-container" id="carousel">
-  <!-- 图片将由 JavaScript 动态填充 -->
-</div>
-
-<script>
-  const accessKey = "0Ukx3h0_C18RepNO7qXDQeFSfYQHh7Mr57cNmAN8X-M";
-  const searchQueries = ["marseille", "marseille", "avignon", "gordes", "Fontaine-de-Vaucluse", "avignon"];
-  const carouselContainer = document.getElementById("carousel");
-
-  async function fetchUnsplashImages() {
-    try {
-      for (let query of searchQueries) {
-        let response = await fetch(`https://api.unsplash.com/photos/random?query=${query}&client_id=${accessKey}&orientation=landscape`);
-        let data = await response.json();
-        let img = document.createElement("img");
-        img.src = data.urls.regular; 
-        img.alt = query;
-        img.style.width = "100%";
-        img.style.maxWidth = "450px";
-        img.style.height = "auto";
-        img.style.margin = "0 5px";
-        img.style.borderRadius = "5px";
-        img.style.boxShadow = "0 2px 4px rgba(0, 0, 0, 0.1)";
-        carouselContainer.appendChild(img);
-      }
-    } catch (error) {
-      console.error("Unsplash 图片加载失败", error);
-    }
-  }
-
-  fetchUnsplashImages();
-</script>
+<div class="carousel-container" data-folder="0tours" data-images='[
+  "tours-a.webp", "tours-b.webp", "tours-c.webp", "tours-d.webp", "tours-e.webp", "tours-f.webp"
+]'></div>
 
 
 <script>
@@ -296,7 +266,7 @@ images:
 ## 行程包含
 
 - **精选行程安排：** 行程中标注的所有游览内容，均为精心策划，确保旅程充实而舒适。
-- **高标准四星级酒店（含早餐）：** 全程安排优质四星级酒店住宿，提供每日早餐，舒适安心，助您养精蓄锐。
+- **高标准星级酒店（含早餐）：** 全程安排优质星级酒店住宿，提供每日早餐，舒适安心，助您养精蓄锐。
 - **专属包车 + 中文导游服务：** 全程使用舒适车型，配备经验丰富的司导人员。小费包含在服务内，无隐形费用，真正的贴心服务体验。
 - **儿童友好出行：** 免费提供儿童安全座椅，确保家庭旅客安心出行。
 - **多语言讲解支持：** 可根据您的需求提供**中文、英语、法语**讲解，满足不同客群需求。
