@@ -7,6 +7,7 @@ nav: false
 nav_order: 6
 display_categories: [work, fun, france, 法国]
 horizontal: false
+published: false
 ---
 
 <!-- pages/projects.md -->
