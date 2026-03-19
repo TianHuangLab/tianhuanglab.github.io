@@ -39,15 +39,21 @@ toc:
 
 **它真的把“度假这件事”做到了很高级的舒服～**
 
+<div class="row justify-content-sm-center">
+  <div class="col-sm mt-3 mt-md-0">
 {% include figure.liquid loading="eager" path="assets/img/119saint-tropez-airelles/saint-tropez-airelles-2.webp" title="Airelles Château de la Messardière测评和推荐" class="img-fluid rounded z-depth-1" alt="Airelles Château de la Messardière测评和推荐"%}
+  </div>
+  <div class="col-sm mt-3 mt-md-0">
 {% include figure.liquid loading="eager" path="assets/img/119saint-tropez-airelles/saint-tropez-airelles-2a.webp" title="Airelles Château de la Messardière测评和推荐" class="img-fluid rounded z-depth-1" alt="Airelles Château de la Messardière测评和推荐"%}
+  </div>
+</div>
 
 
 如果你想了解更多关于南法旅游的内容，欢迎查看我的[南法攻略](https://aolitravel.com/south-of-france/)。
 
 ---
 
-## 我为什么会把它推荐给客户？
+## 1. 我为什么会把它推荐给客户？
 
 说实话，我见过太多酒店了。
 
@@ -70,13 +76,21 @@ toc:
 - 以及“只属于南法”的那种生活方式
 
 Airelles，就是少数能做到这一点的。
+
+<div class="row justify-content-sm-center">
+  <div class="col-sm mt-3 mt-md-0">
 {% include figure.liquid loading="eager" path="assets/img/119saint-tropez-airelles/saint-tropez-airelles-3.webp" title="Airelles Château de la Messardière测评和推荐" class="img-fluid rounded z-depth-1" alt="Airelles Château de la Messardière测评和推荐"%}
+  </div>
+  <div class="col-sm mt-3 mt-md-0">
 {% include figure.liquid loading="eager" path="assets/img/119saint-tropez-airelles/saint-tropez-airelles-3a.webp" title="Airelles Château de la Messardière测评和推荐" class="img-fluid rounded z-depth-1" alt="Airelles Château de la Messardière测评和推荐"%}
+  </div>
+</div>
+
 
 
 ---
 
-## 一下车，你就知道钱花在哪了
+## 2. 一下车，你就知道钱花在哪了
 
 {% include figure.liquid loading="eager" path="assets/img/119saint-tropez-airelles/saint-tropez-airelles-3b.webp" title="Airelles Château de la Messardière测评和推荐" class="img-fluid rounded z-depth-1" alt="Airelles Château de la Messardière测评和推荐"%}
 
@@ -96,15 +110,30 @@ Airelles，就是少数能做到这一点的。
 在花园坐一下午，吹风，看光影变化——
 
 就已经很值得。
+
+<div class="row justify-content-sm-center">
+  <div class="col-sm mt-3 mt-md-0">
 {% include figure.liquid loading="eager" path="assets/img/119saint-tropez-airelles/saint-tropez-airelles-4.webp" title="Airelles Château de la Messardière测评和推荐" class="img-fluid rounded z-depth-1" alt="Airelles Château de la Messardière测评和推荐"%}
+  </div>
+  <div class="col-sm mt-3 mt-md-0">
 {% include figure.liquid loading="eager" path="assets/img/119saint-tropez-airelles/saint-tropez-airelles-4a.webp" title="Airelles Château de la Messardière测评和推荐" class="img-fluid rounded z-depth-1" alt="Airelles Château de la Messardière测评和推荐"%}
+  </div>
+</div>
+
+<div class="row justify-content-sm-center">
+  <div class="col-sm mt-3 mt-md-0">
 {% include figure.liquid loading="eager" path="assets/img/119saint-tropez-airelles/saint-tropez-airelles-4b.webp" title="Airelles Château de la Messardière测评和推荐" class="img-fluid rounded z-depth-1" alt="Airelles Château de la Messardière测评和推荐"%}
+  </div>
+  <div class="col-sm mt-3 mt-md-0">
 {% include figure.liquid loading="eager" path="assets/img/119saint-tropez-airelles/saint-tropez-airelles-4c.webp" title="Airelles Château de la Messardière测评和推荐" class="img-fluid rounded z-depth-1" alt="Airelles Château de la Messardière测评和推荐"%}
+  </div>
+</div>
+
 
 
 ---
 
-## 吃，是它非常“犯规”的一部分
+## 3. 吃，是它非常“犯规”的一部分
 
 很多酒店餐饮只是配套，
 
@@ -117,8 +146,16 @@ Airelles，就是少数能做到这一点的。
 帝王蟹腿、大虾、生蚝……
 
 不是摆设，是认真在做品质。
+
+<div class="row justify-content-sm-center">
+  <div class="col-sm mt-3 mt-md-0">
 {% include figure.liquid loading="eager" path="assets/img/119saint-tropez-airelles/saint-tropez-airelles-5.webp" title="Airelles Château de la Messardière测评和推荐" class="img-fluid rounded z-depth-1" alt="Airelles Château de la Messardière测评和推荐"%}
+  </div>
+  <div class="col-sm mt-3 mt-md-0">
 {% include figure.liquid loading="eager" path="assets/img/119saint-tropez-airelles/saint-tropez-airelles-5a.webp" title="Airelles Château de la Messardière测评和推荐" class="img-fluid rounded z-depth-1" alt="Airelles Château de la Messardière测评和推荐"%}
+  </div>
+</div>
+
 
 
 还有一个我几乎一定会跟客户强调的点：
@@ -132,13 +169,21 @@ Airelles，就是少数能做到这一点的。
 很多人来之前不知道，
 
 吃完之后直接变成记忆点。
+
+<div class="row justify-content-sm-center">
+  <div class="col-sm mt-3 mt-md-0">
 {% include figure.liquid loading="eager" path="assets/img/119saint-tropez-airelles/saint-tropez-airelles-5b.webp" title="Airelles Château de la Messardière测评和推荐" class="img-fluid rounded z-depth-1" alt="Airelles Château de la Messardière测评和推荐"%}
+  </div>
+  <div class="col-sm mt-3 mt-md-0">
 {% include figure.liquid loading="eager" path="assets/img/119saint-tropez-airelles/saint-tropez-airelles-5c.webp" title="Airelles Château de la Messardière测评和推荐" class="img-fluid rounded z-depth-1" alt="Airelles Château de la Messardière测评和推荐"%}
+  </div>
+</div>
+
 
 
 ---
 
-## 它的“贵”，不是堆出来的
+## 4. 它的“贵”，不是堆出来的
 
 如果你只是看价格，会觉得不便宜。
 
@@ -146,11 +191,19 @@ Airelles，就是少数能做到这一点的。
 
 比如：
 
-- 迷你吧全部免费（而且是认真的丰富）
+- 迷你吧全部免费（而且是认真的丰富）；）
 - 劳斯莱斯库里南接送海滩与圣特罗佩小镇
 - 房间用品不是一次性的那种“应付”，而是有质感的
+
+<div class="row justify-content-sm-center">
+  <div class="col-sm mt-3 mt-md-0">
 {% include figure.liquid loading="eager" path="assets/img/119saint-tropez-airelles/saint-tropez-airelles-6.webp" title="Airelles Château de la Messardière测评和推荐" class="img-fluid rounded z-depth-1" alt="Airelles Château de la Messardière测评和推荐"%}
+  </div>
+  <div class="col-sm mt-3 mt-md-0">
 {% include figure.liquid loading="eager" path="assets/img/119saint-tropez-airelles/saint-tropez-airelles-6a.webp" title="Airelles Château de la Messardière测评和推荐" class="img-fluid rounded z-depth-1" alt="Airelles Château de la Messardière测评和推荐"%}
+  </div>
+</div>
+
 
 
 还有一些很细的地方：
@@ -160,14 +213,23 @@ Airelles，就是少数能做到这一点的。
 
 这些不会让你“惊叹”，
 
-但会让你**一直很舒服**。
+但会让你一直很舒服！
+
+<div class="row justify-content-sm-center">
+  <div class="col-sm mt-3 mt-md-0">
 {% include figure.liquid loading="eager" path="assets/img/119saint-tropez-airelles/saint-tropez-airelles-6b.webp" title="Airelles Château de la Messardière测评和推荐" class="img-fluid rounded z-depth-1" alt="Airelles Château de la Messardière测评和推荐"%}
+  </div>
+  <div class="col-sm mt-3 mt-md-0">
 {% include figure.liquid loading="eager" path="assets/img/119saint-tropez-airelles/saint-tropez-airelles-6c.webp" title="Airelles Château de la Messardière测评和推荐" class="img-fluid rounded z-depth-1" alt="Airelles Château de la Messardière测评和推荐"%}
+  </div>
+</div>
+
+
 
 
 ---
 
-## 服务这件事，它是“有温度的”
+## 5. 服务这件事，它是“有温度的”
 
 我经常跟客户说：
 
@@ -186,13 +248,21 @@ Airelles，就是少数能做到这一点的。
 这些东西不贵，
 
 但很难复制。
+
+<div class="row justify-content-sm-center">
+  <div class="col-sm mt-3 mt-md-0">
 {% include figure.liquid loading="eager" path="assets/img/119saint-tropez-airelles/saint-tropez-airelles-7.webp" title="Airelles Château de la Messardière测评和推荐" class="img-fluid rounded z-depth-1" alt="Airelles Château de la Messardière测评和推荐"%}
+  </div>
+  <div class="col-sm mt-3 mt-md-0">
 {% include figure.liquid loading="eager" path="assets/img/119saint-tropez-airelles/saint-tropez-airelles-7c.webp" title="Airelles Château de la Messardière测评和推荐" class="img-fluid rounded z-depth-1" alt="Airelles Château de la Messardière测评和推荐"%}
+  </div>
+</div>
+
 
 
 ---
 
-## 所以，我为什么“强烈推荐”？
+## 6. 所以，我为什么“强烈推荐”？
 {% include figure.liquid loading="eager" path="assets/img/119saint-tropez-airelles/saint-tropez-airelles-8.webp" title="Airelles Château de la Messardière测评和推荐" class="img-fluid rounded z-depth-1" alt="Airelles Château de la Messardière测评和推荐"%}
 
 
@@ -211,13 +281,21 @@ Airelles，就是少数能做到这一点的。
 > 
 > 是买一段“很松弛、很被照顾、很有记忆点”的时间。
 > 
+
+<div class="row justify-content-sm-center">
+  <div class="col-sm mt-3 mt-md-0">
 {% include figure.liquid loading="eager" path="assets/img/119saint-tropez-airelles/saint-tropez-airelles-7b.webp" title="Airelles Château de la Messardière测评和推荐" class="img-fluid rounded z-depth-1" alt="Airelles Château de la Messardière测评和推荐"%}
+  </div>
+  <div class="col-sm mt-3 mt-md-0">
 {% include figure.liquid loading="eager" path="assets/img/119saint-tropez-airelles/saint-tropez-airelles-7a.webp" title="Airelles Château de la Messardière测评和推荐" class="img-fluid rounded z-depth-1" alt="Airelles Château de la Messardière测评和推荐"%}
+  </div>
+</div>
+
 
 
 ---
 
-## 如果你也在考虑来南法
+## 7. 如果你也在考虑来南法
 
 其实很多人最大的问题，不是选酒店，
 
@@ -244,7 +322,9 @@ Airelles，就是少数能做到这一点的。
 
 差的不是预算，而是有没有人帮你把它“变顺”。
 
-## 关于我
+---
+
+## 8. 关于我
 
 <!-- 人物介绍板块 -->
 <div style="display: flex; align-items: center; gap: 20px; margin: 2em 0;">
@@ -256,8 +336,8 @@ Airelles，就是少数能做到这一点的。
 
   <!-- 右侧文字内容 + 按钮 -->
   <div style="flex: 2;">
-    <p>常年穿梭在南法的大街小巷、山川海岸，不论是普罗旺斯的薰衣草花海、蔚蓝海岸的阳光沙滩，还是只有当地人知道的隐秘村庄、静谧酒庄，甚至是顶级酒店与米其林餐厅...我都亲身体验、用心记录，只为帮你打造一段专属于你的南法之旅。</p>
-    <p>无论你想打卡经典地标、探索小众秘境，还是追求奢华私享的高端体验，我都可以为你提供路线建议与旅行灵感。欢迎留言或私信我，一起聊聊你的旅行期待，让梦想中的南法之旅，从这一刻开始变成现实。</p>
+    <p>现常驻法国南部（马赛&尼斯）。我常年穿梭在南法的大街小巷、山川海岸，不论是普罗旺斯的薰衣草花海、蔚蓝海岸的阳光沙滩，还是只有当地人知道的隐秘村庄、静谧酒庄，甚至是顶级酒店与米其林餐厅...我都亲身体验、用心记录，只为帮你打造一段专属于你的南法之旅。</p>
+    <p>无论你想打卡经典地标、探索小众秘境，还是追求奢华私享的高端体验，我都可以为你提供路线建议与旅行灵感，也欢迎你查看我们的<a href="https://aolitravel.com/tours/">精选路线</a>。欢迎留言或私信我，一起聊聊你的旅行期待，让梦想中的南法之旅，从这一刻开始变成现实。</p>
     <p><a href="https://aolitravel.com/">了解我更多...</a></p>
     <p>想要咨询？欢迎联系我们：</p>
 
