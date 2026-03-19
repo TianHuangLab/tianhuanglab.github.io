@@ -5,7 +5,7 @@ date: 2026-02-19 20:00:00
 description: 如果你想在南法真正放松下来，而不是赶行程，那Airelles Château de la Messardière是那种住过一次就会反复想回去的地方！
 tags: 法国 蔚蓝海岸
 categories: 文化历史 自然风光 
-thumbnail: assets/img/112cannes-history/cannes-0a.webp
+thumbnail: assets/img/119saint-tropez-airelles/saint-tropez-airelles-0.webp
 published: true
 toc:
   sidebar: left
