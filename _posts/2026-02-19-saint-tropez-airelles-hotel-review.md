@@ -35,7 +35,7 @@ toc:
 
 但这些都只是“外在光环”。
 
-我之所以会**反复入住、并且强烈推荐**，原因其实更简单——
+我之所以会**今天写这篇评测文，并且强烈推荐**，原因其实很简单——
 
 **它真的把“度假这件事”做到了很高级的舒服～**
 
@@ -53,7 +53,7 @@ toc:
 
 ---
 
-## 1. 我为什么会把它推荐给客户？
+## 1. 我为什么会把它推荐给朋友和客户？
 
 说实话，我见过太多酒店了。
 
@@ -65,7 +65,7 @@ toc:
 
 氛围很好，但有的时候体验不稳定。
 
-而现在，当客户把预算交给我、希望我帮他们安排一趟“真正放松的南法假期”时，
+而现在，当客户朋友把预算交给我、希望我帮他们安排一趟“真正放松的南法假期”时，
 
 我更看重的是一件事：
 
@@ -101,7 +101,7 @@ Airelles，就是少数能做到这一点的。
 {% include figure.liquid loading="eager" path="assets/img/119saint-tropez-airelles/saint-tropez-airelles-4d.webp" title="Airelles Château de la Messardière测评和推荐" class="img-fluid rounded z-depth-1" alt="Airelles Château de la Messardière测评和推荐"%}
 
 
-很多客户第一天到的时候都会跟我说一句话：
+很多客户朋友第一天到的时候都会跟我说一句话：
 
 **“我好像已经开始放假了。”**
 
@@ -158,7 +158,7 @@ Airelles，就是少数能做到这一点的。
 
 
 
-还有一个我几乎一定会跟客户强调的点：
+还有一个我几乎一定会跟客户朋友强调的点：
 
 它和Cédric Grolet的合作。
 
@@ -220,7 +220,7 @@ Airelles，就是少数能做到这一点的。
 {% include figure.liquid loading="eager" path="assets/img/119saint-tropez-airelles/saint-tropez-airelles-6b.webp" title="Airelles Château de la Messardière测评和推荐" class="img-fluid rounded z-depth-1" alt="Airelles Château de la Messardière测评和推荐"%}
   </div>
   <div class="col-sm mt-3 mt-md-0">
-{% include figure.liquid loading="eager" path="assets/img/119saint-tropez-airelles/saint-tropez-airelles-6c.webp" title="Airelles Château de la Messardière测评和推荐" class="img-fluid rounded z-depth-1" alt="Airelles Château de la Messardière测评和推荐"%}
+{% include figure.liquid loading="eager" path="assets/img/119saint-tropez-airelles/saint-tropez-airelles-6cv2.webp" title="Airelles Château de la Messardière测评和推荐" class="img-fluid rounded z-depth-1" alt="Airelles Château de la Messardière测评和推荐"%}
   </div>
 </div>
 
@@ -231,7 +231,7 @@ Airelles，就是少数能做到这一点的。
 
 ## 5. 服务这件事，它是“有温度的”
 
-我经常跟客户说：
+我经常跟客户朋友说：
 
 真正好的服务，是你不觉得被打扰，但又一直被照顾。
 
@@ -270,9 +270,9 @@ Airelles，就是少数能做到这一点的。
 
 **不是来打卡，而是真的想“过几天南法生活”的人。**
 
-我自己会住，
+我自己会想去住，
 
-客户来了我也会推荐，
+客户朋友来了我也会推荐，
 
 本质上是因为——它稳定地交付一种体验：
 
@@ -375,7 +375,7 @@ Airelles 这种酒店，其实并不适合所有人。
 
 但如果你在意的是——这几天能不能真的放松下来，能不能被好好对待，能不能有一些之后还会反复想起的瞬间，那它的价值就会变得很清晰。
 
-我见过不少客户，在南法跑了很多地方、住了很多酒店，最后记住的，反而是某一个下午的风、某一顿不赶时间的午餐，或者是某种被照顾得刚刚好的感觉。
+我见过不少客户朋友，在南法跑了很多地方、住了很多酒店，最后记住的，反而是某一个下午的风、某一顿不赶时间的午餐，或者是某种被照顾得刚刚好的感觉。
 
 Airelles 很擅长的，就是把这些瞬间放大。
 
