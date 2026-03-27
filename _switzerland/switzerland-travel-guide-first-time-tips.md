@@ -280,7 +280,7 @@ A：住青旅/民宿带厨房、买火车半价卡、多去超市少下馆子、
 
 **Q：玩完瑞士，去法国南部怎么安排？**
 A：从日内瓦或洛桑出发，往南方向进入法国，普罗旺斯和蔚蓝海岸都可以覆盖。法国南部建议包车，景点分散，自驾难度不小。欢迎联系我获取[定制行程](https://aolitravel.com/custom-travel/)。
-{% include figure.liquid loading="eager" path="assets/img/121switzerland-travel-tips/switzerland-travel-tips-17.webp" title="第一次去瑞士，我后悔没早点知道的15件事switzerland-travel-tips" class="img-fluid rounded z-depth-1" alt="第一次去瑞士，我后悔没早点知道的15件事-switzerland-travel-tips"%}
+{% include figure.liquid loading="eager" path="assets/img/15visit-champ-lavande-saint-croix-verdon-moustiers-sainte-marie/visit-champ-lavande-saint-croix-verdon-moustiers-sainte-marie-10-1400.webp" title="第一次去瑞士，我后悔没早点知道的15件事switzerland-travel-tips" class="img-fluid rounded z-depth-1" alt="第一次去瑞士，我后悔没早点知道的15件事-switzerland-travel-tips"%}
 
 
 ---
