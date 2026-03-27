@@ -120,7 +120,7 @@ toc:
 
 **Q：不会法语、不会开车，能不能来南法？**
 完全可以。法国南部的旅游区英语也能基本通，包车服务通常提供中文司导，完全不需要自己开车。
-{% include figure.liquid loading="eager" path="assets/img/15visit-champ-lavande-saint-croix-verdon-moustiers-sainte-marie/visit-champ-lavande-saint-croix-verdon-moustiers-sainte-marie-2-480.webp" title="provence-private-tour-from-marseille马赛普罗旺斯地接包车" class="img-fluid rounded z-depth-1" alt="provence-private-tour-from-marseille马赛普罗旺斯地接包车"%}
+{% include figure.liquid loading="eager" path="assets/img/15visit-champ-lavande-saint-croix-verdon-moustiers-sainte-marie/visit-champ-lavande-saint-croix-verdon-moustiers-sainte-marie-10-1400.webp" title="provence-private-tour-from-marseille马赛普罗旺斯地接包车" class="img-fluid rounded z-depth-1" alt="provence-private-tour-from-marseille马赛普罗旺斯地接包车"%}
 
 
 ---
