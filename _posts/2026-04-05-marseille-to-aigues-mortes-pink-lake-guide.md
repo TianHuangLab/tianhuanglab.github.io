@@ -7,8 +7,6 @@ tags: 法国 马赛 阿维尼翁 普罗旺斯
 categories: 文化历史 自然风光 自驾旅行
 thumbnail: assets/img/64visit-salin-aigues-mortes/visit-salin-aigues-mortes-5.webp
 published: true
-toc:
-  sidebar: left
 ---
 
 {% include figure.liquid loading="eager" path="assets/img/64visit-salin-aigues-mortes/visit-salin-aigues-mortes-5.webp" title="marseille-to-aigues-mortes-pink-lake-guide马赛出发去粉色盐湖" class="img-fluid rounded z-depth-1" alt="marseille-to-aigues-mortes-pink-lake-guide马赛出发去粉色盐湖"%}
