@@ -3,7 +3,7 @@ layout: post
 title: 从马赛出发去艾格莫尔粉色盐湖，值不值得专门跑这一趟？
 date: 2026-04-05 20:00:00
 description: 如果你的法国行程要从马赛出发，这篇会更真实地告诉你：艾格莫尔粉色盐湖到底值不值得去，以及这一天该怎么安排才不会赶得太累。
-tags: 法国 马赛 尼斯 阿维尼翁 蔚蓝海岸 普罗旺斯
+tags: 法国 马赛 阿维尼翁 普罗旺斯 
 categories: 文化历史 自然风光 自驾旅行
 thumbnail: assets/img/64visit-salin-aigues-mortes/visit-salin-aigues-mortes-5.webp
 published: true
