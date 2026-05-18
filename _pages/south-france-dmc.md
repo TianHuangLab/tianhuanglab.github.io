@@ -8,20 +8,24 @@ description: Local DMC services in Nice, Cannes, Monaco, Marseille and Avignon f
 
 <style>
   :root {
-    --dmc-navy: #10243f;
-    --dmc-navy-soft: #183456;
-    --dmc-sand: #f7f2ea;
-    --dmc-ivory: #fffdf9;
-    --dmc-gold: #c18f3b;
-    --dmc-gold-soft: #ead7b3;
-    --dmc-ink: #1d2733;
-    --dmc-muted: #607086;
-    --dmc-border: rgba(16, 36, 63, 0.12);
-    --dmc-shadow: 0 20px 60px rgba(16, 36, 63, 0.12);
-    --dmc-radius-lg: 28px;
-    --dmc-radius-md: 18px;
+    --dmc-bg: #ffffff;
+    --dmc-bg-soft: #fcf8fc;
+    --dmc-bg-tint: #f8eef8;
+    --dmc-accent: #b52aac;
+    --dmc-accent-soft: #eec9ea;
+    --dmc-accent-faint: rgba(181, 42, 172, 0.08);
+    --dmc-accent-faint-2: rgba(181, 42, 172, 0.14);
+    --dmc-text: #111111;
+    --dmc-text-soft: #4b4b4b;
+    --dmc-text-muted: #6c6c6c;
+    --dmc-border: rgba(17, 17, 17, 0.08);
+    --dmc-shadow: 0 14px 40px rgba(17, 17, 17, 0.06);
+    --dmc-shadow-strong: 0 18px 50px rgba(181, 42, 172, 0.12);
+    --dmc-radius-xl: 28px;
+    --dmc-radius-lg: 22px;
+    --dmc-radius-md: 16px;
     --dmc-radius-sm: 12px;
-    --dmc-max: 1200px;
+    --dmc-max: 1280px;
   }
 
   .dmc-page,
@@ -30,34 +34,36 @@ description: Local DMC services in Nice, Cannes, Monaco, Marseille and Avignon f
   }
 
   .dmc-page {
-    color: var(--dmc-ink);
     background:
-      radial-gradient(circle at top left, rgba(193, 143, 59, 0.12), transparent 28%),
-      linear-gradient(180deg, #fffaf3 0%, #ffffff 32%, #fbfbfb 100%);
+      radial-gradient(circle at top left, rgba(181, 42, 172, 0.08), transparent 26%),
+      radial-gradient(circle at bottom right, rgba(181, 42, 172, 0.05), transparent 22%),
+      linear-gradient(180deg, #ffffff 0%, #fffdfd 100%);
+    color: var(--dmc-text);
     margin: 0;
   }
 
   .dmc-container {
-    width: min(var(--dmc-max), calc(100% - 32px));
+    width: min(var(--dmc-max), calc(100% - 40px));
     margin: 0 auto;
   }
 
   .dmc-page h1,
   .dmc-page h2,
   .dmc-page h3 {
-    font-family: Georgia, "Times New Roman", serif;
-    letter-spacing: -0.02em;
-    line-height: 1.05;
     margin: 0 0 16px;
-    color: var(--dmc-navy);
+    letter-spacing: -0.03em;
+    line-height: 1.04;
+    color: var(--dmc-text);
+    font-family: Georgia, "Times New Roman", serif;
   }
 
   .dmc-page h1 {
-    font-size: clamp(2.8rem, 6vw, 5.25rem);
+    font-size: clamp(3rem, 5.6vw, 4.9rem);
+    max-width: 10.5ch;
   }
 
   .dmc-page h2 {
-    font-size: clamp(2rem, 4vw, 3.2rem);
+    font-size: clamp(2rem, 3.5vw, 3.05rem);
   }
 
   .dmc-page h3 {
@@ -70,15 +76,16 @@ description: Local DMC services in Nice, Cannes, Monaco, Marseille and Avignon f
   .dmc-page label,
   .dmc-page input,
   .dmc-page textarea,
-  .dmc-page select {
-    font-family: "Avenir Next", Avenir, "Segoe UI", sans-serif;
+  .dmc-page select,
+  .dmc-page button {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 1.03rem;
     line-height: 1.72;
-    font-size: 1rem;
   }
 
   .dmc-page p {
     margin: 0 0 16px;
-    color: var(--dmc-ink);
+    color: var(--dmc-text-soft);
   }
 
   .dmc-page a {
@@ -86,57 +93,23 @@ description: Local DMC services in Nice, Cannes, Monaco, Marseille and Avignon f
     text-decoration: none;
   }
 
-  .dmc-page img {
-    display: block;
-    width: 100%;
-    height: auto;
-  }
-
   .dmc-eyebrow {
     display: inline-flex;
     align-items: center;
     gap: 10px;
-    color: var(--dmc-gold);
-    font-size: 0.86rem;
-    font-weight: 700;
-    text-transform: uppercase;
-    letter-spacing: 0.14em;
     margin-bottom: 18px;
+    color: var(--dmc-accent);
+    font-size: 0.84rem;
+    font-weight: 800;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
   }
 
   .dmc-eyebrow::before {
     content: "";
-    width: 36px;
+    width: 34px;
     height: 1px;
     background: currentColor;
-  }
-
-  .dmc-hero {
-    padding: 72px 0 36px;
-  }
-
-  .dmc-hero-wrap {
-    display: grid;
-    grid-template-columns: minmax(0, 1.15fr) minmax(320px, 0.85fr);
-    gap: 36px;
-    align-items: stretch;
-  }
-
-  .dmc-hero-copy {
-    padding: 28px 0;
-  }
-
-  .dmc-lead {
-    font-size: 1.12rem;
-    color: var(--dmc-muted);
-    max-width: 62ch;
-  }
-
-  .dmc-hero-actions {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 14px;
-    margin: 28px 0 24px;
   }
 
   .dmc-button {
@@ -146,135 +119,167 @@ description: Local DMC services in Nice, Cannes, Monaco, Marseille and Avignon f
     min-height: 52px;
     padding: 0 22px;
     border-radius: 999px;
-    border: 1px solid transparent;
     font-weight: 700;
-    transition: transform 0.2s ease, box-shadow 0.2s ease, border-color 0.2s ease, background 0.2s ease;
+    border: 1px solid transparent;
+    transition: transform 0.2s ease, box-shadow 0.2s ease, background 0.2s ease, border-color 0.2s ease;
   }
 
   .dmc-button:hover,
   .dmc-button:focus-visible {
     transform: translateY(-1px);
-    box-shadow: 0 14px 28px rgba(16, 36, 63, 0.12);
   }
 
   .dmc-button-primary {
-    background: linear-gradient(135deg, var(--dmc-navy) 0%, var(--dmc-navy-soft) 100%);
-    color: #fff;
+    color: #ffffff;
+    background: linear-gradient(135deg, var(--dmc-accent), #cb53c2);
+    box-shadow: var(--dmc-shadow-strong);
   }
 
   .dmc-button-secondary {
-    background: rgba(255, 255, 255, 0.78);
-    color: var(--dmc-navy);
+    color: var(--dmc-text);
+    background: #ffffff;
     border-color: var(--dmc-border);
-    backdrop-filter: blur(14px);
   }
 
+  .dmc-button-secondary:hover,
+  .dmc-button-secondary:focus-visible {
+    box-shadow: var(--dmc-shadow);
+  }
+
+  .dmc-chip-row,
   .dmc-trust-row,
-  .dmc-chip-row {
+  .dmc-badge-grid {
     display: flex;
     flex-wrap: wrap;
-    gap: 10px;
+    gap: 12px;
   }
 
   .dmc-chip,
-  .dmc-trust-item {
+  .dmc-trust-item,
+  .dmc-badge {
     display: inline-flex;
     align-items: center;
     gap: 8px;
+    padding: 10px 14px;
     border-radius: 999px;
     border: 1px solid var(--dmc-border);
-    background: rgba(255, 255, 255, 0.8);
-    padding: 10px 14px;
-    color: var(--dmc-navy);
+    background: #ffffff;
+    color: var(--dmc-text);
+    box-shadow: 0 4px 14px rgba(17, 17, 17, 0.03);
+    font-weight: 600;
   }
 
   .dmc-chip::before,
-  .dmc-trust-item::before {
+  .dmc-trust-item::before,
+  .dmc-badge::before {
     content: "";
     width: 8px;
     height: 8px;
     border-radius: 50%;
-    background: var(--dmc-gold);
+    background: var(--dmc-accent);
+    flex: 0 0 auto;
+  }
+
+  .dmc-hero {
+    padding: 76px 0 36px;
+  }
+
+  .dmc-hero-wrap {
+    display: grid;
+    grid-template-columns: minmax(0, 1.08fr) minmax(340px, 0.92fr);
+    gap: 30px;
+    align-items: stretch;
+  }
+
+  .dmc-hero-copy {
+    padding: 28px 0;
+  }
+
+  .dmc-lead {
+    max-width: 60ch;
+    font-size: 1.08rem;
+    color: var(--dmc-text-soft);
+  }
+
+  .dmc-hero-actions {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 14px;
+    margin: 28px 0 22px;
   }
 
   .dmc-hero-panel {
-    background: linear-gradient(180deg, rgba(16, 36, 63, 0.96) 0%, rgba(24, 52, 86, 0.94) 100%);
-    color: #fff;
-    border-radius: var(--dmc-radius-lg);
-    padding: 28px;
-    box-shadow: var(--dmc-shadow);
     position: relative;
     overflow: hidden;
-    min-height: 100%;
+    border-radius: var(--dmc-radius-xl);
+    background:
+      linear-gradient(180deg, rgba(181, 42, 172, 0.08), rgba(181, 42, 172, 0.03)),
+      #ffffff;
+    border: 1px solid rgba(181, 42, 172, 0.12);
+    box-shadow: var(--dmc-shadow);
+    padding: 24px;
   }
 
   .dmc-hero-panel::after {
     content: "";
     position: absolute;
-    inset: auto -50px -80px auto;
-    width: 220px;
-    height: 220px;
-    background: radial-gradient(circle, rgba(193, 143, 59, 0.32) 0%, transparent 68%);
+    right: -30px;
+    bottom: -30px;
+    width: 180px;
+    height: 180px;
+    border-radius: 50%;
+    background: radial-gradient(circle, rgba(181, 42, 172, 0.12), transparent 65%);
+    pointer-events: none;
   }
 
   .dmc-hero-visual {
-    border-radius: 22px;
-    min-height: 240px;
-    background:
-      linear-gradient(135deg, rgba(255,255,255,0.08), rgba(255,255,255,0.02)),
-      linear-gradient(135deg, #244d78, #122844);
-    border: 1px solid rgba(255,255,255,0.12);
+    min-height: 220px;
     display: grid;
     place-items: center;
-    text-align: center;
     padding: 24px;
+    border-radius: 18px;
+    text-align: center;
+    background:
+      linear-gradient(135deg, rgba(181, 42, 172, 0.72), rgba(238, 201, 234, 0.8)),
+      #f6eff6;
+    color: #ffffff;
     margin-bottom: 22px;
   }
 
-  .dmc-hero-visual span {
-    color: rgba(255,255,255,0.82);
-    font-size: 0.98rem;
-    max-width: 24ch;
-  }
-
-  .dmc-panel-title,
   .dmc-panel-label {
-    color: #fff;
-  }
-
-  .dmc-panel-label {
-    text-transform: uppercase;
-    letter-spacing: 0.12em;
-    font-size: 0.8rem;
-    opacity: 0.7;
     margin-bottom: 10px;
+    color: var(--dmc-accent);
+    font-size: 0.8rem;
+    font-weight: 800;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
   }
 
   .dmc-panel-list {
     list-style: none;
-    margin: 0;
     padding: 0;
+    margin: 0;
   }
 
   .dmc-panel-list li {
     padding: 12px 0;
-    border-top: 1px solid rgba(255,255,255,0.12);
-    color: rgba(255,255,255,0.88);
+    border-top: 1px solid rgba(17, 17, 17, 0.07);
+    color: var(--dmc-text-soft);
   }
 
   .dmc-subnav {
     position: sticky;
     top: 0;
     z-index: 20;
+    background: rgba(255, 255, 255, 0.9);
+    backdrop-filter: blur(12px);
     border-top: 1px solid var(--dmc-border);
     border-bottom: 1px solid var(--dmc-border);
-    background: rgba(255, 253, 249, 0.84);
-    backdrop-filter: blur(14px);
   }
 
   .dmc-subnav-inner {
     display: flex;
-    gap: 12px;
+    gap: 10px;
     overflow-x: auto;
     padding: 12px 0;
     scrollbar-width: none;
@@ -286,7 +291,7 @@ description: Local DMC services in Nice, Cannes, Monaco, Marseille and Avignon f
 
   .dmc-subnav a {
     white-space: nowrap;
-    color: var(--dmc-muted);
+    color: var(--dmc-text-muted);
     padding: 8px 14px;
     border-radius: 999px;
     transition: background 0.2s ease, color 0.2s ease;
@@ -295,75 +300,69 @@ description: Local DMC services in Nice, Cannes, Monaco, Marseille and Avignon f
   .dmc-subnav a.is-active,
   .dmc-subnav a:hover,
   .dmc-subnav a:focus-visible {
-    background: rgba(16, 36, 63, 0.08);
-    color: var(--dmc-navy);
+    background: var(--dmc-accent-faint);
+    color: var(--dmc-accent);
   }
 
   .dmc-section {
-    padding: 76px 0;
+    padding: 78px 0;
   }
 
   .dmc-section-alt {
-    background: linear-gradient(180deg, rgba(247, 242, 234, 0.75), rgba(255,255,255,0.96));
-    border-top: 1px solid rgba(16, 36, 63, 0.06);
-    border-bottom: 1px solid rgba(16, 36, 63, 0.06);
+    background:
+      linear-gradient(180deg, rgba(181, 42, 172, 0.03), rgba(181, 42, 172, 0.015)),
+      #ffffff;
+    border-top: 1px solid rgba(17, 17, 17, 0.05);
+    border-bottom: 1px solid rgba(17, 17, 17, 0.05);
   }
 
   .dmc-section-head {
-    display: grid;
-    gap: 10px;
+    max-width: 74ch;
     margin-bottom: 34px;
-    max-width: 72ch;
+  }
+
+  .dmc-grid-2,
+  .dmc-grid-3,
+  .dmc-grid-4,
+  .dmc-contact-grid {
+    display: grid;
+    gap: 22px;
   }
 
   .dmc-grid-2 {
-    display: grid;
     grid-template-columns: repeat(2, minmax(0, 1fr));
-    gap: 22px;
   }
 
   .dmc-grid-3 {
-    display: grid;
     grid-template-columns: repeat(3, minmax(0, 1fr));
-    gap: 22px;
   }
 
   .dmc-grid-4 {
-    display: grid;
     grid-template-columns: repeat(4, minmax(0, 1fr));
-    gap: 18px;
   }
 
   .dmc-card {
+    background: #ffffff;
     border: 1px solid var(--dmc-border);
     border-radius: var(--dmc-radius-md);
-    background: rgba(255,255,255,0.82);
-    box-shadow: 0 8px 30px rgba(16, 36, 63, 0.06);
+    box-shadow: var(--dmc-shadow);
     padding: 24px;
-  }
-
-  .dmc-card h3 {
-    margin-bottom: 10px;
-  }
-
-  .dmc-card p:last-child {
-    margin-bottom: 0;
   }
 
   .dmc-icon {
     width: 48px;
     height: 48px;
-    border-radius: 14px;
     display: inline-grid;
     place-items: center;
-    background: linear-gradient(135deg, rgba(193, 143, 59, 0.18), rgba(16, 36, 63, 0.08));
-    color: var(--dmc-navy);
+    border-radius: 14px;
+    background: var(--dmc-accent-faint);
+    color: var(--dmc-accent);
     font-weight: 800;
     margin-bottom: 16px;
   }
 
-  .dmc-bullets,
-  .dmc-checklist {
+  .dmc-checklist,
+  .dmc-bullets {
     margin: 0;
     padding-left: 18px;
   }
@@ -373,37 +372,21 @@ description: Local DMC services in Nice, Cannes, Monaco, Marseille and Avignon f
     margin-top: 8px;
   }
 
-  .dmc-badge-grid {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 12px;
-    margin-top: 18px;
-  }
-
-  .dmc-badge {
-    border-radius: 999px;
-    padding: 10px 14px;
-    background: rgba(16, 36, 63, 0.05);
-    color: var(--dmc-navy);
-    border: 1px solid rgba(16, 36, 63, 0.08);
-    font-weight: 600;
-  }
-
   .dmc-destination-card {
     overflow: hidden;
     padding: 0;
   }
 
   .dmc-image-placeholder {
-    min-height: 180px;
-    background:
-      linear-gradient(135deg, rgba(16,36,63,0.82), rgba(40,88,135,0.68)),
-      linear-gradient(180deg, rgba(193,143,59,0.22), transparent);
+    min-height: 160px;
     display: grid;
     place-items: center;
-    color: rgba(255,255,255,0.88);
     padding: 24px;
     text-align: center;
+    color: #ffffff;
+    background:
+      linear-gradient(135deg, rgba(181, 42, 172, 0.82), rgba(214, 131, 206, 0.78)),
+      #d889d1;
   }
 
   .dmc-destination-body {
@@ -425,11 +408,11 @@ description: Local DMC services in Nice, Cannes, Monaco, Marseille and Avignon f
   }
 
   .dmc-program-label {
-    color: var(--dmc-gold);
+    color: var(--dmc-accent);
     font-weight: 800;
     text-transform: uppercase;
     letter-spacing: 0.08em;
-    font-size: 0.84rem;
+    font-size: 0.82rem;
   }
 
   .dmc-process {
@@ -446,30 +429,31 @@ description: Local DMC services in Nice, Cannes, Monaco, Marseille and Avignon f
     content: counter(dmc-step);
     position: absolute;
     left: 0;
-    top: 4px;
+    top: 0;
     width: 52px;
     height: 52px;
     border-radius: 50%;
     display: grid;
     place-items: center;
-    background: linear-gradient(135deg, var(--dmc-navy), var(--dmc-navy-soft));
-    color: #fff;
+    background: linear-gradient(135deg, var(--dmc-accent), #cf61c7);
+    color: #ffffff;
     font-weight: 800;
-    box-shadow: 0 14px 28px rgba(16, 36, 63, 0.18);
+    box-shadow: 0 10px 24px rgba(181, 42, 172, 0.18);
   }
 
   .dmc-proof {
     display: grid;
     grid-template-columns: repeat(3, minmax(0, 1fr));
     gap: 18px;
+    margin-top: 24px;
   }
 
   .dmc-proof strong {
     display: block;
-    color: var(--dmc-navy);
-    font-size: 1.4rem;
-    font-family: Georgia, "Times New Roman", serif;
     margin-bottom: 6px;
+    color: var(--dmc-text);
+    font-size: 1.35rem;
+    font-family: Georgia, "Times New Roman", serif;
   }
 
   .dmc-faq {
@@ -478,19 +462,20 @@ description: Local DMC services in Nice, Cannes, Monaco, Marseille and Avignon f
   }
 
   .dmc-faq-item {
-    border: 1px solid var(--dmc-border);
-    border-radius: var(--dmc-radius-sm);
-    background: rgba(255,255,255,0.88);
     overflow: hidden;
+    border-radius: var(--dmc-radius-sm);
+    border: 1px solid var(--dmc-border);
+    background: #ffffff;
+    box-shadow: 0 4px 18px rgba(17, 17, 17, 0.03);
   }
 
   .dmc-faq-toggle {
     width: 100%;
     border: none;
     background: transparent;
-    text-align: left;
     padding: 20px 22px;
-    color: var(--dmc-navy);
+    text-align: left;
+    color: var(--dmc-text);
     font-weight: 700;
     cursor: pointer;
     display: flex;
@@ -500,15 +485,14 @@ description: Local DMC services in Nice, Cannes, Monaco, Marseille and Avignon f
   }
 
   .dmc-faq-toggle span:last-child {
-    font-size: 1.2rem;
+    color: var(--dmc-accent);
+    font-size: 1.25rem;
     line-height: 1;
-    color: var(--dmc-gold);
   }
 
   .dmc-faq-panel {
     display: none;
     padding: 0 22px 22px;
-    color: var(--dmc-muted);
   }
 
   .dmc-faq-item.is-open .dmc-faq-panel {
@@ -516,101 +500,58 @@ description: Local DMC services in Nice, Cannes, Monaco, Marseille and Avignon f
   }
 
   .dmc-contact {
-    position: relative;
-    overflow: hidden;
-    background: linear-gradient(135deg, #10243f 0%, #1d3f67 100%);
-    color: #fff;
-  }
-
-  .dmc-contact::before {
-    content: "";
-    position: absolute;
-    inset: auto auto -60px -60px;
-    width: 220px;
-    height: 220px;
-    border-radius: 50%;
-    background: radial-gradient(circle, rgba(193,143,59,0.3), transparent 68%);
-  }
-
-  .dmc-contact .dmc-section-head h2,
-  .dmc-contact .dmc-section-head p,
-  .dmc-contact h3,
-  .dmc-contact p,
-  .dmc-contact label {
-    color: #fff;
+    background:
+      radial-gradient(circle at top left, rgba(181, 42, 172, 0.09), transparent 24%),
+      linear-gradient(180deg, #fffafb 0%, #ffffff 100%);
   }
 
   .dmc-contact-grid {
-    display: grid;
-    grid-template-columns: minmax(0, 0.92fr) minmax(320px, 1.08fr);
-    gap: 28px;
+    grid-template-columns: minmax(0, 0.92fr) minmax(340px, 1.08fr);
     align-items: start;
   }
 
   .dmc-contact-card,
   .dmc-form-shell {
-    position: relative;
-    z-index: 1;
-    border-radius: var(--dmc-radius-md);
-    border: 1px solid rgba(255,255,255,0.14);
-    background: rgba(255,255,255,0.08);
-    backdrop-filter: blur(12px);
+    background: #ffffff;
+    border: 1px solid rgba(181, 42, 172, 0.12);
+    border-radius: var(--dmc-radius-lg);
+    box-shadow: var(--dmc-shadow);
     padding: 26px;
   }
 
   .dmc-contact-list {
     list-style: none;
-    padding: 0;
     margin: 18px 0 0;
+    padding: 0;
   }
 
   .dmc-contact-list li + li {
     margin-top: 10px;
   }
 
-  .dmc-form-grid {
-    display: grid;
-    grid-template-columns: repeat(2, minmax(0, 1fr));
-    gap: 14px;
+  .dmc-contact-list a {
+    color: var(--dmc-accent);
   }
 
-  .dmc-field {
-    display: grid;
-    gap: 8px;
-  }
-
-  .dmc-field-full {
-    grid-column: 1 / -1;
-  }
-
-  .dmc-page input,
-  .dmc-page select,
-  .dmc-page textarea {
-    width: 100%;
-    border-radius: 12px;
-    border: 1px solid rgba(255,255,255,0.18);
-    background: rgba(255,255,255,0.96);
-    color: var(--dmc-ink);
-    padding: 14px 16px;
-    outline: none;
-  }
-
-  .dmc-page input:focus,
-  .dmc-page select:focus,
-  .dmc-page textarea:focus {
-    border-color: var(--dmc-gold);
-    box-shadow: 0 0 0 4px rgba(193, 143, 59, 0.18);
+  .dmc-contact-card strong {
+    color: var(--dmc-text);
   }
 
   .dmc-form-note {
-    color: rgba(255,255,255,0.78);
-    font-size: 0.94rem;
-    margin-top: 14px;
+    font-size: 0.95rem;
+    color: var(--dmc-text-muted);
   }
 
-  .dmc-form-status {
-    margin-top: 14px;
-    font-weight: 600;
+  .dmc-form-note a {
+    color: var(--dmc-accent);
+    font-weight: 700;
+  }
+
+  .dmc-tally-wrap {
+    border-radius: 14px;
+    overflow: hidden;
+    border: 1px solid var(--dmc-border);
+    background: var(--dmc-bg-soft);
   }
 
   .dmc-reveal {
@@ -624,36 +565,33 @@ description: Local DMC services in Nice, Cannes, Monaco, Marseille and Avignon f
     transform: translateY(0);
   }
 
-  @media (max-width: 980px) {
+  @media (max-width: 1100px) {
     .dmc-hero-wrap,
     .dmc-contact-grid,
     .dmc-grid-3,
     .dmc-grid-4,
-    .dmc-grid-2 {
-      grid-template-columns: 1fr;
-    }
-
-    .dmc-program-row {
-      grid-template-columns: 1fr;
-      gap: 8px;
-    }
-
+    .dmc-grid-2,
     .dmc-proof {
       grid-template-columns: 1fr;
     }
   }
 
-  @media (max-width: 720px) {
+  @media (max-width: 760px) {
     .dmc-hero {
-      padding-top: 44px;
+      padding-top: 48px;
     }
 
     .dmc-section {
       padding: 58px 0;
     }
 
-    .dmc-form-grid {
+    .dmc-container {
+      width: min(var(--dmc-max), calc(100% - 24px));
+    }
+
+    .dmc-program-row {
       grid-template-columns: 1fr;
+      gap: 10px;
     }
 
     .dmc-process-item {
@@ -712,7 +650,7 @@ description: Local DMC services in Nice, Cannes, Monaco, Marseille and Avignon f
         </div>
 
         <div class="dmc-panel-label">What this page is built for</div>
-        <h3 class="dmc-panel-title">A practical South of France operating partner for English-speaking B2B clients</h3>
+        <h3>A practical South of France operating partner for English-speaking B2B clients</h3>
 
         <ul class="dmc-panel-list">
           <li>Nice, Cannes, Monaco, Marseille and Avignon coverage</li>
@@ -742,8 +680,8 @@ description: Local DMC services in Nice, Cannes, Monaco, Marseille and Avignon f
         <div class="dmc-eyebrow">Who We Support</div>
         <h2>Built for partners who need local execution, not just destination ideas</h2>
         <p>
-          We work with travel agencies, tour operators, incentive planners, executive assistants, luxury travel
-          designers, corporate teams and private clients who need a trusted local partner in the South of France.
+          We work with travel agencies, tour operators, incentive planners, executive assistants, luxury travel designers,
+          corporate teams and private clients who need a trusted local partner in the South of France.
         </p>
       </div>
 
@@ -799,7 +737,7 @@ description: Local DMC services in Nice, Cannes, Monaco, Marseille and Avignon f
         <article class="dmc-card dmc-reveal">
           <div class="dmc-icon">05</div>
           <h3>Multi-day Riviera and Provence itineraries</h3>
-          <p>Custom journeys connecting Nice, Cannes, Monaco, Marseille and Avignon in a more coherent, realistic sequence.</p>
+          <p>Custom journeys connecting Nice, Cannes, Monaco and Avignon in a more coherent, realistic sequence.</p>
         </article>
 
         <article class="dmc-card dmc-reveal">
@@ -987,7 +925,7 @@ description: Local DMC services in Nice, Cannes, Monaco, Marseille and Avignon f
         </article>
       </div>
 
-      <div class="dmc-proof dmc-reveal" style="margin-top: 24px;">
+      <div class="dmc-proof dmc-reveal">
         <div class="dmc-card">
           <strong>5 Core Cities</strong>
           <p>Focused destination coverage for stronger local delivery.</p>
@@ -1115,78 +1053,38 @@ description: Local DMC services in Nice, Cannes, Monaco, Marseille and Avignon f
           <p>South of France DMC and ground services for agencies, event planners, corporate groups and private clients.</p>
 
           <ul class="dmc-contact-list">
-            <li><strong>Email:</strong> <a href="mailto:your-email@example.com">your-email@example.com</a></li>
-            <li><strong>Phone / WhatsApp:</strong> <a href="https://wa.me/YOUR_WHATSAPP_LINK">+33XXXXXXXXX</a></li>
+            <li><strong>Email:</strong> <a href="mailto:contact@aolitravel.com">contact@aolitravel.com</a></li>
+            <li><strong>Phone / WhatsApp:</strong> <a href="tel:+33783271988">(0033) 7 83 27 19 88</a></li>
             <li><strong>Website:</strong> <a href="https://aolitravel.com">aolitravel.com</a></li>
             <li><strong>Coverage:</strong> Nice, Cannes, Monaco, Marseille and Avignon</li>
           </ul>
 
-          <p class="dmc-form-note">For best results, include your dates, destinations, group size and the type of support you need.</p>
+          <p class="dmc-form-note">
+            For best results, include your dates, destinations, group size and the type of support you need.
+          </p>
         </aside>
 
         <div class="dmc-form-shell dmc-reveal">
-          <form data-dmc-form novalidate>
-            <div class="dmc-form-grid">
-              <div class="dmc-field">
-                <label for="company">Company</label>
-                <input id="company" name="company" type="text" placeholder="Agency or company name">
-              </div>
+          <div class="dmc-tally-wrap">
+            <iframe
+              data-tally-src="https://tally.so/r/YOUR_TALLY_FORM_ID?transparentBackground=1&dynamicHeight=1"
+              loading="lazy"
+              width="100%"
+              height="660"
+              frameborder="0"
+              marginheight="0"
+              marginwidth="0"
+              title="South of France DMC Inquiry"
+              style="border:0;background:transparent;"
+            ></iframe>
+          </div>
 
-              <div class="dmc-field">
-                <label for="contact-name">Contact name</label>
-                <input id="contact-name" name="contactName" type="text" placeholder="Your name" required>
-              </div>
-
-              <div class="dmc-field">
-                <label for="email">Email</label>
-                <input id="email" name="email" type="email" placeholder="name@company.com" required>
-              </div>
-
-              <div class="dmc-field">
-                <label for="phone">Phone / WhatsApp</label>
-                <input id="phone" name="phone" type="text" placeholder="+44..., +1..., +33...">
-              </div>
-
-              <div class="dmc-field">
-                <label for="dates">Travel dates</label>
-                <input id="dates" name="dates" type="text" placeholder="e.g. 12-16 September 2026">
-              </div>
-
-              <div class="dmc-field">
-                <label for="group-size">Group size</label>
-                <input id="group-size" name="groupSize" type="text" placeholder="e.g. 8 guests / 40 pax">
-              </div>
-
-              <div class="dmc-field dmc-field-full">
-                <label for="destinations">Destinations</label>
-                <input id="destinations" name="destinations" type="text" placeholder="Nice, Cannes, Monaco...">
-              </div>
-
-              <div class="dmc-field dmc-field-full">
-                <label for="services-needed">Services needed</label>
-                <select id="services-needed" name="servicesNeeded">
-                  <option value="">Select a service focus</option>
-                  <option>DMC planning and ground handling</option>
-                  <option>Private transport and transfers</option>
-                  <option>Incentive or hosted group program</option>
-                  <option>Executive travel support</option>
-                  <option>Multi-day Riviera and Provence itinerary</option>
-                  <option>VIP / bespoke request</option>
-                </select>
-              </div>
-
-              <div class="dmc-field dmc-field-full">
-                <label for="message">Project brief</label>
-                <textarea id="message" name="message" rows="6" placeholder="Tell us about the client profile, preferred tone, destinations, budget level or any fixed requirements." required></textarea>
-              </div>
-
-              <div class="dmc-field dmc-field-full">
-                <button class="dmc-button dmc-button-primary" type="submit">Prepare My Inquiry</button>
-                <div class="dmc-form-status" data-dmc-form-status aria-live="polite"></div>
-                <p class="dmc-form-note">This starter version opens your email app with a structured inquiry draft. Later, you can connect the same form to Formspree, Netlify Forms or your own backend.</p>
-              </div>
-            </div>
-          </form>
+          <p class="dmc-form-note" style="margin-top: 14px;">
+            Prefer direct contact? Email
+            <a href="mailto:contact@aolitravel.com">contact@aolitravel.com</a>
+            or call / WhatsApp
+            <a href="tel:+33783271988">(0033) 7 83 27 19 88</a>.
+          </p>
         </div>
       </div>
     </div>
@@ -1212,7 +1110,9 @@ description: Local DMC services in Nice, Cannes, Monaco, Marseille and Avignon f
       "Private transport",
       "Corporate travel support",
       "Incentive travel planning"
-    ]
+    ],
+    "email": "contact@aolitravel.com",
+    "telephone": "+33783271988"
   }
   </script>
 
@@ -1223,8 +1123,6 @@ description: Local DMC services in Nice, Cannes, Monaco, Marseille and Avignon f
       var faqToggles = document.querySelectorAll(".dmc-faq-toggle");
       var navLinks = document.querySelectorAll(".dmc-subnav a");
       var sections = document.querySelectorAll("[id]");
-      var form = document.querySelector("[data-dmc-form]");
-      var status = document.querySelector("[data-dmc-form-status]");
 
       if (revealItems.length) {
         if (prefersReducedMotion || !("IntersectionObserver" in window)) {
@@ -1273,8 +1171,7 @@ description: Local DMC services in Nice, Cannes, Monaco, Marseille and Avignon f
             var id = entry.target.getAttribute("id");
 
             navLinks.forEach(function (link) {
-              var isMatch = link.getAttribute("href") === "#" + id;
-              link.classList.toggle("is-active", isMatch);
+              link.classList.toggle("is-active", link.getAttribute("href") === "#" + id);
             });
           });
         }, { rootMargin: "-45% 0px -45% 0px", threshold: 0 });
@@ -1284,41 +1181,15 @@ description: Local DMC services in Nice, Cannes, Monaco, Marseille and Avignon f
         });
       }
 
-      if (form) {
-        form.addEventListener("submit", function (event) {
-          event.preventDefault();
-
-          var formData = new FormData(form);
-          var contactName = (formData.get("contactName") || "").toString().trim();
-          var email = (formData.get("email") || "").toString().trim();
-          var message = (formData.get("message") || "").toString().trim();
-
-          if (!contactName || !email || !message) {
-            status.textContent = "Please complete contact name, email and project brief before continuing.";
-            return;
-          }
-
-          var lines = [
-            "South of France DMC inquiry",
-            "",
-            "Company: " + (formData.get("company") || ""),
-            "Contact name: " + contactName,
-            "Email: " + email,
-            "Phone / WhatsApp: " + (formData.get("phone") || ""),
-            "Travel dates: " + (formData.get("dates") || ""),
-            "Group size: " + (formData.get("groupSize") || ""),
-            "Destinations: " + (formData.get("destinations") || ""),
-            "Services needed: " + (formData.get("servicesNeeded") || ""),
-            "",
-            "Project brief:",
-            message
-          ];
-
-          var subject = encodeURIComponent("South of France DMC Inquiry");
-          var body = encodeURIComponent(lines.join("\n"));
-          window.location.href = "mailto:your-email@example.com?subject=" + subject + "&body=" + body;
-          status.textContent = "Your email draft is ready. If nothing opened, please check your email app settings.";
-        });
+      if (typeof Tally !== "undefined") {
+        Tally.loadEmbeds();
+      } else {
+        var tallyScript = document.createElement("script");
+        tallyScript.src = "https://tally.so/widgets/embed.js";
+        tallyScript.onload = function () {
+          if (typeof Tally !== "undefined") Tally.loadEmbeds();
+        };
+        document.body.appendChild(tallyScript);
       }
     })();
   </script>
