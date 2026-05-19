@@ -3,7 +3,7 @@ layout: page
 title: 瑞士
 permalink: /switzerland/
 description: 邂逅瑞士风光，漫游阿尔卑斯心脏
-nav: true
+nav: false
 nav_order: 4
 display_categories: [瑞士全攻略, 法语区, 德语区, 意大利语区]
 horizontal: false
