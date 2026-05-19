@@ -3,7 +3,7 @@ layout: page
 title: 法国
 permalink: /france-travel/
 description: 法国旅游攻略，分享更多目的地指南、线路攻略及实用信息
-nav: true
+nav: false
 nav_order: 3
 display_categories: 
 horizontal: false
