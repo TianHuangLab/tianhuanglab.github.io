@@ -3,7 +3,7 @@ layout: page
 title: 巴黎
 permalink: /paris/
 description: 漫步浪漫巴黎，感受法式风情
-nav: true
+nav: false
 nav_order: 1
 display_categories: [巴黎, 大巴黎地区]
 horizontal: false
