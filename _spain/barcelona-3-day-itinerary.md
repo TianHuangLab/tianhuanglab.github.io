@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 巴塞罗那三天旅游攻略|第一次去这样玩就对了
+title: 巴塞罗那三日旅游攻略|第一次去这样玩就对了
 description: 从圣家堂、高迪建筑到哥特区，三天轻松玩转巴塞罗那
 img: assets/img/130barcelona/barcelona-0.webp
 importance: 1
@@ -463,7 +463,7 @@ Sangria 是很多游客来西班牙一定会尝试的饮品。它通常由红酒
 
 ---
 
-# 第一次去巴塞罗那的实用建议
+## 第一次去巴塞罗那的实用建议
 
 **1. 热门景点一定提前订票**
 
@@ -700,7 +700,7 @@ Sangria 是很多游客来西班牙一定会尝试的饮品。它通常由红酒
 
 [蔚蓝海岸艺术之旅｜尼斯及周边12大博物馆全攻略](https://aolitravel.com/south-of-france/france-cote-dazur-nice-art-trip/)
 
-[圣特罗佩|南法奢华旅游小镇历史旅游完全指南](https://aolitravel.com/south-of-france/saint-tropez-history-travel-guide/)
+[圣特罗佩｜南法奢华旅游小镇历史旅游完全指南](https://aolitravel.com/south-of-france/saint-tropez-history-travel-guide/)
 
 [毕加索小镇昂蒂布全攻略｜带你漫步老城区及市场](https://aolitravel.com/south-of-france/france-antibes-travel-guide/)
 
