@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 第一次去巴塞罗那住哪里？这份最全住宿区域攻略赶紧收藏！
+title: 第一次去巴塞罗那住哪里？超强住宿区域指南！
 description: 帮你按预算、交通、景点和旅行风格挑选最适合的住宿区域～
 img: assets/img/133where-stay-in-barcelona/where-to-stay-in-barcelona-0.webp
 importance: 3
@@ -279,7 +279,7 @@ published: true
 
 ---
 
-## 7. 波布雷诺 Poblenou：有海风、有社区感，也有新巴塞罗那
+## 7. 波布雷诺 Poblenou：海边社区，也是新巴塞罗那
 
 波布雷诺是一个很有意思的区域。它不像老城那样古老，也不像格拉西亚大道那样精致。它有一点工业遗产的粗粝感，也有海边生活的松弛感。Rambla del Poblenou很好逛，餐厅、咖啡馆、面包店、当地小店都很舒服。
 
@@ -329,7 +329,7 @@ Diagonal Mar所在的海滨区域经历了较晚的城市更新。20世纪末开
 
 **Selva de Mar站**：L4。
 
-**El Maresme | Fòrum站**：L4，靠近Forum和Diagonal Mar海边区域。
+**El Maresme Fòrum站**：L4，靠近Forum和Diagonal Mar海边区域。
 
 电车Trambesòs也服务这一带。
 
@@ -341,7 +341,7 @@ Diagonal Mar所在的海滨区域经历了较晚的城市更新。20世纪末开
 
 ---
 
-## 9. Fira Barcelona / Hospitalet：预算优先时可以考虑
+## 9. Fira Barcelona & Hospitalet：预算优先时可以考虑
 
 如果你的预算比较敏感，又想住到设施不错的连锁酒店，可以看看靠近**Fira Barcelona**的Hospitalet de Llobregat区域。严格来说，它已经不属于巴塞罗那市中心，而是在旁边的城市Hospitalet。
 
@@ -359,7 +359,7 @@ Diagonal Mar所在的海滨区域经历了较晚的城市更新。20世纪末开
 
 常用站点：
 
-**Europa | Fira站**：FGC和地铁相关线路，适合会展区域。
+**Europa Fira站**：FGC和地铁相关线路，适合会展区域。
 
 **Fira站**：L9 Sud，可连接机场方向。
 
