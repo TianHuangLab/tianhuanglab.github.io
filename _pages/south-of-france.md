@@ -3,8 +3,8 @@ layout: page
 title: 南法
 permalink: /south-of-france/
 description: 探秘普罗旺斯、蔚蓝海岸
-nav: false
-nav_order: 2
+nav: true
+nav_order: 0.2
 display_categories: [解锁南法, 普罗旺斯, 蔚蓝海岸]
 horizontal: false
 ---
