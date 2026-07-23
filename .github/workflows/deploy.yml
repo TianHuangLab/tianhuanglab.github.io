@@ -60,6 +60,10 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: deploy-site
+  cancel-in-progress: true
+
 jobs:
   deploy:
     # available images: https://github.com/actions/runner-images#available-images
@@ -86,10 +90,9 @@ jobs:
           value: ${{ github.repository }}
       - name: Install and Build 🔧
         run: |
-          sudo apt-get update && sudo apt-get install -y imagemagick
           pip3 install --upgrade nbconvert
           export JEKYLL_ENV=production
-          bundle exec jekyll build
+          bundle exec jekyll build --config _config.yml,_config_deploy.yml
       - name: Purge unused CSS 🧹
         run: |
           npm install -g purgecss
