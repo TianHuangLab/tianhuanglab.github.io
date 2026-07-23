@@ -88,7 +88,9 @@ jobs:
           valueFile: "_config.yml"
           propertyPath: "giscus.repo"
           value: ${{ github.repository }}
-
+      - name: Install Python dependencies 🐍
+        run: |
+          pip3 install --upgrade nbconvert
       - name: Build Jekyll site 🔧
         run: |
           export JEKYLL_ENV=production
