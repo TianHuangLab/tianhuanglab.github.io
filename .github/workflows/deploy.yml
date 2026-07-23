@@ -88,14 +88,16 @@ jobs:
           valueFile: "_config.yml"
           propertyPath: "giscus.repo"
           value: ${{ github.repository }}
-      - name: Install and Build 🔧
+
+      - name: Build Jekyll site 🔧
         run: |
-          pip3 install --upgrade nbconvert
           export JEKYLL_ENV=production
           bundle exec jekyll build --config _config.yml,_config_deploy.yml
-      - name: Purge unused CSS 🧹
+      - name: Install PurgeCSS 🧹
         run: |
           npm install -g purgecss
+      - name: Purge unused CSS 🧹
+        run: |
           purgecss -c purgecss.config.js
       - name: Deploy 🚀
         if: github.event_name != 'pull_request'
