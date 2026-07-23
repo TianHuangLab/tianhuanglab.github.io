@@ -94,7 +94,7 @@ jobs:
       - name: Build Jekyll site 🔧
         run: |
           export JEKYLL_ENV=production
-          bundle exec jekyll build --config _config.yml,_config_deploy.yml
+          bundle exec jekyll build --config _config.yml,_config_deploy.yml --profile
       - name: Install PurgeCSS 🧹
         run: |
           npm install -g purgecss
