@@ -76,11 +76,6 @@ jobs:
         with:
           ruby-version: "3.3.5"
           bundler-cache: true
-      - name: Setup Python 🐍
-        uses: actions/setup-python@v5
-        with:
-          python-version: "3.13"
-          cache: "pip" # caching pip dependencies
       - name: Update _config.yml ⚙️
         uses: fjogeleit/yaml-update-action@main
         with:
@@ -88,9 +83,6 @@ jobs:
           valueFile: "_config.yml"
           propertyPath: "giscus.repo"
           value: ${{ github.repository }}
-      - name: Install Python dependencies 🐍
-        run: |
-          pip3 install --upgrade nbconvert
       - name: Build Jekyll site 🔧
         run: |
           export JEKYLL_ENV=production
