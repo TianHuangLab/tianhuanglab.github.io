@@ -83,6 +83,17 @@ jobs:
           valueFile: "_config.yml"
           propertyPath: "giscus.repo"
           value: ${{ github.repository }}
+      - name: Inspect asset size
+        run: |
+          du -sh assets || true
+          echo "Total asset files:"
+          find assets -type f | wc -l
+          echo "Files larger than 1MB:"
+          find assets -type f -size +1M | wc -l
+          echo "Files larger than 5MB:"
+          find assets -type f -size +5M | wc -l
+          echo "Top 30 largest files:"
+          find assets -type f -exec du -h {} + | sort -hr | head -n 30
       - name: Build Jekyll site 🔧
         run: |
           export JEKYLL_ENV=production
