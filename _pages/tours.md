@@ -45,6 +45,60 @@ images:
 这次准备玩几天？从哪里抵达、最后从哪里离开？是带父母孩子家人出行，还是和情侣、朋友一起？你更喜欢轻松一点、每天慢慢逛，还是希望在有限的时间里多走几个地方？
 
 
+<style>
+  .route-choice-result {
+    display: flex;
+    align-items: center;
+    gap: 1.5rem;
+  }
+
+  .route-choice-main {
+    flex: 1 1 auto;
+    min-width: 0;
+  }
+
+  .route-choice-action {
+    flex: 0 0 auto;
+    text-align: right;
+  }
+
+  .route-choice-action .btn {
+    white-space: nowrap;
+  }
+
+  @media (max-width: 560px) {
+    .route-choice-result {
+      align-items: flex-start;
+      flex-direction: column;
+    }
+
+    .route-choice-action {
+      text-align: left;
+      width: 100%;
+    }
+  }
+
+
+  .tour-products-two {
+    display: grid;
+    gap: 1.5rem;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .tour-products-two > .col {
+    max-width: none;
+    padding-left: 0;
+    padding-right: 0;
+    width: auto;
+  }
+
+  @media (max-width: 560px) {
+    .tour-products-two {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>
+
 <div class="card hoverable mb-4" id="route-choice-card">
   <div class="card-body">
     <p class="text-muted mb-2">先选一个最适合你的情况</p>
@@ -56,13 +110,13 @@ images:
       <button type="button" class="btn btn-sm btn-outline-secondary" data-route-choice="custom">我还没想清楚</button>
     </div>
 
-    <div class="row align-items-center">
-      <div class="col-md-8">
+    <div class="route-choice-result">
+      <div class="route-choice-main">
         <h3 id="route-choice-title" class="card-title">先看南法深度多日游</h3>
         <p id="route-choice-text" class="card-text">如果你这次就是想把南法玩扎实，先看南法7天。它不是把景点硬塞满，而是把马赛、普罗旺斯小镇、蔚蓝海岸、艺术和自然风景串成一条比较顺的路线。走起来不会那么碎。</p>
         <p id="route-choice-note" class="card-text"><small class="text-muted">比较适合：家庭、情侣、朋友小团；不想自驾，也不想每天都在研究交通。</small></p>
       </div>
-      <div class="col-md-4 text-md-right mt-3 mt-md-0">
+      <div class="route-choice-action">
         <a id="route-choice-link" href="#南法深度多日游" class="btn btn-lg text-white" style="background-color: #6f42c1; border-radius: 0.75rem;">查看推荐路线</a>
       </div>
     </div>
@@ -180,7 +234,7 @@ images:
   </div>
   {% else %}
   {% if category == "南法深度多日游" or category == "法国与欧洲长线" %}
-  <div class="row row-cols-1 row-cols-md-2">
+  <div class="tour-products-two">
   {% else %}
   <div class="row row-cols-1 row-cols-md-3">
   {% endif %}
