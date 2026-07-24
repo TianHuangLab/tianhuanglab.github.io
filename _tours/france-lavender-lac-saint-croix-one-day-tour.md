@@ -4,7 +4,7 @@ title: 经典之选｜南法普罗旺斯薰衣草漫步与圣十字湖一日游
 img: assets/img/15visit-champ-lavande-saint-croix-verdon-moustiers-sainte-marie/visit-champ-lavande-saint-croix-verdon-moustiers-sainte-marie-2.jpg
 nav: true
 importance: 3
-category: 
+category: 南法一日游与深度体验
 pretty_table: true
 images:
   slider: true

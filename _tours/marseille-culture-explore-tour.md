@@ -4,7 +4,7 @@ title: 深度体验｜基督山伯爵之旅与马赛城市探索一日游
 img: assets/img/17visit-marseille-top15-things-to-do/17-aolitravel.com-visit-marseille-top15-things-to-do-16.jpg
 nav: false
 importance: 8
-category: 
+category: 南法一日游与深度体验
 pretty_table: true
 images:
   slider: true

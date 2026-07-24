@@ -4,7 +4,7 @@ title: 经典之选｜南法普罗旺斯艺术与古迹之旅一日游
 img: assets/img/18visit-arles-city-guide/aolitravel.com-18visit-arles-city-guide-2.jpg
 nav: false
 importance: 6
-category: 
+category: 南法一日游与深度体验
 pretty_table: true
 images:
   slider: true

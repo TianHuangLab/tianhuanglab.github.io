@@ -3,7 +3,7 @@ layout: page
 title: 经典之选｜巴黎印象派之光：莫奈花园 · 梵高小镇 · 奥赛博物馆一日游
 img: assets/img/77art-immersion-one-day-tour/art-immersion-one-day-tour-0.jpg
 importance: 12
-category: 
+category: 巴黎及周边小团
 pretty_table: true
 images:
   slider: true

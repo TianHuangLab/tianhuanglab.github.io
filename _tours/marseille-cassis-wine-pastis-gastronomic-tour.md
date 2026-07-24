@@ -3,7 +3,7 @@ layout: page
 title: 深度探索｜南法马赛普罗旺斯风味美食与美酒之旅一日游
 img: assets/img/0tours/marseille-wine-tasting-tour-4.webp
 importance: 7
-category: 
+category: 南法一日游与深度体验
 pretty_table: true
 images:
   slider: true

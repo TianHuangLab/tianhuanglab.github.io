@@ -4,7 +4,7 @@ title: 10天9夜法国深度漫游｜巴黎·普罗旺斯·蔚蓝海岸浪漫诗
 img: assets/img/61france-10days-tour/france-10days-tour-0.webp
 nav: false
 importance: 3
-category: 
+category: 法国与欧洲长线
 pretty_table: true
 images:
   slider: true

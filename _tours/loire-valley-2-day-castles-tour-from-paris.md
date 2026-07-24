@@ -3,7 +3,7 @@ layout: page
 title: 深度探索｜卢瓦尔河谷古堡与文艺复兴2日游：香波堡·舍农索·达芬奇
 img: assets/img/52visit-castles-the-loire-france/visit-castles-the-loire-france-14.webp
 importance: 13
-category: 
+category: 巴黎及周边小团
 pretty_table: true
 images:
   slider: true

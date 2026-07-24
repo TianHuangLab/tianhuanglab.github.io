@@ -4,7 +4,7 @@ title: 经典之选｜南法马赛与卡西斯海滨小镇一日游
 img: assets/img/11marseille-1day-trip/11marseille-1day-trip-0.jpg
 nav: false
 importance: 2
-category: 
+category: 南法一日游与深度体验
 pretty_table: true
 images:
   slider: true

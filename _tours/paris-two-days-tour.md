@@ -3,7 +3,7 @@ layout: page
 title: 深度体验｜巴黎二日精华游：艺术、浪漫与皇家宫殿全体验
 img: assets/img/2paris-top-20-30.jpg
 importance: 11
-category: 
+category: 巴黎及周边小团
 pretty_table: true
 images:
   slider: true

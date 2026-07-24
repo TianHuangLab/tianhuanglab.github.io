@@ -3,7 +3,7 @@ layout: page
 title: 经典之选｜巴黎地标巡礼与凡尔赛宫皇宫一日游
 img: assets/img/2paris-top-20-20.jpg
 importance: 10
-category: 
+category: 巴黎及周边小团
 pretty_table: true
 images:
   slider: true

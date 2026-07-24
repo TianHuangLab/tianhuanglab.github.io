@@ -3,7 +3,7 @@ layout: page
 title: 深度体验｜火烈鸟公园、梦幻粉色盐湖与艾格莫尔古城一日游
 img: assets/img/0tours/tour-camargue-3a.webp
 importance: 7.5
-category: 
+category: 南法一日游与深度体验
 pretty_table: true
 images:
   slider: true
