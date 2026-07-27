@@ -61,8 +61,8 @@ images:
   <p><strong>这条路线适不适合你？</strong></p>
   <p><strong>法意瑞13–14天：巴黎进，南法出，一路从城市、雪山走到地中海。</strong></p>
   <div class="row mt-4">
-    <div class="col-md-6 mb-3 mb-md-0">
-      <div style="border: 1px solid rgba(111, 66, 193, 0.25); border-top: 3px solid #6f42c1; background: linear-gradient(180deg, rgba(111, 66, 193, 0.055), rgba(111, 66, 193, 0.018)); padding: 1.1rem 1.15rem; height: 100%; border-radius: 0.35rem;">
+    <div class="col-md-6 mb-3 mb-md-0 d-flex">
+      <div class="w-100" style="border: 1px solid rgba(111, 66, 193, 0.25); border-top: 3px solid #6f42c1; background: linear-gradient(180deg, rgba(111, 66, 193, 0.055), rgba(111, 66, 193, 0.018)); padding: 1.1rem 1.15rem; height: 100%; border-radius: 0.35rem;">
         <p style="font-size: 0.85rem; letter-spacing: 0.08em; color: #6f42c1; margin-bottom: 0.5rem;">推荐选择</p>
         <p><strong>比较适合你，如果：</strong></p>
         <ul class="mb-0">
@@ -75,8 +75,8 @@ images:
         </ul>
       </div>
     </div>
-    <div class="col-md-6">
-      <div style="border: 1px solid rgba(0, 0, 0, 0.08); padding: 1.1rem 1.15rem; height: 100%; border-radius: 0.35rem;">
+    <div class="col-md-6 d-flex">
+      <div class="w-100" style="border: 1px solid rgba(0, 0, 0, 0.08); padding: 1.1rem 1.15rem; height: 100%; border-radius: 0.35rem;">
         <p style="font-size: 0.85rem; letter-spacing: 0.08em; color: #777; margin-bottom: 0.5rem;">需要重新评估</p>
         <p><strong>可能不太适合，如果：</strong></p>
         <ul class="mb-0">

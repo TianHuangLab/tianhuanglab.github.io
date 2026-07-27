@@ -1,0 +1,459 @@
+{
+  "type": "FeatureCollection",
+  "name": "法国西班牙南欧阳光10天｜巴塞罗那·普罗旺斯·蔚蓝海岸",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "法国西班牙南欧阳光10天路线",
+        "description": "巴塞罗那进，沿地中海进入法国南部，经过卡尔卡松、蒙彼利埃、阿维尼翁、普罗旺斯、马赛、卡西斯，最后抵达戛纳、尼斯、埃兹与摩纳哥。<br><br><a href=\"https://aolitravel.com/tours/france-spain-south-france-10-days-tour/\" target=\"_blank\">查看法国西班牙南欧阳光10天产品详情</a>",
+        "stroke": "#6f42c1",
+        "stroke-width": 4,
+        "stroke-opacity": 0.85,
+        "_umap_options": {
+          "color": "#6f42c1",
+          "weight": 4,
+          "opacity": 0.85
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.1686,
+            41.3874
+          ],
+          [
+            1.8379,
+            41.5931
+          ],
+          [
+            1.8059,
+            41.2368
+          ],
+          [
+            2.363,
+            43.2068
+          ],
+          [
+            3.8799,
+            43.6086
+          ],
+          [
+            4.8075,
+            43.9509
+          ],
+          [
+            5.2004,
+            43.9113
+          ],
+          [
+            5.1287,
+            43.9225
+          ],
+          [
+            4.6308,
+            43.6776
+          ],
+          [
+            4.7951,
+            43.7439
+          ],
+          [
+            4.8317,
+            43.7885
+          ],
+          [
+            5.3748,
+            43.2951
+          ],
+          [
+            5.5396,
+            43.214
+          ],
+          [
+            7.0174,
+            43.5528
+          ],
+          [
+            7.262,
+            43.7102
+          ],
+          [
+            7.3619,
+            43.7278
+          ],
+          [
+            7.4246,
+            43.7384
+          ],
+          [
+            7.215,
+            43.6653
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "D1 巴塞罗那｜抵达与市内轻松适应",
+        "description": "抵达巴塞罗那后，先以兰布拉大道、波盖利亚市场、海港或老城周边轻松适应。第一天不建议安排太重的门票项目，让旅程从南欧城市气息里自然开始。<br><br><a href=\"https://aolitravel.com/tours/france-spain-south-france-10-days-tour/\" target=\"_blank\">查看法国西班牙南欧阳光10天产品详情</a>",
+        "_umap_options": {
+          "color": "#6f42c1",
+          "iconClass": "Drop",
+          "iconUrl": "1"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1686,
+          41.3874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "D2 巴塞罗那｜圣家堂 · 高迪建筑 · 哥特区",
+        "description": "这一天集中游览巴塞罗那经典景点：圣家堂、格拉西亚大道、巴特罗之家、米拉之家与哥特区。从高迪建筑的想象力，到老城街巷的生活气，完整感受巴塞罗那的城市魅力。<br><br><a href=\"https://aolitravel.com/tours/france-spain-south-france-10-days-tour/\" target=\"_blank\">查看法国西班牙南欧阳光10天产品详情</a>",
+        "_umap_options": {
+          "color": "#6f42c1",
+          "iconClass": "Drop",
+          "iconUrl": "2"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1744,
+          41.4036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "D3 蒙特塞拉特山｜加泰罗尼亚山景与修道院",
+        "description": "离开巴塞罗那市区，前往蒙特塞拉特山。奇特山体、修道院与观景平台，让西班牙段不只停留在城市建筑，也多一层自然与精神性的开阔感。<br><br><a href=\"https://aolitravel.com/tours/france-spain-south-france-10-days-tour/\" target=\"_blank\">查看法国西班牙南欧阳光10天产品详情</a>",
+        "_umap_options": {
+          "color": "#6f42c1",
+          "iconClass": "Drop",
+          "iconUrl": "3"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8379,
+          41.5931
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "D3 锡切斯｜海滨小镇",
+        "description": "蒙特塞拉特之后前往锡切斯。白色房子、海边步道、老城街巷和轻松的度假气息，让巴塞罗那段以一山一海的方式收尾。<br><br><a href=\"https://aolitravel.com/tours/france-spain-south-france-10-days-tour/\" target=\"_blank\">查看法国西班牙南欧阳光10天产品详情</a>",
+        "_umap_options": {
+          "color": "#6f42c1",
+          "iconClass": "Drop",
+          "iconUrl": "3"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8059,
+          41.2368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "D4 卡尔卡松｜中世纪城堡",
+        "description": "从西班牙进入法国南部后，卡尔卡松是很有画面感的第一站。城墙、塔楼与石板街让旅程从加泰罗尼亚城市气质，转入法国南部的古城氛围。<br><br><a href=\"https://aolitravel.com/tours/france-spain-south-france-10-days-tour/\" target=\"_blank\">查看法国西班牙南欧阳光10天产品详情</a>",
+        "_umap_options": {
+          "color": "#6f42c1",
+          "iconClass": "Drop",
+          "iconUrl": "4"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.363,
+          43.2068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "D4 蒙彼利埃｜南法城市过渡",
+        "description": "傍晚抵达蒙彼利埃。这里有老城、广场、街巷和南法生活感，适合作为进入普罗旺斯前的一晚过渡。<br><br><a href=\"https://aolitravel.com/tours/france-spain-south-france-10-days-tour/\" target=\"_blank\">查看法国西班牙南欧阳光10天产品详情</a>",
+        "_umap_options": {
+          "color": "#6f42c1",
+          "iconClass": "Drop",
+          "iconUrl": "4"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.8799,
+          43.6086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "D5 阿维尼翁｜教皇宫与老城",
+        "description": "进入普罗旺斯腹地，先看阿维尼翁。教皇宫、城墙与老城让这座城市带着厚重的历史感，是法国南部很重要的一站。<br><br><a href=\"https://aolitravel.com/tours/france-spain-south-france-10-days-tour/\" target=\"_blank\">查看法国西班牙南欧阳光10天产品详情</a>",
+        "_umap_options": {
+          "color": "#6f42c1",
+          "iconClass": "Drop",
+          "iconUrl": "5"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8075,
+          43.9509
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "D5 戈尔德｜吕贝隆石头城",
+        "description": "戈尔德建在山坡之上，石屋层层铺开，是普罗旺斯最有代表性的山城之一。这里适合放慢脚步，看小镇、山谷与南法光线。<br><br><a href=\"https://aolitravel.com/tours/france-spain-south-france-10-days-tour/\" target=\"_blank\">查看法国西班牙南欧阳光10天产品详情</a>",
+        "_umap_options": {
+          "color": "#6f42c1",
+          "iconClass": "Drop",
+          "iconUrl": "5"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2004,
+          43.9113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "D5 泉水小镇｜Fontaine-de-Vaucluse",
+        "description": "泉水小镇更柔和，清澈的水、树荫和小街，让这一天从阿维尼翁的历史建筑，过渡到普罗旺斯的自然与小镇生活。<br><br><a href=\"https://aolitravel.com/tours/france-spain-south-france-10-days-tour/\" target=\"_blank\">查看法国西班牙南欧阳光10天产品详情</a>",
+        "_umap_options": {
+          "color": "#6f42c1",
+          "iconClass": "Drop",
+          "iconUrl": "5"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1287,
+          43.9225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "D6 阿尔勒｜古罗马遗迹与梵高记忆",
+        "description": "阿尔勒有古罗马遗迹，也有梵高留下的艺术记忆。这里适合用半天时间感受普罗旺斯的历史、阳光和艺术气质。<br><br><a href=\"https://aolitravel.com/tours/france-spain-south-france-10-days-tour/\" target=\"_blank\">查看法国西班牙南欧阳光10天产品详情</a>",
+        "_umap_options": {
+          "color": "#6f42c1",
+          "iconClass": "Drop",
+          "iconUrl": "6"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6308,
+          43.6776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "D6 莱博普罗旺斯｜岩石古城",
+        "description": "莱博坐落在岩石山地之上，视野开阔，城堡遗址和石头街巷都很有南法气质。天气晴朗时，这一站很容易成为普罗旺斯段的记忆点。<br><br><a href=\"https://aolitravel.com/tours/france-spain-south-france-10-days-tour/\" target=\"_blank\">查看法国西班牙南欧阳光10天产品详情</a>",
+        "_umap_options": {
+          "color": "#6f42c1",
+          "iconClass": "Drop",
+          "iconUrl": "6"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7951,
+          43.7439
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "D6 圣雷米｜普罗旺斯小镇",
+        "description": "圣雷米比阿尔勒更安静，适合散步、喝咖啡，也适合感受普罗旺斯柔和的一面。这里可以根据季节、体力和当天节奏灵活停留。<br><br><a href=\"https://aolitravel.com/tours/france-spain-south-france-10-days-tour/\" target=\"_blank\">查看法国西班牙南欧阳光10天产品详情</a>",
+        "_umap_options": {
+          "color": "#6f42c1",
+          "iconClass": "Drop",
+          "iconUrl": "6"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8317,
+          43.7885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "D7 马赛｜老港与守护圣母大教堂",
+        "description": "上午从马赛老港开始，随后登上守护圣母大教堂，从高处看海港、城市屋顶和地中海。马赛真实、明亮，也很有南法生活气。<br><br><a href=\"https://aolitravel.com/tours/france-spain-south-france-10-days-tour/\" target=\"_blank\">查看法国西班牙南欧阳光10天产品详情</a>",
+        "_umap_options": {
+          "color": "#6f42c1",
+          "iconClass": "Drop",
+          "iconUrl": "7"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3716,
+          43.2843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "D7 卡西斯｜海滨小镇与卡朗格峡湾",
+        "description": "下午前往卡西斯。这个海边小镇有彩色房子、港口餐厅、海风和卡朗格峡湾的自然气息，适合轻松散步、观景或安排游船。<br><br><a href=\"https://aolitravel.com/tours/france-spain-south-france-10-days-tour/\" target=\"_blank\">查看法国西班牙南欧阳光10天产品详情</a>",
+        "_umap_options": {
+          "color": "#6f42c1",
+          "iconClass": "Drop",
+          "iconUrl": "7"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5396,
+          43.214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "D8 戛纳｜电影宫 · 海滨大道 · 老城",
+        "description": "从马赛出发，沿地中海向东前往蔚蓝海岸，途中停留戛纳。这里更精致、更度假，适合作为从普罗旺斯过渡到尼斯的一站。<br><br><a href=\"https://aolitravel.com/tours/france-spain-south-france-10-days-tour/\" target=\"_blank\">查看法国西班牙南欧阳光10天产品详情</a>",
+        "_umap_options": {
+          "color": "#6f42c1",
+          "iconClass": "Drop",
+          "iconUrl": "8"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0174,
+          43.5528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "D8 尼斯｜蔚蓝海岸入住",
+        "description": "下午抵达尼斯入住。傍晚可以在英国人散步大道、尼斯老城或海边自由活动，慢慢进入蔚蓝海岸的海风、阳光和城市度假感。<br><br><a href=\"https://aolitravel.com/tours/france-spain-south-france-10-days-tour/\" target=\"_blank\">查看法国西班牙南欧阳光10天产品详情</a>",
+        "_umap_options": {
+          "color": "#6f42c1",
+          "iconClass": "Drop",
+          "iconUrl": "8"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.262,
+          43.7102
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "D9 埃兹｜山顶小镇与地中海视角",
+        "description": "埃兹是蔚蓝海岸最有代表性的山顶小镇之一。石头街巷、热带花园和俯瞰地中海的视角，都适合慢慢看。<br><br><a href=\"https://aolitravel.com/tours/france-spain-south-france-10-days-tour/\" target=\"_blank\">查看法国西班牙南欧阳光10天产品详情</a>",
+        "_umap_options": {
+          "color": "#6f42c1",
+          "iconClass": "Drop",
+          "iconUrl": "9"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.3619,
+          43.7278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "D9 摩纳哥｜王宫广场 · 港口 · 蒙特卡洛",
+        "description": "下午进入摩纳哥，游览王宫广场、港口与蒙特卡洛一带。这里是南法海岸线上最特别的一座小国，也很适合作为整条路线的高光收尾。<br><br><a href=\"https://aolitravel.com/tours/france-spain-south-france-10-days-tour/\" target=\"_blank\">查看法国西班牙南欧阳光10天产品详情</a>",
+        "_umap_options": {
+          "color": "#6f42c1",
+          "iconClass": "Drop",
+          "iconUrl": "9"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4246,
+          43.7384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "D10 尼斯机场｜送机返程",
+        "description": "推荐从尼斯机场离境，路线最自然，前一晚住尼斯即可，早上不用折返。如果航班更适合马赛，也可以调整为马赛送机，但需要重新预留车程。<br><br><a href=\"https://aolitravel.com/tours/france-spain-south-france-10-days-tour/\" target=\"_blank\">查看法国西班牙南欧阳光10天产品详情</a>",
+        "_umap_options": {
+          "color": "#6f42c1",
+          "iconClass": "Drop",
+          "iconUrl": "10"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.215,
+          43.6653
+        ]
+      }
+    }
+  ]
+}
