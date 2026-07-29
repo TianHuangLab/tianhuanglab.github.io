@@ -1,0 +1,455 @@
+{
+  "type": "FeatureCollection",
+  "name": "法国意大利南欧艺术海岸12天｜罗马·托斯卡纳·佛罗伦萨·五渔村·尼斯·摩纳哥·普罗旺斯·马赛",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "法国意大利南欧艺术海岸12天路线",
+        "description": "罗马进，经过佛罗伦萨、托斯卡纳、五渔村和利古里亚海岸，进入法国南部的尼斯、埃兹、摩纳哥、普罗旺斯与马赛。一路从古典艺术走向地中海阳光，适合家庭、情侣和朋友小团包车旅行。<br><br><a href=\"https://aolitravel.com/tours/france-italy-south-europe-art-coast-12-days-tour/\" target=\"_blank\">查看法国意大利南欧艺术海岸12天产品详情</a>",
+        "stroke": "#6f42c1",
+        "stroke-width": 4,
+        "stroke-opacity": 0.85,
+        "_umap_options": {
+          "color": "#6f42c1",
+          "weight": 4,
+          "opacity": 0.85
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4964,
+            41.9028
+          ],
+          [
+            12.4534,
+            41.9029
+          ],
+          [
+            11.2558,
+            43.7696
+          ],
+          [
+            11.3308,
+            43.3188
+          ],
+          [
+            11.0438,
+            43.4677
+          ],
+          [
+            10.5027,
+            43.8429
+          ],
+          [
+            10.4017,
+            43.7228
+          ],
+          [
+            9.8241,
+            44.1025
+          ],
+          [
+            9.683,
+            44.135
+          ],
+          [
+            9.2094,
+            44.3032
+          ],
+          [
+            8.9463,
+            44.4056
+          ],
+          [
+            7.262,
+            43.7102
+          ],
+          [
+            7.3619,
+            43.7278
+          ],
+          [
+            7.4246,
+            43.7384
+          ],
+          [
+            7.1251,
+            43.5804
+          ],
+          [
+            5.4474,
+            43.5297
+          ],
+          [
+            5.3698,
+            43.2965
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "D1 罗马｜抵达与市内轻松适应",
+        "description": "抵达罗马后，先入住休息，轻松适应时差。如果时间合适，可以在纳沃纳广场、万神殿周边或特拉斯提弗列一带散步，让旅程从罗马老城的灯光和街巷里慢慢开始。<br><br><a href=\"https://aolitravel.com/tours/france-italy-south-europe-art-coast-12-days-tour/\" target=\"_blank\">查看法国意大利南欧艺术海岸12天产品详情</a>",
+        "_umap_options": {
+          "color": "#6f42c1",
+          "iconClass": "Drop",
+          "iconUrl": "1"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4964,
+          41.9028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "D2 罗马｜古罗马竞技场 · 罗马广场 · 老城经典",
+        "description": "这一天走进罗马最经典的一面：古罗马竞技场、罗马广场、万神殿、许愿池和西班牙广场。古迹、喷泉和老城街巷交织在一起，是整趟南欧艺术海岸线厚重而漂亮的开场。<br><br><a href=\"https://aolitravel.com/tours/france-italy-south-europe-art-coast-12-days-tour/\" target=\"_blank\">查看法国意大利南欧艺术海岸12天产品详情</a>",
+        "_umap_options": {
+          "color": "#6f42c1",
+          "iconClass": "Drop",
+          "iconUrl": "2"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4922,
+          41.8902
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "D3 梵蒂冈｜博物馆 · 西斯廷礼拜堂 · 圣彼得大教堂",
+        "description": "这一天留给梵蒂冈和罗马深度游。梵蒂冈博物馆、西斯廷礼拜堂和圣彼得大教堂信息量很大，适合单独留出时间慢慢看，也可以根据体力调整参观重点。<br><br><a href=\"https://aolitravel.com/tours/france-italy-south-europe-art-coast-12-days-tour/\" target=\"_blank\">查看法国意大利南欧艺术海岸12天产品详情</a>",
+        "_umap_options": {
+          "color": "#6f42c1",
+          "iconClass": "Drop",
+          "iconUrl": "3"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4534,
+          41.9029
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "D4 佛罗伦萨｜文艺复兴城市初见",
+        "description": "离开罗马前往佛罗伦萨。抵达后可轻松进入老城，游览圣母百花大教堂、领主广场、老桥和阿诺河两岸，让旅程从罗马的古典厚重，转入文艺复兴的城市气质。<br><br><a href=\"https://aolitravel.com/tours/france-italy-south-europe-art-coast-12-days-tour/\" target=\"_blank\">查看法国意大利南欧艺术海岸12天产品详情</a>",
+        "_umap_options": {
+          "color": "#6f42c1",
+          "iconClass": "Drop",
+          "iconUrl": "4"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2558,
+          43.7696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "D5 佛罗伦萨｜乌菲兹美术馆 · 老桥 · 米开朗琪罗广场",
+        "description": "完整留给佛罗伦萨的一天。喜欢艺术的客人可以重点安排乌菲兹美术馆或学院美术馆；想轻松一点，也可以把时间留给老城散步、咖啡、购物和米开朗琪罗广场的城市全景。<br><br><a href=\"https://aolitravel.com/tours/france-italy-south-europe-art-coast-12-days-tour/\" target=\"_blank\">查看法国意大利南欧艺术海岸12天产品详情</a>",
+        "_umap_options": {
+          "color": "#6f42c1",
+          "iconClass": "Drop",
+          "iconUrl": "5"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2558,
+          43.7696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "D6 锡耶纳｜托斯卡纳山城",
+        "description": "从佛罗伦萨进入托斯卡纳精华段。锡耶纳的田野广场、中世纪老城和砖红色调，让这一天有了真正的托斯卡纳气息。<br><br><a href=\"https://aolitravel.com/tours/france-italy-south-europe-art-coast-12-days-tour/\" target=\"_blank\">查看法国意大利南欧艺术海岸12天产品详情</a>",
+        "_umap_options": {
+          "color": "#6f42c1",
+          "iconClass": "Drop",
+          "iconUrl": "6"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3308,
+          43.3188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "D6 圣吉米尼亚诺｜塔楼小镇与山丘风景",
+        "description": "继续前往圣吉米尼亚诺。塔楼、小镇轮廓和周围山丘，让托斯卡纳从城市艺术转向乡间风景。适合慢慢走一段，也适合根据季节安排酒庄或农庄午餐。<br><br><a href=\"https://aolitravel.com/tours/france-italy-south-europe-art-coast-12-days-tour/\" target=\"_blank\">查看法国意大利南欧艺术海岸12天产品详情</a>",
+        "_umap_options": {
+          "color": "#6f42c1",
+          "iconClass": "Drop",
+          "iconUrl": "6"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0438,
+          43.4677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "D6 卢卡 / 比萨｜前往五渔村前的过渡",
+        "description": "下午继续向西北方向，建议入住卢卡、比萨或周边区域。比萨适合想看斜塔的客人；卢卡更安静，有城墙、老城和舒服的过夜氛围。<br><br><a href=\"https://aolitravel.com/tours/france-italy-south-europe-art-coast-12-days-tour/\" target=\"_blank\">查看法国意大利南欧艺术海岸12天产品详情</a>",
+        "_umap_options": {
+          "color": "#6f42c1",
+          "iconClass": "Drop",
+          "iconUrl": "6"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5027,
+          43.8429
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "D7 比萨｜奇迹广场与比萨斜塔",
+        "description": "从托斯卡纳西北部转向利古里亚海岸前，可以把比萨奇迹广场和比萨斜塔安排在上午。这里不必停留太久，却是意大利段很有辨识度的一站。<br><br><a href=\"https://aolitravel.com/tours/france-italy-south-europe-art-coast-12-days-tour/\" target=\"_blank\">查看法国意大利南欧艺术海岸12天产品详情</a>",
+        "_umap_options": {
+          "color": "#6f42c1",
+          "iconClass": "Drop",
+          "iconUrl": "7"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3966,
+          43.723
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "D7 拉斯佩齐亚 / 莱万托｜五渔村入口",
+        "description": "抵达拉斯佩齐亚或莱万托，建议在这里连住两晚。这里是游览五渔村更实用的住宿点，车辆负责行李和城市间移动，进入小镇时则更适合使用火车或船。<br><br><a href=\"https://aolitravel.com/tours/france-italy-south-europe-art-coast-12-days-tour/\" target=\"_blank\">查看法国意大利南欧艺术海岸12天产品详情</a>",
+        "_umap_options": {
+          "color": "#6f42c1",
+          "iconClass": "Drop",
+          "iconUrl": "7"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8241,
+          44.1025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "D8 五渔村｜彩色小镇与利古里亚海岸",
+        "description": "这一天留给五渔村。实际游览顺序会根据天气、船班、人流和体力调整；与其每个村都匆匆打卡，不如选择几个最合适的地方，好好停下来看看海边、步道和彩色房子。<br><br><a href=\"https://aolitravel.com/tours/france-italy-south-europe-art-coast-12-days-tour/\" target=\"_blank\">查看法国意大利南欧艺术海岸12天产品详情</a>",
+        "_umap_options": {
+          "color": "#6f42c1",
+          "iconClass": "Drop",
+          "iconUrl": "8"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.683,
+          44.135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "D9 波托菲诺 / 圣玛格丽塔｜利古里亚海岸度假感",
+        "description": "沿利古里亚海岸继续向西，可根据季节和车程安排波托菲诺或圣玛格丽塔。这里比五渔村更精致，也更有意大利海岸度假感。<br><br><a href=\"https://aolitravel.com/tours/france-italy-south-europe-art-coast-12-days-tour/\" target=\"_blank\">查看法国意大利南欧艺术海岸12天产品详情</a>",
+        "_umap_options": {
+          "color": "#6f42c1",
+          "iconClass": "Drop",
+          "iconUrl": "9"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2094,
+          44.3032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "D9 热那亚｜进入法国前的港口城市",
+        "description": "傍晚抵达热那亚入住。热那亚适合作为进入法国前的过渡城市，既能减少第二天跨境到尼斯的车程，也让意大利段从海岸小镇过渡到更真实的港口城市。<br><br><a href=\"https://aolitravel.com/tours/france-italy-south-europe-art-coast-12-days-tour/\" target=\"_blank\">查看法国意大利南欧艺术海岸12天产品详情</a>",
+        "_umap_options": {
+          "color": "#6f42c1",
+          "iconClass": "Drop",
+          "iconUrl": "9"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9463,
+          44.4056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "D10 尼斯｜抵达蔚蓝海岸",
+        "description": "从热那亚沿海岸方向进入法国南部，抵达尼斯后入住。傍晚可以沿英国人散步大道走走，进入老城，或在海边吃一顿轻松晚餐。<br><br><a href=\"https://aolitravel.com/tours/france-italy-south-europe-art-coast-12-days-tour/\" target=\"_blank\">查看法国意大利南欧艺术海岸12天产品详情</a>",
+        "_umap_options": {
+          "color": "#6f42c1",
+          "iconClass": "Drop",
+          "iconUrl": "10"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.262,
+          43.7102
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "D11 埃兹｜山顶小镇与地中海视角",
+        "description": "前往埃兹。石头街巷、山顶热带花园和俯瞰地中海的视角，让这里成为蔚蓝海岸很有代表性的高光地点。<br><br><a href=\"https://aolitravel.com/tours/france-italy-south-europe-art-coast-12-days-tour/\" target=\"_blank\">查看法国意大利南欧艺术海岸12天产品详情</a>",
+        "_umap_options": {
+          "color": "#6f42c1",
+          "iconClass": "Drop",
+          "iconUrl": "11"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.3619,
+          43.7278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "D11 摩纳哥｜港口 · 王宫 · 蒙特卡洛",
+        "description": "下午进入摩纳哥，游览王宫广场、港口和蒙特卡洛一带。这里面积不大，却非常有辨识度，也适合作为整条路线的高光之一。<br><br><a href=\"https://aolitravel.com/tours/france-italy-south-europe-art-coast-12-days-tour/\" target=\"_blank\">查看法国意大利南欧艺术海岸12天产品详情</a>",
+        "_umap_options": {
+          "color": "#6f42c1",
+          "iconClass": "Drop",
+          "iconUrl": "11"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4246,
+          43.7384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "D12 戛纳 / 昂蒂布｜蔚蓝海岸轻松停留",
+        "description": "从尼斯向西返回马赛，上午可根据时间停留戛纳或昂蒂布。戛纳有电影节和海滨度假的气质，昂蒂布则保留着港口、老城和海边生活感。<br><br><a href=\"https://aolitravel.com/tours/france-italy-south-europe-art-coast-12-days-tour/\" target=\"_blank\">查看法国意大利南欧艺术海岸12天产品详情</a>",
+        "_umap_options": {
+          "color": "#6f42c1",
+          "iconClass": "Drop",
+          "iconUrl": "12"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1251,
+          43.5804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "D12 艾克斯普罗旺斯｜喷泉、老城与南法收尾",
+        "description": "进入普罗旺斯方向，前往艾克斯普罗旺斯。喷泉、米拉波大道、老城街巷和市集，让最后一天不只是返回马赛，而是用南法城市生活为整趟旅行收尾。<br><br><a href=\"https://aolitravel.com/tours/france-italy-south-europe-art-coast-12-days-tour/\" target=\"_blank\">查看法国意大利南欧艺术海岸12天产品详情</a>",
+        "_umap_options": {
+          "color": "#6f42c1",
+          "iconClass": "Drop",
+          "iconUrl": "12"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4474,
+          43.5297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "D12 马赛｜行程结束或送机",
+        "description": "傍晚抵达马赛，可根据航班安排送机、送酒店或结束行程。如果在马赛多住一晚，也可以把最后一天走得更从容。<br><br><a href=\"https://aolitravel.com/tours/france-italy-south-europe-art-coast-12-days-tour/\" target=\"_blank\">查看法国意大利南欧艺术海岸12天产品详情</a>",
+        "_umap_options": {
+          "color": "#6f42c1",
+          "iconClass": "Drop",
+          "iconUrl": "12"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3698,
+          43.2965
+        ]
+      }
+    }
+  ]
+}
