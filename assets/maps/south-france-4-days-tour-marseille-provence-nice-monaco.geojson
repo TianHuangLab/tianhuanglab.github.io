@@ -1,0 +1,350 @@
+{
+  "type": "FeatureCollection",
+  "name": "南法精华4天3夜｜马赛·普罗旺斯小镇·戛纳·昂蒂布·尼斯·埃兹·摩纳哥",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "南法精华4天3夜主路线",
+        "description": "马赛进，尼斯出，串联马赛老港、守护圣母大教堂、卡西斯、普罗旺斯小镇、戛纳、昂蒂布、尼斯、埃兹与摩纳哥。适合第一次来南法、想在4天左右看见海港、小镇和蔚蓝海岸精华的家庭、情侣或朋友小团。<br><br><a href=\"https://aolitravel.com/tours/south-france-4-days-tour-marseille-provence-nice-monaco/\" target=\"_blank\">查看南法精华4天3夜产品详情</a>",
+        "stroke": "#6f42c1",
+        "stroke-width": 4,
+        "stroke-opacity": 0.85,
+        "_umap_options": {
+          "color": "#6f42c1",
+          "weight": 4,
+          "opacity": 0.85
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.3698,
+            43.2965
+          ],
+          [
+            5.3714,
+            43.2843
+          ],
+          [
+            5.5396,
+            43.214
+          ],
+          [
+            5.2004,
+            43.9113
+          ],
+          [
+            5.1287,
+            43.9225
+          ],
+          [
+            5.2922,
+            43.9024
+          ],
+          [
+            7.0174,
+            43.5528
+          ],
+          [
+            7.1251,
+            43.5804
+          ],
+          [
+            7.262,
+            43.7102
+          ],
+          [
+            7.3619,
+            43.7278
+          ],
+          [
+            7.4246,
+            43.7384
+          ],
+          [
+            7.215,
+            43.6653
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "可选路线｜摩纳哥返回马赛送机/送站",
+        "description": "如果你的航班或火车更适合从马赛离开，也可以在游览埃兹和摩纳哥后返回马赛。此段车程较长，更适合晚班机、晚班火车，或在马赛多住一晚的安排。<br><br><a href=\"https://aolitravel.com/tours/south-france-4-days-tour-marseille-provence-nice-monaco/\" target=\"_blank\">查看南法精华4天3夜产品详情</a>",
+        "stroke": "#6f42c1",
+        "stroke-width": 3,
+        "stroke-opacity": 0.45,
+        "_umap_options": {
+          "color": "#6f42c1",
+          "weight": 3,
+          "opacity": 0.45,
+          "dashArray": "8,8"
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            7.4246,
+            43.7384
+          ],
+          [
+            5.3698,
+            43.2965
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "D1 马赛｜抵达、老港与城市初见",
+        "description": "抵达马赛后，先从老港开始进入南法节奏。渔船、咖啡馆、海风和城市街巷，会让你很快感受到这座地中海港口的生活气。<br><br><a href=\"https://aolitravel.com/tours/south-france-4-days-tour-marseille-provence-nice-monaco/\" target=\"_blank\">查看南法精华4天3夜产品详情</a>",
+        "_umap_options": {
+          "color": "#6f42c1",
+          "iconClass": "Drop",
+          "iconUrl": "1"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3698,
+          43.2965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "D1 守护圣母大教堂｜俯瞰马赛与地中海",
+        "description": "登上守护圣母大教堂，从高处俯瞰马赛老港、城市屋顶、伊夫岛与远处海岸线。这里很适合作为南法旅行的开场。<br><br><a href=\"https://aolitravel.com/tours/south-france-4-days-tour-marseille-provence-nice-monaco/\" target=\"_blank\">查看南法精华4天3夜产品详情</a>",
+        "_umap_options": {
+          "color": "#6f42c1",
+          "iconClass": "Drop",
+          "iconUrl": "1"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3714,
+          43.2843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "D1 卡西斯｜海边小镇与峡湾蓝色",
+        "description": "如果抵达时间合适，可以前往卡西斯。彩色港口、海边餐厅和卡朗格峡湾的蓝色，会给这趟南法4天旅行一个很漂亮的开场。<br><br><a href=\"https://aolitravel.com/tours/south-france-4-days-tour-marseille-provence-nice-monaco/\" target=\"_blank\">查看南法精华4天3夜产品详情</a>",
+        "_umap_options": {
+          "color": "#6f42c1",
+          "iconClass": "Drop",
+          "iconUrl": "1"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5396,
+          43.214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "D2 石头城 Gordes｜普罗旺斯山城",
+        "description": "石头城 Gordes 是普罗旺斯最有代表性的山城之一。远看是层叠在山坡上的石头村，走进村里则是小巷、石墙、观景台和南法小镇气息。<br><br><a href=\"https://aolitravel.com/tours/south-france-4-days-tour-marseille-provence-nice-monaco/\" target=\"_blank\">查看南法精华4天3夜产品详情</a>",
+        "_umap_options": {
+          "color": "#6f42c1",
+          "iconClass": "Drop",
+          "iconUrl": "2"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2004,
+          43.9113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "D2 泉水小镇 Fontaine-de-Vaucluse｜清凉河谷",
+        "description": "泉水小镇比石头城更清凉安静，河水、树影、小桥和街边餐馆很适合中午停留。这里能看到普罗旺斯更柔和的一面。<br><br><a href=\"https://aolitravel.com/tours/south-france-4-days-tour-marseille-provence-nice-monaco/\" target=\"_blank\">查看南法精华4天3夜产品详情</a>",
+        "_umap_options": {
+          "color": "#6f42c1",
+          "iconClass": "Drop",
+          "iconUrl": "2"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1287,
+          43.9225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "D2 红土城 Roussillon｜南法少见的暖色山丘",
+        "description": "红土城 Roussillon 以赭石山丘和暖色小镇闻名。它和石头城、泉水小镇气质不同，能让普罗旺斯段更有层次。<br><br><a href=\"https://aolitravel.com/tours/south-france-4-days-tour-marseille-provence-nice-monaco/\" target=\"_blank\">查看南法精华4天3夜产品详情</a>",
+        "_umap_options": {
+          "color": "#6f42c1",
+          "iconClass": "Drop",
+          "iconUrl": "2"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2922,
+          43.9024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "D2 可选｜塞南克修道院",
+        "description": "如果是薰衣草季，或你更喜欢修道院与山谷景观，可以把塞南克修道院加入当天安排。实际停留会根据季节、花况和当天路线调整。<br><br><a href=\"https://aolitravel.com/tours/south-france-4-days-tour-marseille-provence-nice-monaco/\" target=\"_blank\">查看南法精华4天3夜产品详情</a>",
+        "_umap_options": {
+          "color": "#6f42c1",
+          "iconClass": "Drop",
+          "iconUrl": "2"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1875,
+          43.9281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "D3 戛纳｜蔚蓝海岸第一站",
+        "description": "从马赛向东进入蔚蓝海岸，戛纳适合轻松停留。海滨大道、影节宫和老城一带，能让旅程从普罗旺斯小镇转向地中海度假感。<br><br><a href=\"https://aolitravel.com/tours/south-france-4-days-tour-marseille-provence-nice-monaco/\" target=\"_blank\">查看南法精华4天3夜产品详情</a>",
+        "_umap_options": {
+          "color": "#6f42c1",
+          "iconClass": "Drop",
+          "iconUrl": "3"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0174,
+          43.5528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "D3 昂蒂布｜老城、港口与海边生活感",
+        "description": "昂蒂布比戛纳更有老城与海边生活感。港口、城墙、街巷和海边步道，很适合作为前往尼斯前的一站。<br><br><a href=\"https://aolitravel.com/tours/south-france-4-days-tour-marseille-provence-nice-monaco/\" target=\"_blank\">查看南法精华4天3夜产品详情</a>",
+        "_umap_options": {
+          "color": "#6f42c1",
+          "iconClass": "Drop",
+          "iconUrl": "3"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1251,
+          43.5804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "D3 尼斯｜老城、海边与蔚蓝海岸夜晚",
+        "description": "傍晚抵达尼斯。建议在尼斯住一晚，晚餐可以安排在老城或海边，沿英国人散步大道走一走，让旅程真正进入蔚蓝海岸的节奏。<br><br><a href=\"https://aolitravel.com/tours/south-france-4-days-tour-marseille-provence-nice-monaco/\" target=\"_blank\">查看南法精华4天3夜产品详情</a>",
+        "_umap_options": {
+          "color": "#6f42c1",
+          "iconClass": "Drop",
+          "iconUrl": "3"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.262,
+          43.7102
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "D4 埃兹｜山顶小镇与地中海视角",
+        "description": "从尼斯前往埃兹。石头街巷、热带花园和俯瞰地中海的视角，让这里成为蔚蓝海岸最有代表性的高光之一。<br><br><a href=\"https://aolitravel.com/tours/south-france-4-days-tour-marseille-provence-nice-monaco/\" target=\"_blank\">查看南法精华4天3夜产品详情</a>",
+        "_umap_options": {
+          "color": "#6f42c1",
+          "iconClass": "Drop",
+          "iconUrl": "4"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.3619,
+          43.7278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "D4 摩纳哥｜王宫、港口与蒙特卡洛",
+        "description": "随后进入摩纳哥，游览王宫广场、港口和蒙特卡洛一带。这里和前几天的马赛、普罗旺斯小镇、尼斯老城形成鲜明对比。<br><br><a href=\"https://aolitravel.com/tours/south-france-4-days-tour-marseille-provence-nice-monaco/\" target=\"_blank\">查看南法精华4天3夜产品详情</a>",
+        "_umap_options": {
+          "color": "#6f42c1",
+          "iconClass": "Drop",
+          "iconUrl": "4"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4246,
+          43.7384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "D4 尼斯机场｜推荐结束点",
+        "description": "如果从尼斯机场返程，第四天会比较从容。也可以根据航班安排送尼斯酒店、尼斯火车站或尼斯蓝色海岸机场。<br><br><a href=\"https://aolitravel.com/tours/south-france-4-days-tour-marseille-provence-nice-monaco/\" target=\"_blank\">查看南法精华4天3夜产品详情</a>",
+        "_umap_options": {
+          "color": "#6f42c1",
+          "iconClass": "Drop",
+          "iconUrl": "4"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.215,
+          43.6653
+        ]
+      }
+    }
+  ]
+}

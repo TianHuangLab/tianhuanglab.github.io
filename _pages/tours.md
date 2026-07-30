@@ -92,9 +92,24 @@ images:
     width: auto;
   }
 
+  .projects .card-img-top {
+    height: 255px;
+    object-fit: cover;
+    object-position: center center;
+    width: 100%;
+  }
+
+  .projects .card figure {
+    margin-bottom: 0;
+  }
+
   @media (max-width: 560px) {
     .tour-products-two {
       grid-template-columns: 1fr;
+    }
+
+    .projects .card-img-top {
+      height: 230px;
     }
   }
 </style>
