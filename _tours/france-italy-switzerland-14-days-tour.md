@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 法意瑞经典环线13–14天｜巴黎·瑞士雪山·意大利湖区·南法海岸
+title: 13–14天法意瑞经典环线｜巴黎、瑞士雪山与意大利湖区的南欧长歌
 img: assets/img/117top-villages-switzerland/top-villages-switzerland-7.webp
 nav: false
 importance: 3
@@ -566,4 +566,3 @@ images:
       {% include figure.liquid loading="eager" path="assets/img/0tours/0template/0a.png" title="france-custom-tour" class="img-fluid rounded z-depth-1" alt="france-custom-tour" %}
     </a>
   </div>
-

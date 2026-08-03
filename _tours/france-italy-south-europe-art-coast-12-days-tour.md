@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 法国意大利南欧艺术海岸12天｜罗马·托斯卡纳·佛罗伦萨·五渔村·尼斯·摩纳哥·普罗旺斯·马赛
+title: 12天11夜法国意大利艺术海岸漫游｜罗马、托斯卡纳与南法海岸的南欧诗意长卷
 img: assets/img/0tours/france-italy-south-europe-art-coast-12-days-tour/gallery/cinque-terre-vernazza-view.webp
 nav: false
 importance: 5

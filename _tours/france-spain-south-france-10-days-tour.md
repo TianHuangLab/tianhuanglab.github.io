@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 法国西班牙南欧阳光10天9夜｜巴塞罗那·普罗旺斯·蔚蓝海岸·马赛·尼斯·摩纳哥
+title: 10天9夜法国西班牙南欧阳光漫游｜巴塞罗那、普罗旺斯与蔚蓝海岸的地中海诗篇
 img: assets/img/0tours/france-spain-south-france-10-days-tour/france-spain-south-france-card.webp
 nav: false
 importance: 4
