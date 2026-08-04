@@ -5,13 +5,13 @@ date: 2026-03-25 20:00:00
 description: 不跟团、不完全自助——越来越多人开始用"第三种方式"玩南法。
 tags: 法国 马赛 尼斯 阿维尼翁 蔚蓝海岸 普罗旺斯
 categories: 文化历史 自然风光 自驾旅行
-thumbnail: assets/img/11marseille-1day-trip/11marseille-1day-trip-6-1400.webp
+thumbnail: assets/img/122provence-private-tour/provence-private-tour-1.webp
 published: true
 toc:
   sidebar: left
 ---
 
-{% include figure.liquid loading="eager" path="assets/img/11marseille-1day-trip/11marseille-1day-trip-1-1400.webp" title="provence-private-tour-from-marseille马赛普罗旺斯地接包车" class="img-fluid rounded z-depth-1" alt="provence-private-tour-from-marseille马赛普罗旺斯地接包车"%}
+{% include figure.liquid loading="eager" path="assets/img/122provence-private-tour/provence-private-tour-1.webp" title="provence-private-tour-from-marseille马赛普罗旺斯地接包车" class="img-fluid rounded z-depth-1" alt="马赛老港与普罗旺斯包车定制旅行"%}
 
 
 清晨的马赛老港，海风带着咸味，桅杆轻轻晃着。
@@ -23,7 +23,7 @@ toc:
 我走过去打了个招呼——因为我认识他们。
 
 他们这趟行程的后半段，是我们**奥利旅行**在负责。
-{% include figure.liquid loading="eager" path="assets/img/122provence-private-tour/provence-private-tour-1.webp" title="provence-private-tour-from-marseille马赛普罗旺斯地接包车" class="img-fluid rounded z-depth-1" alt="provence-private-tour-from-marseille马赛普罗旺斯地接包车"%}
+{% include figure.liquid loading="eager" path="assets/img/0custom-travel/custom-travel-private-van-marseille.webp" title="provence-private-tour-from-marseille马赛普罗旺斯地接包车" class="img-fluid rounded z-depth-1" alt="马赛包车地接服务与南法普罗旺斯定制旅行"%}
 
 
 ---
@@ -102,7 +102,7 @@ toc:
 
 这家美国的家庭，其实已经用自己的方式给出答案了：邮轮解决多国问题，地接解决落地问题，自己解决"想去哪"的问题。各管各的一段，互不干扰。
 
-{% include figure.liquid loading="eager" path="assets/img/0test-elements/tools-partners/6-1400.webp" title="provence-private-tour-from-marseille马赛普罗旺斯地接包车" class="img-fluid rounded z-depth-1" alt="provence-private-tour-from-marseille马赛普罗旺斯地接包车"%}
+{% include figure.liquid loading="eager" path="assets/img/0custom-travel/custom-travel-local-guide-gordes.webp" title="provence-private-tour-from-marseille马赛普罗旺斯地接包车" class="img-fluid rounded z-depth-1" alt="南法普罗旺斯小镇包车定制旅行现场"%}
 
 
 ---
@@ -120,7 +120,7 @@ toc:
 
 **Q：不会法语、不会开车，能不能来南法？**
 完全可以。法国南部的旅游区英语也能基本通，包车服务通常提供中文司导，完全不需要自己开车。
-{% include figure.liquid loading="eager" path="assets/img/15visit-champ-lavande-saint-croix-verdon-moustiers-sainte-marie/visit-champ-lavande-saint-croix-verdon-moustiers-sainte-marie-10-1400.webp" title="provence-private-tour-from-marseille马赛普罗旺斯地接包车" class="img-fluid rounded z-depth-1" alt="provence-private-tour-from-marseille马赛普罗旺斯地接包车"%}
+{% include figure.liquid loading="eager" path="assets/img/15visit-champ-lavande-saint-croix-verdon-moustiers-sainte-marie/visit-champ-lavande-saint-croix-verdon-moustiers-sainte-marie-10.jpg" title="provence-private-tour-from-marseille马赛普罗旺斯地接包车" class="img-fluid rounded z-depth-1" alt="普罗旺斯薰衣草季南法包车旅行"%}
 
 
 ---

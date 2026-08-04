@@ -2,23 +2,23 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
-first_name: 奥利飞飞
+title: 奥利｜法国与欧洲旅行 # the website title (if blank, full name will be used instead)
+first_name: 奥利
 middle_name: 
-last_name: 法国攻略
+last_name: 法国与欧洲旅行
 contact_note: >
-  如果您有任何问题或需要帮助，欢迎联系我：contact@aolitravel.com
+  如果你正在计划法国、南法、巴黎或欧洲周边旅行，欢迎通过邮箱 contact@aolitravel.com 联系我，也可以在页面右下角在线咨询。
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  奥利常驻法国南部，分享法国、南法、巴黎及欧洲旅行攻略，并提供中文包车、小团、路线规划和定制旅行服务。服务地区包括马赛、尼斯、普罗旺斯、蔚蓝海岸、巴黎，以及瑞士、意大利、西班牙等欧洲周边目的地。
 footer_text: >
   <!-- 
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
   -->
-keywords: 法国旅游攻略, 法国, 法国旅游, 南法, 巴黎, 尼斯, 马赛, 里昂, 里尔, 南法旅游, 法国度假, 南法旅游攻略, 巴黎旅游攻略, 法国自由行, 巴黎景点推荐, 法国美食指南, 普罗旺斯薰衣草季节, 蔚蓝海岸旅游, 法国自驾游路线, 巴黎购物指南, 卢瓦尔河谷城堡游, 阿尔卑斯山滑雪, 法国葡萄酒之旅, 巴黎圣母院参观, 凡尔赛宫游览, 巴黎迪士尼乐园, 马赛旅游景点, 里昂美食推荐, 波尔多葡萄酒品鉴, 法国南部海滩, 诺曼底登陆海滩, 科西嘉岛旅游, 法国文化节日, 巴黎博物馆推荐, 法国乡村游, 法国购物退税指南, 巴黎夜生活, 法国高铁旅行, 法国签证申请, 法国旅游安全提示, 法国旅游最佳时间, 法国旅游预算, 法国旅游必备物品, 法国旅游注意事项, 法国旅游保险, 法国旅游摄影技巧, 法国旅游纪念品, 法国旅游语言指南, 法国旅游交通卡, 法国旅游住宿推荐, 法国旅游美食攻略, 法国旅游购物攻略, 法国旅游景点门票, 法国旅游路线规划, 法国旅游天气预报, 法国旅游紧急联系方式, 法国旅游健康建议, 法国旅游文化礼仪, 法国旅游环保建议, 法国旅游摄影地点, 法国旅游历史景点 # add your own keywords or leave empty
-lang: en, cn, fr # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+keywords: 法国旅行攻略, 南法旅行攻略, 法国旅游攻略, 巴黎旅游攻略, 普罗旺斯旅游攻略, 蔚蓝海岸旅游攻略, 马赛旅游, 尼斯旅游, 法国自由行, 法国包车, 南法包车, 巴黎包车, 法国中文司导, 法国小团, 法国定制旅行, 南法定制旅行, 法国深度游, 欧洲定制旅行, 法意瑞旅行, 法国瑞士旅行, 法国意大利旅行, 法国西班牙旅行, 瑞士旅游攻略, 西班牙旅游攻略, 意大利旅游路线
+lang: zh-Hans # the language of your site (for example: en, fr, cn, ru, etc.)
+icon: 🇫🇷 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://aolitravel.com # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
@@ -89,8 +89,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: 奥利飞飞 # blog_name will be displayed in your blog page
-blog_description: 现常驻南法，几年前从巴黎搬到了这里，在地中海的阳光怀抱中开启了全新的生活篇章。深度走过十几个国家，足迹遍布三大洲。爱好山里徒步、海边吹风、冬天滑雪。超懂法国，想要走遍欧洲，记录分享日常生活和足迹。
+blog_name: 法国与欧洲旅行笔记 # blog_name will be displayed in your blog page
+blog_description: 现常驻法国南部，曾在巴黎生活多年。我喜欢在山里徒步，在海边吹风，也喜欢冬日去滑雪。十多年来，我深度走过三大洲的许多地方，却始终对法国和欧洲的风土人情与生活方式格外着迷。我会在这里记录我在南法、巴黎及欧洲旅行中的真实体验、路线建议、餐馆与住宿推荐，也会写下在法国的生活观察。希望这些文字能让你更了解我，也能为你的下一次旅行带来些许灵感！
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
