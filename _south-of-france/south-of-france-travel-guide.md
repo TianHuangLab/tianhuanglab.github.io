@@ -2,6 +2,7 @@
 layout: page
 title: 第一次去南法完整规划指南｜路线、季节、交通住宿与城市取舍
 description: 第一次去南法怎么规划？从南法几天合适、马赛进还是尼斯进，到普罗旺斯与蔚蓝海岸怎么取舍、住宿交通怎么安排，一篇先帮你理清路线大方向。
+permalink: /south-of-france/south-of-france-travel-guide/
 img: assets/img/116south-france/south-france-0.webp
 importance: 9
 category: 解锁南法
