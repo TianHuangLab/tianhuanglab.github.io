@@ -11,7 +11,8 @@ toc:
   sidebar: left
 tags: 法国 法国旅游 南法旅游 南法旅行 蔚蓝海岸 普罗旺斯 攻略 马赛 尼斯 阿维尼翁 阿尔勒 戛纳 摩纳哥 南法小镇 薰衣草 圣十字湖 梵高 梵谷
 nav: false
-published: true
+published: false
+sitemap: false
 ---
 {% include figure.liquid loading="eager" path="assets/img/116south-france/south-france-0.webp" title="aolitravel.com-south-france-travel-guide南法旅游攻略全集" class="img-fluid rounded z-depth-1 watermarked" alt="南法旅游攻略全集aolitravel.com-south-france-travel-guide"%}
 
@@ -1288,6 +1289,5 @@ document.addEventListener("DOMContentLoaded", function() {
 **Blog**
 
 [更多关于我的生活记录和感受](https://aolitravel.com/blog/)
-
 
 
