@@ -1,1293 +1,723 @@
 ---
 layout: page
-title: 2026年南法旅行全攻略｜行程合集｜赶紧收藏！
-description: 一文涵盖风土人情、7天路线、最佳季节、城市解析、交通住宿与避坑指南
+title: 第一次去南法完整规划指南｜路线、季节、交通住宿与城市取舍
+description: 第一次去南法怎么规划？从南法几天合适、马赛进还是尼斯进，到普罗旺斯与蔚蓝海岸怎么取舍、住宿交通怎么安排，一篇先帮你理清路线大方向。
 img: assets/img/116south-france/south-france-0.webp
-importance: 0.5
+importance: 9
 category: 解锁南法
 related_publications: false
 related_posts: true
 toc:
   sidebar: left
-tags: 法国 法国旅游 南法旅游 南法旅行 蔚蓝海岸 普罗旺斯 攻略 马赛 尼斯 阿维尼翁 阿尔勒 戛纳 摩纳哥 南法小镇 薰衣草 圣十字湖 梵高 梵谷
+tags: 法国 法国旅游 南法 南法旅游 南法攻略 普罗旺斯 蔚蓝海岸 马赛 尼斯 阿维尼翁 埃兹 摩纳哥 南法自由行 南法包车
 nav: false
 published: true
 ---
-{% include figure.liquid loading="eager" path="assets/img/116south-france/south-france-0.webp" title="aolitravel.com-south-france-travel-guide南法旅游攻略全集" class="img-fluid rounded z-depth-1 watermarked" alt="南法旅游攻略全集aolitravel.com-south-france-travel-guide"%}
-
-
-很多朋友在第一次搜索“南法旅行攻略”时，脑海里浮现的画面大概都是：薰衣草、蔚蓝海岸、海鲜、阳光……但是，一旦真正开始做攻略，很快就会碰到一大堆问题：
-
-南法到底怎么玩？几天时间够吗？住哪儿最方便？要不要租车？哪些城市必去，哪些可以跳过？信息太多，完全不知道从哪下手。
-
-我在法国生活十多年，现在长期居住在南法，对这里的城市节奏、路况、餐厅水平，还有旅游旺季的真实情况都非常熟悉。可以这么说，很多在南法的中文攻略都是游客“来一次写好多篇文章”，而我是在这里生活、接待客人、反复踩点、不断优化路线的。
-
-这篇**南法旅行攻略终极规划**不是简单的攻略整理，而是把南法旅游中最重要、最常被问到、最容易踩坑的部分，系统化地整理出来。无论是路线安排、城市选择、住宿逻辑，还是季节分析、避坑建议，这里都帮你理清头绪，一篇文章就够。
-
-如果你计划来南法，建议先收藏这篇，再慢慢看。
-
-> 关于我：现常驻法国南部（马赛&尼斯），几年前从巴黎搬来，在地中海的阳光中开启新的生活。走过几十个国家，足迹遍布三大洲。旅行不仅是热爱，更是我的生活方式。喜欢山野徒步、海边吹风，也享受冬日滑雪的自在时刻。深度了解法国，也期待走遍欧洲，记录并分享真实的生活与旅行体验。欢迎你参考我的法国旅游攻略（含[巴黎](https://aolitravel.com/paris/)、[南法](https://aolitravel.com/south-of-france/)、[法国全集](https://aolitravel.com/france-travel/)、[精选路线](https://aolitravel.com/tours/)），帮你把欧洲之旅延伸得更精彩、更顺畅。同时，我与伙伴共同创立了法国 「奥利旅行」，我们作为立足南法、辐射法国全境及周边瑞士、意大利的本地地接团队，专注于高品质、个性化的 [法国深度游](https://aolitravel.com/tours/) 与 [定制服务](https://aolitravel.com/custom-travel/)。
->
-
-{% include figure.liquid loading="eager" path="assets/img/116south-france/south-france-1.webp" title="aolitravel.com-south-france-travel-guide南法旅游攻略全集" class="img-fluid rounded z-depth-1 watermarked" alt="南法旅游攻略全集aolitravel.com-south-france-travel-guide"%}
-
-
----
-
-### 一、南法到底包括哪些地方？第一次规划南法旅游一定要先弄清楚
-
-很多人在做“南法旅游”攻略时，脑海里浮现的是薰衣草、蔚蓝海岸、阳光与海鲜。但严格来说，“南法”并不是一个官方行政区划，而是一个旅游与文化意义上的概念。
-
-如果用最通俗、也最实用的方式来解释——
-
-**南法，主要由三块区域构成：普罗旺斯（Provence）、蔚蓝海岸（Côte d’Azur）以及法国南部的部分奥克西塔尼（Occitanie）地区。**
-
-我在法国生活十多年，目前定居南法。日常带朋友或专程来找我的客人走线路、做行程规划时，大家问得最多的问题之一就是：
-
-> 南法有哪些城市？
-> 
-> 
-> 普罗旺斯和蔚蓝海岸是一回事吗？
-> 
-> 南法旅游应该从哪里开始？
-> 
-
-下面我开始慢慢给你讲清楚。😊
-
-{% include figure.liquid loading="eager" path="assets/img/116south-france/south-france-1a.png" title="aolitravel.com-south-france-travel-guide南法旅游攻略全集" class="img-fluid rounded z-depth-1 watermarked" alt="南法旅游攻略全集aolitravel.com-south-france-travel-guide"%}
-
-
-**普罗旺斯 Provence：南法的灵魂与乡村底色**
-
-提到南法，很多人第一反应就是普罗旺斯。它历史上曾是古罗马的重要省份，名字就来自拉丁语“Provincia”。今天的普罗旺斯大致对应法国东南部的内陆区域，以丘陵、葡萄园、橄榄树和石头村庄闻名。
-
-代表城市包括：
-
-- 马赛 Marseille
-- 艾克斯普罗旺斯 Aix-en-Provence
-- 阿维尼翁（亚维农） Avignon
-- 阿尔勒（亚尔） Arles
-
-这里有教皇宫、有古罗马竞技场、有梵高画过的麦田，也有每年夏天盛开的薰衣草。很多人搜索“普罗旺斯旅游”，本质上想体验的，其实是这种慢节奏、阳光充沛、田园与艺术交织的生活方式。
-
-普罗旺斯的风土人情带着明显的地中海气质——午餐时间长、咖啡馆社交浓厚、本地市场烟火气十足。相比巴黎的优雅克制，这里更松弛、更生活化。
-{% include figure.liquid loading="eager" path="assets/img/116south-france/south-france-1b.webp" title="aolitravel.com-south-france-travel-guide南法旅游攻略全集" class="img-fluid rounded z-depth-1 watermarked" alt="南法旅游攻略全集aolitravel.com-south-france-travel-guide"%}
-
-
-**蔚蓝海岸 Côte d’Azur：南法的海岸线与度假气质**
-
-如果说普罗旺斯代表乡村与艺术，那么蔚蓝海岸就是阳光与度假的代名词。
-
-蔚蓝海岸位于法国东南部地中海沿岸，从马赛一带延伸至摩纳哥边境。名字“Côte d’Azur”意为“蓝色海岸”，因为这里的海水在阳光下呈现出非常纯净的宝石蓝。
-
-代表城市包括：
-
-- 尼斯 Nice
-- 戛纳（坎城） Cannes
-- 圣特罗佩 Saint-Tropez
-- 摩纳哥 Monaco
-- 芒通 Menton
-
-这里既有尼斯的优雅海滨大道，也有戛纳电影节的红毯气息，还有圣特罗佩的游艇与沙滩俱乐部。
-
-很多人搜索“蔚蓝海岸攻略”，其实在纠结一个问题：
-
-到底是选海滨城市慢慢住几天，还是每天换一个小镇打卡？
-
-从我的经验看，蔚蓝海岸的精髓不在“打卡”，而在节奏。你要留出时间在海边散步、在港口喝一杯、在小城里闲逛。
-{% include figure.liquid loading="eager" path="assets/img/116south-france/south-france-1c.webp" title="aolitravel.com-south-france-travel-guide南法旅游攻略全集" class="img-fluid rounded z-depth-1 watermarked" alt="南法旅游攻略全集aolitravel.com-south-france-travel-guide"%}
-
-
-**Occitanie部分地区：南法的历史纵深** 
-
-除了普罗旺斯与蔚蓝海岸，很多经典南法城市实际上属于Occitanie大区，比如：
-
-- 尼姆 Nîmes
-- 蒙彼利埃 Montpellier
-
-这里保留着非常完整的古罗马遗迹，包括竞技场与神庙遗址。与海岸的度假气质不同，这一带更强调历史厚重感与古文明痕迹。
-
-当你搜索“南法有哪些城市”时，看到名单里既有海滨城市，也有内陆古城，正是因为南法本身就是多层次、多风格的组合。
-
-{% include figure.liquid loading="eager" path="assets/img/116south-france/south-france-1d.webp" title="aolitravel.com-south-france-travel-guide南法旅游攻略全集" class="img-fluid rounded z-depth-1 watermarked" alt="南法旅游攻略全集aolitravel.com-south-france-travel-guide"%}
-
-
-**所以，南法从来不是一个单一风格的旅游概念，而是“乡村 + 海岸 + 历史 + 艺术 + 阳光生活方式”的综合旅游目的地！**
-
-- 想看花田与石头村庄 → 普罗旺斯
-- 想看蓝色海岸与度假气氛 → 蔚蓝海岸
-- 想看古罗马遗迹与中世纪古城 → Occitanie部分地区
-
-正因为这种多样性，你的南法旅游路线的规划就显得尤为重要。不同区域之间的节奏完全不同，如果顺序安排不合理，旅行体验会大打折扣，因为南法很多景点之间的公共交通连接并没有十分方便。
-
-在接下来的章节里，我会详细讲清楚：南法几天最合适？南法7天路线怎么设计最顺路？以及，第一次来南法，应该从哪座城市作为起点最合理。
-
-把地图看清楚，是一趟好旅行的第一步。
-{% include figure.liquid loading="eager" path="assets/img/116south-france/south-france-1e.webp" title="aolitravel.com-south-france-travel-guide南法旅游攻略全集" class="img-fluid rounded z-depth-1 watermarked" alt="南法旅游攻略全集aolitravel.com-south-france-travel-guide"%}
-
-
----
-
-### 二、南法最佳旅游季节解析：南法几月去最好？
-
-做南法旅游规划时，被问最多的问题一定是：
-
-> 南法几月去最好？
-> 
-> 
-> 薰衣草什么时候开？
-> 
-> 南法夏天会不会太热？
-> 
-
-南法属于典型的地中海气候——夏季干燥炎热，冬季温和多雨少雪，全年日照充足。也正因为气候差异明显，不同月份带来的体验完全不同。
-
-下面我按时间段帮你讲清楚。
-
----
-
-**4–6月：花季与最平衡的旅行季节** 
-
-如果只能推荐一个“综合体验最好”的时间段，我通常会建议4月下旬到6月。
-
-这个阶段气温通常在18–26℃之间，阳光稳定，但还没到酷暑。普罗旺斯的野花、罂粟花陆续盛开，乡村景观层次丰富。很多小镇刚刚进入旅游季，餐厅与商店都开始活跃，但还没有人潮压力。
-
-去峡谷地区，比如 Gorges du Verdon，湖水已经转为翡翠色，徒步和划船都很舒适。海岸线城市如 Nice 也开始进入度假氛围，但沙滩还不拥挤。
-
-**Q：南法几月去最好？**
-
-A：如果追求气候舒适、人少景美，4–6月是最平衡的选择。
-
-此时最推荐路线为结合普罗旺斯自然景观和人文艺术的一日游旅程：
-
-[**经典之选｜南法普罗旺斯艺术与古迹之旅一日游**](https://aolitravel.com/tours/provence-avignon-arles-arts-culture-one-day-tour.md/)
-
-{% include figure.liquid loading="eager" path="assets/img/116south-france/south-france-2a.webp" title="aolitravel.com-south-france-travel-guide南法旅游攻略全集" class="img-fluid rounded z-depth-1 watermarked" alt="南法旅游攻略全集aolitravel.com-south-france-travel-guide"%}
-
-
-**6–7月：薰衣草季的高光时刻**
-
-很多人搜索“普罗旺斯旅游”，其实目标很明确——薰衣草。
-
-薰衣草花期通常在6月中旬到7月中旬，具体时间受海拔和气温影响。高原地区会稍晚，低海拔会稍早。7月上旬往往是颜色最浓郁的时候。
-
-但要注意：
-
-花期短、游客多、拍照热门点容易拥堵。
-
-如果想同时结合峡谷和花田，可以把薰衣草和 Gorges du Verdon 安排在同一两天，路线设计非常关键。
-
-如果感兴趣，可以查看我们的薰衣草一日游路线：
-
-[**经典之选｜南法普罗旺斯薰衣草漫步与圣十字湖一日游**](https://aolitravel.com/tours/france-lavender-lac-saint-croix-one-day-tour/)
-
-**Q：薰衣草几月开？**
-
-A：一般6月中旬开始，7月初最盛，7月中下旬陆续收割完毕。
-
-更多关于薰衣草内容，欢迎移步我的薰衣草旅行攻略：
-
-[**2026普罗旺斯薰衣草花期预报💜｜最佳观赏时间与路线**](https://aolitravel.com/south-of-france/visit-france-provence-lavender-season/)
-
-[**南法圣十字湖和看薰衣草最美攻略｜详细停车地点分享**](https://aolitravel.com/south-of-france/visit-lavande-champ-saint-croix-verdon-moustiers-sainte-marie/)
-{% include figure.liquid loading="eager" path="assets/img/116south-france/south-france-2b.webp" title="aolitravel.com-south-france-travel-guide南法旅游攻略全集" class="img-fluid rounded z-depth-1 watermarked" alt="南法旅游攻略全集aolitravel.com-south-france-travel-guide"%}
-
-
-**7–8月：海滨旺季与真正的“蔚蓝海岸”**
-
-7–8月是南法的旅游高峰期。法国本地人放暑假，欧洲游客集中涌入。
-
-蔚蓝海岸沿线——例如 Cannes、Saint-Tropez ——进入最热闹状态。游艇、沙滩俱乐部、音乐节、夜生活全面开启。
-
-但代价也很明显：
-
-- 酒店价格上涨
-- 餐厅需提前预订
-- 停车困难
-- 城市交通拥堵
-
-气温通常在30-35℃左右，阳光强烈但空气干燥。
-
-**Q：南法夏天会不会太热？**
-
-A：7–8月确实炎热，但湿度低，海风明显。若喜欢海边度假，问题不大；若频繁跑乡村与古城，中午时间需要适当避暑。
-{% include figure.liquid loading="eager" path="assets/img/116south-france/south-france-2c.webp" title="aolitravel.com-south-france-travel-guide南法旅游攻略全集" class="img-fluid rounded z-depth-1 watermarked" alt="南法旅游攻略全集aolitravel.com-south-france-travel-guide"%}
-
-
-**9–10月：最舒服的秘密季节**
-
-在我看来，9月是南法真正的“黄金月”。
-
-气温回落到22–28℃之间，海水依然温暖，游客却明显减少。葡萄进入采收季，市场里充满新鲜食材。
-
-去 Camargue 看火烈鸟和盐湖，这个时间光线柔和，非常适合摄影。峡谷和乡村也恢复宁静。
-
-如果你想要“好天气 + 少人群 + 成熟景观”，9–10月往往是最佳选择。
-
-推荐路线：[**深度体验｜火烈鸟公园、梦幻粉色盐湖与艾格莫尔古城一日游**](https://aolitravel.com/tours/south-france-flamingos-pink-lake-aigues-mortes-day-tour/)
-{% include figure.liquid loading="eager" path="assets/img/64visit-salin-aigues-mortes/visit-salin-aigues-mortes-4.webp" title="aolitravel.com-south-france-travel-guide南法旅游攻略全集" class="img-fluid rounded z-depth-1 watermarked" alt="南法旅游攻略全集aolitravel.com-south-france-travel-guide"%}
-
-
-**冬季是否值得？**
-
-11月至次年3月是淡季。海滨城市相对安静，部分度假设施关闭，但城市本身并不会“关门”。
-
-冬天的优点是：
-
-- 价格低
-- 游客少
-- 光线清澈
-
-但薰衣草没有，海水寒冷，乡村景观色彩单一。
-
-如果是冲着花田和海滩，则不推荐；如果是文化与城市深度游，例如走访历史古城、博物馆、市场，亦或者是来南法滑雪（离马赛开车2个半小时即可到达就近雪站），冬季仍然值得！
-{% include figure.liquid loading="eager" path="assets/img/116south-france/south-france-2e.webp" title="aolitravel.com-south-france-travel-guide南法旅游攻略全集" class="img-fluid rounded z-depth-1 watermarked" alt="南法旅游攻略全集aolitravel.com-south-france-travel-guide"%}
-
----
-
-> 如果你想来南法玩，但是还不知道如何规划行程？路线怎么安排？哪几个小镇可以一天玩遍？如何在小众小镇找到最佳住宿和地道美食？别担心！不妨看看我的推荐 - [精选线路](https://aolitravel.com/tours/)，亦或是找我[定制行程](https://aolitravel.com/custom-travel/)
->
-
----
-
-### 三、南法7天经典路线（我的总结版）
-
-很多人在做“南法旅游”规划时都会问：
-
-> 南法7天够不够？
-> 
-> 
-> 南法7天怎么玩才不走回头路？
-> 
-> 南法自驾是不是最方便？
-> 
-
-结合我这些年在南法生活、带朋友和读者反复优化路线的经验，如果只有7天时间，这是一条**效率最高、景观层次最完整、驾驶压力相对可控**的经典版本。
-
-同时，我也会针对三种不同人群给出微调建议。
-
----
-
-**标准旅行路线规划逻辑**
-
-核心原则只有两句话：
-
-**从马赛进，尼斯出，一路向东，不走回头路；或者全程反过来，尼斯进，马赛出。**
-
-**如果你是同一个机场往返，那么也可以做一个环线，马赛进马赛出，或尼斯进尼斯出。**
-
-接下来，我拿马赛进，尼斯出举例：
-
-**Day 1：马赛 Marseille → 卡西斯小镇 Cassis**
-
-海港文明与地中海第一眼
-
-**行程：**
-
-圣让堡 → 马赛老港 → 卡西斯 → 卡朗格峡湾轻徒步
-
-第一天的关键词是：进入南法节奏。
-
-圣让堡（Fort Saint-Jean）始建于中世纪，俯瞰整个老港，是理解马赛2600年航海历史的最佳起点。站在城墙上，你会明白南法为什么始终与海洋紧密相连。
-
-午餐推荐在老港区尝试正宗马赛鱼汤（Bouillabaisse）——这道起源于渔民的传统料理，是普罗旺斯美食代表。
-
-下午驱车约40分钟前往卡西斯。
-
-卡朗格峡湾（Calanques）是地中海最震撼的自然奇观之一，白色石灰岩悬崖与碧绿海水形成强烈对比。时间有限可选择最短的 Port-Miou 徒步线（约30分钟）。
-
-💡 建议：5–9月旺季建议提前预订游船。卡西斯停车位紧张，建议住一晚。需要咨询游轮时间，可以小窗联系我！
-
-更多马赛玩法可参考我的攻略：
-
-[**马赛必打卡！Top15景点全攻略｜本地向导推荐指南**](https://aolitravel.com/south-of-france/visit-marseille-top15-things-to-do/)
-
-[**南法马赛一日游攻略｜本地向导经典路线推荐**](https://aolitravel.com/south-of-france/marseille-1day-trip/)
-
-{% include figure.liquid loading="eager" path="assets/img/116south-france/south-france-3a.webp" title="aolitravel.com-south-france-travel-guide南法旅游攻略全集" class="img-fluid rounded z-depth-1 watermarked" alt="南法旅游攻略全集aolitravel.com-south-france-travel-guide"%}
-
----
-
-**Day 2：伊芙岛与马赛全景**
-
-**行程：**
-
-伊芙岛 → 守护圣母大教堂 → 龙骧宫
-
-上午坐船前往伊芙岛（Château d'If）。这座海上要塞因大仲马《基督山伯爵》闻名于世。站在监狱石墙前，文学与历史会突然变得真实。
-
-下午登守护圣母大教堂（Notre-Dame de la Garde）。金色圣母像俯瞰港口，是马赛的精神象征。这里也是俯瞰城市全景的最佳观景台。
-
-更多关于我的旅行见解：[**旅行小记｜再次探访✨马赛守护圣母大教堂：一场文化与历史的沉浸之旅**](https://aolitravel.com/blog/2025/marseille-notre-dame-de-la-garde-trip-review/)
-
-傍晚可前往龙骧宫（Palais Longchamp），感受19世纪宏伟建筑与喷泉广场的浪漫气质。
-
-午餐可选择老港区餐厅 Le Palais 1860，更多餐厅点评可移步我的这篇餐馆攻略：
-
-[**马赛法餐指南｜10家本地人也爱的高分餐厅推荐**](https://aolitravel.com/south-of-france/10-marseille-restaurants-recommandation/)
-
-[**美食地图系列｜马赛老港边1860 Le Palais Restaurant法餐厅初体验**](https://aolitravel.com/blog/2025/restaurant-1860-le-palais-review/)
-{% include figure.liquid loading="eager" path="assets/img/116south-france/south-france-3b.webp" title="aolitravel.com-south-france-travel-guide南法旅游攻略全集" class="img-fluid rounded z-depth-1 watermarked" alt="南法旅游攻略全集aolitravel.com-south-france-travel-guide"%}
-
-
----
-
-**Day 3：普罗旺斯小镇巡礼**
-
-**行程：**
-
-石头城戈尔德 → 红土城鲁西永 → 泉水城
-
-今天进入典型的普罗旺斯乡村风景。
-
-戈尔德（Gordes）被称为“空中石头城”，晨光下的石灰岩建筑像镶嵌在山坡上的珍珠。
-
-鲁西永(Roussillon)则因全球最大的赭石矿闻名，红土步道色彩浓烈，非常上镜。
-
-泉水城（Fontaine-de-Vaucluse）泉水潺潺，夏季非常凉爽，是自然风景爱好者的天堂！
-
-🌸 6月中旬–7月底可替换为：
-
-瓦伦索勒薰衣草田 Valensole Plateau → 陶瓷小镇 Moustiers-Sainte-Marie → 圣十字湖 Lac de Sainte-Croix
-
-这是薰衣草与圣十字湖的经典组合。
-
-更多小镇深度内容，你可以移步我的这篇攻略：
-
-[**南法Top15最美宝藏小镇推荐!**](https://aolitravel.com/south-of-france/visit-south-france-top-15-villages/)
-{% include figure.liquid loading="eager" path="assets/img/116south-france/south-france-3c.webp" title="aolitravel.com-south-france-travel-guide南法旅游攻略全集" class="img-fluid rounded z-depth-1 watermarked" alt="南法旅游攻略全集aolitravel.com-south-france-travel-guide"%}
-
-
----
-
-**Day 4：阿维尼翁 Avignon → 阿尔勒 Arles**
-
-教皇之城与梵高足迹
-
-**行程：**
-
-教皇宫 → 断桥 → 阿尔勒
-
-阿维尼翁的教皇宫（Palais des Papes）是中世纪欧洲最大哥特式宫殿之一，14世纪教廷曾迁至此地。
-
-断桥（Pont d'Avignon）曾经横跨罗讷河，是南法连通法国腹地的主干道，现在残留一半的桥梁，是法国最具代表性的桥梁遗迹。
-
-下午前往阿尔勒。古罗马竞技场至今仍举办传统斗牛活动。傍晚沿罗讷河散步，可以找到梵高《星夜》取景地。
-
-详细景点解析可移步我的阿维尼翁与阿尔勒专题攻略。
-
-[**阿尔勒城市旅行最全攻略｜探索普罗旺斯的魅力**](https://aolitravel.com/south-of-france/visit-arles-city-guide/)
-
-[**阿维尼翁旅行攻略｜解锁教皇城Top15景点！**](https://aolitravel.com/south-of-france/visit-avignon-city-guide-top-15-things-to-do/)
-{% include figure.liquid loading="eager" path="assets/img/116south-france/south-france-3d.webp" title="aolitravel.com-south-france-travel-guide南法旅游攻略全集" class="img-fluid rounded z-depth-1 watermarked" alt="南法旅游攻略全集aolitravel.com-south-france-travel-guide"%}
-
-
----
-
-**Day 5：尼斯 Nice**
-
-蔚蓝海岸的优雅日常
-
-**行程：**
-
-英国人漫步大道 → 天使湾 → 尼斯老城 → 城堡山
-
-尼斯是南法最适合“慢下来”的城市。
-
-英国人漫步大道（Promenade des Anglais）沿着天使湾（Baie des Anges）延伸，海水呈现层层蓝色渐变。
-
-老城的萨莱亚市场充满生活气息，可以尝试尼斯特色鹰嘴豆薄饼 Socca。
-
-如果时间允许，可参观马蒂斯博物馆（Musée Matisse），感受马蒂斯晚年的地中海光影。
-
-更多尼斯深度玩法，可参考你的我的尼斯攻略。
-
-[**尼斯最强旅行指南｜Top 18必游景点全攻略**](https://aolitravel.com/south-of-france/nice-top-18-things-to-do/)
-
-[**尼斯住宿全攻略｜7大街区带你解锁南法度假魅力 🌊**](https://aolitravel.com/south-of-france/where-to-stay-in-nice-top7-quariters-hotel-recommandation/)
-
-[**蔚蓝海岸艺术之旅｜尼斯及周边12大博物馆全攻略**](https://aolitravel.com/south-of-france/france-cote-dazur-nice-art-trip/)
-{% include figure.liquid loading="eager" path="assets/img/116south-france/south-france-3e.webp" title="aolitravel.com-south-france-travel-guide南法旅游攻略全集" class="img-fluid rounded z-depth-1 watermarked" alt="南法旅游攻略全集aolitravel.com-south-france-travel-guide"%}
-
-
----
-
-**Day 6：埃兹 · 摩纳哥 · 芒通**
-
-**行程：**
-
-埃兹 → 摩纳哥 → 芒通
-
-埃兹（Èze）被称为“鹰巢村”，山顶植物园俯瞰整条蔚蓝海岸线。
-
-摩纳哥王宫每日中午有卫兵换岗仪式，蒙特卡洛赌场门前豪车云集。
-
-芒通（Menton）因柠檬节闻名，色彩柔和的老城充满意大利风情。
-
-这一天是山海结合与奢华气质的集中体现。
-
-更多关于摩纳哥的旅游攻略，欢迎移步我的这篇攻略：
-
-[**摩纳哥🇲🇨旅游攻略｜18个必打卡景点全攻略，玩转全球最富国家**](https://aolitravel.com/south-of-france/monaco-top-18-must-see-guide/)
-{% include figure.liquid loading="eager" path="assets/img/116south-france/south-france-3f.webp" title="aolitravel.com-south-france-travel-guide南法旅游攻略全集" class="img-fluid rounded z-depth-1 watermarked" alt="南法旅游攻略全集aolitravel.com-south-france-travel-guide"%}
-
-
----
-
-**Day 7：艺术海岸线**
-
-**行程：**
-
-圣保罗德旺斯 → 昂蒂布 → 戛纳
-
-圣保罗德旺斯（Saint-Paul-de-Vence）是艺术家聚集地，夏加尔曾长期居住于此。
-
-昂蒂布（Antibes）的 Musée Picasso 展示毕加索在地中海时期的创作。
-
-戛纳（Cannes）影节宫红毯，是南法旅行最具仪式感的收尾。
-
-如果对香水文化感兴趣，可替换为格拉斯小镇（Grasse）深度体验。
-
-如果你有三天可以花在蔚蓝海岸地区旅行，那么可以查看我的三日攻略：
-
-[**蔚蓝海岸尼斯、摩纳哥、戛纳最强三日游攻略**](https://aolitravel.com/south-of-france/nice-eze-monaco-menton-cannes-3days-trip/)
-{% include figure.liquid loading="eager" path="assets/img/116south-france/south-france-3g.webp" title="aolitravel.com-south-france-travel-guide南法旅游攻略全集" class="img-fluid rounded z-depth-1 watermarked" alt="南法旅游攻略全集aolitravel.com-south-france-travel-guide"%}
-
-
----
-
-**三种人群的微调建议**
-
-1️⃣ 第一次来南法
-
-建议按上述标准路线走。
-
-它涵盖：海港文化、峡湾、古城和小镇、峡谷、蔚蓝海岸。这是南法旅游最完整的拼图。
-
-2️⃣ 喜欢海岸线
-
-可以：减少阿维尼翁停留，或者增加尼斯周边小镇时间，或者在卡西斯多住一晚
-
-但要注意：海岸线城市之间虽然地图上很近，但夏天实际车程会拉长。
-
-3️⃣ 喜欢普罗旺斯乡村
-
-可以：加强阿尔勒周边村庄探索，或者增加薰衣草高原区域，或者峡谷安排更完整环线
-
-这种玩法更适合春秋，而不是7–8月高温期。
-
----
-
-**为什么这条路线效率最高？**
-
-因为它符合三个原则：
-
-1. **单方向或呈环形移动，不走回头路；**
-2. **控制换酒店频率（建议4个住宿点以内）**
-3. **把山路安排在体力中后段，而不是第一天**
-
-南法自驾看似距离不远，但真正耗时的往往是：
-
-- 古城小镇找停车位
-- 山路驾驶
-- 夏季交通拥堵
-
-合理的路线设计，能节省至少3–4小时无效驾驶时间。
-
-如果你想看我更详细的每日节奏安排，可以参考我之前写过的南法7天实操版本（包含具体时间分配与住宿策略）：
-
-[**🌟南法7天怎么玩？收下这份保姆级嗨玩攻略！**](https://aolitravel.com/south-of-france/visit-south-france-7-day-trip/)
-
----
-
-如果你希望由我们来帮你安排南法7天行程，欢迎查看我们的以下精选路线：
-
-[**7天6夜南法全景漫游｜艺术、人文与蔚蓝海岸的浪漫交响**](https://aolitravel.com/tours/visit-south-france-top-7-days-tour/)
-{% include figure.liquid loading="eager" path="assets/img/116south-france/south-france-3h.webp" title="aolitravel.com-south-france-travel-guide南法旅游攻略全集" class="img-fluid rounded z-depth-1 watermarked" alt="南法旅游攻略全集aolitravel.com-south-france-travel-guide"%}
-
-
----
-
-### 四、南法各城市深度解析
-
-规划南法旅游时，真正让人纠结的往往不是路线，而是城市选择。
-
-每个南法城市对我来说都很独特，接下来我带你深入解读一下每个城市的气质和特色。
-
-
-**Marseille值得去吗？**
-
-如果你问我马赛值不值得去，我会说：它不是最精致的，却是最真实的。作为法国最古老的城市之一，马赛由古希腊人建立，至今已有2600多年历史。港口文化、多民族融合、海鲜市场与街头涂鸦构成它的气质。这里的老港（Vieux-Port）是城市心脏，守护圣母教堂俯瞰全城，而伊芙岛则因《基督山伯爵》闻名。
-
-建议停留1.5–2天。它适合喜欢历史纵深、摄影与自然徒步（卡朗格峡湾）的人。马赛机场与火车交通发达，非常适合作为南法自驾起点或旅行基地。更详细景点解析可以结合你博客的马赛专题文章做延伸阅读。
-{% include figure.liquid loading="eager" path="assets/img/116south-france/south-france-4a.webp" title="aolitravel.com-south-france-travel-guide南法旅游攻略全集" class="img-fluid rounded z-depth-1 watermarked" alt="南法旅游攻略全集aolitravel.com-south-france-travel-guide"%}
-
-
----
-
-**Nice值得去吗？**
-
-尼斯是蔚蓝海岸的优雅代表。19世纪英国贵族在此度假，造就了今天的英国人漫步大道。城市气质阳光、精致且带着意大利血统的柔软感。天使湾的蓝色渐层、老城的市集气息、马蒂斯晚年的创作痕迹，让这座城市兼具度假与艺术氛围。
-
-建议停留2–3天。适合想慢下来、享受海滨生活与美食的人。尼斯是整个蔚蓝海岸最理想的住宿基地，从这里出发可以轻松前往埃兹、摩纳哥、戛纳等地。
-{% include figure.liquid loading="eager" path="assets/img/116south-france/south-france-4b.webp" title="aolitravel.com-south-france-travel-guide南法旅游攻略全集" class="img-fluid rounded z-depth-1 watermarked" alt="南法旅游攻略全集aolitravel.com-south-france-travel-guide"%}
-
-
----
-
-**Cannes值得去吗？**
-
-提到戛纳，很多人想到电影节与红毯。确实，这座城市的气质偏奢华与展示感。影节宫台阶、海滨大道与停泊的游艇构成它的名片。但除了电影节期间，它更像一座安静而体面的海滨城市。
-
-建议停留半天到1天即可。适合电影爱好者或想打卡地标的人。不太建议作为长期住宿基地，酒店价格偏高，生活氛围不如尼斯浓厚。
-{% include figure.liquid loading="eager" path="assets/img/116south-france/south-france-4c.webp" title="aolitravel.com-south-france-travel-guide南法旅游攻略全集" class="img-fluid rounded z-depth-1 watermarked" alt="南法旅游攻略全集aolitravel.com-south-france-travel-guide"%}
-
-
----
-
-**Avignon值得去吗？**
-
-阿维尼翁的魅力在于中世纪历史。14世纪教廷曾迁至此地，留下宏伟的教皇宫和完整城墙。漫步城内，仿佛仍能感受到宗教权力曾经的辉煌。断桥横跨罗讷河，是法国最具代表性的历史符号之一。
-
-建议停留1天。适合对欧洲宗教史与建筑艺术感兴趣的人。地理位置居中，也很适合作为普罗旺斯地区的住宿基地。
-{% include figure.liquid loading="eager" path="assets/img/116south-france/south-france-4d.webp" title="aolitravel.com-south-france-travel-guide南法旅游攻略全集" class="img-fluid rounded z-depth-1 watermarked" alt="南法旅游攻略全集aolitravel.com-south-france-travel-guide"%}
-
-
----
-
-**Arles值得去吗？**
-
-阿尔勒是一座文化浓度极高的小城。这里保留着完整的古罗马竞技场与剧场，同时也是梵高创作高峰期的居住地。《星夜》《夜间咖啡馆》的灵感都诞生于此。黄昏时分的罗讷河畔，是摄影爱好者的天堂。
-
-建议停留1天。适合艺术与历史爱好者。可与阿维尼翁二选一作为住宿点，避免频繁换酒店。
-{% include figure.liquid loading="eager" path="assets/img/116south-france/south-france-4e.webp" title="aolitravel.com-south-france-travel-guide南法旅游攻略全集" class="img-fluid rounded z-depth-1 watermarked" alt="南法旅游攻略全集aolitravel.com-south-france-travel-guide"%}
-
-
----
-
-**Saint-Tropez值得去吗？**
-
-圣特罗佩原本只是渔村，因20世纪电影与名人效应而成名，如今是欧洲最奢华的度假地之一。老港停满游艇，Pampelonne海滩云集高端沙滩俱乐部。夏季热闹非凡，但交通拥堵明显。
-
-建议停留半天至1天。适合喜欢时尚氛围、沙滩文化的人。不建议作为基地，旺季出行成本高。
-{% include figure.liquid loading="eager" path="assets/img/116south-france/south-france-4f.webp" title="aolitravel.com-south-france-travel-guide南法旅游攻略全集" class="img-fluid rounded z-depth-1 watermarked" alt="南法旅游攻略全集aolitravel.com-south-france-travel-guide"%}
-
-
----
-
-**Aix-en-Provence值得去吗？**
-
-艾克斯是普罗旺斯气质最“优雅”的城市。塞尚的故乡，大学城氛围浓厚，米拉波大道两旁梧桐成荫。市集、喷泉与咖啡馆生活构成它温柔而精致的日常。
-
-建议停留1天。适合喜欢慢节奏与艺术气息的人。位置居中、生活便利，非常适合作为普罗旺斯深度游的住宿基地。
-
-还有更多的南法城市和小镇等你去探索，各有特色，如果你有时间，我建议都花上至少半天或一天的时间去细细探索！
-{% include figure.liquid loading="eager" path="assets/img/116south-france/south-france-4g.webp" title="aolitravel.com-south-france-travel-guide南法旅游攻略全集" class="img-fluid rounded z-depth-1 watermarked" alt="南法旅游攻略全集aolitravel.com-south-france-travel-guide"%}
-
-
----
-
-### 五、南法交通全解析：南法应该自驾还是包车？
-
-规划南法旅游时，几乎每个人都会问：
-
-- 南法适合自驾吗？
-- 南法不自驾可以吗？
-- 南法包车值得吗？
-
-答案其实没有绝对。关键在于：你的时间、同行人是家庭还是朋友，以及对旅行节奏的期待。
-
-下面我从几个实际维度，帮你理清逻辑。
-
-**1️⃣ 路况：好开，但不等于轻松**
-
-南法整体道路质量非常好，高速公路标识清晰，乡村公路风景优美。
-
-但问题在于——很多经典景点不在高速上。
-
-例如普罗旺斯山区小镇、峡谷环线、蔚蓝海岸的悬崖海岸公路，都存在：
-
-- 山路弯道多
-- 单行道狭窄
-- 夏季车流量大
-
-如果你熟悉欧洲驾驶规则（环岛优先、城市道路狭窄且多单行道、部分老城区路况复杂），并且不介意开山路，自驾完全可行。
-
-但如果是第一次来欧洲，且行程紧凑，驾驶本身会消耗不少精力。
-{% include figure.liquid loading="eager" path="assets/img/116south-france/south-france-5a.webp" title="aolitravel.com-south-france-travel-guide南法旅游攻略全集" class="img-fluid rounded z-depth-1 watermarked" alt="南法旅游攻略全集aolitravel.com-south-france-travel-guide"%}
-
-
-**2️⃣ 停车：南法旅行真正的“隐藏成本”**
-
-很多人低估了南法停车难度。
-
-- 古城多为石板路，车位有限
-- 夏季海滨小镇停车场常满
-- 地下停车场限高、限宽
-
-例如在阿维尼翁、阿尔勒、尼斯老城周边，找车位可能比开车更耗时间。
-
-自驾的优点是机动性强，但在旺季，停车本身就是时间成本。
-{% include figure.liquid loading="eager" path="assets/img/116south-france/south-france-5b.webp" title="aolitravel.com-south-france-travel-guide南法旅游攻略全集" class="img-fluid rounded z-depth-1 watermarked" alt="南法旅游攻略全集aolitravel.com-south-france-travel-guide"%}
-
-
-**3️⃣ 语言问题：不是障碍，但需要准备**
-
-法国南部英语普及程度尚可，尤其在旅游区。
-
-租车流程、导航系统都相对成熟。
-
-但如果遇到：
-
-- 停车罚单
-- 交通违规
-- 山区迷路
-
-沟通会增加心理压力。
-
-找我们包车则省去这些不确定性，司机熟悉路线和规则，你只需要享受风景。
-{% include figure.liquid loading="eager" path="assets/img/116south-france/south-france-5c.webp" title="aolitravel.com-south-france-travel-guide南法旅游攻略全集" class="img-fluid rounded z-depth-1 watermarked" alt="南法旅游攻略全集aolitravel.com-south-france-travel-guide"%}
-
-
-**4️⃣ 老人和小孩适合哪种方式？**
-
-如果是年轻人、朋友出行，自驾更自由。
-
-但如果同行有：
-
-- 老人
-- 小孩
-- 行李较多
-
-频繁搬运行李、长时间驾驶会明显消耗体力。
-
-尤其南法经典路线（马赛—普罗旺斯薰衣草—圣十字湖峡谷—马赛），总共有4小时+车程。包车能减少驾驶疲劳，让家庭旅行更轻松。
-{% include figure.liquid loading="eager" path="assets/img/116south-france/south-france-5d.webp" title="aolitravel.com-south-france-travel-guide南法旅游攻略全集" class="img-fluid rounded z-depth-1 watermarked" alt="南法旅游攻略全集aolitravel.com-south-france-travel-guide"%}
-
-
-**5️⃣ 摄影与时间自由度**
-
-从“摄影自由度”来说，自驾非常有优势。
-
-看到花田或海岸线光线好，可以随时停车拍照。
-
-但前提是——有合法停车位。
-
-很多山顶小镇或峡谷观景点，停车位有限，旺季可能无法随停。
-
-包车的优势在于：
-
-司机熟悉最佳停车点与拍摄时段，可以直接带你到视角最好的位置，节省大量寻找时间。
-
----
-
-**总结：南法自驾还是包车？**
-
-✔ 如果时间充裕、熟悉欧洲驾驶规则、喜欢掌控节奏——
-
-自驾是非常好的选择。
-
-✔ 如果行程紧凑、希望高效率深度游、或带家人同行——
-
-包车会更舒服，也更省心。
-
-南法旅游真正消耗的不是公里数，而是：
-
-- 山路驾驶精力
-- 找停车位的时间
-- 行李搬运的体力
-
-选对交通方式，你的体验会完全不同。
-
-如果你希望把行程交给更熟悉南法节奏的人来规划，可以看看我们整理好的精选路线，已经把顺路逻辑、时间分配和体验重点都优化好了。
-
-[**精选路线**](https://aolitravel.com/tours/)
-
-也可以先了解一下我们提供的车型选择，提前看看哪种出行方式最适合你的旅行风格和同行人数。
-
-{% include figure.liquid loading="eager" path="assets/img/116south-france/south-france-5.webp" title="aolitravel.com-south-france-travel-guide南法旅游攻略全集" class="img-fluid rounded z-depth-1 watermarked" alt="南法旅游攻略全集aolitravel.com-south-france-travel-guide"%}
-
-
----
-
-### 六、南法住宿怎么选？
-
-**如果行程重点是普罗旺斯 —— 建议住 Marseille**
-
-马赛是法国最古老的城市之一，港口气质浓厚，也是进入普罗旺斯内陆最自然的门户。从这里前往吕贝隆山区、瓦朗索勒高原或圣雷米都非常顺路。
-
-住在马赛的优势是：
-
-- 机场近，租车方便
-- 去卡西斯、卡朗格峡湾很顺
-- 酒店价格比蔚蓝海岸更友好
-
-而且城市本身值得1–2天停留。老港、守护圣母教堂、伊芙岛构成非常典型的地中海画面。如果你的行程偏普罗旺斯旅游逻辑，马赛作为基地更合理。
-
-[**马赛城市住宿指南｜帮你轻松规划马赛之旅**](https://aolitravel.com/south-of-france/marseille-quartier-hotel-recommandation/)
-{% include figure.liquid loading="eager" path="assets/img/116south-france/south-france-6a.webp" title="aolitravel.com-south-france-travel-guide南法旅游攻略全集" class="img-fluid rounded z-depth-1 watermarked" alt="南法旅游攻略全集aolitravel.com-south-france-travel-guide"%}
-
-
----
-
-**如果行程重点是蔚蓝海岸 —— 建议住 Nice**
-
-尼斯是蔚蓝海岸的交通核心。机场、市区、电车系统都很成熟，向东可去摩纳哥，向西可去戛纳、昂蒂布。
-
-尼斯的气质优雅而松弛。早晨海边散步，下午老城喝咖啡，晚上在天使湾看日落，这种度假节奏是南法旅游的典型画面。
-
-如果你的关键词是“蔚蓝海岸攻略”“南法海滨度假”，那么住尼斯几乎是最省心的选择。
-
-[**尼斯住宿全攻略｜7大街区带你解锁南法度假魅力 🌊**](https://aolitravel.com/south-of-france/where-to-stay-in-nice-top7-quariters-hotel-recommandation/)
-
-{% include figure.liquid loading="eager" path="assets/img/116south-france/south-france-6b.webp" title="aolitravel.com-south-france-travel-guide南法旅游攻略全集" class="img-fluid rounded z-depth-1 watermarked" alt="南法旅游攻略全集aolitravel.com-south-france-travel-guide"%}
-
-
----
-
-**普罗旺斯乡村住一晚值得吗？**
-
-很多人纠结：乡村酒店会不会太偏？值不值得搬行李？
-
-如果你的行程是5–7天，我通常建议在中段安排1–2晚在Avignon或Arles附近的普罗旺斯精品酒店或民宿。
-
-原因很简单：
-
-1. 这两个城市地理位置刚好在普罗旺斯核心区域
-2. 白天去石头小镇或薰衣草田非常顺路
-3. 夜晚城市有生活气息，不至于太荒凉
-
-真正住进乡村后，你会发现南法的节奏完全不同。傍晚阳光变柔，空气里有百里香和橄榄树的味道，餐厅老板会慢慢和你聊天。这种体验是白天跟团式打卡感受不到的。
-
-但如果你的时间少于5天，就不建议频繁更换住宿。南法的山路和停车都需要时间成本，行李搬来搬去会影响体验。
-
-{% include figure.liquid loading="eager" path="assets/img/116south-france/south-france-6c.webp" title="aolitravel.com-south-france-travel-guide南法旅游攻略全集" class="img-fluid rounded z-depth-1 watermarked" alt="南法旅游攻略全集aolitravel.com-south-france-travel-guide"%}
-
----
-
-**南法精品酒店推荐方向（思路）**
-
-南法的酒店选择，其实分三种风格逻辑：
-
-**1️⃣ 海滨度假型**
-
-尼斯、戛纳沿海有大量19世纪“美好年代”风格建筑，适合想要度假氛围的人。
-
-**2️⃣ 修道院/酒庄改建型**
-
-普罗旺斯内陆很多旧修道院、石头农庄改建的精品酒店，强调自然与私密感，非常适合情侣或蜜月。
-
-**3️⃣ 城市历史型**
-
-阿维尼翁城墙内或阿尔勒老城的历史建筑酒店，适合想体验文化厚度的旅行者。
-
-核心逻辑不是“哪家最好”，而是：
-
-- 海岸线为主 → 尼斯为基地
-- 普罗旺斯为主 → 马赛或阿维尼翁为基地
-- 5–7天行程 → 城市+1–2晚中段过渡
-
-如果你想看我更具体的路线和住宿组合，可以参考我博客里已有的南法行程文章，里面有更详细的节奏拆解。
-
-住宿选对了，南法旅行就已经成功了一半。
-
-另外，温馨提示，如果你要订酒店之前不妨先问问我们，通过我们预订酒店，一般能比酒店预订平台或官网节省至少5%的预算！
-{% include figure.liquid loading="eager" path="assets/img/116south-france/south-france-6d.webp" title="aolitravel.com-south-france-travel-guide南法旅游攻略全集" class="img-fluid rounded z-depth-1 watermarked" alt="南法旅游攻略全集aolitravel.com-south-france-travel-guide"%}
-
----
-
-> 如果你想来南法玩，但是还不知道如何规划行程？路线怎么安排？哪几个小镇可以一天玩遍？如何在小众小镇找到最佳住宿和地道美食？别担心！不妨看看我的推荐 - [精选线路](https://aolitravel.com/tours/)，亦或是找我[定制行程](https://aolitravel.com/custom-travel/)
->
-
----
-
-### 七、南法美食地图
-
-**海鲜：地中海的日常**
-
-南法的海鲜不是“精致摆盘”，而是生活的一部分。尤其在Marseille，每天清晨老港都会有渔船靠岸，新鲜鱼获直接进入餐厅。
-
-这里最有代表性的菜是Bouillabaisse（马赛鱼汤）。这道菜起源于马赛渔民家庭，用当天卖不掉的鱼慢炖而成。传统做法会用至少三种地中海鱼类，加番红花和蒜泥酱。正宗版本价格不低，但味道层次丰富，值得体验一次。
-
-在Nice，海鲜更偏清爽风格。尼斯沙拉、凤尾鱼、橄榄酱都是当地特色。很多海边小餐厅没有浮夸装潢，但食材非常新鲜。我自己常去的一些本地餐厅，菜单不长，但当天鱼获写在黑板上，简单烤制就足够好吃。
-
-如果你关注“南法海鲜推荐”“马赛吃什么”，建议优先找本地人多、菜单简单的店，而不是只看网红评分。
-{% include figure.liquid loading="eager" path="assets/img/116south-france/south-france-7a.webp" title="aolitravel.com-south-france-travel-guide南法旅游攻略全集" class="img-fluid rounded z-depth-1 watermarked" alt="南法旅游攻略全集aolitravel.com-south-france-travel-guide"%}
-
-
-**米其林：不是炫技，而是法餐的最精华的展示**
-
-很多人问：南法米其林值得吃吗？
-
-答案是值得，但要选对风格。
-
-南法的高级餐厅强调“terroir”（风土）。意思是：食材来自周围土地，味道与气候、土壤、传统有关。和巴黎那种精致法餐不同，这里更自然。
-
-比如在普罗旺斯地区，很多餐厅会大量使用橄榄油、百里香、迷迭香。菜色看似简单，但味道非常纯净。
-
-如果时间有限，我建议选择一顿午餐体验。午餐价格通常比晚餐友好，也更轻松。
-
-如果你想具体餐厅建议，可以结合我博客里南法路线文章一起规划。
-
-[**美食地图系列｜南法普罗旺斯地区米其林一星餐馆 Dan B 摘星体验**](https://aolitravel.com/blog/2025/south-france-dan-b-restaurant-michelin-1-star-review/)
-{% include figure.liquid loading="eager" path="assets/img/116south-france/south-france-7b.webp" title="aolitravel.com-south-france-travel-guide南法旅游攻略全集" class="img-fluid rounded z-depth-1 watermarked" alt="南法旅游攻略全集aolitravel.com-south-france-travel-guide"%}
-
-
-**酒庄：真正的南法体验**
-
-南法是法国最古老的葡萄酒产区之一。罗马时期这里就已经开始种植葡萄。
-
-在普罗旺斯，桃红葡萄酒（Rosé）是绝对主角。很多酒庄分布在艾克斯附近或瓦尔省山区，风景非常漂亮。像Aix-en-Provence周边，就有大量家族酒庄。
-
-和波尔多那种规模化酒庄不同，这里的很多酒庄仍是家族经营。如果提前预约，是有机会安排私人品酒甚至参观酒窖的。我自己带客人去过几次小型酒庄，体验感远胜大型商业酒庄——你可以直接和酿酒师交流，了解当年气候对酒的影响。
-
-如果你搜索“南法酒庄推荐”“普罗旺斯酒庄体验”，建议选择需要预约的小型庄园，体验更深。或者你也可以找我安排酒庄参观和品酒体验！
-{% include figure.liquid loading="eager" path="assets/img/116south-france/south-france-7c.webp" title="aolitravel.com-south-france-travel-guide南法旅游攻略全集" class="img-fluid rounded z-depth-1 watermarked" alt="南法旅游攻略全集aolitravel.com-south-france-travel-guide"%}
-
-
-**集市：最真实的南法生活**
-
-如果只能选一个最能代表南法风土人情的地方，我会选市场。
-
-Arles和Avignon都有非常有名的露天市场。摊位上是本地橄榄、山羊奶酪、薰衣草蜂蜜和当季水果。卖菜的大叔可能会主动切一片番茄让你试味道。
-
-市场是理解“南法生活方式”的窗口。人们不急着走，聊天时间比买东西还长。你会发现这里的节奏和大城市完全不同。
-
-如果时间允许，可以安排一上午专门逛市场，再买些食材回民宿简单做一餐。这种体验，比任何高级餐厅都更贴近真实生活。
-{% include figure.liquid loading="eager" path="assets/img/116south-france/south-france-7d.webp" title="aolitravel.com-south-france-travel-guide南法旅游攻略全集" class="img-fluid rounded z-depth-1 watermarked" alt="南法旅游攻略全集aolitravel.com-south-france-travel-guide"%}
-
-
-南法美食的核心不是奢华，而是阳光、土地和时间。
-
-无论是海鲜餐厅、米其林、酒庄还是市场，它们都围绕同一个主题——自然与慢节奏。
-
-如果你正在规划南法旅游路线，不妨把“吃”当成每天的重要部分，而不是顺带解决。真正的南法，是在餐桌上慢慢展开的。
-
----
-
-### 八、南法避坑指南
-
-南法光是风景和美食就让人心动，但旅行中如果不注意一些“小坑”，很容易把美好体验折扣掉。作为在南法生活十多年的本地人，我整理了几个最容易踩的雷，让你旅途更顺畅、轻松。
-
-**夏天停车难：提前规划，别盲目自驾**
-
-南法夏天尤其是七、八月，马赛、尼斯、戛纳等热门城市的街头停车位非常紧张。很多游客到达后才发现附近停车场已经爆满，浪费大量时间甚至错过景点。建议提前查好酒店停车或公共停车场，并且考虑用**包车或接送服务**代替市区自驾。沿海小镇如圣特罗佩或卡西斯，狭窄山路和单行道也让停车变成挑战，不熟悉路况的司机容易焦躁。
-
-**海边餐厅溢价：看位置更看口碑**
-
-蔚蓝海岸的海滨餐厅，尤其是紧靠沙滩或港口的餐厅，价格通常比内街高出30–50%。美食固然诱人，但如果只是拍照打卡或尝鲜，推荐提前查评价或向当地人询问性价比高的餐厅。我自己常带客人去**马赛老港内的小餐馆**或者尼斯老城区的隐蔽小店，味道新鲜、价格合理，而且体验地道生活。
-
-**薰衣草时间误区：错峰才能拍出大片**
-
-很多游客以为6月初就能看到普罗旺斯满田薰衣草，但实际上**最佳花期通常在6月中旬到7月上旬**，而不同地区略有差异（如瓦朗索勒、鲁西永）。太早或太晚去，花田可能还未盛开或已经凋谢。如果想拍照或体验薰衣草相关活动，一定要提前向我们咨询花期，并预留灵活时间！
-
-**城市治安区域：远离高风险区**
-
-南法大部分城市都很安全，但像马赛北部的某些街区，夜晚独行或去人烟稀少的街道仍需小心。出行前查看**当地警察局或旅游局的安全提示**，或者提前咨询我们，避免不熟悉的小巷。一般旅游景点和市中心白天都非常安全，但晚间还是推荐同行或选择光线充足的街道。
-
-**过度压缩行程：慢节奏才是南法**
-
-很多游客希望“7天看遍南法”，结果每天换城、换酒店，行程紧凑到连早餐都吃不安心。南法最美的魅力往往在于**慢慢逛市场、喝咖啡、海边散步**。我建议**安排5–7天的行程时，每个重点区域至少住1–2晚**，比如马赛或尼斯作为基地，普罗旺斯小镇可安排一晚住宿，这样既减少搬运行李的疲惫，也有时间真正感受南法生活。
-
-总结来说，南法旅行要避开的坑其实很“生活化”：提前规划停车、合理选择餐厅、抓准花期、注意安全和给行程留够呼吸空间。掌握这些，你的南法之旅不仅美景不断，也能轻松、愉悦地体验当地风土人情。
-
-{% include figure.liquid loading="eager" path="assets/img/116south-france/south-france-8.webp" title="aolitravel.com-south-france-travel-guide南法旅游攻略全集" class="img-fluid rounded z-depth-1 watermarked" alt="南法旅游攻略全集aolitravel.com-south-france-travel-guide"%}
-
-
----
-
-### 九、南法适合哪些人群？
-
-南法的魅力不仅在于阳光、海岸、薰衣草和葡萄酒，更在于它能够满足不同类型游客的需求。无论你是带着家人、恋人，还是独自探寻艺术与美食，这片地中海沿岸和普罗旺斯乡村都有专属你的体验。
-
-**亲子家庭**
-
-南法的城市和乡村都非常适合带孩子旅行。马赛的老港和圣让堡不仅有历史气息，还有可以探索的小巷和港口风光；卡西斯和蔚蓝海岸的海滩则为孩子们提供安全、浅水区嬉戏的好去处。夏天去普罗旺斯还能让孩子近距离接触薰衣草田、橄榄园和小动物农场，体验自然与田园风光。
-
-**蜜月情侣**
-
-蔚蓝海岸的浪漫无需多言。尼斯的天使湾、圣保罗德旺斯的艺术小巷、圣特罗佩的海滨日落，每一个画面都像是为情侣量身打造。沿着海岸线自驾，停靠在私密的小港口或乡村精品酒店，既能享受宁静，又能拍出专属你们的浪漫大片。
-
-**摄影爱好者**
-
-无论是自然景观还是人文建筑，南法都是摄影师的天堂。普罗旺斯的薰衣草田、红土小镇鲁西永、泉水城的索格河瀑布，每一处都是色彩与光影的绝佳组合。蔚蓝海岸的天使湾、蒙特卡洛的豪华港口、戛纳红毯场景，则提供了都市与海景结合的摄影题材。如果你想抓住光影变化，每天早晨和黄昏的时间都值得预留出来。
-
-**父母同行**
-
-对于带父母一起出行的人来说，南法的慢节奏尤其友好。选择以马赛或尼斯为基地，安排1–2天在普罗旺斯小镇的轻松游览，不必频繁搬运行李，也能享受乡村美景。城市中公共交通便利、餐厅环境舒适，也适合中老年人休闲漫步。
-
-**高端旅行者**
-
-如果你追求高端体验，南法也不会让你失望。蒙特卡洛的豪华酒店、私人游艇、葡萄酒庄深度体验，以及阿维尼翁和圣保罗德旺斯的精品住宿，能够满足对品质与隐私的需求。配合当地导览或定制包车，让旅行既精致又舒适。
-
-南法几乎适合所有类型的旅行者，只要安排得当，每个人都能在这里找到心仪的玩法。如果你希望在有限时间内**玩得更深入、更舒适，也更符合个人偏好**，不妨考虑我们的定制旅行服务——从行程设计、景点安排到交通与餐饮，我们帮你打磨每一个细节，让南法之旅变成真正的专属体验。
-{% include figure.liquid loading="eager" path="assets/img/116south-france/south-france-9.webp" title="aolitravel.com-south-france-travel-guide南法旅游攻略全集" class="img-fluid rounded z-depth-1 watermarked" alt="南法旅游攻略全集aolitravel.com-south-france-travel-guide"%}
-
-
----
-<!--
-
-<div class="reviews-carousel">
-  {% for review in site.data.reviews %}
-  <div class="review-card">
-    <img src="{{ review.avatar }}" alt="{{ review.name }}" class="review-avatar">
-    <p class="review-comment">“{{ review.comment }}”</p>
-    <p class="review-name">{{ review.name }}</p>
-    <p class="review-date">{{ review.date }}</p>
-  </div>
-  {% endfor %}
-</div>
 
 <style>
-.reviews-carousel {
-  display: flex;
-  overflow-x: auto;
-  scroll-behavior: smooth;
-  padding: 20px 0;
-  gap: 15px;
-}
-.review-card {
-  flex: 0 0 auto;
-  width: 260px;
-  background: #fff;
-  padding: 15px;
-  border-radius: 10px;
-  box-shadow: 0 2px 8px rgba(0,0,0,0.12);
-  text-align: center;
-}
-.review-avatar {
-  width: 70px;
-  height: 70px;
-  border-radius: 50%;
-  object-fit: cover;
-  margin-bottom: 10px;
-}
-.review-comment {
-  font-size: 14px;
-  color: #333;
-  margin-bottom: 8px;
-  min-height: 50px;
-}
-.review-name {
-  font-weight: bold;
-  color: #555;
-}
-.review-date {
-  font-size: 12px;
-  color: #999;
-}
+  .south-guide-intro {
+    margin: 1.2rem 0 1.5rem;
+  }
+
+  .south-guide-answer {
+    background: rgba(111, 66, 193, 0.055);
+    border-left: 4px solid #6f42c1;
+    border-radius: 0.55rem;
+    line-height: 1.8;
+    margin: 1.4rem 0;
+    padding: 1rem 1.15rem;
+  }
+
+  .south-guide-actions {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.75rem;
+    margin: 1.4rem 0 1.2rem;
+  }
+
+  .south-guide-actions .btn {
+    align-items: center;
+    border-radius: 0.75rem;
+    display: inline-flex;
+    font-size: 1rem;
+    font-weight: 500;
+    justify-content: center;
+    line-height: 1.35;
+    min-height: 2.85rem;
+    padding: 0.6rem 1.15rem;
+  }
+
+  .south-guide-grid {
+    display: grid;
+    gap: 1rem;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    margin: 1.2rem 0 1.5rem;
+  }
+
+  .south-guide-grid.two {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .south-guide-card {
+    border: 1px solid rgba(0, 0, 0, 0.08);
+    border-radius: 0.75rem;
+    height: 100%;
+    padding: 1rem;
+  }
+
+  .south-guide-card h4 {
+    font-size: 1.08rem;
+    margin: 0 0 0.45rem;
+  }
+
+  .south-guide-card p {
+    color: var(--global-text-color);
+    line-height: 1.75;
+    margin-bottom: 0;
+  }
+
+  .south-guide-link-grid {
+    display: grid;
+    gap: 1rem;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    margin: 1rem 0 1.4rem;
+  }
+
+  .south-guide-link-card {
+    border: 1px solid rgba(0, 0, 0, 0.08);
+    border-radius: 0.75rem;
+    display: block;
+    height: 100%;
+    padding: 1rem;
+    text-decoration: none;
+  }
+
+  .south-guide-link-card:hover {
+    text-decoration: none;
+    transform: translateY(-1px);
+  }
+
+  .south-guide-link-card strong {
+    display: block;
+    margin-bottom: 0.35rem;
+  }
+
+  .south-guide-link-card span {
+    color: var(--global-text-color);
+    display: block;
+    line-height: 1.65;
+  }
+
+  .south-guide-separator {
+    border-top: 1px solid rgba(0, 0, 0, 0.08);
+    margin: 2.2rem 0;
+  }
+
+  .south-guide-small {
+    color: var(--global-text-color-light);
+    font-size: 0.95rem;
+    line-height: 1.7;
+  }
+
+  .post-update-note {
+    border-top: 1px solid rgba(0, 0, 0, 0.08);
+    border-radius: 0.45rem;
+    color: var(--global-text-color-light);
+    font-size: 0.9rem;
+    line-height: 1.65;
+    margin: 2rem 0 0;
+    padding: 0.85rem 0 0;
+  }
+
+  .post-update-note p {
+    margin-bottom: 0;
+  }
+
+  @media (max-width: 768px) {
+    .south-guide-grid,
+    .south-guide-grid.two,
+    .south-guide-link-grid {
+      grid-template-columns: 1fr;
+    }
+
+    .south-guide-actions .btn {
+      width: 100%;
+    }
+  }
 </style>
 
-<script>
-document.addEventListener("DOMContentLoaded", function() {
-  const carousel = document.querySelector(".reviews-carousel");
-  let isDown = false;
-  let startX;
-  let scrollLeft;
+{% include figure.liquid loading="eager" path="assets/img/116south-france/south-france-0.webp" title="aolitravel.com-south-of-france-travel-guide-draft第一次去南法完整规划指南" class="img-fluid rounded z-depth-1 watermarked" alt="第一次去南法完整规划指南：普罗旺斯、蔚蓝海岸与南法小镇路线规划"%}
 
-  carousel.addEventListener('mousedown', (e) => {
-    isDown = true;
-    carousel.classList.add('active');
-    startX = e.pageX - carousel.offsetLeft;
-    scrollLeft = carousel.scrollLeft;
-  });
-  carousel.addEventListener('mouseleave', () => {
-    isDown = false;
-    carousel.classList.remove('active');
-  });
-  carousel.addEventListener('mouseup', () => {
-    isDown = false;
-    carousel.classList.remove('active');
-  });
-  carousel.addEventListener('mousemove', (e) => {
-    if(!isDown) return;
-    e.preventDefault();
-    const x = e.pageX - carousel.offsetLeft;
-    const walk = (x - startX) * 2; // scroll-fast
-    carousel.scrollLeft = scrollLeft - walk;
-  });
-});
-</script>
+<div class="south-guide-intro">
+  <p>第一次去南法，最容易纠结的不是“有没有地方可去”，而是想去的地方太多。马赛、阿维尼翁、石头城、泉水小镇、红土城、尼斯、埃兹、摩纳哥、戛纳，每一个名字都很有吸引力；真正当你开始研究行程时，才会发现天数、交通、住宿和行程节奏都需要去考虑。</p>
 
--->
+  <p>如果只看景点清单，南法会显得很散；但如果先看路线逻辑，它其实就会变得更清楚。第一次规划南法，我建议先确认三件事：你有几天时间，想以普罗旺斯为主还是蔚蓝海岸为主，航班打算从马赛进出还是尼斯进出。把这三件事想明白，后面的城市选择、住宿和交通都会容易很多。</p>
 
----
+  <p>我在法国生活了十多年，从巴黎搬到南法后，旅行、生活和工作慢慢交织在了一起。这些年我深度走过十几个国家，足迹遍布三大洲；现在一边写法国与欧洲攻略，一边负责奥利旅行的路线设计和当地接待。马赛、普罗旺斯和蔚蓝海岸，不只是我来过几次的目的地，也是我平时生活、带团、接送客人和反复旅行的地方。</p>
 
-### 南法旅行相关高频问题总结
+  <p>所以这篇文章里，我想分享的不只是“哪些地方值得去”，还包括真正到了南法以后才会遇到的问题：不同季节几点出发更舒服，小镇之间看着不远为什么一天还是容易赶，酒店住在哪里能少搬几次行李，带父母孩子时哪些安排应该舍掉。你可以把它当作一篇第一次去南法的完整规划指南，也可以把它当作一位住在当地、走过这些路线很多次的朋友，陪你先把行程大方向想明白。</p>
+</div>
 
-**1. 南法适合几天旅行？**
+<div class="card hoverable mb-4">
+  <div class="card-body">
+    <h3 class="card-title">先看结论：第一次去南法怎么安排？</h3>
+    <div class="south-guide-answer">
+      <p class="mb-0"><strong>第一次去南法，如果想同时体验普罗旺斯和蔚蓝海岸，5到7天会比较舒服；如果只有3到4天，建议只选一个重点区域；如果带老人、孩子，或者不想在交通和停车上消耗精力，包车或定制路线会比临时衔接更稳妥。</strong></p>
+    </div>
+    <p>南法旅游真正的魅力，往往藏在一天的旅行节奏里：什么时候去小镇，什么时候看海，哪里值得停久一点，哪里顺路看一眼就够。景点不是越满越好，而是要让旅行有呼吸。</p>
+    <div class="south-guide-actions">
+      <a href="/tours/" class="btn text-white" style="background-color: #6f42c1;">查看南法精选路线</a>
+      <a href="/custom-travel/" class="btn btn-outline-secondary">定制我的南法行程</a>
+    </div>
+  </div>
+</div>
 
-一般建议3–5天覆盖普罗旺斯与蔚蓝海岸经典景点，若要深度游乡村小镇，可安排7天及以上。
+### 先了解你正在规划怎样的南法之旅？
 
-**2. 南法安全吗？**
+<div class="south-guide-grid">
+  <div class="south-guide-card">
+    <h4>第一次来，有5到7天</h4>
+    <p>可以把马赛、阿维尼翁、普罗旺斯小镇、尼斯、埃兹和摩纳哥串成一条完整路线。</p>
+  </div>
+  <div class="south-guide-card">
+    <h4>只有3到4天</h4>
+    <p>建议选一个重点：马赛与普罗旺斯，或尼斯与蔚蓝海岸。两边都深度玩会很赶。</p>
+  </div>
+  <div class="south-guide-card">
+    <h4>想看薰衣草</h4>
+    <p>重点看6月中旬到7月中旬，并根据当年花况安排瓦朗索勒、圣十字湖或吕贝隆方向。</p>
+  </div>
+  <div class="south-guide-card">
+    <h4>不想自驾</h4>
+    <p>优先住火车能到的大城市，再用一日包车连接小镇、山路、花田和海岸线。</p>
+  </div>
+  <div class="south-guide-card">
+    <h4>带父母或孩子</h4>
+    <p>减少换酒店次数，不要把每天都排成跨城移动。南法的美，需要一点停留时间。</p>
+  </div>
+  <div class="south-guide-card">
+    <h4>航班已经确定</h4>
+    <p>先确定马赛进、尼斯出，还是尼斯进、马赛出，再决定普罗旺斯和海岸怎么衔接。</p>
+  </div>
+</div>
 
-总体安全，旅游区治安良好，但夜晚在闹市或街区僻静区域需注意，保管好贵重物品。
+如果你已经有大致出行月份、人数和天数，可以直接看我的[南法精选路线](/tours/)或[定制旅行页面](/custom-travel/)，把想去的地方发给我，我可以先帮你判断这条路线是否适合。
 
-**3. 英语够用吗？**
+{% include figure.liquid loading="lazy" path="assets/img/116south-france/south-france-1.webp" title="aolitravel.com-south-of-france-travel-guide-draft南法路线判断" class="img-fluid rounded z-depth-1 watermarked" alt="南法路线判断：第一次去南法如何选择普罗旺斯和蔚蓝海岸"%}
 
-主要城市和旅游区英语通用，但乡村和小镇居民更习惯法语，学几句基础法语更方便。
+<div class="south-guide-separator"></div>
 
-**4. 南法花费大概多少？**
+### 南法到底包括哪些地方？
 
-预算因季节和住宿类型而异：经济型每天约€100–150，中高端每天约€250–400，高端自由行或包车可能更多。
+旅行意义上的南法，通常可以先分成三块来看。
 
-**5. 南法需要租车吗？**
+<div class="south-guide-grid">
+  <div class="south-guide-card">
+    <h4>普罗旺斯</h4>
+    <p>适合喜欢小镇、古城、艺术、薰衣草和乡间风景的人。马赛、阿维尼翁、阿尔勒、艾克斯普罗旺斯、石头城、泉水小镇、红土城，都属于普罗旺斯的风土。</p>
+  </div>
+  <div class="south-guide-card">
+    <h4>蔚蓝海岸</h4>
+    <p>适合喜欢海岸、度假城市、山顶小镇和地中海风景的人。尼斯、戛纳、昂蒂布、埃兹、摩纳哥、芒通，是这一侧最常被安排进行程里的地方。</p>
+  </div>
+  <div class="south-guide-card">
+    <h4>奥克西塔尼</h4>
+    <p>更偏历史与古城，比如尼姆、蒙彼利埃、卡尔卡松一带。它们不一定是第一次南法的必选，但如果你从西班牙过来，或想把南法玩得更深度，就值得考虑。</p>
+  </div>
+</div>
 
-需要租车，甚至包车。普罗旺斯乡村和蔚蓝海岸小镇景点分散，主要城市内可依靠公共交通，但城市间连通需要乘坐火车或巴士，特别是郊区或乡村部分需要自驾或包车，城市交通不太方便。
+**普罗旺斯更像南法的乡村底色。**这里有马赛与艾克斯普罗旺斯这样的城市，也有阿维尼翁、阿尔勒的历史，还有吕贝隆山谷里一座座用石头垒起来的小镇。你会在同一天里遇见古罗马遗迹、教皇宫、梵高画过的街道、橄榄树和露天市集。很多人为了薰衣草而来，最后真正记住的，反而是小镇清晨的光、咖啡馆门口的声音，还有午后不紧不慢的生活。
 
-**6. 南法什么时候去最好？**
+**蔚蓝海岸的重点不是“海边城市越多越好”。**尼斯适合住下来，埃兹适合看山海，摩纳哥有完全不同的繁华城市气质，戛纳和昂蒂布则可以按照兴趣选一处。它们在地图上挨得很近，旺季实际走起来却会受到车流、停车和人群影响。第一次来，不妨给尼斯留两晚，再从中挑一两条周边路线，会比每天换酒店舒服得多。
 
-4–6月花季，6–7月薰衣草，7–8月海滨旺季，9–10月最舒适，冬季气候温和多雨，但人少旅行开销相对较低。
+**奥克西塔尼常被第一次来南法的人忽略。**如果你从巴塞罗那进入法国，卡尔卡松和蒙彼利埃正好构成很自然的过渡；如果假期只有一周，又从马赛或尼斯进出，就没有必要为了“南法地图完整”特意绕过去。南法很大，懂得暂时不去哪里，也是一种智慧。
 
-**7. 薰衣草什么时候开？**
+所以第一次做南法攻略，与其问“哪些城市最值得去”，不如先问你自己：这趟旅行更想看小镇与乡间，还是海岸与山城？更想慢慢感受，还是时间有限需要把几个经典区域串起来打卡式旅行？
 
-一般6月中旬至7月中上旬，具体开花期受气候影响，瓦朗索勒高原的花田是最佳观赏地之一。
+{% include figure.liquid loading="lazy" path="assets/img/116south-france/south-france-1a.png" title="aolitravel.com-south-of-france-travel-guide-draft普罗旺斯与蔚蓝海岸" class="img-fluid rounded z-depth-1 watermarked" alt="南法旅游区域：普罗旺斯、蔚蓝海岸与南法小镇"%}
 
-**8. 夏天南法会不会太热？**
+<div class="south-guide-separator"></div>
 
-7–8月沿海温度舒适（25–30℃），内陆普罗旺斯和戈尔德等地可能达到30℃以上，注意防晒和补水。
+### 第一次去南法，几天比较合适？
 
-**9. 南法适合亲子游吗？**
+<div class="table-responsive">
+  <table class="table table-bordered">
+    <thead>
+      <tr>
+        <th>旅行天数</th>
+        <th>适合玩法</th>
+        <th>取舍建议</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>3到4天</td>
+        <td>短假期南法精华</td>
+        <td>只选一个重点：马赛与普罗旺斯，或尼斯与蔚蓝海岸。</td>
+      </tr>
+      <tr>
+        <td>5到7天</td>
+        <td>第一次南法最推荐</td>
+        <td>可以串联马赛、普罗旺斯小镇、阿维尼翁、阿尔勒、尼斯、埃兹和摩纳哥。</td>
+      </tr>
+      <tr>
+        <td>8天以上</td>
+        <td>更完整、更从容</td>
+        <td>可以加入圣十字湖、瓦朗索勒、卡马格湿地、圣特罗佩、芒通，甚至衔接西班牙或意大利。</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
-非常适合，尤其马赛老港、尼斯海滩、阿维尼翁及自然景区如Camargue和Gorges du Verdon。
+如果你想直接看一版成熟路线，可以参考这篇：[南法7天经典路线攻略](/south-of-france/visit-south-france-7-day-trip/)；如果假期更短，也可以看[南法精华4天小团路线](/tours/south-france-4-days-tour-marseille-provence-nice-monaco/)。
 
-**10. 蜜月去南法好吗？**
+<div class="south-guide-separator"></div>
 
-浪漫指数满分，蔚蓝海岸小镇、海滨日落与普罗旺斯乡村景色，非常适合情侣。
+### 马赛进还是尼斯进？
 
-**11. 摄影爱好者推荐哪些地方？**
+如果你第一次来南法，时间大约5到7天，又想把普罗旺斯和蔚蓝海岸都接起来，我通常会先看“马赛进、尼斯出”这一种走法。
 
-戈尔德、鲁西永、圣保罗德旺斯、卡朗格峡湾及天使湾都是光影绝佳的拍摄地。
+马赛一侧更适合打开普罗旺斯：老港、卡西斯、阿维尼翁、阿尔勒、吕贝隆小镇都在这一侧。尼斯一侧更适合收尾：老城、海边、埃兹、摩纳哥和戛纳，节奏会自然放松下来。
 
-**12. 南法交通方便吗？**
+但这不是唯一答案。如果你的航班明显更适合尼斯，或者这次重点就是蔚蓝海岸，那么尼斯进、马赛出也完全成立。真正重要的不是哪个机场更有名，而是哪一种进出方式更符合你的路线重心。
 
-主要城市有火车和巴士，沿海城镇间火车较便捷，但小镇和乡村景点仍建议自驾或包车。
+更详细的判断，可以看这篇：[第一次去南法，马赛进尼斯出，还是反过来更适合？](/south-of-france/first-time-south-france-marseille-to-nice-or-reverse/)。
 
-**13. 南法住宿怎么选？**
+{% include figure.liquid loading="lazy" path="assets/img/124marseille-or-nice/marseille-or-nice-0.png" title="aolitravel.com-south-of-france-travel-guide-draft马赛进还是尼斯进" class="img-fluid rounded z-depth-1 watermarked" alt="第一次去南法：马赛进尼斯出还是尼斯进马赛出"%}
 
-蔚蓝海岸推荐尼斯或摩纳哥为基地，普罗旺斯推荐马赛及阿维尼翁附近，乡村可安排1晚体验民宿或精品酒店。
+<div class="south-guide-separator"></div>
 
-**14. 海边餐厅价格高吗？**
+### 南法什么季节最好？
 
-旺季沿海餐厅价格普遍高，提前预订或选择小镇内餐厅性价比更好。
+<div class="south-guide-grid two">
+  <div class="south-guide-card">
+    <h4>4到6月：最平衡</h4>
+    <p>天气舒服，阳光稳定，人没有盛夏那么多，小镇、市场、海岸和古城都适合慢慢走。</p>
+  </div>
+  <div class="south-guide-card">
+    <h4>6月中旬到7月中旬：薰衣草</h4>
+    <p>适合专门来看花的人。花期会受海拔和气温影响，路线最好根据当年花况调整。欢迎提前咨询我！</p>
+  </div>
+  <div class="south-guide-card">
+    <h4>7到8月：海边旺季</h4>
+    <p>蔚蓝海岸最热闹，酒店贵、停车难、餐厅要提前订，但海边度假氛围最浓厚。</p>
+  </div>
+  <div class="south-guide-card">
+    <h4>9到10月：舒服收尾</h4>
+    <p>天气仍好，游客减少，海水还有余温，是我个人很喜欢的南法季节。</p>
+  </div>
+</div>
 
-**15. 南法需要带信用卡吗？**
+如果只让我选一个综合体验最平衡的时段，我会偏向**5月、6月上旬和9月**（但如果你需要带孩子出行或其他原因，**7、8月**也是我会推荐的合适旅游季节）。这个时间，阳光通常已经很稳定，古城和小镇有了旅行的气氛，又不至于像盛夏那样拥挤。白天适合走路，傍晚也还可以在海边或露台坐一会儿。
 
-带信用卡非常方便，大部分餐厅、酒店和景区都可刷卡，现金只需少量用于小店或市场。
+专程看薰衣草，就要把日期看得更细。普罗旺斯并不是所有花田同时开放，瓦朗索勒高原、吕贝隆和塞南克修道院一带会因为海拔、气温和收割安排出现差异。不要只看往年的某一天，也不要把整趟南法旅行全部押在一块花田上。我平时带团时，会在临近出发前再看当年的花况，把小镇、圣十字湖或峡谷一起搭配进去。即使花期有一点变化，这一天仍然值得。
 
-**16. 南法治安注意事项？**
+7到8月的南法很热闹，也最考验规划。海边、音乐节、夜生活都在状态里，但内陆古城中午会很晒，卡西斯、圣特罗佩和热门小镇的停车也可能耗掉不少时间。这个季节我通常会建议早点出发，把步行和拍照放在上午，午后留给吃饭、室内参观或海边休息。
 
-旅游区总体安全，但马赛、尼斯部分城区晚上注意人多或偏僻街道，避免炫富。
+冬天并不是完全不能来。马赛、尼斯、阿维尼翁和艾克斯普罗旺斯依然适合城市、博物馆和市场旅行，只是海上项目、部分乡村餐厅和季节性设施会减少。如果你想看的是花田和热闹的海岸，冬季不合适；如果你更喜欢安静的街道、清澈的光线和较少的人群，也会看到南法另一面，其实从这个角度来说，我非常推荐你们冬天来。
 
-**17. 小镇住宿是否值得？**
+如果你的重点是薰衣草，可以先读这篇：[普罗旺斯薰衣草花期与路线建议](/south-of-france/visit-france-provence-lavender-season/)；想把花田、圣十字湖和陶瓷小镇放在同一天，也可以参考我的[薰衣草与圣十字湖实用攻略](/south-of-france/visit-lavande-champ-saint-croix-verdon-moustiers-sainte-marie/)。
 
-非常值得，尤其普罗旺斯乡村，住一晚可以享受宁静日出与薰衣草田、古镇风情。
+{% include figure.liquid loading="lazy" path="assets/img/116south-france/south-france-2a.webp" title="aolitravel.com-south-of-france-travel-guide-draft南法季节与薰衣草" class="img-fluid rounded z-depth-1 watermarked" alt="南法最佳旅行季节：普罗旺斯薰衣草与南法阳光"%}
 
-**18. 老人小孩适合南法旅行吗？**
+<div class="south-guide-separator"></div>
 
-完全可以，合理安排行程、避免长山路徒步和高温中午，可体验舒适的自驾或包车路线。
+### 住宿怎么选？
 
-**19. 南法购物好买吗？**
+第一次来南法，不建议只按酒店照片和价格做决定。这里的住宿更要看第二天往哪里走、是否带行李、晚上需不需要步行吃饭，以及车辆能不能方便上下车。住得漂亮却每天多开一两个小时，体验未必更好。
 
-特色市场、香水店（格拉斯香水小镇）、马赛香皂、薰衣草纪念品、葡萄酒庄和橄榄油都是必买特色，适合纪念或送礼。
+**马赛适合作为西南法的起点。**机场、圣夏尔火车站、餐厅和城市配套都比较完整，去卡西斯、艾克斯普罗旺斯、阿尔勒和部分吕贝隆路线也方便。第一次来，我更建议住在老港周边或交通清楚的区域，不要只为了房价住到过于偏远的街区。马赛不是一座一眼就精致的城市，但住下来以后，老港的早晨、海边的风和不同街区的生活感，会比匆匆打卡更有意思。
 
-**20. 想深度体验南法，有什么建议？**
+**阿维尼翁或阿尔勒适合承接普罗旺斯腹地。**阿维尼翁方便连接教皇宫、吕贝隆小镇和罗讷河方向；阿尔勒更适合喜欢古罗马、梵高、卡马格湿地和艺术氛围的人。两座城市不一定都住，选一座连住，往往比每天搬行李更舒服。
 
-建议咨询我提前规划路线！结合自驾/包车，安排1–2晚乡村住宿，体验当地美食和私人酒庄或小镇文化。
-{% include figure.liquid loading="eager" path="assets/img/116south-france/south-france-10.webp" title="aolitravel.com-south-france-travel-guide南法旅游攻略全集" class="img-fluid rounded z-depth-1 watermarked" alt="南法旅游攻略全集aolitravel.com-south-france-travel-guide"%}
+**艾克斯普罗旺斯适合喜欢城市生活感的人。**这里的市集、喷泉、咖啡馆和街道都很讨喜，住宿氛围通常比马赛安静。不过如果你的航班、火车和主要路线都从马赛出发，就要把接送与车程一起算进去。
 
----
+**尼斯是蔚蓝海岸最实用的住宿基地。**机场、火车、老城、海边和餐厅集中，从这里去埃兹、摩纳哥、芒通、昂蒂布和戛纳都比较自然。尼斯可以连住两到三晚，不必为了每一个海滨城市换酒店。若带父母孩子，住在交通方便、晚上步行能吃饭的区域，会省下很多体力。
 
-南法不是一个“打卡型”的目的地。
+普罗旺斯乡村酒店和酒庄住宿当然很美，但更适合已经有车、行程不赶，或者愿意把一个下午和早晨真正留给酒店的人。如果晚上很晚才入住，第二天一早又出发，那份景色和安静其实没有被用上。
 
-它真正迷人的地方，在于节奏、阳光、空气里的味道、小镇下午的光线、海边傍晚的风。很多时候，旅行的质量不是多去几个城市，而是是否理解这片土地的节奏。
+如果你有5到7天，我通常建议西边和东边各设一个主要住宿点，中间视路线增加一晚，而不是全程固定在一座城市来回跑。关于抵达后的具体交通，可以继续看[马赛机场交通指南](/south-of-france/marseille-provence-airport-guide/)和[尼斯机场交通指南](/south-of-france/france-nice-cote-azur-airport-guide/)。
 
-如果你时间充裕、喜欢自己研究行程，这篇攻略足够帮你把路线理顺。
+<div class="south-guide-separator"></div>
 
-但如果你希望在有限的5–7天里玩得更深入、更舒服，少走弯路，少换酒店，少在停车场绕圈，我也很乐意用我在南法多年的生活经验，帮你把行程设计得更合理一些。
+### 自驾、火车还是包车？
 
-无论你是第一次来南法，还是已经来过一次想更深入，这里都值得你慢慢走一遍。
+南法可以自驾，也可以用火车和包车组合。没有一种方式适合所有人，关键看你去哪里、几个人同行，以及有没有人愿意额外付出精力去租车自驾。
 
-希望这篇南法旅行攻略，能让你的行程从“看风景”，变成真正体验南法。
+**自驾的优点是自由，代价是需要有人一直负责。**南法高速公路和主要道路整体不难开，但真正想去的小镇、峡谷和海岸公路，经常会遇到弯道、狭窄路段、环岛和老城限行。旺季最麻烦的往往不是开车本身，而是到了以后找停车位。卡西斯、尼斯、戛纳和普罗旺斯热门小镇，都可能让原本轻松的一天从停车场开始变得紧张。
 
-> 出发前，总少不了做点功课，对吧？为了让你的行程更轻松，我整理了三大实用资源：👉1.[精选路线](https://aolitravel.com/tours/)：汇集我们自己运营、靠谱的巴黎和南法游览路线，让你玩得尽兴又不踩雷。 👉2.[旅行工具](https://aolitravel.com/travel-prep/)：酒店、机票、车票、租车或包车预订，以及各种旅行资源，一站搞定行程安排。 👉3.[旅行商城](https://aolitravel.com/store/)：我们陆续上新精选旅行好物，从出行装备到当地特色小物，让旅程更舒适、更有趣。用上这些推荐，你再也不用东奔西找，既省时又省心。想让你的欧洲（法国、瑞士、意大利等）之旅顺利又精彩？从这里开始，就对了！
->
+如果同行的家人或朋友里有人熟悉欧洲驾驶，而且本身也喜欢开车，自驾很合适。我接触过不少客人，最后选择包车，恰恰是因为全家没有人想在放松的度假时间里负责路线、停车和每天几小时的驾驶。几个人同行时，把租车、保险、油费、高速费、停车和公共交通加起来以后，包车与自行安排之间的差距有时并没有想象中那么大。
+
+**火车适合城市与海岸主线。**马赛、阿维尼翁、戛纳、昂蒂布、尼斯、摩纳哥和芒通之间，可以完成相当一部分移动。只玩城市、行李不多、时间宽松，火车是很好的方式。问题在于，石头城、泉水小镇、红土城、瓦朗索勒、圣十字湖和不少山顶观景点，公共交通班次少，甚至没有适合游客的一日衔接。
+
+**包车更适合需要照顾整体节奏的小团。**带父母、孩子，几位朋友一起出行，或者希望一天连接几个公共交通不方便的地方时，包车能减少搬行李和等车。它真正的价值也不只是“有人开车”，而是有本地向导帮你全程安排，知道先去哪一处能避开人潮、哪里需要提前预约、当天太热或太累时该如何调整路线。
+
+还有一种很实用的方式，是**城市间坐火车，乡村和海岸难走的部分分段包车**。比如巴黎到马赛搭高铁，在马赛玩一两天，再从马赛出发安排普罗旺斯周边一日游或衔接尼斯及其周边城市，安排一至几日路线。这样既不用全程承担包车成本，也不会因为公共交通覆盖不到而错过南法最有特点的地方。
+
+{% include figure.liquid loading="lazy" path="assets/img/116south-france/south-france-2b.webp" title="aolitravel.com-south-of-france-travel-guide-draft南法交通与包车" class="img-fluid rounded z-depth-1 watermarked" alt="南法交通选择：自驾、火车、包车与普罗旺斯小镇路线"%}
+
+<div class="south-guide-separator"></div>
+
+### 第一次南法路线怎么排？
+
+一条比较稳的5到7天路线，可以这样理解：
+
+<div class="table-responsive">
+  <table class="table table-bordered">
+    <thead>
+      <tr>
+        <th>天数</th>
+        <th>推荐安排</th>
+        <th>路线逻辑</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>D1</td>
+        <td>抵达马赛，老港、守护圣母大教堂，轻松适应</td>
+        <td>第一天不排太满，先进入南法节奏。</td>
+      </tr>
+      <tr>
+        <td>D2</td>
+        <td>马赛周边，卡西斯或艾克斯普罗旺斯</td>
+        <td>城市、海岸或普罗旺斯生活感先打开。</td>
+      </tr>
+      <tr>
+        <td>D3</td>
+        <td>阿维尼翁、阿尔勒或普罗旺斯古城方向</td>
+        <td>从地中海城市进入古城与艺术记忆。</td>
+      </tr>
+      <tr>
+        <td>D4</td>
+        <td>石头城、泉水小镇、红土城，或薰衣草季节路线</td>
+        <td>把最典型的普罗旺斯小镇留出完整一天。</td>
+      </tr>
+      <tr>
+        <td>D5</td>
+        <td>从普罗旺斯向蔚蓝海岸移动，可经戛纳或昂蒂布</td>
+        <td>移动日也可以安排顺路停留观光，不浪费时间在赶路上。</td>
+      </tr>
+      <tr>
+        <td>D6</td>
+        <td>尼斯、埃兹、摩纳哥</td>
+        <td>用蔚蓝海岸的海景、山顶小镇和城市繁华景观收尾。</td>
+      </tr>
+      <tr>
+        <td>D7</td>
+        <td>尼斯周边轻松收尾，或从尼斯机场离开</td>
+        <td>最后一天留一点余地，比继续硬塞景点更舒服。</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+这张表先给你一个轮廓。下面我再按照自己实际走线路时的情况，把每天为什么这样安排讲清楚。它不是唯一答案，但很适合第一次来、想同时认识普罗旺斯和蔚蓝海岸的人。
+
+#### 第一天：抵达马赛，先认识地中海的入口
+
+抵达后不要急着把第一天塞满。可以从马赛老港开始，沿港口走到圣让堡和欧洲及地中海文明博物馆一带，再去守护圣母大教堂看城市与海岸全景。
+
+马赛不是那种一眼就规整、精致的城市。它有港口的喧闹，也有移民城市的复杂；有两千多年的历史，也有很日常的海鲜市场和街头生活。我从巴黎搬到南法以后，慢慢喜欢上的正是这种不装饰的生命力。第一次到南法，从这里开始，会比直接跑去小镇更容易理解这片地区和地中海的关系。
+
+如果航班很早抵达、大家状态也不错，可以傍晚到海边看看；如果是长途飞行，就留在老港附近吃饭休息。第一天舒服，后面几天才有精神。
+
+{% include figure.liquid loading="lazy" path="assets/img/116south-france/south-france-3a.webp" title="aolitravel.com第一次去南法马赛行程" class="img-fluid rounded z-depth-1 watermarked" alt="第一次去南法行程第一天：马赛老港与地中海城市风景"%}
+
+#### 第二天：卡西斯或艾克斯普罗旺斯，海岸与城市生活二选一
+
+如果喜欢自然和海景，这一天可以去卡西斯。港口不大，真正吸引人的是卡朗格峡湾的白色石灰岩、蓝绿色海水和海岸线。天气与季节合适时，可以坐船看峡湾；喜欢走路，也可以选择适合当日开放情况的步道。夏季部分徒步区域会因为防火规定临时限制，不能只按网上旧攻略安排。部分峡湾在夏天的时候进入需要提前预约，欢迎提前咨询我！
+
+如果不想走山路，或者天气不适合出海，就把这一天留给艾克斯普罗旺斯。米拉波大道、市集、喷泉、塞尚的故事和街边露台，呈现的是另一种南法。它没有卡西斯那样强烈的山海画面，却很适合慢慢走、吃一顿午饭，感受普罗旺斯城市的日常。
+
+卡西斯和艾克斯都值得去，但行程不长时，没有必要一天硬塞两处。选一处好好停留，通常会留下更完整的记忆。
+
+延伸阅读：[艾克斯-普罗旺斯旅行攻略](/south-of-france/visit-aix-en-provence-top-10-things-to-do/)。
+
+{% include figure.liquid loading="lazy" path="assets/img/116south-france/south-france-3b.webp" title="aolitravel.com南法卡西斯与马赛周边" class="img-fluid rounded z-depth-1 watermarked" alt="南法马赛周边旅行：卡西斯海岸与普罗旺斯生活"%}
+
+#### 第三天：阿维尼翁与阿尔勒，在古城里读懂南法
+
+阿维尼翁和阿尔勒常被放在同一条线里，但它们的气质很不一样。阿维尼翁的核心是教皇宫、中世纪城墙和罗讷河；阿尔勒则把古罗马遗迹、梵高的足迹和普罗旺斯街道揉在一起。
+
+第一次来，如果对欧洲宗教史和建筑更感兴趣，可以把更多时间留给阿维尼翁；喜欢艺术、摄影和古罗马，就在阿尔勒慢一点。两座城一天可以串联，但不建议每一个博物馆和遗址都进。选一座做重点，另一座用街道、广场和一两个地标来认识，会轻松很多。
+
+阿尔勒也是我很喜欢带客人慢慢走的地方。梵高留下的画面并不都原样存在，但当傍晚的光落在罗讷河和浅黄色石墙上，你会明白他为什么在这里画出那么强烈的颜色。
+
+延伸阅读：[阿维尼翁旅行攻略](/south-of-france/visit-avignon-city-guide-top-15-things-to-do/)与[阿尔勒城市旅行攻略](/south-of-france/visit-arles-city-guide/)。
+
+{% include figure.liquid loading="lazy" path="assets/img/116south-france/south-france-3d.webp" title="aolitravel.com阿维尼翁阿尔勒南法路线" class="img-fluid rounded z-depth-1 watermarked" alt="南法阿维尼翁与阿尔勒行程：教皇宫、古罗马和梵高足迹"%}
+
+#### 第四天：吕贝隆小镇，或薰衣草与圣十字湖
+
+非薰衣草季，可以走石头城 Gordes、泉水小镇 Fontaine-de-Vaucluse 和红土城 Roussillon。三座小镇颜色、地形和氛围都不同：石头城适合看山坡全景，泉水小镇适合沿河散步，红土城则有鲜明的赭石颜色。
+
+这一天最容易犯的错误，是看地图觉得距离不远，于是又加塞塞南克修道院、酒庄、市场和更多村庄。真正走起来，小镇需要停车、步行和坐下来吃饭。早一点出发，选三处重点，通常已经很充实。
+
+6月中旬到7月中旬前后，可以根据当年花况改走瓦朗索勒薰衣草花田、圣十字湖、陶瓷小镇或吕贝隆山区的花田。花期路线不能只追求“哪一块最紫”，还要看车程、光线和当天人流。我更喜欢把花田与湖、小镇放在一起，让一整天有变化，而不是在几块相似的花田之间赶路。
+
+{% include figure.liquid loading="lazy" path="assets/img/116south-france/south-france-3c.webp" title="aolitravel.com普罗旺斯小镇与薰衣草路线" class="img-fluid rounded z-depth-1 watermarked" alt="普罗旺斯石头城、红土城、泉水小镇与薰衣草路线"%}
+
+#### 第五天：从普罗旺斯走向蔚蓝海岸
+
+今天是长途移动的一天，但不必只剩下赶路。根据前一晚住宿，可以在前往尼斯途中选择戛纳或昂蒂布停留。
+
+戛纳的辨识度来自影节宫、海滨大道和度假城市的仪式感，适合第一次来拍照走走；昂蒂布有老城、港口和更松弛的海边生活，也有毕加索博物馆。如果时间有限，两座城市选一处就好。夏季沿海车流容易拉长，不建议为了“都去过”把午饭和休息全部压缩掉。
+
+傍晚抵达尼斯后，先到英国人漫步大道或老城走走。前几天是古城、乡间和小镇，到了这里，旅行会自然转向海岸与度假气氛。
+
+{% include figure.liquid loading="lazy" path="assets/img/116south-france/south-france-3g.webp" title="aolitravel.com戛纳昂蒂布蔚蓝海岸路线" class="img-fluid rounded z-depth-1 watermarked" alt="从普罗旺斯前往蔚蓝海岸：戛纳、昂蒂布与尼斯"%}
+
+#### 第六天：尼斯、埃兹与摩纳哥
+
+这一天是蔚蓝海岸最经典的组合。尼斯老城和萨莱亚市场适合早晨，埃兹适合在山顶小镇与热带花园之间慢慢走，摩纳哥则可以看王宫、港口和蒙特卡洛赌场。
+
+地图上三处距离很近，实际一天仍然需要取舍。埃兹街道有坡度，带老人或孩子时要给步行留足时间；摩纳哥不同区域有高差，车辆和电梯的衔接比单纯看直线距离重要。如果想深入看尼斯的博物馆或在海边多留一会儿，就不要再把芒通硬塞进同一天。
+
+在我带团的经验里，这一天最打动人的往往不是某一个“必看景点”，而是从埃兹山顶望向地中海的那一刻，或傍晚回到尼斯后，沿着海边慢慢走回酒店。
+
+{% include figure.liquid loading="lazy" path="assets/img/116south-france/south-france-3f.webp" title="aolitravel.com尼斯埃兹摩纳哥行程" class="img-fluid rounded z-depth-1 watermarked" alt="蔚蓝海岸尼斯、埃兹与摩纳哥一日路线"%}
+
+#### 第七天：把最后半天留给尼斯
+
+如果前一天主要去了埃兹和摩纳哥，最后一天可以补上尼斯老城、城堡山、海边或自己喜欢的博物馆。尼斯很适合用来收尾，不需要再完成一张长长的清单。去市场吃点东西，走进旧城的街巷，在海边坐一会儿，反而更像一趟南法旅行应有的结束。
+
+如果航班较早，就直接送往尼斯机场；如果从马赛返程，则不建议当天临时横跨整条海岸赶飞机，最好在前一晚就调整住宿。长线旅行最后一天留出余量，是我做路线时很看重的一件事。
+
+更多蔚蓝海岸细节可以继续看[尼斯、埃兹、摩纳哥与戛纳三日路线](/south-of-france/nice-eze-monaco-menton-cannes-3days-trip/)。
+
+{% include figure.liquid loading="lazy" path="assets/img/116south-france/south-france-3e.webp" title="aolitravel.com尼斯南法行程收尾" class="img-fluid rounded z-depth-1 watermarked" alt="南法七日行程最后一天：尼斯老城与蔚蓝海岸"%}
+
+这不是唯一版本。它的重点是帮你看到一条基本逻辑：先普罗旺斯，再蔚蓝海岸；先城市、古城与小镇，再用海边和山顶村收尾。这样行程会像一趟逐渐展开的旅行，而不是每天随机换地方。
+
+如果你希望直接看已成型的路线，可以从[南法深度多日游](/tours/#南法深度多日游)里选择最接近自己需求的一条，再根据航班、人数和季节调整。
+
+<div class="south-guide-separator"></div>
+
+### 南法哪些城市值得去？怎么取舍？
+
+第一次规划南法，最让人犹豫的通常不是路线，而是城市名单。下面不是一份排名，而是我结合本地生活和实际带团经验给出的“适合谁、留多久、要不要住”判断。
+
+#### 马赛：不够精致，却最有地中海生命力
+
+马赛是法国最古老的城市之一，也是我现在生活和工作的重要基地。它和巴黎、尼斯都不一样：港口、多元文化、街头气息、海鲜市场和起伏的城市地形混在一起，有些地方粗粝，有些海岸又美得很直接。
+
+第一次来，老港、圣让堡、守护圣母大教堂和海边已经能构成完整的一天；喜欢文学可以去伊芙岛，喜欢自然就把卡朗格峡湾或卡西斯放进第二天。马赛适合停留1到2晚，也很适合作为普罗旺斯路线的起点。更多细节可看[马赛必游景点攻略](/south-of-france/visit-marseille-top15-things-to-do/)和[马赛一日游路线](/south-of-france/marseille-1day-trip/)。
+
+{% include figure.liquid loading="lazy" path="assets/img/116south-france/south-france-4a.webp" title="aolitravel.com马赛南法旅行" class="img-fluid rounded z-depth-1 watermarked" alt="南法城市选择：马赛老港、海岸与地中海生活"%}
+
+#### 尼斯：第一次玩蔚蓝海岸，最适合住下来的城市
+
+尼斯兼顾了机场、火车、海边、老城、餐厅和博物馆，是蔚蓝海岸最稳妥的基地。它的魅力不只在天使湾，也在萨莱亚市场、老城颜色、城堡山的视野，以及日常生活里带着一点意大利味道的松弛感。
+
+建议至少住2晚。如果还要去埃兹、摩纳哥、芒通、戛纳或昂蒂布，住3晚也不会多。第一次来蔚蓝海岸，与其每天换一座海滨城市，不如住在尼斯，用白天去周边，晚上回到熟悉的街区。可继续阅读[尼斯18个景点攻略](/south-of-france/nice-top-18-things-to-do/)和[尼斯住宿区域指南](/south-of-france/where-to-stay-in-nice-top7-quariters-hotel-recommandation/)。
+
+{% include figure.liquid loading="lazy" path="assets/img/116south-france/south-france-4b.webp" title="aolitravel.com尼斯蔚蓝海岸旅行" class="img-fluid rounded z-depth-1 watermarked" alt="南法城市选择：尼斯天使湾、老城与蔚蓝海岸"%}
+
+#### 阿维尼翁与阿尔勒：一座看教皇城，一座看古罗马与梵高
+
+阿维尼翁的重点是教皇宫、城墙和中世纪历史。它地理位置居中，适合连接吕贝隆小镇，也适合作为普罗旺斯的住宿点。对欧洲宗教史和建筑感兴趣，至少留半天到一天。
+
+阿尔勒更像一座打开后会不断出现细节的城市。古罗马竞技场、剧场、梵高走过的街道和罗讷河，把两千年的历史压缩在不大的老城里。喜欢艺术和摄影，我会更建议在这里慢一点。两座城市都有价值，但假期不长时，可以选一座做重点，不必为了集齐地名把两边都走得很仓促。
+
+{% include figure.liquid loading="lazy" path="assets/img/116south-france/south-france-4d.webp" title="aolitravel.com阿维尼翁普罗旺斯旅行" class="img-fluid rounded z-depth-1 watermarked" alt="南法城市选择：阿维尼翁教皇宫与普罗旺斯古城"%}
+
+#### 艾克斯普罗旺斯：适合把脚步放慢的一天
+
+艾克斯普罗旺斯是塞尚的故乡，也是一座很适合生活的大学城。喷泉、市集、梧桐树下的米拉波大道和咖啡馆，构成了许多人想象中的普罗旺斯城市气质。
+
+它不需要用“必打卡景点数量”来证明价值。上午逛市集，中午好好吃饭，下午走一走塞尚相关地点，已经很完整。第一次南法只有四五天时，它可以和卡西斯二选一；时间更宽裕，就值得留一天。
+
+{% include figure.liquid loading="lazy" path="assets/img/116south-france/south-france-4g.webp" title="aolitravel.com艾克斯普罗旺斯旅行" class="img-fluid rounded z-depth-1 watermarked" alt="南法城市选择：艾克斯普罗旺斯市集、喷泉与街道"%}
+
+#### 戛纳、昂蒂布与圣特罗佩：不必全部都去
+
+戛纳适合喜欢电影节、海滨大道和度假城市氛围的人，半天到一天足够；昂蒂布的老城、港口和毕加索博物馆更有生活感，适合想走得安静一点的人。两座城市在同一方向，时间有限时选一处即可。
+
+圣特罗佩名气很大，夏季也很迷人，但旺季交通压力明显。它更适合喜欢沙滩、游艇和时尚度假氛围，而且愿意为这一站专门留时间的人。如果只是为了拍一张老港照片，从尼斯或马赛当天往返，花在路上的时间可能比停留时间还长。
+
+{% include figure.liquid loading="lazy" path="assets/img/116south-france/south-france-4c.webp" title="aolitravel.com戛纳蔚蓝海岸旅行" class="img-fluid rounded z-depth-1 watermarked" alt="南法城市选择：戛纳海滨大道与蔚蓝海岸度假氛围"%}
+
+#### 埃兹、摩纳哥与芒通：山海、城市与意大利气息
+
+埃兹不是一座适合快进快出的小镇。石头街道一路向上，山顶热带花园的海景是重点，最好给它留出两三个小时。摩纳哥面积不大，却有明显的城市层次，从王宫区到蒙特卡洛并不是平面地图上看起来那么简单。
+
+芒通在法国与意大利边境，老城色彩更柔和，生活节奏也比摩纳哥安静。第一次来、一天时间有限，埃兹和摩纳哥已经足够；喜欢小城和摄影，或者在尼斯住得久，再把芒通加进来。
+
+{% include figure.liquid loading="eager" path="assets/img/116south-france/south-france-1e.webp" title="aolitravel.com埃兹摩纳哥南法旅行" class="img-fluid rounded z-depth-1 watermarked" alt="蔚蓝海岸城市选择：埃兹、摩纳哥与地中海海景"%}
+
+<div class="south-guide-separator"></div>
+
+### 来南法吃什么？从市场和餐桌认识这里
+
+我一直觉得，南法旅行如果只剩下景点，会少掉很重要的一层。这里的市场、海鲜、橄榄油、香草和葡萄酒，会让你对著名的“地中海气候”有一个具象的认识！
+
+**在马赛，可以从鱼汤和海鲜开始。**正宗马赛鱼汤 Bouillabaisse 本来就是一道讲究鱼种、汤底和上菜顺序的地方菜，不会是老港边随处可见的一碗廉价海鲜汤。预算有限，也不用勉强追求“最正宗”；吃烤鱼、贝类、蒜泥蛋黄酱配海鲜，或找一家本地评价稳定的小馆子，同样能感受到马赛味道。我的[马赛餐厅指南](/south-of-france/10-marseille-restaurants-recommandation/)里整理了更多实际选择。
+
+**到了尼斯，可以试试 Socca、尼斯沙拉和小街里的本地菜。**Socca 是鹰嘴豆粉烤成的薄饼，刚出炉时最好吃。萨莱亚市场周边很热闹，但别只围着最显眼的海边餐厅打转，往老城里多走几条街，常常会有更轻松的选择。
+
+**普罗旺斯小镇的重点是市场与季节。**夏天有番茄、瓜果和香草，秋天有葡萄和菌类。市集不只是购买纪念品的地方，也是观察本地生活最快的入口。想买马赛皂、薰衣草制品、橄榄油或香料，先看产地和成分，不要只看包装上有没有“Provence”。
+
+**酒庄体验值得安排，但不要和自驾冲突。**南法从罗讷河谷到普罗旺斯都有葡萄酒产区。真正深度的酒庄探访，不是匆匆试几杯就离开，而是有时间听酿造、看看葡萄园，再吃一顿午饭。如果当天有人需要开车，就提前安排好品鉴分量或交通方式。
+
+{% include figure.liquid loading="lazy" path="assets/img/116south-france/south-france-7a.webp" title="aolitravel.com南法美食与市场" class="img-fluid rounded z-depth-1 watermarked" alt="南法旅行美食：地中海海鲜、普罗旺斯市场与本地生活"%}
+
+<div class="south-guide-separator"></div>
+
+### 第一次去南法，最容易踩哪些坑？
+
+#### 一天安排太多小镇
+
+石头城、泉水小镇和红土城看起来距离不远，但停车、步行、午餐和拍照都会占时间。再临时加两座村庄，最后常常只剩下上下车。第一次来，一天三处重点通常已经足够。
+
+#### 把夏季车程当成地图上的常规时间
+
+7到8月的海岸线、卡西斯、圣特罗佩和热门小镇，实际交通会受到人流、停车和活动影响。涉及航班、火车和门票预约时，要留出余量，不要把每一段衔接卡到分钟。
+
+#### 只为了便宜，把酒店订得太偏
+
+偏远住宿可能便宜，也可能很美，但晚上吃饭、每天接送和搬行李都会增加成本。带父母孩子时，电梯、空调、停车和晚餐便利度，有时比房间照片更重要。
+
+#### 看到“薰衣草季”就默认花一定开得很好
+
+花况会随天气、海拔和收割安排变化。出发前看当年信息，同时给路线保留小镇、湖泊或古城备选，比只追一块网红花田更稳妥。好的花田年年都有变化，欢迎提前联系我咨询！
+
+#### 海边餐厅只看景观，不看菜单
+
+一线海景通常意味着更高价格，不一定意味着更好的食物。想看海，可以先喝一杯；真正吃饭，再去当地人常去的街区。这样既保留风景，也不会整趟旅行都在为位置付费。
+
+#### 忽略防晒、防风和舒适的鞋
+
+南法阳光强，海边有时风也很大。古城和山顶小镇常见石板路、坡道和台阶。墨镜、帽子、防晒、水和一双真正能走路的鞋，比为了照片准备太多不实用的衣服更重要。
+
+{% include figure.liquid loading="lazy" path="assets/img/116south-france/south-france-8.webp" title="aolitravel.com第一次去南法避坑" class="img-fluid rounded z-depth-1 watermarked" alt="第一次去南法避坑：小镇停车、旺季交通与旅行节奏"%}
+
+<div class="south-guide-separator"></div>
+
+### 南法适合什么样的旅行者？
+
+**带父母或孩子的家庭。**南法适合家庭旅行，但不适合每天换酒店、阳光下长时间步行和晒太阳。安排连住、避开正午到下午3点最热的时候，把小镇和海岸分开走，老人孩子通常会比在大城市连续逛博物馆更放松。
+
+**情侣和朋友小团。**两到六个人一起旅行，既能分享住宿和车辆成本，也有足够灵活度。有人想逛市场、有人想拍照时，路线可以留出一点自由，不必所有人每分钟都做同一件事。
+
+**喜欢艺术、历史和摄影的人。**阿尔勒、艾克斯、尼斯及蔚蓝海岸的美术馆，把梵高、塞尚、马蒂斯、毕加索和地中海光线连在一起。摄影则不只在薰衣草季，春天的乡间、秋天的葡萄园、冬日清澈的海岸都有自己的画面。
+
+**愿意慢一点的人。**南法当然可以打卡，但它最好的部分经常发生在计划之外：市集里买一袋水果、港口边多坐半小时、因为天气改变路线后遇见另一片海。如果你希望每一天都装进最多景点，你的南法行程会很累；如果愿意留一点空白，它会比照片更好看。
+
+{% include figure.liquid loading="lazy" path="assets/img/116south-france/south-france-9.webp" title="aolitravel.com南法家庭与小团旅行" class="img-fluid rounded z-depth-1 watermarked" alt="南法适合家庭、情侣、朋友小团和深度旅行者"%}
+
+<div class="south-guide-separator"></div>
+
+### 如果你还想继续做功课
+
+<div class="south-guide-link-grid">
+  <a class="south-guide-link-card hoverable" href="/south-of-france/visit-south-france-7-day-trip/">
+    <strong>南法7天经典路线攻略</strong>
+    <span>适合已经确定想玩5到7天，想先看一版完整路线的人。</span>
+  </a>
+  <a class="south-guide-link-card hoverable" href="/south-of-france/first-time-south-france-marseille-to-nice-or-reverse/">
+    <strong>马赛进还是尼斯进？</strong>
+    <span>适合已经在看航班，纠结南法进出城市的人。</span>
+  </a>
+  <a class="south-guide-link-card hoverable" href="/south-of-france/visit-france-provence-lavender-season/">
+    <strong>普罗旺斯薰衣草花期与路线</strong>
+    <span>适合6到7月出行，想专门看花田的人。</span>
+  </a>
+  <a class="south-guide-link-card hoverable" href="/south-of-france/visit-south-france-top-15-villages/">
+    <strong>南法最值得去的小镇</strong>
+    <span>适合想在石头城、泉水小镇、红土城、埃兹等小镇之间做取舍的人。</span>
+  </a>
+  <a class="south-guide-link-card hoverable" href="/south-of-france/visit-marseille-top15-things-to-do/">
+    <strong>马赛旅游攻略</strong>
+    <span>适合从马赛抵达，想把城市和周边路线安排得更合理的人。</span>
+  </a>
+  <a class="south-guide-link-card hoverable" href="/south-of-france/nice-eze-monaco-menton-cannes-3days-trip/">
+    <strong>尼斯、埃兹、摩纳哥路线</strong>
+    <span>适合重点玩蔚蓝海岸，想看海岸和山顶小镇的人。</span>
+  </a>
+</div>
+
+如果你已经开始准备具体行程，也可以直接看[精选路线](/tours/)或提交[定制旅行需求](/custom-travel/)。
+
+<div class="south-guide-separator"></div>
+
+### 第一次去南法常见问题
+
+<details>
+  <summary>第一次去南法建议几天？</summary>
+  <p>第一次去南法，如果想同时看普罗旺斯和蔚蓝海岸，建议安排5到7天。3到4天更适合只玩一个重点区域；8天以上则可以加入薰衣草、圣十字湖、卡马格湿地、圣特罗佩或更舒缓的海岸线行程。</p>
+</details>
+
+<details>
+  <summary>南法第一次去，马赛进好还是尼斯进好？</summary>
+  <p>如果你想先玩普罗旺斯，再用蔚蓝海岸收尾，马赛进、尼斯出通常比较自然；如果航班更适合尼斯，或者重点就是海岸，也可以尼斯进、马赛出。关键不是机场本身，而是路线是否减少折返。</p>
+</details>
+
+<details>
+  <summary>南法适合自由行吗？</summary>
+  <p>适合，但要看目的地。马赛、尼斯、阿维尼翁等城市之间可以用火车；普罗旺斯小镇、薰衣草、峡谷和山顶村公共交通不太方便，更适合自驾、包车或定制一日路线。</p>
+</details>
+
+<details>
+  <summary>南法一定要自驾吗？</summary>
+  <p>不一定。熟悉欧洲驾驶、同行人少、喜欢自由探索的人可以自驾；如果带老人孩子，或朋友出行不想处理停车、限行、山路和旺季交通，包车或分段包车会更轻松。</p>
+</details>
+
+<details>
+  <summary>南法薰衣草什么时候最好看？</summary>
+  <p>普罗旺斯薰衣草通常在6月中旬到7月中旬最受关注，但具体花况会受海拔、天气和地区影响。瓦朗索勒、圣十字湖和吕贝隆方向的时间节奏并不完全一样，建议出行前再确认。</p>
+</details>
+
+<details>
+  <summary>带老人孩子去南法，路线怎么安排更舒服？</summary>
+  <p>带老人或孩子时，建议减少换酒店次数，避免每天长距离移动。小镇、海岸和古城都可以玩，但不要把一天排得太满。南法的体验感，很多时候来自停下来，而不是多跑一个景点。</p>
+</details>
+
+<details>
+  <summary>南法和巴黎可以一起玩吗？</summary>
+  <p>可以。如果有8到10天，可以考虑巴黎加南法；如果你的行程不到一周的话，建议先确认自己更想看巴黎的城市艺术，还是更想看地中海、普罗旺斯小镇和海岸线。</p>
+</details>
+
+<details>
+  <summary>第一次去南法，大概需要多少预算？</summary>
+  <p>预算会受到月份、住宿位置、人数和交通方式影响。盛夏的尼斯、戛纳和普罗旺斯热门地区通常比春秋更贵。做预算时除了酒店和门票，还要把租车保险、油费、高速费、停车、城市间交通和用餐算进去。几位家人或朋友同行时，也可以把公共交通与包车的总成本放在一起比较。</p>
+</details>
+
+<details>
+  <summary>不会法语，去南法旅行方便吗？</summary>
+  <p>马赛、尼斯、阿维尼翁、戛纳和主要景区通常可以用英语沟通，但乡村餐厅、小镇停车场和临时交通状况不一定都有完整英文信息。提前保存酒店地址、门票和关键法语词句，会安心很多；需要当地协助时，也可以选择中文司导或定制服务。</p>
+</details>
+
+<details>
+  <summary>南法旅行安全吗？</summary>
+  <p>主要旅游区可以正常旅行，但在火车站、机场、热门景点和拥挤街区仍要注意随身物品。租车时不要把行李、相机和购物袋留在车内可见位置，晚上回酒店也尽量选择照明和人流较好的路线。</p>
+</details>
+
+<details>
+  <summary>普罗旺斯小镇一天能去几个？</summary>
+  <p>通常安排三处重点比较舒服，例如石头城、泉水小镇和红土城。若加入塞南克修道院、酒庄或正式午餐，就应减少一处。小镇之间的车程不是唯一成本，停车、步行和停留时间更容易被低估。</p>
+</details>
+
+<details>
+  <summary>南法需要提前预订哪些项目？</summary>
+  <p>暑期酒店、热门餐厅、卡西斯游船、部分博物馆和重要门票建议提前确认。薰衣草季和大型节庆期间，住宿与车辆也会更紧张。行程先定大方向，再预订有时间限制的项目，能避免门票时间反过来拖乱路线。</p>
+</details>
+
+<details>
+  <summary>如果我还没定路线，可以先咨询吗？</summary>
+  <p>可以。你可以先把出行人数、月份、天数、计划进出城市和特别想去的地方发给我。我会先帮你判断这条南法路线是否适合你的情况，再看是否需要包车、拼车或定制。</p>
+</details>
+
+<div class="south-guide-separator"></div>
+
+南法不是一张需要全部完成的景点清单。它真正好看的地方，在阳光落在石墙上的时间，也在海边吹来的风、市集里刚买到的水果，以及同行的人都还有力气坐下来好好吃一顿饭。
+
+我写这篇攻略，是希望你在第一次来之前，先知道什么值得留时间，什么可以等下一次。作为长期生活在南法的旅行内容创作者，也是奥利旅行路线设计与当地接待的负责人，我做行程时最在意的始终是：一天结束以后，大家记住的是风景和故事，而不是赶路、停车和搬行李。
+
+如果你喜欢自己做攻略，可以沿着文中的链接继续慢慢看；如果已经有了人数、月份和航班，也可以从[南法精选路线](/tours/)里找一条接近的方案，或通过[定制旅行页面](/custom-travel/)告诉我你的想法。无论最后是否由我们接待，都希望这篇指南能帮你把第一次南法旅行安排得更清楚，也更像自己想要的样子。
 
 {% include figure.liquid loading="eager" path="assets/img/116south-france/south-france-11.webp" title="aolitravel.com-south-france-travel-guide南法旅游攻略全集" class="img-fluid rounded z-depth-1 watermarked" alt="南法旅游攻略全集aolitravel.com-south-france-travel-guide"%}
 
----
 
-想了解更多法国或瑞士的旅行灵感？快来探索我的其他旅游攻略吧！😊🇫🇷
-
-**法国旅游**
-
-[法国旅行前准备攻略：一站式指南](https://aolitravel.com/france-travel/france-travel-information/)
-
-[法国旅行入门攻略：申根旅游签证申请指南](https://aolitravel.com/france-travel/france-visa-information/)
-
-[法国文化小课堂｜礼仪、语言、饮食文化、餐馆用餐指南](https://aolitravel.com/france-travel/french-culture-101-etiquette-language-culinary-dining/)
-
-[🇫🇷法兰西十二时辰：每个月最该去的绝美秘境，错过等一年！](https://aolitravel.com/france-travel/explore-france-12-best-monthly-destinations/)
-
-[法国滑雪🇫🇷入门全攻略｜我的多年经验总结](https://aolitravel.com/france-travel/france-ski-guide/)
-
-[法国TOP20滑雪胜地全攻略 ❄️｜探秘阿尔卑斯顶级滑雪天堂](https://aolitravel.com/france-travel/french-top-20-ski-resort-guide/)
-
-[法国打折村「不完全指南」带你省钱买大牌！](https://aolitravel.com/france-travel/france-outlet-shopping-mall-village-guide/)
-
-[法国看球之旅⚽｜探秘法甲六大豪门](https://aolitravel.com/france-travel/france-football-league-1-visit-top-6-clubs/)
-
-[波尔多旅游指南｜探索葡萄酒之城15个宝藏景点](https://aolitravel.com/france-travel/visit-bordeaux-top-15-things-to-do/)
-
-[里昂必打卡18大景点：从古迹到艺术，玩转法国“光之城”！](https://aolitravel.com/france-travel/visit-lyon-top-18-things-to-do/)
-
-[南法 vs 南意：地中海风情的双面魅力，你Pick哪一边？](https://aolitravel.com/france-travel/south-france-south-italy-trip-comparison/)
-
-[玫瑰之城「图卢兹」解锁浪漫与科技的完美之旅](https://aolitravel.com/france-travel/visit-toulouse-top-12-things-to-do/)
-
-[欧洲之心「斯特拉斯堡」Top12景点深度游攻略](https://aolitravel.com/france-travel/visit-strasbourg-top-12-things-to-do/)
-
-[最美小镇「科尔马」一日游攻略｜仿佛误入童话世界✨](https://aolitravel.com/france-travel/visit-colmar-1-day-trip/)
-
-[「格勒诺布尔」终极攻略｜8大必玩景点&美食、远足、滑雪](https://aolitravel.com/france-travel/visit-grenoble-guide/)
-
-[南特必玩12大景点全攻略｜教你玩转法国最潮文艺之城！](https://aolitravel.com/france-travel/visit-nantes-top-12-things-to-do/)
-
-[3天玩转法国布列塔尼！圣马洛、迪纳尔、迪南、圣米歇尔山全攻略](https://aolitravel.com/france-travel/visit-brittany-bretagne-saint-malo-dinard-dinan-mont-saint-michel/)
-
-[雷恩旅游全攻略｜布列塔尼的心脏，历史与活力的魅力之城！](https://aolitravel.com/france-travel/visit-rennes-top-12-things-to-do/)
-
-[🇫🇷里尔必玩15大景点全攻略！一次玩透，轻松有趣！](https://aolitravel.com/france-travel/visit-lille-top-15-things-to-do/)
-
-[诺曼底之心「鲁昂」城市旅游深度指南｜距离巴黎1.5小时](https://aolitravel.com/france-travel/visit-rouen-city-guide/)
-
-[🌿 蒙彼利埃2日生态旅行攻略：徒步、海鲜、运河骑行](https://aolitravel.com/france-travel/visit-montpellier-city-guide/)
-
-[🍾香槟之城「兰斯」终极旅行指南](https://aolitravel.com/france-travel/visit-reims-city-guide/)
-
-[法国勃艮第童话小城「第戎」的一日旅游攻略](https://aolitravel.com/france-travel/visit-dijon-city-guide/)
-
-[探访阿尔卑斯的威尼斯｜我的「安纳西」独家旅游攻略](https://aolitravel.com/france-travel/visit-alps-annecy-city-guide/)
-
-[法国世界文化遗产「圣米歇尔山」最全旅行指南！](https://aolitravel.com/france-travel/visit-saint-michel-mount-normandie/)
-
-[法国美丽岛「科西嘉」全攻略｜这个地中海神仙小岛也太绝了](https://aolitravel.com/france-travel/visit-france-corse-guide/)
-
-[穿越时光的城堡之旅｜法国卢瓦尔河谷最全游览指南](https://aolitravel.com/france-travel/visit-castles-the-loire-france/)
-
-[比利牛斯山深藏的安道尔🇦🇩小到离谱，好玩到炸](https://aolitravel.com/france-travel/visit-pyrenees-andorra-guide/)
-
-[🇫🇷法国最值得打卡的世界文化遗产TOP15｜一生必去清单](https://aolitravel.com/france-travel/france-15-unesco-historic-cultural-sites/)
-
-[🍷法国葡萄酒旅行攻略｜六大产区，一文看懂！](https://aolitravel.com/france-travel/france-wine-region-travel-guide/)
-
-[去法国看网球？法网、巴黎大师赛、蒙特卡洛大师赛全攻略](https://aolitravel.com/france-travel/roland-garros-paris-masters-monte-carlo-tennis-tournament-guide/)
-
-**巴黎**
-
-[巴黎住宿安全指南｜区域推荐与避坑攻略](https://aolitravel.com/paris/paris-map-arr/)
-
-[巴黎必去景点Top20｜一文带你玩转浪漫之都](https://aolitravel.com/paris/paris-top-20/)
-
-[最新版巴黎机场交通攻略](https://aolitravel.com/paris/public-transport-paris-airports/)
-
-[巴黎四天三夜经典行程推荐](https://aolitravel.com/paris/paris-4days-trip/)
-
-[最实用的巴黎公共交通指南｜一文看懂怎么选！](https://aolitravel.com/paris/paris-public-transportation/)
-
-[巴黎埃菲尔铁塔完整指南｜购票拍照、登塔全攻略](https://aolitravel.com/paris/eiffel-tower-paris-guide/)
-
-[巴黎圣母院游记攻略｜历史建筑与周边旅行指南](https://aolitravel.com/paris/notre-dame-paris-guide/)
-
-[法国必打卡｜巴黎歌剧院超详细图文全攻略](https://aolitravel.com/paris/paris-garnier-opera-guide/)
-
-[巴黎中餐馆卷王争霸赛（上篇）｜干饭人速存！](https://aolitravel.com/paris/paris-top-50-chinese-restaurants-1/)
-
-[巴黎中餐馆卷王争霸赛（下篇）｜干饭人速存！](https://aolitravel.com/paris/paris-top-50-chinese-restaurants-2/)
-
-[巴黎戴高乐机场最全直飞航班&交通攻略](https://aolitravel.com/paris/paris-airport-flights-and-pickup/)
-
-[巴黎迪士尼乐园游玩攻略｜玩转巴黎的魔法世界！](https://aolitravel.com/paris/visit-disneyland-paris/)
-
-[必看！凡尔赛宫游览全攻略｜半天&一天行程完美规划](https://aolitravel.com/paris/visit-versailles/)
-
-[枫丹白露宫一日游攻略：解锁皇室秘境！](https://aolitravel.com/paris/visit-fontainebleau/)
-
-[巴黎周边必去的十个绝美小镇｜1小时交通圈](https://aolitravel.com/paris/paris-nearby-10-top-villages/)
-
-**南法**
-
-[法国普罗旺斯旅行终极攻略合集｜赶紧收藏！](https://aolitravel.com/south-of-france/france-provence-region-travel-guide/)
-
-[最新普罗旺斯薰衣草花期预报💜｜最佳观赏时间与路线](https://aolitravel.com/south-of-france/visit-france-provence-lavender-season/)
-
-[🌟南法7天怎么玩？收下这份保姆级攻略！](https://aolitravel.com/south-of-france/visit-south-france-7-day-trip/)
-
-[南法Top15最美宝藏小镇推荐!](https://aolitravel.com/south-of-france/visit-south-france-top-15-villages/)
-
-[法国马赛-普罗旺斯机场最全指南（含接机服务推荐）！](https://aolitravel.com/south-of-france/marseille-provence-airport-guide/)
-
-[🔥巴塞罗那到南法终极交通指南｜私藏路线大公开！](https://aolitravel.com/south-of-france/from-barcelona-to-marseille-guide/)
-
-[南法马赛一日游攻略｜本地向导经典路线推荐](https://aolitravel.com/south-of-france/marseille-1day-trip/)
-
-[马赛城市住宿指南｜帮你轻松规划马赛之旅](https://aolitravel.com/south-of-france/marseille-quartier-hotel-recommandation/)
-
-[马赛必打卡！Top15景点全攻略｜本地向导推荐指南](https://aolitravel.com/south-of-france/visit-marseille-top15-things-to-do/)
-
-[南法圣十字湖和看薰衣草最美攻略｜详细停车地点分享](https://aolitravel.com/south-of-france/visit-lavande-champ-saint-croix-verdon-moustiers-sainte-marie/)
-
-[阿尔勒城市旅行指南｜探索普罗旺斯的魅力](https://aolitravel.com/south-of-france/visit-arles-city-guide/)
-
-[「阿维尼翁旅行攻略」解锁教皇之城 🏰 Top15景点！](https://aolitravel.com/south-of-france/visit-avignon-city-guide-top-15-things-to-do/)
-
-[南法｜艾克斯-普罗旺斯历史与旅游全攻略](https://aolitravel.com/south-of-france/aix-en-provence-history-travel-guide/)
-
-[南法马赛「城市沙滩」不完全指南](https://aolitravel.com/south-of-france/marseille-top-beach-guide/)
-
-[马赛法餐指南｜10家本地人也爱的高分餐厅推荐](https://aolitravel.com/south-of-france/10-marseille-restaurants-recommandation/)
-
-[南法粉色盐湖+中世纪古镇艾格莫尔怎么玩？](https://aolitravel.com/south-of-france/visit-salin-aigues-mortes-camargue-travel-guide/)
-
-[南法的古罗马城市｜尼姆10大必游景点攻略](https://aolitravel.com/south-of-france/france-nimes-travel-guide/)
-
-[尼斯最强旅行指南｜Top 18必游景点全攻略](https://aolitravel.com/south-of-france/nice-top-18-things-to-do/)
-
-[尼斯住宿全攻略｜7大街区带你解锁南法度假魅力 🌊](https://aolitravel.com/south-of-france/where-to-stay-in-nice-top7-quariters-hotel-recommandation/)
-
-[蔚蓝海岸尼斯、摩纳哥、戛纳最强三日游攻略](https://aolitravel.com/south-of-france/nice-eze-monaco-menton-cannes-3days-trip/)
-
-[南法宝藏城市「土伦」旅游全攻略](https://aolitravel.com/south-of-france/visit-toulon-city-guide/)
-
-[蔚蓝海岸艺术之旅｜尼斯及周边12大博物馆全攻略](https://aolitravel.com/south-of-france/france-cote-dazur-nice-art-trip/)
-
-**瑞士**
-
-[瑞士滑雪终极攻略｜13大顶级滑雪胜地推荐！](https://aolitravel.com/switzerland/swiss-ski-resorts-guide/)
-
-[🇨🇭日内瓦最全旅行攻略｜16大必去景点一次玩遍](https://aolitravel.com/switzerland/geneva-top-16-attractions-guide/)
-
-[从日内瓦出发的一日慢行｜8个推荐的湖畔小镇](https://aolitravel.com/switzerland/geneva-lake-town-guide/)
-
-[日内瓦6大街区推荐与住宿指南](https://aolitravel.com/switzerland/geneva-6-neighborhoods-guide-accommodation/)
-
-[瑞士蒙特勒最全旅行指南｜17个旅行必体验](https://aolitravel.com/switzerland/montreux-switzerland-travel-guide-top-17/)
-
-[苏黎世攻略｜16个必去景点带你玩转瑞士之心](https://aolitravel.com/switzerland/explore-zurich-16-must-see/)
-
-[卢塞恩两日游攻略｜玩遍湖光山色与童话小镇](https://aolitravel.com/switzerland/switzerland-lucerne-two-days-tour/)
-
-[伯尔尼一日游攻略｜深度体验历史文化、自然风光](https://aolitravel.com/switzerland/switzerland-bern-one-day-tour/)
-
-[瑞士少女峰全攻略｜景点、交通、费用与深度体验指南](https://aolitravel.com/switzerland/switzerland-jungfrau-travel-guide/)
-
-[瑞士中部三日游｜因特拉肯、格林德瓦尔德、劳特布伦嫩全攻略](https://aolitravel.com/switzerland/interlaken-grindelwald-Lauterbrunnen-3-day-itinerary/)
-
-[卢加诺最全攻略｜瑞士南部最具意式风情的城市](https://aolitravel.com/switzerland/visit-lugano-top-10-things-to-do/)
-
-**Blog**
-
-[更多关于我的生活记录和感受](https://aolitravel.com/blog/)
-
-
-
+<div class="post-update-note">
+  <p><strong>内容更新：</strong>本文根据近期南法路线规划与当地接待经验，重新整理了旅行天数、季节、进出城市、七日路线、交通住宿和城市取舍，帮助第一次来南法的读者更快确定行程方向。</p>
+</div>

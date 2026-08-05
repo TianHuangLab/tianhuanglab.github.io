@@ -1,911 +1,583 @@
 ---
 layout: default
-title: South of France DMC | Aoli Travel
+title: South of France DMC & Local Ground Handling | Aoli Travel
 permalink: /en/south-france-dmc/
 lang: en
-description: South of France DMC services for Nice, Cannes, Monaco, Marseille and Avignon.
+description: South of France DMC and local ground handling support for agencies, planners and private clients who need realistic routing, private transport and local execution across Provence and the French Riviera.
+nav: false
 ---
 
 <style>
-  :root {
-    --dmc-bg: #ffffff;
-    --dmc-bg-soft: #fbf7fb;
-    --dmc-accent: #b52aac;
-    --dmc-accent-soft: rgba(181, 42, 172, 0.10);
-    --dmc-accent-line: rgba(181, 42, 172, 0.22);
-    --dmc-text: #101010;
-    --dmc-text-soft: #444444;
-    --dmc-text-muted: #727272;
-    --dmc-border: rgba(16, 16, 16, 0.08);
-    --dmc-shadow: 0 20px 50px rgba(16, 16, 16, 0.05);
-    --dmc-radius-xl: 32px;
-    --dmc-radius-lg: 22px;
-    --dmc-radius-md: 16px;
-    --dmc-max: 1320px;
-  }
-
-  .dmc-page,
-  .dmc-page * {
-    box-sizing: border-box;
-  }
-
   .dmc-page {
-    background: linear-gradient(180deg, #ffffff 0%, #fffdfd 100%);
-    color: var(--dmc-text);
-    margin: 0;
-  }
-
-  .dmc-container {
-    width: min(var(--dmc-max), calc(100% - 48px));
-    margin: 0 auto;
-  }
-
-  .dmc-page h1,
-  .dmc-page h2,
-  .dmc-page h3,
-  .dmc-page h4 {
-    margin: 0 0 16px;
-    color: var(--dmc-text);
-    letter-spacing: -0.035em;
-    line-height: 1.02;
-    font-family: Georgia, "Times New Roman", serif;
-  }
-
-  .dmc-page h1 {
-    font-size: clamp(3.4rem, 6.4vw, 6.6rem);
-    max-width: 10.5ch;
-  }
-
-  .dmc-page h2 {
-    font-size: clamp(2.2rem, 3.8vw, 3.8rem);
-    max-width: 12ch;
-  }
-
-  .dmc-page h3 {
-    font-size: clamp(1.35rem, 2vw, 1.9rem);
-  }
-
-  .dmc-page h4 {
-    font-size: 0.85rem;
-    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-    text-transform: uppercase;
-    letter-spacing: 0.16em;
-    color: var(--dmc-accent);
-    margin-bottom: 14px;
-  }
-
-  .dmc-page p,
-  .dmc-page li,
-  .dmc-page a,
-  .dmc-page button {
-    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-    font-size: 1.05rem;
-    line-height: 1.8;
-  }
-
-  .dmc-page p {
-    margin: 0 0 16px;
-    color: var(--dmc-text-soft);
+    --dmc-accent: #6f42c1;
+    --dmc-soft: rgba(111, 66, 193, 0.055);
+    --dmc-line: rgba(0, 0, 0, 0.08);
+    --dmc-text-soft: #555;
   }
 
   .dmc-page a {
-    color: inherit;
     text-decoration: none;
   }
 
-  .dmc-eyebrow {
-    display: inline-flex;
-    align-items: center;
-    gap: 10px;
-    margin-bottom: 18px;
-    color: var(--dmc-accent);
-    font-size: 0.82rem;
-    font-weight: 800;
-    letter-spacing: 0.18em;
-    text-transform: uppercase;
-    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  }
-
-  .dmc-eyebrow::before {
-    content: "";
-    width: 40px;
-    height: 1px;
-    background: currentColor;
-  }
-
-  .dmc-button-row {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 14px;
-    margin-top: 30px;
-  }
-
-  .dmc-button {
-    display: inline-flex;
-    align-items: center;
-    justify-content: center;
-    min-height: 54px;
-    padding: 0 24px;
-    border-radius: 999px;
-    border: 1px solid transparent;
-    font-weight: 700;
-    transition: transform 0.2s ease, box-shadow 0.2s ease, border-color 0.2s ease;
-  }
-
-  .dmc-button:hover,
-  .dmc-button:focus-visible {
-    transform: translateY(-1px);
-  }
-
-  .dmc-button-primary {
-    background: var(--dmc-text);
-    color: #ffffff;
-    box-shadow: 0 14px 36px rgba(16, 16, 16, 0.10);
-  }
-
-  .dmc-button-secondary {
-    background: #ffffff;
-    color: var(--dmc-text);
-    border-color: var(--dmc-border);
-  }
-
   .dmc-section {
-    padding: 120px 0;
+    border-top: 1px solid var(--dmc-line);
+    margin: 2.8rem 0 0;
+    padding-top: 2.8rem;
   }
 
-  .dmc-section + .dmc-section {
-    border-top: 1px solid rgba(16, 16, 16, 0.05);
-  }
-
-  .dmc-hero {
-    padding: 110px 0 90px;
-  }
-
-  .dmc-hero-grid {
-    display: grid;
-    grid-template-columns: minmax(0, 1.08fr) minmax(360px, 0.92fr);
-    gap: 40px;
-    align-items: end;
-  }
-
-  .dmc-hero-copy p {
-    max-width: 60ch;
-    font-size: 1.08rem;
-  }
-
-  .dmc-hero-visual {
-    min-height: 620px;
-    border-radius: var(--dmc-radius-xl);
-    overflow: hidden;
-    background:
-      linear-gradient(135deg, rgba(181, 42, 172, 0.85), rgba(230, 175, 225, 0.80)),
-      #dca6d7;
-    box-shadow: var(--dmc-shadow);
-    position: relative;
-    display: grid;
-    place-items: end start;
-    padding: 28px;
-  }
-
-  .dmc-hero-visual::after {
-    content: "";
-    position: absolute;
-    inset: auto -30px -30px auto;
-    width: 220px;
-    height: 220px;
-    border-radius: 50%;
-    background: radial-gradient(circle, rgba(255,255,255,0.28), transparent 70%);
-  }
-
-  .dmc-hero-note {
-    position: relative;
-    z-index: 1;
-    max-width: 320px;
-    padding: 20px 22px;
-    border-radius: 18px;
-    background: rgba(255,255,255,0.16);
-    backdrop-filter: blur(10px);
-    border: 1px solid rgba(255,255,255,0.28);
-  }
-
-  .dmc-hero-note p,
-  .dmc-hero-note h3 {
-    color: #ffffff;
-  }
-
-  .dmc-metrics {
-    display: grid;
-    grid-template-columns: repeat(3, minmax(0, 1fr));
-    gap: 20px;
-    margin-top: 42px;
-  }
-
-  .dmc-metric {
-    padding-top: 18px;
-    border-top: 2px solid var(--dmc-accent);
-  }
-
-  .dmc-metric strong {
-    display: block;
-    margin-bottom: 6px;
-    font-size: 1.4rem;
-    color: var(--dmc-text);
-    font-family: Georgia, "Times New Roman", serif;
-  }
-
-  .dmc-metric p {
-    margin: 0;
-    color: var(--dmc-text-muted);
-  }
-
-  .dmc-two-col {
-    display: grid;
-    grid-template-columns: minmax(0, 1fr) 360px;
-    gap: 44px;
-    align-items: start;
-  }
-
-  .dmc-panel {
-    padding: 28px;
-    border-radius: var(--dmc-radius-lg);
-    background: var(--dmc-bg-soft);
-    border: 1px solid var(--dmc-accent-line);
-  }
-
-  .dmc-panel-list {
-    list-style: none;
-    margin: 0;
-    padding: 0;
-  }
-
-  .dmc-panel-list li {
-    padding: 12px 0;
-    border-top: 1px solid rgba(16, 16, 16, 0.08);
-    color: var(--dmc-text-soft);
-  }
-
-  .dmc-panel-list li:first-child {
-    border-top: none;
+  .dmc-section:first-of-type {
+    border-top: 0;
+    margin-top: 0;
     padding-top: 0;
   }
 
-  .dmc-values {
-    display: grid;
-    grid-template-columns: repeat(3, minmax(0, 1fr));
-    gap: 28px;
-    margin-top: 44px;
+  .dmc-eyebrow {
+    color: var(--dmc-accent);
+    display: block;
+    font-size: 0.82rem;
+    font-weight: 700;
+    letter-spacing: 0.08em;
+    margin-bottom: 0.55rem;
+    text-transform: uppercase;
   }
 
-  .dmc-value h3 {
-    margin-bottom: 10px;
+  .dmc-lead {
+    color: var(--dmc-text-soft);
+    font-size: 1.05rem;
+    line-height: 1.85;
+  }
+
+  .dmc-hero {
+    align-items: center;
+    display: grid;
+    gap: 2rem;
+    grid-template-columns: minmax(0, 1.05fr) minmax(340px, 0.95fr);
+  }
+
+  .dmc-hero h1 {
+    font-size: clamp(2.25rem, 4vw, 4rem);
+    line-height: 1.08;
+    margin-bottom: 1rem;
+  }
+
+  .dmc-actions {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.75rem;
+    margin: 1.45rem 0 0;
+  }
+
+  .dmc-actions .btn {
+    align-items: center;
+    border-radius: 0.75rem;
+    display: inline-flex;
+    font-size: 1.02rem;
+    font-weight: 500;
+    justify-content: center;
+    line-height: 1.35;
+    min-height: 3rem;
+    padding: 0.65rem 1.25rem;
+  }
+
+  .dmc-actions .btn-primary {
+    background: var(--dmc-accent) !important;
+    background-color: var(--dmc-accent) !important;
+    border-color: var(--dmc-accent) !important;
+    color: #fff !important;
+    box-shadow: 0 0.25rem 0.9rem rgba(111, 66, 193, 0.22);
+  }
+
+  .dmc-actions .dmc-email-button,
+  .dmc-actions .dmc-email-button:hover,
+  .dmc-actions .dmc-email-button:focus {
+    color: #fff !important;
+    transform: none !important;
+    transition: none !important;
+  }
+
+  .dmc-actions .btn-outline-primary {
+    border-color: var(--dmc-accent) !important;
+    color: var(--dmc-accent) !important;
+  }
+
+  .dmc-actions .btn-outline-primary:hover,
+  .dmc-actions .btn-outline-primary:focus {
+    background: var(--dmc-accent) !important;
+    background-color: var(--dmc-accent) !important;
+    border-color: var(--dmc-accent) !important;
+    color: #fff !important;
+  }
+
+  .dmc-hero-img,
+  .dmc-feature-img,
+  .dmc-card-img {
+    border-radius: 0.9rem;
+    overflow: hidden;
+  }
+
+  .dmc-hero-img figure,
+  .dmc-feature-img figure,
+  .dmc-card-img figure {
+    height: 100% !important;
+    margin: 0 !important;
+    overflow: hidden !important;
+    width: 100% !important;
+  }
+
+  .dmc-hero-img {
+    height: 360px;
+  }
+
+  .dmc-hero-img figure picture,
+  .dmc-hero-img figure img,
+  .dmc-feature-img figure picture,
+  .dmc-feature-img figure img,
+  .dmc-card-img figure picture,
+  .dmc-card-img figure img,
+  .dmc-hero-img img,
+  .dmc-feature-img img,
+  .dmc-card-img img {
+    display: block;
+    height: 100% !important;
+    object-fit: cover;
+    object-position: center center;
+    width: 100% !important;
+  }
+
+  .dmc-note {
+    background: var(--dmc-soft);
+    border-left: 4px solid var(--dmc-accent);
+    border-radius: 0.45rem;
+    line-height: 1.8;
+    margin: 1.3rem 0;
+    padding: 1rem 1.15rem;
+  }
+
+  .dmc-grid-3,
+  .dmc-grid-2 {
+    align-items: stretch;
+    display: grid;
+    gap: 1.35rem;
+  }
+
+  .dmc-grid-3 {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+
+  .dmc-grid-2 {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .dmc-card {
+    height: 100%;
+  }
+
+  .dmc-card .card-body {
+    line-height: 1.75;
+  }
+
+  .dmc-card-img {
+    height: 190px;
+    margin-bottom: 1rem;
   }
 
   .dmc-service-list {
     display: grid;
     gap: 0;
-    margin-top: 40px;
+    margin-top: 1.4rem;
   }
 
   .dmc-service-row {
+    border-top: 1px solid var(--dmc-line);
     display: grid;
-    grid-template-columns: 130px minmax(0, 1fr);
-    gap: 26px;
-    padding: 28px 0;
-    border-top: 1px solid rgba(16, 16, 16, 0.08);
+    gap: 1rem;
+    grid-template-columns: 5rem minmax(0, 1fr);
+    padding: 1.15rem 0;
   }
 
   .dmc-service-row:first-child {
-    border-top: none;
+    border-top: 0;
     padding-top: 0;
   }
 
   .dmc-service-label {
     color: var(--dmc-accent);
-    font-size: 0.82rem;
-    font-weight: 800;
-    letter-spacing: 0.14em;
-    text-transform: uppercase;
-    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  }
-
-  .dmc-destination-stack {
-    display: grid;
-    gap: 56px;
-    margin-top: 34px;
-  }
-
-  .dmc-destination {
-    display: grid;
-    grid-template-columns: minmax(320px, 1fr) minmax(0, 1fr);
-    gap: 34px;
-    align-items: center;
-  }
-
-  .dmc-destination:nth-child(even) {
-    grid-template-columns: minmax(0, 1fr) minmax(320px, 1fr);
-  }
-
-  .dmc-destination:nth-child(even) .dmc-destination-image {
-    order: 2;
-  }
-
-  .dmc-destination:nth-child(even) .dmc-destination-copy {
-    order: 1;
-  }
-
-  .dmc-destination-image {
-    min-height: 420px;
-    border-radius: var(--dmc-radius-xl);
-    overflow: hidden;
-    background:
-      linear-gradient(135deg, rgba(181, 42, 172, 0.85), rgba(230, 175, 225, 0.78)),
-      #dba5d6;
-    box-shadow: var(--dmc-shadow);
-    display: grid;
-    place-items: center;
-    padding: 28px;
-    color: #ffffff;
-    text-align: center;
-  }
-
-  .dmc-destination-number {
-    margin-bottom: 10px;
-    color: var(--dmc-accent);
-    font-size: 0.95rem;
-    font-weight: 800;
-    letter-spacing: 0.1em;
-    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  }
-
-  .dmc-bullets {
-    margin: 14px 0 0;
-    padding-left: 18px;
-  }
-
-  .dmc-bullets li + li {
-    margin-top: 8px;
-  }
-
-  .dmc-highlight {
-    display: grid;
-    grid-template-columns: minmax(0, 1fr) 380px;
-    gap: 30px;
-    align-items: stretch;
-    padding: 40px;
-    border-radius: var(--dmc-radius-xl);
-    background: var(--dmc-bg-soft);
-    border: 1px solid var(--dmc-accent-line);
-  }
-
-  .dmc-highlight-visual {
-    min-height: 280px;
-    border-radius: 24px;
-    background:
-      linear-gradient(135deg, rgba(181, 42, 172, 0.86), rgba(228, 168, 223, 0.80)),
-      #dba5d6;
-    display: grid;
-    place-items: center;
-    color: #ffffff;
-    text-align: center;
-    padding: 24px;
-  }
-
-  .dmc-faq {
-    display: grid;
-    gap: 14px;
-    margin-top: 34px;
-  }
-
-  .dmc-faq-item {
-    border: 1px solid var(--dmc-border);
-    border-radius: 14px;
-    background: #ffffff;
-  }
-
-  .dmc-faq-toggle {
-    width: 100%;
-    border: none;
-    background: transparent;
-    text-align: left;
-    padding: 20px 22px;
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    gap: 18px;
-    color: var(--dmc-text);
     font-weight: 700;
-    cursor: pointer;
+    letter-spacing: 0.06em;
   }
 
-  .dmc-faq-toggle span:last-child {
-    color: var(--dmc-accent);
-    font-size: 1.2rem;
-    line-height: 1;
-  }
-
-  .dmc-faq-panel {
-    display: none;
-    padding: 0 22px 22px;
-  }
-
-  .dmc-faq-item.is-open .dmc-faq-panel {
-    display: block;
-  }
-
-  .dmc-contact-grid {
+  .dmc-feature {
+    align-items: center;
     display: grid;
-    grid-template-columns: 360px minmax(0, 1fr);
-    gap: 30px;
-    align-items: start;
-    margin-top: 36px;
+    gap: 1.75rem;
+    grid-template-columns: minmax(0, 1.05fr) minmax(330px, 0.95fr);
   }
 
-  .dmc-contact-card,
-  .dmc-form-shell {
-    padding: 30px;
-    border-radius: var(--dmc-radius-lg);
-    background: #ffffff;
-    border: 1px solid var(--dmc-border);
-    box-shadow: var(--dmc-shadow);
+  .dmc-feature-img {
+    height: 310px;
+  }
+
+  .dmc-faq details {
+    border-bottom: 1px solid var(--dmc-line);
+    padding: 0.9rem 0;
+  }
+
+  .dmc-faq summary {
+    cursor: pointer;
+    font-weight: 600;
+  }
+
+  .dmc-faq p {
+    margin: 0.65rem 0 0;
+  }
+
+  .dmc-contact-card {
+    border: 1px solid var(--dmc-line);
+    border-radius: 0.9rem;
+    height: 100%;
+    padding: 1.35rem;
   }
 
   .dmc-contact-list {
     list-style: none;
-    margin: 18px 0 0;
+    margin: 1rem 0 0;
     padding: 0;
   }
 
   .dmc-contact-list li + li {
-    margin-top: 10px;
+    margin-top: 0.55rem;
   }
 
   .dmc-contact-list a,
-  .dmc-form-note a {
+  .dmc-contact-card a {
     color: var(--dmc-accent);
-    font-weight: 700;
+    font-weight: 600;
   }
 
-  .dmc-tally-wrap {
-    overflow: hidden;
-    border-radius: 16px;
-    border: 1px solid var(--dmc-border);
-    background: var(--dmc-bg-soft);
+  .dmc-inquiry-list {
+    line-height: 1.85;
+    margin-bottom: 0;
+    padding-left: 1.2rem;
   }
 
-  .dmc-form-note {
-    margin-top: 14px;
-    color: var(--dmc-text-muted);
-    font-size: 0.95rem;
-  }
-
-  .dmc-reveal {
-    opacity: 0;
-    transform: translateY(18px);
-    transition: opacity 0.6s ease, transform 0.6s ease;
-  }
-
-  .dmc-reveal.is-visible {
-    opacity: 1;
-    transform: translateY(0);
-  }
-
-  @media (max-width: 1100px) {
-    .dmc-hero-grid,
-    .dmc-two-col,
-    .dmc-values,
-    .dmc-highlight,
-    .dmc-contact-grid,
-    .dmc-destination,
-    .dmc-destination:nth-child(even),
-    .dmc-metrics {
+  @media (max-width: 992px) {
+    .dmc-hero,
+    .dmc-feature,
+    .dmc-grid-2,
+    .dmc-grid-3 {
       grid-template-columns: 1fr;
     }
 
-    .dmc-destination:nth-child(even) .dmc-destination-image,
-    .dmc-destination:nth-child(even) .dmc-destination-copy {
-      order: initial;
+    .dmc-hero-img,
+    .dmc-feature-img {
+      height: 300px;
     }
   }
 
-  @media (max-width: 760px) {
-    .dmc-container {
-      width: min(var(--dmc-max), calc(100% - 24px));
-    }
-
+  @media (max-width: 576px) {
     .dmc-section {
-      padding: 72px 0;
+      margin-top: 2.2rem;
+      padding-top: 2.2rem;
     }
 
-    .dmc-hero {
-      padding: 72px 0 60px;
+    .dmc-hero-img,
+    .dmc-feature-img,
+    .dmc-card-img {
+      height: 220px;
     }
 
     .dmc-service-row {
       grid-template-columns: 1fr;
-      gap: 10px;
-    }
-
-    .dmc-hero-visual,
-    .dmc-destination-image {
-      min-height: 280px;
-    }
-  }
-
-  @media (prefers-reduced-motion: reduce) {
-    .dmc-reveal,
-    .dmc-button {
-      transition: none;
     }
   }
 </style>
 
 <div class="dmc-page">
-  <section class="dmc-hero">
-    <div class="dmc-container">
-      <div class="dmc-hero-grid">
-        <div class="dmc-hero-copy dmc-reveal">
-          <div class="dmc-eyebrow">South of France DMC Services</div>
-          <h1>Your local partner for refined experiences across the South of France</h1>
-          <p>
-            Aoli Travel supports agencies, event planners, corporate groups and private clients with destination
-            management, private transport and bespoke local coordination across Nice, Cannes, Monaco, Marseille and Avignon.
-          </p>
-          <p>
-            We help shape programs that feel elegant, practical and seamless, from first arrival to final departure.
-          </p>
-          <div class="dmc-button-row">
-            <a class="dmc-button dmc-button-primary" href="#contact">Contact us</a>
-            <a class="dmc-button dmc-button-secondary" href="#services">Discover our services</a>
-          </div>
-        </div>
-
-        <div class="dmc-hero-visual dmc-reveal" role="img" aria-label="Placeholder for hero image">
-          <div class="dmc-hero-note">
-            <h3>Local South of France coverage</h3>
-            <p>Nice, Cannes, Monaco, Marseille and Avignon, with Riviera and Provence combinations on request.</p>
-          </div>
+  <section class="dmc-section">
+    <div class="dmc-hero">
+      <div>
+        <span class="dmc-eyebrow">South of France DMC Services</span>
+        <h1>South of France DMC services</h1>
+        <p class="dmc-lead">
+          On-the-Ground Expertise in Provence & the Côte d’Azur
+        </p>
+        <p>
+          Based in Marseille, Aoli Travel supports international agencies and private clients with expert ground handling. We bridge local insight with operational precision—delivering realistic timing, private chauffeured transport, and thoughtful coordination from arrival to departure.
+        </p>
+        <div class="dmc-actions">
+          <a class="btn btn-primary" href="#contact">Contact us</a>
+          <a class="btn btn-outline-primary" href="#services">View services</a>
         </div>
       </div>
 
-      <div class="dmc-metrics">
-        <div class="dmc-metric dmc-reveal">
-          <strong>Local expertise</strong>
-          <p>Regional knowledge shaped by real routing, timing and guest-handling experience.</p>
+      <div class="dmc-hero-img">
+        {% include figure.liquid loading="eager" path="assets/img/110nice-history/nice-0.webp" title="South of France DMC support on the French Riviera" class="img-fluid rounded z-depth-1" alt="Nice and the French Riviera coastline for South of France DMC services" %}
+      </div>
+    </div>
+
+    <div class="dmc-grid-3 mt-4">
+      <div class="card dmc-card">
+        <div class="card-body">
+          <h3 class="card-title h5">Local judgment</h3>
+          <p class="card-text">Routes are shaped by real driving time, parking, crowds, seasonality and guest pace.</p>
         </div>
-        <div class="dmc-metric dmc-reveal">
-          <strong>B2B support</strong>
-          <p>Suitable for agencies, executive travel, hosted groups and private client programs.</p>
+      </div>
+      <div class="card dmc-card">
+        <div class="card-body">
+          <h3 class="card-title h5">Agency support</h3>
+          <p class="card-text">Practical local insight for overseas partners, planners and private client programs.</p>
         </div>
-        <div class="dmc-metric dmc-reveal">
-          <strong>Riviera + Provence</strong>
-          <p>A focused operating area designed for stronger local delivery.</p>
+      </div>
+      <div class="card dmc-card">
+        <div class="card-body">
+          <h3 class="card-title h5">Riviera + Provence</h3>
+          <p class="card-text">Focused coverage from Marseille and Avignon to Nice, Cannes, Èze and Monaco.</p>
         </div>
       </div>
     </div>
   </section>
 
   <section class="dmc-section" id="about">
-    <div class="dmc-container">
-      <div class="dmc-two-col">
-        <div class="dmc-reveal">
-          <div class="dmc-eyebrow">Who We Are</div>
-          <h2>A South of France DMC partner for seamless, high-touch travel experiences</h2>
-          <p>
-            We support partners who need more than inspiration. They need a local team that understands movement,
-            sequence, client expectations and the rhythm of the South of France.
-          </p>
-          <p>
-            Our role is to translate a destination brief into a program that feels natural, polished and comfortable
-            for the people experiencing it.
-          </p>
-        </div>
+    <div class="dmc-grid-2">
+      <div>
+        <span class="dmc-eyebrow">Who We Are</span>
+        <h2>Designed around the real travel day</h2>
+        <p>
+          A South of France itinerary should not only look elegant on paper. It should feel comfortable on the day: the right stops, the right timing, the right vehicle access and enough space for guests to enjoy the place.
+        </p>
+        <p>
+          We plan with execution in mind. Route, timing, transport and guest rhythm are considered together, so the final program feels polished, natural and manageable.
+        </p>
+      </div>
 
-        <aside class="dmc-panel dmc-reveal">
-          <h4>Our focus</h4>
-          <ul class="dmc-panel-list">
-            <li>Agency and white-label destination support</li>
-            <li>Executive travel and private hosting</li>
-            <li>Premium transport and regional routing</li>
-            <li>Riviera and Provence program design</li>
-            <li>English-speaking B2B communication</li>
-          </ul>
-        </aside>
+      <div class="dmc-note">
+        <strong>Our focus</strong>
+        <ul class="mb-0 mt-2">
+          <li>Agency and white-label local support</li>
+          <li>Private clients, families and executive travel</li>
+          <li>Private transport, route planning and ground handling</li>
+          <li>Chinese, English and French communication</li>
+        </ul>
       </div>
     </div>
   </section>
 
   <section class="dmc-section" id="role">
-    <div class="dmc-container">
-      <div class="dmc-reveal">
-        <div class="dmc-eyebrow">Our Role</div>
-        <h2>Turning objectives into experiences people remember</h2>
-        <p>
-          The most successful programs are not only attractive on paper. They also work smoothly in real life:
-          in pacing, movement, comfort, guest handling and atmosphere.
-        </p>
-      </div>
+    <span class="dmc-eyebrow">Our Role</span>
+    <h2>From destination wish list to workable program</h2>
+    <p>
+      We help partners turn ideas into routes that can be delivered with care, balancing destination appeal, travel time, vehicle access, hotel location and guest profile.
+    </p>
 
-      <div class="dmc-values">
-        <article class="dmc-reveal">
-          <h3>Precision and reliability</h3>
-          <p>Clear communication, realistic planning and thoughtful local coordination from brief to delivery.</p>
-        </article>
-        <article class="dmc-reveal">
-          <h3>Experiences designed for people</h3>
-          <p>No rigid templates, only programs shaped around client tone, energy and travel priorities.</p>
-        </article>
-        <article class="dmc-reveal">
-          <h3>Regional flexibility</h3>
-          <p>Prestige, coastline, heritage and logistics combined into a more coherent South of France journey.</p>
-        </article>
+    <div class="dmc-grid-3 mt-4">
+      <div class="card dmc-card">
+        <div class="card-body">
+          <h3 class="card-title h5">Clarity before elegance</h3>
+          <p class="card-text">A refined program begins with clear timing, realistic distances, confirmed meeting points and honest routing.</p>
+        </div>
+      </div>
+      <div class="card dmc-card">
+        <div class="card-body">
+          <h3 class="card-title h5">Designed around guests</h3>
+          <p class="card-text">Families, executives, incentive guests and private groups do not travel in the same rhythm. The program should reflect that.</p>
+        </div>
+      </div>
+      <div class="card dmc-card">
+        <div class="card-body">
+          <h3 class="card-title h5">Local flexibility</h3>
+          <p class="card-text">Weather, traffic, hotel location and guest energy can change a day. A strong local plan leaves room to adjust.</p>
+        </div>
       </div>
     </div>
   </section>
 
   <section class="dmc-section" id="services">
-    <div class="dmc-container">
-      <div class="dmc-reveal">
-        <div class="dmc-eyebrow">Our Services</div>
-        <h2>Destination management across the South of France</h2>
-        <p>We can support a full program or selected parts of it, depending on the brief.</p>
-      </div>
+    <span class="dmc-eyebrow">Our Services</span>
+    <h2>Ground services for agencies and private programs</h2>
+    <p>We support complete programs or selected services, depending on the brief, dates, group profile and season.</p>
 
-      <div class="dmc-service-list">
-        <article class="dmc-service-row dmc-reveal">
-          <div class="dmc-service-label">01</div>
-          <div>
-            <h3>DMC planning and ground handling</h3>
-            <p>Program structure, routing logic, destination flow, timing and local operating support.</p>
-          </div>
-        </article>
-
-        <article class="dmc-service-row dmc-reveal">
-          <div class="dmc-service-label">02</div>
-          <div>
-            <h3>Private transport and executive transfers</h3>
-            <p>Airport pickups, chauffeur-led touring, intercity movement and polished transport planning from arrival to departure.</p>
-          </div>
-        </article>
-
-        <article class="dmc-service-row dmc-reveal">
-          <div class="dmc-service-label">03</div>
-          <div>
-            <h3>Hosted travel and incentive-style programs</h3>
-            <p>Shared experiences designed to reward, connect and showcase the destination with elegance and ease.</p>
-          </div>
-        </article>
-
-        <article class="dmc-service-row dmc-reveal">
-          <div class="dmc-service-label">04</div>
-          <div>
-            <h3>VIP and bespoke support</h3>
-            <p>High-touch programs where discretion, comfort, flexibility and attention to detail matter throughout.</p>
-          </div>
-        </article>
-      </div>
+    <div class="dmc-service-list">
+      <article class="dmc-service-row">
+        <div class="dmc-service-label">01</div>
+        <div>
+          <h3 class="h5">Program planning and local routing</h3>
+          <p>Route structure, destination sequence, timing and local feasibility checks before the program is confirmed.</p>
+        </div>
+      </article>
+      <article class="dmc-service-row">
+        <div class="dmc-service-label">02</div>
+        <div>
+          <h3 class="h5">Private transport and chauffeur-led touring</h3>
+          <p>Airport pickups, intercity transfers, chauffeur-led touring days and multi-day transport planning.</p>
+        </div>
+      </article>
+      <article class="dmc-service-row">
+        <div class="dmc-service-label">03</div>
+        <div>
+          <h3 class="h5">Hosted travel and incentive-style programs</h3>
+          <p>Hosted programs designed to feel cared for, well-paced and memorable.</p>
+        </div>
+      </article>
+      <article class="dmc-service-row">
+        <div class="dmc-service-label">04</div>
+        <div>
+          <h3 class="h5">Bespoke support for private clients</h3>
+          <p>Flexible local support for clients who value discretion, comfort and direct communication.</p>
+        </div>
+      </article>
     </div>
   </section>
 
   <section class="dmc-section" id="destinations">
-    <div class="dmc-container">
-      <div class="dmc-reveal">
-        <div class="dmc-eyebrow">Our Destinations</div>
-        <h2>At the heart of the South of France</h2>
-        <p>
-          Our strongest operating area covers the French Riviera and Provence, with destination choices that work well
-          for hosted programs, private travel and multi-day regional itineraries.
-        </p>
-      </div>
+    <span class="dmc-eyebrow">Where We Work Best</span>
+    <h2>Provence and the French Riviera</h2>
+    <p>
+      Our strongest area is the natural connection between Provence and the French Riviera: elegant day programs, multi-day private tours and regional extensions.
+    </p>
 
-      <div class="dmc-destination-stack">
-        <article class="dmc-destination">
-          <div class="dmc-destination-image dmc-reveal">Monaco image placeholder</div>
-          <div class="dmc-destination-copy dmc-reveal">
-            <div class="dmc-destination-number">01.</div>
-            <h3>Monaco</h3>
-            <p>
-              Prestige, precision and a concentrated sense of occasion. Monaco is ideal for executive hosting,
-              VIP stays and high-value programs where service level matters.
-            </p>
-            <ul class="dmc-bullets">
-              <li>Executive travel and premium hospitality</li>
-              <li>Luxury short stays</li>
-              <li>High-touch transport management</li>
-            </ul>
+    <div class="dmc-grid-3 mt-4">
+      <article class="card dmc-card">
+        <div class="card-body">
+          <div class="dmc-card-img">
+            {% include figure.liquid loading="lazy" path="assets/img/98monaco-top-18/monaco-0.webp" title="Monaco DMC programs" class="img-fluid rounded z-depth-1" alt="Monaco and the Mediterranean coastline for South of France DMC programs" %}
           </div>
-        </article>
+          <h3 class="card-title h5">Monaco</h3>
+          <p class="card-text">Prestige, sea views and a strong sense of occasion for executive hosting, VIP stays and premium programs.</p>
+        </div>
+      </article>
 
-        <article class="dmc-destination">
-          <div class="dmc-destination-image dmc-reveal">Nice image placeholder</div>
-          <div class="dmc-destination-copy dmc-reveal">
-            <div class="dmc-destination-number">02.</div>
-            <h3>Nice</h3>
-            <p>
-              A natural Riviera base that combines access, elegance and flexibility for hosted stays,
-              coastal programs and first-time South of France journeys.
-            </p>
-            <ul class="dmc-bullets">
-              <li>International arrivals and hosted stays</li>
-              <li>Easy connection to Monaco and Cannes</li>
-              <li>Balanced business and leisure atmosphere</li>
-            </ul>
+      <article class="card dmc-card">
+        <div class="card-body">
+          <div class="dmc-card-img">
+            {% include figure.liquid loading="lazy" path="assets/img/97nice-old-port/2426.jpg" title="Nice DMC programs" class="img-fluid rounded z-depth-1" alt="Nice old port and French Riviera coastline for DMC programs" %}
           </div>
-        </article>
+          <h3 class="card-title h5">Nice</h3>
+          <p class="card-text">A practical Riviera base with airport access, hotels, sea views and easy connections to Monaco, Èze and Cannes.</p>
+        </div>
+      </article>
 
-        <article class="dmc-destination">
-          <div class="dmc-destination-image dmc-reveal">Cannes image placeholder</div>
-          <div class="dmc-destination-copy dmc-reveal">
-            <div class="dmc-destination-number">03.</div>
-            <h3>Cannes</h3>
-            <p>
-              Polished, energetic and image-conscious, Cannes works well for hospitality-led travel,
-              premium client hosting and event-adjacent stays.
-            </p>
-            <ul class="dmc-bullets">
-              <li>Hosted client programs</li>
-              <li>Premium leisure extensions</li>
-              <li>Business-friendly Riviera energy</li>
-            </ul>
+      <article class="card dmc-card">
+        <div class="card-body">
+          <div class="dmc-card-img">
+            {% include figure.liquid loading="lazy" path="assets/img/81cannes-vue-mer/cannes-vue-mer-0.png" title="Cannes DMC programs" class="img-fluid rounded z-depth-1" alt="Cannes marina and French Riviera event destination" %}
           </div>
-        </article>
+          <h3 class="card-title h5">Cannes</h3>
+          <p class="card-text">Polished, recognisable and event-friendly, well suited to hospitality-led travel and premium leisure extensions.</p>
+        </div>
+      </article>
 
-        <article class="dmc-destination">
-          <div class="dmc-destination-image dmc-reveal">Marseille image placeholder</div>
-          <div class="dmc-destination-copy dmc-reveal">
-            <div class="dmc-destination-number">04.</div>
-            <h3>Marseille</h3>
-            <p>
-              A practical gateway to Provence and the Mediterranean coast, suited to deeper regional programs,
-              culture-led itineraries and business travel extensions.
-            </p>
-            <ul class="dmc-bullets">
-              <li>Regional touring and land extensions</li>
-              <li>Cruise-related private programs</li>
-              <li>City-to-country itineraries</li>
-            </ul>
+      <article class="card dmc-card">
+        <div class="card-body">
+          <div class="dmc-card-img">
+            {% include figure.liquid loading="lazy" path="assets/img/17visit-marseille-top15-things-to-do/17-aolitravel.com-visit-marseille-top15-things-to-do-0.jpg" title="Marseille DMC programs" class="img-fluid rounded z-depth-1" alt="Marseille Old Port and Provence gateway for DMC services" %}
           </div>
-        </article>
+          <h3 class="card-title h5">Marseille</h3>
+          <p class="card-text">A gateway to Provence, the Calanques and the Mediterranean coast, especially for deeper regional programs.</p>
+        </div>
+      </article>
 
-        <article class="dmc-destination">
-          <div class="dmc-destination-image dmc-reveal">Avignon image placeholder</div>
-          <div class="dmc-destination-copy dmc-reveal">
-            <div class="dmc-destination-number">05.</div>
-            <h3>Avignon</h3>
-            <p>
-              Heritage, villages and a more grounded Provence rhythm. Avignon is especially useful for inland programs
-              built around gastronomy, culture and landscape.
-            </p>
-            <ul class="dmc-bullets">
-              <li>Classic Provence programs</li>
-              <li>Food and wine extensions</li>
-              <li>Premium countryside itineraries</li>
-            </ul>
+      <article class="card dmc-card">
+        <div class="card-body">
+          <div class="dmc-card-img">
+            {% include figure.liquid loading="lazy" path="assets/img/75avignon-palais-des-papes/avignon-palais-des-papes-guide-1.webp" title="Avignon and Provence DMC programs" class="img-fluid rounded z-depth-1" alt="Palais des Papes in Avignon for Provence DMC programs" %}
           </div>
-        </article>
-      </div>
+          <h3 class="card-title h5">Avignon</h3>
+          <p class="card-text">The door to inland Provence: heritage sites, wine country, hilltop villages and a slower countryside rhythm.</p>
+        </div>
+      </article>
     </div>
   </section>
 
   <section class="dmc-section" id="highlight">
-    <div class="dmc-container">
-      <div class="dmc-highlight dmc-reveal">
-        <div>
-          <div class="dmc-eyebrow">High-Touch Travel Support</div>
-          <h2>Executive transport, hosted stays and bespoke regional programs</h2>
-          <p>
-            Some briefs require more than a standard itinerary. They need tighter guest handling, smoother movement,
-            better pacing and a more elevated sense of care throughout the program.
-          </p>
-          <p>
-            This is where we are especially useful for agencies, companies and premium private clients who need a local
-            South of France partner they can rely on.
-          </p>
-          <div class="dmc-button-row">
-            <a class="dmc-button dmc-button-primary" href="#contact">Discuss your project</a>
-          </div>
+    <div class="dmc-feature">
+      <div>
+        <span class="dmc-eyebrow">High-Touch Travel Support</span>
+        <h2>More than transport. Local judgment throughout.</h2>
+        <p>
+          A vehicle is only one part of a good South of France program. What matters is the order of the day, the time left in each place, and the ability to adjust when weather, traffic or crowds change.
+        </p>
+        <p>
+          We are best suited to small and mid-size private programs, executive travel, family groups and agency-led requests that value clear communication, realistic routing and careful delivery.
+        </p>
+        <div class="dmc-actions">
+          <a class="btn btn-primary" href="#contact">Discuss your project</a>
         </div>
-        <div class="dmc-highlight-visual">Premium program image placeholder</div>
+      </div>
+      <div class="dmc-feature-img">
+        {% include figure.liquid loading="lazy" path="assets/img/0custom-travel/custom-travel-private-van-marseille.webp" title="Private transport in Marseille" class="img-fluid rounded z-depth-1" alt="Private transport and ground handling vehicle in Marseille for South of France DMC services" %}
       </div>
     </div>
   </section>
 
   <section class="dmc-section" id="faq">
-    <div class="dmc-container">
-      <div class="dmc-reveal">
-        <div class="dmc-eyebrow">FAQ</div>
-        <h2>Questions we often receive</h2>
-        <p>Short answers for international partners, planners and private clients.</p>
-      </div>
+    <span class="dmc-eyebrow">FAQ</span>
+    <h2>Questions before working together</h2>
+    <p>Clear expectations help a South of France program run smoothly, especially in peak season.</p>
 
-      <div class="dmc-faq">
-        <article class="dmc-faq-item dmc-reveal">
-          <button class="dmc-faq-toggle" type="button" aria-expanded="false">
-            <span>Do you only provide full DMC programs?</span>
-            <span>+</span>
-          </button>
-          <div class="dmc-faq-panel">
-            <p>No. We can support a full itinerary, transport-only work, selected local services or a specific regional extension.</p>
-          </div>
-        </article>
-
-        <article class="dmc-faq-item dmc-reveal">
-          <button class="dmc-faq-toggle" type="button" aria-expanded="false">
-            <span>Which destinations do you cover most strongly?</span>
-            <span>+</span>
-          </button>
-          <div class="dmc-faq-panel">
-            <p>Our core focus here is Nice, Cannes, Monaco, Marseille and Avignon, with broader South of France routing available on request.</p>
-          </div>
-        </article>
-
-        <article class="dmc-faq-item dmc-reveal">
-          <button class="dmc-faq-toggle" type="button" aria-expanded="false">
-            <span>Can you support English-speaking overseas partners?</span>
-            <span>+</span>
-          </button>
-          <div class="dmc-faq-panel">
-            <p>Yes. This page is designed specifically for English-speaking B2B and international inquiries.</p>
-          </div>
-        </article>
-
-        <article class="dmc-faq-item dmc-reveal">
-          <button class="dmc-faq-toggle" type="button" aria-expanded="false">
-            <span>Do you handle executive transfers and chauffeur-led schedules?</span>
-            <span>+</span>
-          </button>
-          <div class="dmc-faq-panel">
-            <p>Yes. Private transport planning is one of the most important parts of our support offering.</p>
-          </div>
-        </article>
-      </div>
+    <div class="dmc-faq">
+      <details>
+        <summary>Do you only provide full DMC programs?</summary>
+        <p>No. We can support a full itinerary, a transport-only assignment, selected local services or a specific Provence / Riviera extension. The scope is defined before quotation.</p>
+      </details>
+      <details>
+        <summary>Which destinations do you cover most strongly?</summary>
+        <p>Our core focus is the Provence and French Riviera connection: Marseille, Avignon, Aix-en-Provence, Nice, Cannes, Monaco, Èze and surrounding villages or coastal stops.</p>
+      </details>
+      <details>
+        <summary>Can you support overseas agencies and private clients?</summary>
+        <p>Yes. We support international inquiries and can communicate in English, Chinese and French, depending on the program and guest profile.</p>
+      </details>
+      <details>
+        <summary>Do you handle private transfers and chauffeur-led touring?</summary>
+        <p>Yes. We can arrange airport pickups, intercity transfers, chauffeur-led touring days and multi-day vehicle planning, with attention to luggage, timing and hotel access.</p>
+      </details>
+      <details>
+        <summary>What type of clients are the best fit?</summary>
+        <p>We are strongest with private families, small to mid-size groups, executive travel, agency-led bespoke requests and hosted programs that need local judgment rather than a rigid template.</p>
+      </details>
+      <details>
+        <summary>Can you replace vehicles or guides in case of disruption?</summary>
+        <p>We plan carefully and work with trusted local resources, but availability can be tight in peak season. If disruption occurs, we focus on safety, clear communication and the best workable adjustment.</p>
+      </details>
+      <details>
+        <summary>How early should we contact you?</summary>
+        <p>For June, July, August, major events and premium private programs, earlier is better. Good vehicles, drivers, guides and hotel locations become limited quickly.</p>
+      </details>
     </div>
   </section>
 
   <section class="dmc-section" id="contact">
-    <div class="dmc-container">
-      <div class="dmc-reveal">
-        <div class="dmc-eyebrow">Contact Us</div>
-        <h2>Let’s imagine your next South of France program</h2>
-        <p>
-          We would be glad to support your agency, company or private client project with practical local input and
-          refined on-the-ground coordination.
-        </p>
-      </div>
+    <span class="dmc-eyebrow">Contact Us</span>
+    <h2>Share your South of France brief</h2>
+    <p>
+      Send us the outline first. We will assess the route, timing, group profile and local feasibility before suggesting the best way to support the program.
+    </p>
 
-      <div class="dmc-contact-grid">
-        <aside class="dmc-contact-card dmc-reveal">
-          <h3>Aoli Travel</h3>
-          <p>South of France DMC and ground services for agencies, event planners, corporate groups and private clients.</p>
+    <div class="dmc-grid-2 mt-4">
+      <aside class="dmc-contact-card">
+        <h3 class="h5">Aoli Travel</h3>
+        <p>Local DMC, routing and ground support across Provence and the French Riviera.</p>
+        <ul class="dmc-contact-list">
+          <li><strong>Email:</strong> <a href="mailto:contact@aolitravel.com">contact@aolitravel.com</a></li>
+          <li><strong>Phone / WhatsApp:</strong> <a href="https://wa.me/33783271988" target="_blank" rel="noopener">+33 7 83 27 19 88</a></li>
+          <li><strong>Website:</strong> <a href="https://aolitravel.com">aolitravel.com</a></li>
+          <li><strong>Coverage:</strong> Nice, Cannes, Monaco, Marseille, Avignon, Provence and the French Riviera</li>
+        </ul>
+      </aside>
 
-          <ul class="dmc-contact-list">
-            <li><strong>Email:</strong> <a href="mailto:contact@aolitravel.com">contact@aolitravel.com</a></li>
-            <li><strong>Phone / WhatsApp:</strong> <a href="tel:+33783271988">(0033) 7 83 27 19 88</a></li>
-            <li><strong>Website:</strong> <a href="https://aolitravel.com">aolitravel.com</a></li>
-            <li><strong>Coverage:</strong> Nice, Cannes, Monaco, Marseille and Avignon</li>
-          </ul>
-        </aside>
-
-        <div class="dmc-form-shell dmc-reveal">
-          <div class="dmc-tally-wrap">
-            <iframe
-              data-tally-src="https://tally.so/r/YOUR_TALLY_FORM_ID?transparentBackground=1&dynamicHeight=1"
-              loading="lazy"
-              width="100%"
-              height="700"
-              frameborder="0"
-              marginheight="0"
-              marginwidth="0"
-              title="South of France DMC Inquiry"
-              style="border:0;background:transparent;"
-            ></iframe>
-          </div>
-
-          <p class="dmc-form-note">
-            Prefer direct contact? Email
-            <a href="mailto:contact@aolitravel.com">contact@aolitravel.com</a>
-            or call / WhatsApp
-            <a href="tel:+33783271988">(0033) 7 83 27 19 88</a>.
-          </p>
+      <div class="dmc-contact-card">
+        <h3 class="h5">What to include in your inquiry</h3>
+        <p>A useful brief does not need to be perfect. Start with the essentials, and we will help assess the route, timing and service scope.</p>
+        <ul class="dmc-inquiry-list">
+          <li>Program dates, number of guests and guest profile</li>
+          <li>Arrival and departure cities, airports, ports or train stations</li>
+          <li>Key destinations: Provence, Marseille, Avignon, Nice, Cannes, Monaco, Èze or other stops</li>
+          <li>Transport needs: transfers, chauffeur-led touring, multi-day routing or executive support</li>
+          <li>Service scope: agency support, private client travel, corporate travel or hosted program</li>
+        </ul>
+        <div class="dmc-actions">
+          <a class="btn btn-primary dmc-email-button" href="mailto:contact@aolitravel.com?subject=South%20of%20France%20DMC%20Inquiry">Email your brief</a>
+          <a class="btn btn-outline-primary" href="https://wa.me/33783271988" target="_blank" rel="noopener">WhatsApp us</a>
         </div>
       </div>
     </div>
@@ -917,75 +589,18 @@ description: South of France DMC services for Nice, Cannes, Monaco, Marseille an
     "@type": "TravelAgency",
     "name": "Aoli Travel",
     "url": "https://aolitravel.com/en/south-france-dmc/",
-    "description": "South of France DMC services for Nice, Cannes, Monaco, Marseille and Avignon.",
-    "areaServed": ["Nice", "Cannes", "Monaco", "Marseille", "Avignon"],
+    "description": "South of France DMC and local ground handling support for agencies, planners and private clients who need realistic routing, private transport and local execution across Provence and the French Riviera.",
+    "areaServed": ["Nice", "Cannes", "Monaco", "Marseille", "Avignon", "Aix-en-Provence", "Provence", "French Riviera"],
     "serviceType": [
       "Destination management company",
       "Ground handling",
       "Private transport",
-      "Corporate travel support"
+      "Corporate travel support",
+      "Private chauffeur service",
+      "Bespoke travel coordination"
     ],
     "email": "contact@aolitravel.com",
     "telephone": "+33783271988"
   }
-  </script>
-
-  <script>
-    (function () {
-      var prefersReducedMotion = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
-      var revealItems = document.querySelectorAll(".dmc-reveal");
-      var faqToggles = document.querySelectorAll(".dmc-faq-toggle");
-
-      if (revealItems.length) {
-        if (prefersReducedMotion || !("IntersectionObserver" in window)) {
-          revealItems.forEach(function (item) {
-            item.classList.add("is-visible");
-          });
-        } else {
-          var revealObserver = new IntersectionObserver(function (entries, observer) {
-            entries.forEach(function (entry) {
-              if (entry.isIntersecting) {
-                entry.target.classList.add("is-visible");
-                observer.unobserve(entry.target);
-              }
-            });
-          }, { threshold: 0.12 });
-
-          revealItems.forEach(function (item) {
-            revealObserver.observe(item);
-          });
-        }
-      }
-
-      faqToggles.forEach(function (toggle) {
-        toggle.addEventListener("click", function () {
-          var item = toggle.closest(".dmc-faq-item");
-          var isOpen = item.classList.contains("is-open");
-
-          faqToggles.forEach(function (btn) {
-            btn.setAttribute("aria-expanded", "false");
-            btn.closest(".dmc-faq-item").classList.remove("is-open");
-            btn.querySelector("span:last-child").textContent = "+";
-          });
-
-          if (!isOpen) {
-            item.classList.add("is-open");
-            toggle.setAttribute("aria-expanded", "true");
-            toggle.querySelector("span:last-child").textContent = "−";
-          }
-        });
-      });
-
-      if (typeof Tally !== "undefined") {
-        Tally.loadEmbeds();
-      } else {
-        var tallyScript = document.createElement("script");
-        tallyScript.src = "https://tally.so/widgets/embed.js";
-        tallyScript.onload = function () {
-          if (typeof Tally !== "undefined") Tally.loadEmbeds();
-        };
-        document.body.appendChild(tallyScript);
-      }
-    })();
   </script>
 </div>
