@@ -4,7 +4,7 @@ title: 摩纳哥🇲🇨旅游攻略｜18个必打卡景点全攻略，玩转全
 description: 带你深入体验王室风情、海洋奇观和悠闲地中海生活
 img: assets/img/98monaco-top-18/monaco-0a.webp
 importance: 2.5
-category: 蔚蓝海岸
+category: 尼斯与蔚蓝海岸
 related_publications: false
 related_posts: true
 toc:
@@ -566,4 +566,3 @@ published: true
 **Blog**
 
 [更多关于我的生活记录和感受](https://aolitravel.com/blog/)
-

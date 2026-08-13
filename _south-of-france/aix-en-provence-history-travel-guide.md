@@ -4,7 +4,7 @@ title: 南法｜艾克斯-普罗旺斯历史与旅游全攻略
 description: 一座由罗马温泉孕育、因大学与艺术焕发生机的南法历史名城
 img: assets/img/113aix-en-provence/aix-en-provence-b.webp
 importance: 11
-category: 普罗旺斯
+category: 马赛与艾克斯周边
 related_publications: false
 related_posts: true
 toc:

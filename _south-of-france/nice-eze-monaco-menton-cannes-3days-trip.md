@@ -4,7 +4,7 @@ title: 蔚蓝海岸尼斯、摩纳哥、戛纳最强三日游攻略
 description: 漫步尼斯海滨、探索摩纳哥奢华、登顶埃兹鹰巢村、打卡芒通柠檬小镇，再去戛纳感受电影节魅力！
 img: assets/img/22nice-eze-monaco-menton-cannes-3days-trip/aolitravel.com-nice-eze-monaco-menton-cannes-3days-trip-0a.jpg
 importance: 3
-category: 蔚蓝海岸
+category: 尼斯与蔚蓝海岸
 related_publications: false
 related_posts: true
 toc:

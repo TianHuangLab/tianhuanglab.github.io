@@ -4,7 +4,7 @@ title: 🌟南法7天怎么玩？收下这份保姆级嗨玩攻略！
 description: 跟着我的脚步，7天玩转南法最值得打卡的景点，吃最地道的美食，拍最惊艳的照片！
 img: assets/img/36visit-south-france-7-day-trip/aolitravel.com-visit-south-france-7-day-trip-0.webp
 importance: 1
-category: 解锁南法
+category: 南法路线与交通
 related_publications: false
 related_posts: true
 toc:

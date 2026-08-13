@@ -4,7 +4,7 @@ title: 毕加索小镇昂蒂布全攻略｜带你漫步老城区及市场
 description: 在蔚蓝海岸的阳光与海风中，读懂地中海风情~
 img: assets/img/118antibes/antibes-0.webp
 importance: 7
-category: 蔚蓝海岸
+category: 尼斯与蔚蓝海岸
 related_publications: false
 related_posts: true
 toc:
@@ -362,5 +362,4 @@ published: true
 **Blog**
 
 [更多关于我的生活记录和感受](https://aolitravel.com/blog/)
-
 

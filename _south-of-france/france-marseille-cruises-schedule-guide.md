@@ -4,7 +4,7 @@ title: 2026年最新马赛港口邮轮停靠时间表及下船攻略
 description: 计划搭乘邮轮游览法国马赛？快来看看这份邮轮靠港全攻略，轻松开启岸上之旅！
 img: assets/img/59marseille-cruises/france-marseille-cruises-schedule-guide-0.webp
 importance: 7
-category: 解锁南法
+category: 马赛与艾克斯周边
 related_publications: false
 related_posts: true
 toc:

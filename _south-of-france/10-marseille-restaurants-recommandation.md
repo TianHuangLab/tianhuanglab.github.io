@@ -4,7 +4,7 @@ title: 马赛法餐指南｜10家本地人也爱的高分餐厅推荐
 description: 10家亲测法餐厅，让你在马赛边吃边拍边恋爱，美景美食全收！
 img: assets/img/63-10-marseille-restaurants/10-marseille-restaurants-0.webp
 importance: 8
-category: 普罗旺斯
+category: 马赛与艾克斯周边
 related_publications: false
 related_posts: true
 toc:

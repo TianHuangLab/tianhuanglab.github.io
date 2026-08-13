@@ -4,7 +4,7 @@ title: 南法圣十字湖和看薰衣草最美攻略｜详细停车地点分享
 description: 来和我一起探索普罗旺斯的薰衣草花海和圣十字湖的美丽蓝色！🌸💙
 img: assets/img/15visit-champ-lavande-saint-croix-verdon-moustiers-sainte-marie/visit-champ-lavande-saint-croix-verdon-moustiers-sainte-marie-2.jpg
 importance: 3
-category: 普罗旺斯
+category: 普罗旺斯小镇与薰衣草
 related_publications: false
 related_posts: true
 toc:

@@ -4,7 +4,7 @@ title: 尼斯最强旅行指南｜Top 18必游景点全攻略
 description: 一文囊括尼斯景点，带你畅游蔚蓝海岸明珠，探索尼斯的历史、艺术与自然之美!
 img: assets/img/12nice-top-18-things-to-do/12nice-top-18-things-to-do-4.jpg
 importance: 1
-category: 蔚蓝海岸
+category: 尼斯与蔚蓝海岸
 related_publications: false
 related_posts: true
 toc:

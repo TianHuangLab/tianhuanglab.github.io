@@ -4,7 +4,7 @@ title: 法国普罗旺斯旅行终极攻略合集｜赶紧收藏！
 description: 路线、城市、小镇、薰衣草与交通，一篇完整了解南法的灵魂
 img: assets/img/114provence/provence-0.webp
 importance: 0.5
-category: 普罗旺斯
+category: 普罗旺斯小镇与薰衣草
 related_publications: false
 related_posts: true
 toc:

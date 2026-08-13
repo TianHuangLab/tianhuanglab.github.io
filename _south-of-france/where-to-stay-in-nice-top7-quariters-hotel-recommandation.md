@@ -4,7 +4,7 @@ title: 尼斯住宿全攻略｜7大街区带你解锁南法度假魅力 🌊
 description: 从历史悠久的老城区到浪漫迷人的海滨大道，这篇指南帮你找到最适合的住宿区域，轻松享受尼斯的法式风情！🏖️
 img: assets/img/16nice-7quartiers-where-to-stay-hotel-recommendation/aolitravel.com-7-quartiers-where-to-stay-nice-0.jpg
 importance: 2
-category: 蔚蓝海岸
+category: 尼斯与蔚蓝海岸
 related_publications: false
 related_posts: true
 toc:

@@ -4,7 +4,7 @@ title: 艾克斯-普罗旺斯最值得去的十个地方｜一日游攻略
 description: 这里没有超级地标，但很适合慢慢逛！
 img: assets/img/125aix-en-provence/aix-en-provence-1.webp
 importance: 12
-category: 普罗旺斯
+category: 马赛与艾克斯周边
 related_publications: false
 related_posts: true
 toc:

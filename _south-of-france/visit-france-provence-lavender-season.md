@@ -4,7 +4,7 @@ title: 2026普罗旺斯薰衣草花期预报💜｜最佳观赏时间与路线
 description: 为你揭秘法国薰衣草的最佳观赏时间与私藏路线，规划完美赏花之旅！
 img: assets/img/37visit-france-provence-lavender-season/visit-france-provence-lavender-season-0.webp
 importance: 4
-category: 解锁南法
+category: 普罗旺斯小镇与薰衣草
 related_publications: false
 related_posts: true
 toc:

@@ -4,7 +4,7 @@ title: 阿尔勒城市旅行最全攻略｜探索普罗旺斯的魅力
 description: 作为普罗旺斯的历史与文化之都，这里因梵高而出名，因历史而伟大！
 img: assets/img/18visit-arles-city-guide/aolitravel.com-18visit-arles-city-guide-0.webp
 importance: 5
-category: 普罗旺斯
+category: 阿维尼翁、阿尔勒与古罗马南法
 related_publications: false
 related_posts: true
 toc:

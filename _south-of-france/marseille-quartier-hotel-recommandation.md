@@ -4,7 +4,7 @@ title: 马赛城市住宿指南｜帮你轻松规划马赛之旅
 description: 为你推荐最佳街区与住宿，找到完美落脚地，尽享历史、艺术与海滩的多重魅力！
 img: assets/img/13marseille-quartier-hotel/13marseille-quartier-hotel-1a.jpg
 importance: 2
-category: 普罗旺斯
+category: 马赛与艾克斯周边
 related_publications: false
 related_posts: true
 toc:

@@ -4,7 +4,7 @@ title: 最新版法国尼斯蔚蓝海岸机场终极指南
 description: 搞定航站楼、交通与接机，一篇搞懂尼斯机场，畅游蔚蓝海岸！
 img: assets/img/72nice-cote-azur-airport/nice-cote-azur-airport-0.webp
 importance: 3.5
-category: 蔚蓝海岸
+category: 尼斯与蔚蓝海岸
 related_publications: false
 related_posts: true
 pretty_table: true

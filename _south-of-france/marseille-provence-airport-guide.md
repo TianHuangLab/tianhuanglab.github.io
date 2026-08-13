@@ -4,7 +4,7 @@ title: 法国马赛-普罗旺斯机场最全指南（含接机推荐）！
 description: 去南法or回国？这篇马赛机场全攻略帮你搞定航站楼、交通和直飞航班～
 img: assets/img/53marseille-provence-airport-guide/marseille-provence-airport-guide-0.webp
 importance: 5
-category: 解锁南法
+category: 马赛与艾克斯周边
 related_publications: false
 related_posts: true
 pretty_table: true

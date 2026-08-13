@@ -4,7 +4,7 @@ title: 圣特罗佩|南法奢华旅游小镇历史旅游完全指南
 description: 从古罗马历史到现代奢华，这篇文章带你了解它的前世今生！
 img: assets/img/115saint-tropez/saint-tropez-0.webp
 importance: 6
-category: 蔚蓝海岸
+category: 尼斯与蔚蓝海岸
 related_publications: false
 related_posts: true
 toc:

@@ -4,7 +4,7 @@ title: 南法Top15最美宝藏小镇推荐!
 description: 探索南法隐藏的瑰宝！除了尼斯、阿维尼翁，还有这些宝藏小镇带你领略普罗旺斯与蔚蓝海岸的独特魅力
 img: assets/img/30visit-south-france-top-15-villages/visit-south-france-provence-cote-azur-var-top-15-villages-0.webp
 importance: 3
-category: 解锁南法
+category: 普罗旺斯小镇与薰衣草
 related_publications: false
 related_posts: true
 toc:
@@ -496,4 +496,3 @@ Sanary-sur-Mer不仅是游客的打卡圣地，还吸引了不少名人前来定
 **Blog**
 
 [更多关于我的生活记录和感受](https://aolitravel.com/blog/)
-

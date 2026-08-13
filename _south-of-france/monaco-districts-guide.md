@@ -4,7 +4,7 @@ title: 第一次去摩纳哥怎么玩？这篇吃喝玩乐攻略收好
 description: 从景点、美食、住宿、博物馆到各区特色，一次带你理清行程重点！
 img: assets/img/129monaco-districts/monaco-districts-0a.webp
 importance: 3.5
-category: 蔚蓝海岸
+category: 尼斯与蔚蓝海岸
 related_publications: false
 related_posts: true
 toc:

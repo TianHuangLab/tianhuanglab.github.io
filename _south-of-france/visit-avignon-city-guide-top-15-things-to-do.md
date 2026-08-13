@@ -4,7 +4,7 @@ title: 阿维尼翁旅行攻略 | 解锁教皇城🏰Top15景点！
 description: 走进历史悠久的阿维尼翁，漫步在教皇宫殿、浪漫桥梁和古老城墙之间，解锁这座南法文化瑰宝的全部精彩！
 img: assets/img/21avignon-city-guide-top-15-things-to-do/visit-avignon-city-guide-top-15-things-to-do-0.webp
 importance: 6
-category: 普罗旺斯
+category: 阿维尼翁、阿尔勒与古罗马南法
 related_publications: false
 related_posts: true
 toc:

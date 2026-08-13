@@ -4,7 +4,7 @@ title: 南法马赛一日游攻略｜本地向导经典路线推荐
 description: 独家揭秘马赛亮点，打破“危险”误解，带你畅游这座地中海瑰宝！
 img: assets/img/11marseille-1day-trip/11marseille-1day-trip-0.jpg
 importance: 1
-category: 普罗旺斯
+category: 马赛与艾克斯周边
 related_publications: false
 related_posts: true
 toc:

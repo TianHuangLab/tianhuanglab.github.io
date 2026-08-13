@@ -4,7 +4,7 @@ title: 蔚蓝海岸艺术之旅｜尼斯及周边12大博物馆全攻略
 description: 从尼斯到摩纳哥，这里不止阳光与海滩，还等你打卡12座必去艺术博物馆！
 img: assets/img/80cote-dazur-nice-art-trip/cote-dazur-nice-art-trip-0.png
 importance: 5
-category: 蔚蓝海岸
+category: 尼斯与蔚蓝海岸
 related_publications: false
 related_posts: true
 toc:

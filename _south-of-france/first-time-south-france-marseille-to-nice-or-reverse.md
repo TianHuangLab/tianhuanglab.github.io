@@ -4,7 +4,7 @@ title: 第一次去南法，马赛进尼斯出，还是反过来更顺？
 description: 第一次去南法看机票时，先想清进出顺序，比先找最便宜更省力
 img: assets/img/124marseille-or-nice/marseille-or-nice-0.png
 importance: 9
-category: 解锁南法
+category: 南法路线与交通
 related_publications: false
 related_posts: true
 toc:

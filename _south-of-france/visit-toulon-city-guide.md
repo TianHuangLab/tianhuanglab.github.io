@@ -4,7 +4,7 @@ title: 南法宝藏城市「土伦」旅游全攻略
 description: 土伦是蔚蓝海岸的硬核玩家，不是普罗旺斯的田园诗人！
 img: assets/img/47visit-toulon/visit-toulon-city-guide-0b.webp
 importance: 4
-category: 蔚蓝海岸
+category: 尼斯与蔚蓝海岸
 related_publications: false
 related_posts: true
 toc:

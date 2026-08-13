@@ -4,7 +4,7 @@ title: 马赛必打卡！Top15景点全攻略｜本地向导推荐指南
 description: 独家甄选15个老少咸宜的代表性景点，文化历史、如何到达、门票信息一文全部囊括！
 img: assets/img/17visit-marseille-top15-things-to-do/17-aolitravel.com-visit-marseille-top15-things-to-do-0.jpg
 importance: 4
-category: 普罗旺斯
+category: 马赛与艾克斯周边
 related_publications: false
 related_posts: true
 toc:

@@ -4,7 +4,7 @@ title: 南法马赛「城市沙滩」不完全指南
 description: 在地中海边的马赛沙滩上，感受阳光、海浪与南法风情的完美邂逅！
 img: assets/img/23marseille-top-beach-guide/aolitravel.com-marseille-top-beach-guide-0.webp
 importance: 7
-category: 普罗旺斯
+category: 马赛与艾克斯周边
 related_publications: false
 related_posts: true
 toc:

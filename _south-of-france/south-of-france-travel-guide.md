@@ -5,7 +5,7 @@ description: 从玩几天、马赛/尼斯进出，到区域取舍与交通住宿
 permalink: /south-of-france/south-of-france-travel-guide/
 img: assets/img/116south-france/south-france-0.webp
 importance: 0.5
-category: 解锁南法
+category: 南法路线与交通
 related_publications: false
 related_posts: true
 toc:

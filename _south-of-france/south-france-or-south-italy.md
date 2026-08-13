@@ -4,7 +4,7 @@ title: 南法 vs 南意：地中海风情的双面魅力，你Pick哪一边？
 description: 优雅南法or热情南意，风景、美食、文化各具魅力，你更爱哪一边？快来探索吧
 img: assets/img/29south-france-south-italy-trip-comparison/south-france-south-italy-trip-comparison-0.webp
 importance: 2
-category: 解锁南法
+category: 南法路线与交通
 related_publications: false
 related_posts: true
 toc:

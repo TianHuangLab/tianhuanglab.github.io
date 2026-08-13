@@ -4,7 +4,7 @@ title: 南法的古罗马城市｜尼姆10大必游景点攻略
 description: 这座南法小城，藏着法国最震撼的古罗马遗迹！
 img: assets/img/111nimes/nimes-0.webp
 importance: 10
-category: 普罗旺斯
+category: 阿维尼翁、阿尔勒与古罗马南法
 related_publications: false
 related_posts: true
 toc:
