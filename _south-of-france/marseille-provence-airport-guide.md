@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 法国马赛-普罗旺斯机场最全指南（含接机推荐）！
-description: 去南法or回国？这篇马赛机场全攻略帮你搞定航站楼、交通和直飞航班～
+title: 马赛机场落地指南｜市区艾克斯接送避坑全攻略
+description: 到马赛市区、艾克斯或普罗旺斯小镇，大巴、火车、租车和接送怎么选。
 img: assets/img/53marseille-provence-airport-guide/marseille-provence-airport-guide-0.webp
 importance: 5
 category: 马赛与艾克斯周边
@@ -10,341 +10,271 @@ related_posts: true
 pretty_table: true
 toc:
   sidebar: left
-tags: 法国 法国旅游 南法 普罗旺斯机场 马赛机场 交通攻略
+tags: 法国 法国旅游 南法 普罗旺斯机场 马赛机场 马赛机场交通 马赛机场接送 艾克斯 普罗旺斯
+published: true
+permalink: /south-of-france/marseille-provence-airport-guide/
 ---
 
-{% include figure.liquid loading="eager" path="assets/img/53marseille-provence-airport-guide/marseille-provence-airport-guide-0a.webp" title="aolitravel.com-marseille-provence-airport-guide" class="img-fluid rounded z-depth-1 watermarked" alt="法国马赛普罗旺斯机场指南marseille-provence-airport-guide"%}
+{% include figure.liquid loading="eager" path="assets/img/53marseille-provence-airport-guide/marseille-provence-airport-guide-0a.webp" title="aolitravel.com-marseille-provence-airport-guide" class="img-fluid rounded z-depth-1 watermarked" alt="马赛普罗旺斯机场交通攻略"%}
 
-欢迎查看最新最全的马赛普罗旺斯机场（Aéroport Marseille Provence，简称/IATA代码MRS）全指南！无论你是计划前往马赛（Marseille）或艾克斯-普罗旺斯（Aix-en-Provence），亦或是南法其他地方比如普罗旺斯小镇或蔚蓝海岸。本指南都将为你提供详尽的航站楼信息和便捷的交通方式，助你轻松出行。
+飞到**马赛普罗旺斯机场（Aéroport Marseille Provence，机场代码 MRS）**，很多人的第一反应是：怎么去马赛市区？去艾克斯方便吗？如果下一站是阿维尼翁、阿尔勒、普罗旺斯小镇、薰衣草田，甚至尼斯和蔚蓝海岸，要不要提前安排接送？
 
-> 如果你想来法国玩，但是还不知道如何规划行程？路线怎么安排？哪几个城市可以串联起来？如何在小众小镇找到最佳住宿和地道美食？别担心！不妨看看我的推荐 - [精选线路](https://aolitravel.com/tours/)，亦或是找我[定制行程](https://aolitravel.com/custom-travel/)
-> 
+先给你一个简单答案：**白天轻装去马赛圣夏尔火车站或艾克斯市区，机场大巴通常最直接；如果你们带老人孩子、行李多、抵达晚，或者落地后直接去普罗旺斯小镇和南法多日路线，提前安排接送或包车会舒服很多。**
 
-> 此外，如果你有马赛机场接机需求，我们也可以提供贴心的**接机服务**，让你从一下飞机开始就无忧出行 ✈️。点击[联系我们](https://aolitravel.com/)或[查看接机服务详情](https://aolitravel.com/south-of-france/marseille-provence-airport-guide/#-%E7%A7%81%E4%BA%BA%E6%8E%A5%E6%9C%BA%E6%9C%8D%E5%8A%A1%E6%8E%A8%E8%8D%90)，让你在普罗旺斯的旅行从第一刻起就顺畅舒心～
->
+下面这张表可以先收藏。落地后不要站在机场里临时查一堆信息，先按目的地判断大方向，再往下看具体怎么走。
 
-{% include figure.liquid loading="eager" path="assets/img/53marseille-provence-airport-guide/marseille-provence-airport-guide-1.webp" title="aolitravel.com-marseille-provence-airport-guide" class="img-fluid rounded z-depth-1 watermarked" alt="法国马赛普罗旺斯机场指南marseille-provence-airport-guide"%}
+| 你要去哪里 | 推荐方式 | 更适合谁 |
+|---|---|---|
+| 马赛圣夏尔火车站 / 市区 | 机场大巴 L91 | 轻装自由行、酒店靠近车站或地铁 |
+| 艾克斯-普罗旺斯 | 机场大巴 L40 | 住艾克斯、去吕贝隆小镇的人 |
+| 阿维尼翁 / 阿尔勒 | 火车或接送 | 想继续接普罗旺斯路线的人 |
+| 普罗旺斯小镇 / 薰衣草线 | 接送或包车 | 家庭、小团、想少折腾的人 |
+| 马赛酒店 / 老港附近 | 大巴 + 地铁 / 出租车 / 接送 | 行李多或晚到建议接送 |
+| 尼斯 / 蔚蓝海岸 | 火车或多日路线包车 | 已经是跨城移动，不建议临时决定 |
+
+<p>
+  <a class="btn btn-lg text-white" style="background-color: #6f42c1; border-radius: 0.75rem;" href="/custom-travel/">把航班和行程发给我</a>
+  <a class="btn btn-lg btn-outline-secondary" href="/tours/">查看南法精选路线</a>
+</p>
+
+如果你还在判断南法该从哪里进出，可以先看：[第一次去南法，马赛到尼斯还是尼斯到马赛？](https://aolitravel.com/south-of-france/first-time-south-france-marseille-to-nice-or-reverse/)
+
+如果你落地的是尼斯，可以看：[尼斯机场落地指南](https://aolitravel.com/south-of-france/france-nice-cote-azur-airport-guide/)
+
+{% include figure.liquid loading="eager" path="assets/img/53marseille-provence-airport-guide/marseille-provence-airport-guide-1.webp" title="aolitravel.com-marseille-provence-airport-guide" class="img-fluid rounded z-depth-1 watermarked" alt="马赛普罗旺斯机场航站楼"%}
 
 ---
 
-## 航站楼概览：T1 与 T2
+## 1. 马赛机场适合去哪里？
 
-马赛普罗旺斯机场设有两个主要航站楼：T1 和 T2，各自服务不同类型的航班。
+马赛普罗旺斯机场在马赛西北方向，机场代码 **MRS**。它不在马赛市中心，但位置很方便：去马赛、艾克斯-普罗旺斯、阿维尼翁、阿尔勒、吕贝隆小镇、瓦朗索尔薰衣草田，甚至继续往尼斯方向，都可以从这里开始。
 
-### Terminal 1（T1）：主航站楼
+如果你的南法路线重心在**马赛、艾克斯、阿维尼翁、阿尔勒、普罗旺斯小镇、薰衣草线**，马赛机场通常比尼斯机场更合适；如果你的重点是尼斯、摩纳哥、戛纳、埃兹，那尼斯机场会更方便。真正要看的不是到哪个机场你的机票便宜一点，而是抵达地后每天怎么玩、住哪里、有没有不必要的折返，这些因素真正影响你的行程安排。
 
-T1 是机场的主航站楼，分为两个大厅：
+可以先从这些页面判断路线方向：
 
-- **Hall A**：主要处理国际航班。
-- **Hall B**：主要处理申根区内航班。
+- [南法旅游攻略中心](https://aolitravel.com/south-of-france/)
+- [第一次去南法，马赛到尼斯还是尼斯到马赛？](https://aolitravel.com/south-of-france/first-time-south-france-marseille-to-nice-or-reverse/)
+- [南法7天6夜全景路线](https://aolitravel.com/tours/visit-south-france-top-7-days-tour/)
+- [南法精华4天路线](https://aolitravel.com/tours/south-france-4-days-tour-marseille-provence-nice-monaco/)
 
-T1 提供多项服务设施，包括行李领取、信息咨询、货币兑换、行李寄存、行李包装、旅游服务、超大行李处理、餐饮、购物、免税店、自动信息服务、ATM 机等。此外，T1 设有两个贵宾休息室：
+---
 
-- **International Flights VIP Lounge (Cézanne Lounge)**：位于 Hall A，仅供国际航班乘客使用，提供报纸杂志、互联网终端、电话、零食、电视、饮料、无障碍设施和 Wi-Fi，开放时间为早上 6:00 至晚上 8:30，入场费为 39 欧元/人。
-- **European Union Flights VIP Lounge(Luberon Lounge )**：位于Hall B，仅供申根和国内航班乘客使用，提供报纸、杂志、零食、电视、Wi-Fi、无障碍设施和饮料，开放时间为早上 5:00 至晚上 21:00，入场费为 29 欧元/人。
+## 2. 航站楼和机场基础信息
 
-购买请点击以下[链接](https://store.marseille.aeroport.fr/fr_FR/reservation/services/)。
-{% include figure.liquid loading="eager" path="assets/img/53marseille-provence-airport-guide/marseille-provence-airport-guide-3a.webp" title="aolitravel.com-marseille-provence-airport-guide" class="img-fluid rounded z-depth-1 watermarked" alt="法国马赛普罗旺斯机场指南marseille-provence-airport-guide"%}
-{% include figure.liquid loading="eager" path="assets/img/53marseille-provence-airport-guide/marseille-provence-airport-guide-3.webp" title="aolitravel.com-marseille-provence-airport-guide" class="img-fluid rounded z-depth-1 watermarked" alt="法国马赛普罗旺斯机场指南marseille-provence-airport-guide"%}
+马赛机场主要有两个航站楼：**T1** 和 **T2**。两个航站楼距离不远，步行即可衔接。第一次来不用太紧张，机场不算特别复杂，跟着 **Arrivals / Bus / Taxi / Car Rental / Train shuttle** 这些指示走就好。
 
-### Terminal 2（T2）：低成本航班专用
+**T1：主航站楼。**  
+T1 是主要航站楼，分为 Hall A 和 Hall B。Hall A 常用于国际航班，Hall B 常用于申根区和部分欧洲航班。这里有行李领取、信息咨询、货币兑换、行李服务、餐饮、购物、免税店、ATM 等设施。
 
-T2 专为低成本航空公司设计，结构简洁，主要服务如行李托运、登机和基本的餐饮购物设施。T2 与 T1 相距不远，步行即可到达。
-{% include figure.liquid loading="eager" path="assets/img/53marseille-provence-airport-guide/marseille-provence-airport-guide-4.webp" title="aolitravel.com-marseille-provence-airport-guide" class="img-fluid rounded z-depth-1 watermarked" alt="法国马赛普罗旺斯机场指南marseille-provence-airport-guide"%}
+T1 也有机场贵宾休息室，比如 Cézanne Lounge 和 Luberon Lounge。开放时间、价格和可进入条件会调整，出发前建议看机场官网或机场商店页面。休息室参考价格曾分别约为 €39/人和 €29/人；实际以 [Marseille Provence Airport 官方服务页面](https://www.marseille-airport.com/) 为准。
+
+{% include figure.liquid loading="eager" path="assets/img/53marseille-provence-airport-guide/marseille-provence-airport-guide-3a.webp" title="aolitravel.com-marseille-provence-airport-guide" class="img-fluid rounded z-depth-1 watermarked" alt="马赛机场T1航站楼"%}
+
+{% include figure.liquid loading="eager" path="assets/img/53marseille-provence-airport-guide/marseille-provence-airport-guide-3.webp" title="aolitravel.com-marseille-provence-airport-guide" class="img-fluid rounded z-depth-1 watermarked" alt="马赛机场主航站楼内部"%}
+
+**T2：低成本航班常用航站楼。**  
+T2 比 T1 更简洁，常见于部分低成本航空。这里主要满足值机、托运、安检、登机和基础餐饮购物需求。T2 和 T1 不远，如果你要和同行人会合，最好提前说清楚是 T1 还是 T2，不要只说“马赛机场”。
+
+{% include figure.liquid loading="eager" path="assets/img/53marseille-provence-airport-guide/marseille-provence-airport-guide-4.webp" title="aolitravel.com-marseille-provence-airport-guide" class="img-fluid rounded z-depth-1 watermarked" alt="马赛机场T2航站楼"%}
 
 <iframe src="https://plans.marseille.aeroport.fr/su/bhmkJcfx" width="100%" height="500" style="border:0;" allowfullscreen></iframe>
 
 ---
 
-## 马赛 ⇄ 上海直飞航线指南（FM871/FM872）
+## 3. 马赛机场有哪些直飞航线值得关注？
 
-2024年7月2日清晨，伴随着东航旗下上海航空 FM871 航班顺利降落马赛普罗旺斯国际机场，中国与法国南部之间的**首条定期直飞客运航线**正式启航。这标志着中法合作又一里程碑成果落地，也为“中法建交60周年”与“中法文化旅游年”写下精彩一笔。
+对中文读者来说，马赛机场最值得关注的，是它不只是法国国内机场，也有一些非常实用的国际直飞航线。航班信息会按航季变化，下面整理的是常见参考信息，订票前一定要以航司和机场实时信息为准。
 
-### 📅 航班信息
+**马赛 ⇄ 上海直飞：FM871 / FM872。**  
+2024 年 7 月 2 日，上海航空 FM871 航班抵达马赛普罗旺斯机场，中国和法国南部之间的定期直飞客运航线正式开通。对中国大陆出发的旅客来说，这条线的意义很直接：不用再一定从巴黎转机，也能直接进入南法。
 
-- **航班号**：FM871 / FM872（由上海航空执飞）
-- **执飞频率**：每周三班，逢 **周二、周五、周日**
-- **机型**：波音 787 梦想客机，配备新一代空中服务系统
-- **航程时长**：约 12 小时
+航班参考信息如下：
 
-| 航程 | 起飞时间 | 抵达时间 | 出发地 | 目的地 |
-| --- | --- | --- | --- | --- |
-| 去程（FM871） | 00:15（上海浦东） | 07:00（马赛当地时间） | 上海 | 马赛 |
-| 回程（FM872） | 10:55（马赛当地时间） | 次日 05:00（北京时间） | 马赛 | 上海 |
+- **FM871：**上海浦东出发，约 00:15 起飞，约 07:00 抵达马赛当地时间。
+- **FM872：**马赛出发，约 10:55 起飞，次日约 05:00 抵达北京时间。
 
-### 🛫 航班亮点
+这条航线适合想直接进入普罗旺斯、马赛、阿维尼翁、尼斯和蔚蓝海岸的旅客。尤其是家庭出行，少一次转机，落地体验会轻松不少。
 
-- **首次中国直飞南法**：这是首条连接中国与法国南部的直飞航线，填补了中转空白，为往返两地旅客大大节省时间与精力。
-- **舒适机上体验**：东航 787 配备“包厢式公务舱”、“空中会客厅”、全程高速 Wi-Fi，提供更智能、便捷的飞行体验。
-- **中转更高效**：东航“空铁联运”服务为长三角旅客打造顺畅换乘通道，例如从上海虹桥高铁站到浦东机场即可无缝接驳。
+{% include figure.liquid loading="eager" path="assets/img/53marseille-provence-airport-guide/marseille-provence-airport-guide-4a.webp" title="aolitravel.com-marseille-provence-airport-guide" class="img-fluid rounded z-depth-1 watermarked" alt="马赛上海直飞航线"%}
 
-### 🌏 意义
+**马赛 ⇄ 蒙特利尔：TS434 / TS435。**  
+Air Transat 执飞的马赛与蒙特利尔直飞航线，是连接法国南部和加拿大魁北克的重要线路。对北美华人、留学生、探亲旅客和暑期来南法度假的客人都很实用。
 
-马赛与上海自1987年缔结姐妹城市，此次直飞航线的开通不仅进一步加强两城37年的友谊联系，也为两国在旅游、经贸、文化等领域的交流打开新通道。今后，中国旅客可更加轻松直达法国普罗旺斯与蓝色海岸，法国旅客来华也将享受**免签政策**、**144小时过境免签**等便利。
-{% include figure.liquid loading="eager" path="assets/img/53marseille-provence-airport-guide/marseille-provence-airport-guide-4a.webp" title="aolitravel.com-marseille-provence-airport-guide" class="img-fluid rounded z-depth-1 watermarked" alt="法国马赛普罗旺斯机场指南marseille-provence-airport-guide"%}
+航班参考信息如下：
 
----
+- **TS435：**马赛出发，通常为上午航班，下午抵达蒙特利尔当地时间，具体按航季为准。
+- **TS434：**蒙特利尔出发，通常为下午或傍晚航班，次日清晨抵达马赛，具体按航季为准。
 
-## 马赛 ⇄ 蒙特利尔直飞航线指南（TS434 / TS435）
+这条线有明显季节性，夏季班次通常更多，淡季会减少。出行前建议查 Air Transat 或 [马赛机场航班目的地页面](https://www.marseille-airport.com/)。
 
-在连接法语世界与北美的重要航线上，加拿大航空旗下子公司 **Air Transat** 执飞的 **马赛–蒙特利尔直飞航线**，为往返法国南部与加拿大魁北克省的旅客提供了便捷选择。无论是华人探亲、学生返乡，还是暑期家庭旅行，这条航线都因其高性价比与便捷性而备受欢迎。
-
-### 📅 航班信息
-
-航班号：TS434 / TS435（由 Air Transat 执飞）
-
-执飞频率：每周 2 至 7 班，视季节调整（淡季通常为每周一班，从5月到9月的旺季每周有4-7个航班，十分密集）
-
-机型：空客 A330 或 A321neo LR（远程版），设有经济舱与尊享舱
-
-航程时长：约 8 小时 30 分
-
-| 航程 | 起飞时间 | 抵达时间 | 出发地 | 目的地 |
-| --- | --- | --- | --- | --- |
-| 去程（TS435） | 上午（马赛时间，具体以航季为准） | 下午（蒙特利尔当地时间） | 马赛 | 蒙特利尔 |
-| 回程（TS434） | 下午或傍晚（蒙特利尔时间） | 次日清晨（马赛时间） | 蒙特利尔 | 马赛 |
-
-> ✈ 注：具体班次与时间可能随季节调整，建议出行前查询当季航班表。
-> 
-
-### 🌟 航班亮点
-
-- **直飞北美法语区**：作为连接南法与北美魁北克的唯一定期直航航线，该航线免去转机烦恼，深受探亲、留学及旅游人群欢迎。
-- **性价比高**：Air Transat 是加拿大主要假日航空品牌，价格相对亲民，适合预算型旅客。
-- **多语言服务**：航班提供法语、英语服务，对母语为法语或在法国生活的乘客极为友好。
-- **灵活的季节性安排**：夏季旺季航班密集，秋冬季则有弹性调整，满足不同出行需求。
-
-### 🌏 意义
-
-蒙特利尔不仅是加拿大第二大城市，也是北美最大的法语城市，与马赛在语言、文化氛围上颇有共通之处。大量居住在蒙特利尔的华人选择在暑期回法探亲或旅行，而南法本身也因其阳光、地中海气候成为加拿大旅客心中的“避暑天堂”。
-
-该航线的存在，让北美旅客可快速直达普罗旺斯、蔚蓝海岸，开启从法式老港口到薰衣草田的惬意假期；也让南法居民及旅法华人轻松连通北美亲友。
-{% include figure.liquid loading="eager" path="assets/img/53marseille-provence-airport-guide/marseille-provence-airport-guide-4b.webp" title="aolitravel.com-marseille-provence-airport-guide" class="img-fluid rounded z-depth-1 watermarked" alt="法国马赛普罗旺斯机场指南marseille-provence-airport-guide"%}
+{% include figure.liquid loading="eager" path="assets/img/53marseille-provence-airport-guide/marseille-provence-airport-guide-4b.webp" title="aolitravel.com-marseille-provence-airport-guide" class="img-fluid rounded z-depth-1 watermarked" alt="马赛蒙特利尔直飞航线"%}
 
 ---
 
-## 机场交通：抵达或离开机场
+## 4. 马赛机场到市区、艾克斯怎么走？
 
-从马赛普罗旺斯机场出发，无论你是奔向活力四射的马赛，还是浪漫优雅的艾克斯-普罗旺斯，这里有多种交通方式满足不同旅客的需求与出行风格。
+如果只是从机场去马赛市区或艾克斯，机场大巴是最常用、也最直观的方式。它比火车简单，尤其适合第一次来、行李不多、酒店靠近车站的人。
 
-### 🚌 公交（机场大巴）
+**去马赛市区：机场大巴 L91。**  
+L91 连接马赛机场和 **Gare Saint-Charles（马赛圣夏尔火车站）**。圣夏尔是马赛最重要的火车站和交通节点，到了这里可以换地铁、出租车，或者继续坐火车去阿维尼翁、阿尔勒、尼斯、巴黎等地。
 
-### L91 线：机场 ↔ 马赛圣查尔斯车站（Gare Saint-Charles）
+常见参考信息：
 
-- **运营时间**：每日 04:10 至 01:30，白天每 10 分钟一班，夜间每 20 分钟一班。
-- **车程**：约 25 分钟。
-- **票价**：10 欧元。
-- **购票方式**：支持线上购票、机场售票处购票，或车上刷卡支付。
+- 运营时间：约 04:10 至 01:30
+- 白天班次较密，夜间班次减少
+- 车程：约 25 分钟
+- 票价：约 €10
+- 购票方式：线上、机场售票处、现场刷卡等
 
-### L40 线：机场 ↔ 艾克斯-普罗旺斯（Aix-en-Provence）
+这些信息会调整，出发前建议查 [马赛机场官方交通页面](https://www.marseille-airport.com/)。
 
-- **运营时间**：每日 04:50 至 22:40，每 30 分钟一班，部分夜间有加班车。
-- **车程**：约 30 分钟。
-- **票价**：10 欧元。
-- **购票方式**：同样支持线上、现场、车上多种方式购票。
-{% include figure.liquid loading="eager" path="assets/img/53marseille-provence-airport-guide/marseille-provence-airport-guide-5.webp" title="aolitravel.com-marseille-provence-airport-guide" class="img-fluid rounded z-depth-1 watermarked" alt="法国马赛普罗旺斯机场指南marseille-provence-airport-guide"%}
+**去艾克斯-普罗旺斯：机场大巴 L40。**  
+L40 连接机场和 **Aix-en-Provence**。如果你住艾克斯，或者准备从艾克斯进入吕贝隆小镇、塞南克修道院、石头城、泉水小镇、红土城，这条线会比先去马赛再绕出来更合理。
 
-以下是更多公交能够直达的南法目的地：
-{% include figure.liquid loading="eager" path="assets/img/53marseille-provence-airport-guide/marseille-provence-airport-guide-5a.webp" title="aolitravel.com-marseille-provence-airport-guide" class="img-fluid rounded z-depth-1 watermarked" alt="法国马赛普罗旺斯机场指南marseille-provence-airport-guide"%}
+常见参考信息：
 
-### 🚆 火车
+- 运营时间：约 04:50 至 22:40
+- 常见班次：约每 30 分钟一班，部分时段调整
+- 车程：约 30 分钟
+- 票价：约 €10
 
-机场本身无直达火车，但可通过接驳巴士前往 **Vitrolles Aéroport Marseille Provence** 火车站，转乘区域列车前往马赛或艾克斯。车次有限，建议提前查看 [SNCF](https://www.sncf-connect.com/) 或 [TER](https://www.sncf-connect.com/ter) 官网获取最新时刻信息。
-{% include figure.liquid loading="eager" path="assets/img/53marseille-provence-airport-guide/marseille-provence-airport-guide-6.webp" title="aolitravel.com-marseille-provence-airport-guide" class="img-fluid rounded z-depth-1 watermarked" alt="法国马赛普罗旺斯机场指南marseille-provence-airport-guide"%}
+如果你抵达时间很晚，或者酒店不在车站附近，建议提前确认末班车和酒店接驳方式。
 
-### 🚗 自驾 & 网约车
+{% include figure.liquid loading="eager" path="assets/img/53marseille-provence-airport-guide/marseille-provence-airport-guide-5.webp" title="aolitravel.com-marseille-provence-airport-guide" class="img-fluid rounded z-depth-1 watermarked" alt="马赛机场大巴"%}
 
-如果你喜欢掌控节奏，机场内有 Europcar、Hertz、Sixt、Avis 等多家国际租车公司提供多种车型。南法高速路况普遍良好，导航友好：
+马赛机场也有前往更多南法目的地的巴士和换乘方式。具体线路会随季节和运营调整，建议以机场官网实时信息为准。
 
-- **前往马赛**：沿 A7 高速行驶，约 27 公里，车程约 25 分钟。
-- **前往艾克斯-普罗旺斯**：走 A51 高速，约 32 公里，车程约 30 分钟。
-
-不想开车？你也可以选择叫出租车或网约车，**Uber** 和 **Bolt** 均在机场运营，落地后几分钟即可叫车，费用一般在 40~80 欧元之间，取决于时间段与交通状况。
-{% include figure.liquid loading="eager" path="assets/img/53marseille-provence-airport-guide/marseille-provence-airport-guide-7.webp" title="aolitravel.com-marseille-provence-airport-guide" class="img-fluid rounded z-depth-1 watermarked" alt="法国马赛普罗旺斯机场指南marseille-provence-airport-guide"%}
-
-### 🚘 私人接机服务（推荐！）
-
-如果你希望旅途更省心、无需排队、无语言障碍、落地即走，那不妨考虑我们提供的**私人接机服务**：
-
-- **专人等候**：提前在航班到达口等候，无需你拖着行李找车。
-- **中文/英文沟通**：避免语言障碍，尤其适合首次来法或年长旅客。
-- **灵活车型**：根据人数和行李量安排车辆，从舒适轿车到多座商务车。
-- **目的地灵活**：可接送至马赛、艾克斯、周边小镇，甚至私人地址或酒店门口直达。
-- **价格透明**：无隐藏费用，提前报价，支持微信/支付宝/Paypal/欧元/美元等付款方式。
-- **服务贴心**：协助搬运行李，提供当地生活建议、换汇指引等。
-
-📩 欢迎提前预约，[联系我](https://aolitravel.com/)获取报价和行程建议，马赛普罗旺斯机场接送，我们更懂你！
-{% include figure.liquid loading="eager" path="assets/img/53marseille-provence-airport-guide/marseille-provence-airport-guide-8.webp" title="aolitravel.com-marseille-provence-airport-guide" class="img-fluid rounded z-depth-1 watermarked" alt="法国马赛普罗旺斯机场指南marseille-provence-airport-guide"%}
+{% include figure.liquid loading="eager" path="assets/img/53marseille-provence-airport-guide/marseille-provence-airport-guide-5a.webp" title="aolitravel.com-marseille-provence-airport-guide" class="img-fluid rounded z-depth-1 watermarked" alt="马赛机场前往南法目的地交通"%}
 
 ---
 
-更多关于马赛机场的内容，请查阅[机场官网](https://www.marseille-airport.com/)。
+## 5. 火车、租车、出租车和接送怎么选？
 
-> 如果你想来南法玩，但是还不知道如何规划行程？路线怎么安排？哪几个城市可以串联起来？如何在小众小镇找到最佳住宿和地道美食？
-> 
+**火车：适合继续去其他城市，但不如大巴直观。**  
+马赛机场航站楼旁边没有直接的 SNCF 火车站。要坐火车，需要先乘机场接驳去 **Vitrolles Aéroport Marseille Provence** 火车站，再转区域列车。
 
-别担心！不妨看看我的推荐 - [精选线路](https://aolitravel.com/tours/)，亦或是找我[定制行程](https://aolitravel.com/custom-travel/)
+这个方式适合行李不多、时间比较充裕、且车次刚好合适的人。你可以用 [SNCF Connect](https://www.sncf-connect.com/) 查询车次。如果刚落地就要赶火车，不要把时间卡得太紧，航班延误、取行李和接驳都会影响衔接。
 
-{% include figure.liquid loading="eager" path="assets/img/53marseille-provence-airport-guide/marseille-provence-airport-guide-9.webp" title="aolitravel.com-marseille-provence-airport-guide" class="img-fluid rounded z-depth-1 watermarked" alt="法国马赛普罗旺斯机场指南marseille-provence-airport-guide"%}
+{% include figure.liquid loading="eager" path="assets/img/53marseille-provence-airport-guide/marseille-provence-airport-guide-6.webp" title="aolitravel.com-marseille-provence-airport-guide" class="img-fluid rounded z-depth-1 watermarked" alt="马赛机场火车接驳"%}
+
+**租车：自由，但不一定轻松。**  
+机场内有 Europcar、Hertz、Sixt、Avis 等租车公司。南法高速路况整体不错，导航也比较友好：
+
+- 前往马赛：约 27 公里，车程约 25 分钟
+- 前往艾克斯-普罗旺斯：约 32 公里，车程约 30 分钟
+
+如果你熟悉欧洲驾驶、能接受停车和取还车流程，租车很适合玩普罗旺斯小镇。但马赛市区、老港周边、阿维尼翁老城、热门小镇和旺季薰衣草区域，停车并不总是轻松。带老人孩子、行李多、又不想每天研究停车点的话，包车会帮你节省很多精力和游玩时间！
+
+{% include figure.liquid loading="eager" path="assets/img/53marseille-provence-airport-guide/marseille-provence-airport-guide-7.webp" title="aolitravel.com-marseille-provence-airport-guide" class="img-fluid rounded z-depth-1 watermarked" alt="马赛机场租车区域"%}
+
+**出租车和网约车：适合去酒店或临时移动。**  
+Uber、Bolt 等网约车在马赛机场可用，出租车也可以现场排队。去马赛或艾克斯，费用通常会比大巴高不少，但适合行李多、酒店离车站远、抵达时间较晚的情况。常见费用大约在 €40–€90 之间，实际会受时间、车型、交通和目的地影响。
+
+**中文接机或包车：适合行李多、家庭小团和多日路线。**  
+如果只是一个人轻装去圣夏尔车站，大巴就够了。但下面这些情况，我会建议你提前安排接送：
+
+- 带父母、孩子或大件行李
+- 3–6 人家庭或朋友同行
+- 晚班机抵达，或者航班后还要赶酒店入住
+- 酒店、公寓不在车站或地铁附近
+- 落地后直接去阿维尼翁、阿尔勒、普罗旺斯小镇、薰衣草线
+- 第二天开始南法多日游，希望机场接送和后续路线一起安排
+
+你可以把航班时间、人数、行李数量、酒店地址和想去的地方发给我。我先帮你判断：自己坐车就够，还是提前安排接送更合适。
+
+{% include figure.liquid loading="eager" path="assets/img/53marseille-provence-airport-guide/marseille-provence-airport-guide-8.webp" title="aolitravel.com-marseille-provence-airport-guide" class="img-fluid rounded z-depth-1 watermarked" alt="奥利旅行马赛机场接送服务"%}
+
+<p>
+  <a class="btn btn-lg text-white" style="background-color: #6f42c1; border-radius: 0.75rem;" href="/custom-travel/">咨询马赛机场接送</a>
+  <a class="btn btn-lg btn-outline-secondary" href="/tours/">查看南法精选路线</a>
+</p>
 
 ---
 
-想了解更多法国或瑞士的旅行灵感？快来探索我的其他旅游攻略吧！😊🇫🇷
+## 6. 落地后直接去普罗旺斯小镇，现实吗？
 
-**法国旅游**
+现实，但不建议临时安排。
 
-[法国旅行前准备攻略：一站式指南](https://aolitravel.com/france-travel/france-travel-information/)
+从马赛机场去马赛市区或艾克斯很简单；但如果你要直接去石头城、泉水小镇、红土城、塞南克修道院、瓦朗索尔薰衣草田、圣十字湖，交通就不只是“机场到市区”这么简单了。
 
-[法国旅行入门攻略：申根旅游签证申请指南](https://aolitravel.com/france-travel/france-visa-information/)
+这些地方最美，也最容易让人累。公共交通班次少，站点和景点之间还有距离；自驾要考虑停车、路线、花期、人流和当天体力；包车则可以把接机、行李、游览和住宿衔接在一起。
 
-[法国文化小课堂｜礼仪、语言、饮食文化、餐馆用餐指南](https://aolitravel.com/france-travel/french-culture-101-etiquette-language-culinary-dining/)
+如果你只有 3–4 天，可以考虑 [南法精华4天路线](https://aolitravel.com/tours/south-france-4-days-tour-marseille-provence-nice-monaco/)；如果你有 6–7 天，更适合看 [南法7天6夜全景路线](https://aolitravel.com/tours/visit-south-france-top-7-days-tour/)。
 
-[🇫🇷法兰西十二时辰：每个月最该去的绝美秘境，错过等一年！](https://aolitravel.com/france-travel/explore-france-12-best-monthly-destinations/)
+如果你想自己先做功课，可以看：
 
-[法国滑雪🇫🇷入门全攻略｜我的多年经验总结](https://aolitravel.com/france-travel/france-ski-guide/)
+- [南法完整旅行攻略](https://aolitravel.com/south-of-france/south-of-france-travel-guide/)
+- [南法Top15最美小镇](https://aolitravel.com/south-of-france/visit-south-france-top-15-villages/)
+- [普罗旺斯薰衣草花期与路线](https://aolitravel.com/south-of-france/visit-france-provence-lavender-season/)
+- [圣十字湖和薰衣草路线](https://aolitravel.com/south-of-france/visit-lavande-champ-saint-croix-verdon-moustiers-sainte-marie/)
 
-[法国TOP20滑雪胜地全攻略 ❄️｜探秘阿尔卑斯顶级滑雪天堂](https://aolitravel.com/france-travel/french-top-20-ski-resort-guide/)
+---
 
-[法国打折村「不完全指南」带你省钱买大牌！](https://aolitravel.com/france-travel/france-outlet-shopping-mall-village-guide/)
+## 7. 常见问题
 
-[法国看球之旅⚽｜探秘法甲六大豪门](https://aolitravel.com/france-travel/france-football-league-1-visit-top-6-clubs/)
+<details>
+  <summary>马赛机场到市区最方便的方式是什么？</summary>
+  <p>通常是机场大巴 L91，直达马赛圣夏尔火车站。白天轻装、酒店靠近车站或地铁时很方便；如果行李多、酒店在老港或公寓位置不方便，出租车或接送会更省事。</p>
+</details>
 
-[波尔多旅游指南｜探索葡萄酒之城15个宝藏景点](https://aolitravel.com/france-travel/visit-bordeaux-top-15-things-to-do/)
+<details>
+  <summary>马赛机场到艾克斯怎么走？</summary>
+  <p>可以坐机场大巴 L40，直达艾克斯-普罗旺斯。住艾克斯、准备去吕贝隆小镇或普罗旺斯乡村路线的人，这个方向通常比先进马赛更顺。</p>
+</details>
 
-[里昂必打卡18大景点：从古迹到艺术，玩转法国“光之城”！](https://aolitravel.com/france-travel/visit-lyon-top-18-things-to-do/)
+<details>
+  <summary>马赛机场有火车站吗？</summary>
+  <p>航站楼旁边没有直接的 SNCF 火车站。需要先乘接驳去 Vitrolles Aéroport Marseille Provence 火车站，再转区域列车。赶火车时建议预留足够时间。</p>
+</details>
 
-[南法 vs 南意：地中海风情的双面魅力，你Pick哪一边？](https://aolitravel.com/france-travel/south-france-south-italy-trip-comparison/)
+<details>
+  <summary>马赛机场适合作为南法旅行起点吗？</summary>
+  <p>非常适合，尤其是马赛、艾克斯、阿维尼翁、阿尔勒、吕贝隆小镇、薰衣草线和普罗旺斯路线。如果重点是尼斯、摩纳哥和蔚蓝海岸，也可以考虑尼斯机场。</p>
+</details>
 
-[玫瑰之城「图卢兹」解锁浪漫与科技的完美之旅](https://aolitravel.com/france-travel/visit-toulouse-top-12-things-to-do/)
+<details>
+  <summary>马赛机场落地后可以直接去普罗旺斯小镇吗？</summary>
+  <p>可以，但不建议临时决定。小镇公共交通不如城市直观，带行李会更麻烦。家庭或朋友小团可以把机场接送和当天小镇路线一起规划。</p>
+</details>
 
-[欧洲之心「斯特拉斯堡」Top12景点深度游攻略](https://aolitravel.com/france-travel/visit-strasbourg-top-12-things-to-do/)
+<details>
+  <summary>马赛机场接机适合哪些人？</summary>
+  <p>适合带老人孩子、行李多、晚班机抵达、多人同行，或者落地后直接去普罗旺斯、阿维尼翁、阿尔勒、南法多日路线的旅客。</p>
+</details>
 
-[最美小镇「科尔马」一日游攻略｜仿佛误入童话世界✨](https://aolitravel.com/france-travel/visit-colmar-1-day-trip/)
+---
 
-[「格勒诺布尔」终极攻略｜8大必玩景点&美食、远足、滑雪](https://aolitravel.com/france-travel/visit-grenoble-guide/)
+## 8. 总结和相关攻略
 
-[南特必玩12大景点全攻略｜教你玩转法国最潮文艺之城！](https://aolitravel.com/france-travel/visit-nantes-top-12-things-to-do/)
+马赛机场是进入普罗旺斯很实用的旅行起点。去马赛市区和艾克斯，大巴已经足够方便；去阿维尼翁、阿尔勒和其他城市，可以结合火车；如果你想落地后直接开始南法路线，尤其是普罗旺斯小镇和薰衣草线，提前规划接送和行程，会让第一天轻松很多。
 
-[3天玩转法国布列塔尼！圣马洛、迪纳尔、迪南、圣米歇尔山全攻略](https://aolitravel.com/france-travel/visit-brittany-bretagne-saint-malo-dinard-dinan-mont-saint-michel/)
+南法旅行的第一天，不应该被找车、换乘和拖行李消耗掉。来之前就把机场交通安排清楚，那么你后面的马赛、艾克斯、阿维尼翁、小镇、海岸和薰衣草行程，才会真正从容起来。
 
-[雷恩旅游全攻略｜布列塔尼的心脏，历史与活力的魅力之城！](https://aolitravel.com/france-travel/visit-rennes-top-12-things-to-do/)
+{% include figure.liquid loading="eager" path="assets/img/53marseille-provence-airport-guide/marseille-provence-airport-guide-9.webp" title="aolitravel.com-marseille-provence-airport-guide" class="img-fluid rounded z-depth-1 watermarked" alt="马赛机场开启南法旅行"%}
 
-[🇫🇷里尔必玩15大景点全攻略！一次玩透，轻松有趣！](https://aolitravel.com/france-travel/visit-lille-top-15-things-to-do/)
+<p>
+  <a class="btn btn-lg text-white" style="background-color: #6f42c1; border-radius: 0.75rem;" href="/custom-travel/">让我帮你判断南法路线</a>
+  <a class="btn btn-lg btn-outline-secondary" href="/south-of-france/">继续看南法旅游攻略</a>
+</p>
 
-[诺曼底之心「鲁昂」城市旅游深度指南｜距离巴黎1.5小时](https://aolitravel.com/france-travel/visit-rouen-city-guide/)
+如果你还在做南法功课，可以继续看这些页面：
 
-[🌿 蒙彼利埃2日生态旅行攻略：徒步、海鲜、运河骑行](https://aolitravel.com/france-travel/visit-montpellier-city-guide/)
+- [南法旅游攻略中心](https://aolitravel.com/south-of-france/)
+- [南法完整旅行攻略](https://aolitravel.com/south-of-france/south-of-france-travel-guide/)
+- [马赛住宿区域推荐](https://aolitravel.com/south-of-france/marseille-quartier-hotel-recommandation/)
+- [马赛必玩景点攻略](https://aolitravel.com/south-of-france/visit-marseille-top15-things-to-do/)
+- [马赛一日游路线](https://aolitravel.com/south-of-france/marseille-1day-trip/)
+- [阿维尼翁旅行攻略](https://aolitravel.com/south-of-france/visit-avignon-city-guide-top-15-things-to-do/)
+- [阿尔勒旅行攻略](https://aolitravel.com/south-of-france/visit-arles-city-guide/)
+- [巴黎机场交通攻略](https://aolitravel.com/paris/public-transport-paris-airports/)
 
-[🍾香槟之城「兰斯」终极旅行指南](https://aolitravel.com/france-travel/visit-reims-city-guide/)
+官方实时信息建议看：
 
-[法国勃艮第童话小城「第戎」的一日旅游攻略](https://aolitravel.com/france-travel/visit-dijon-city-guide/)
+- [马赛普罗旺斯机场官网](https://www.marseille-airport.com/)
+- [SNCF Connect 法国火车](https://www.sncf-connect.com/)
 
-[探访阿尔卑斯的威尼斯｜我的「安纳西」独家旅游攻略](https://aolitravel.com/france-travel/visit-alps-annecy-city-guide/)
-
-[法国世界文化遗产「圣米歇尔山」最全旅行指南！](https://aolitravel.com/france-travel/visit-saint-michel-mount-normandie/)
-
-[法国美丽岛「科西嘉」全攻略｜这个地中海神仙小岛也太绝了](https://aolitravel.com/france-travel/visit-france-corse-guide/)
-
-[穿越时光的城堡之旅｜法国卢瓦尔河谷最全游览指南](https://aolitravel.com/france-travel/visit-castles-the-loire-france/)
-
-[比利牛斯山深藏的安道尔🇦🇩小到离谱，好玩到炸](https://aolitravel.com/france-travel/visit-pyrenees-andorra-guide/)
-
-[🇫🇷法国最值得打卡的世界文化遗产TOP15｜一生必去清单](https://aolitravel.com/france-travel/france-15-unesco-historic-cultural-sites/)
-
-[🍷法国葡萄酒旅行攻略｜六大产区，一文看懂！](https://aolitravel.com/france-travel/france-wine-region-travel-guide/)
-
-[去法国看网球？法网、巴黎大师赛、蒙特卡洛大师赛全攻略](https://aolitravel.com/france-travel/roland-garros-paris-masters-monte-carlo-tennis-tournament-guide/)
-
-**巴黎**
-
-[巴黎住宿安全指南｜区域推荐与避坑攻略](https://aolitravel.com/paris/paris-map-arr/)
-
-[巴黎必去景点Top20｜一文带你玩转浪漫之都](https://aolitravel.com/paris/paris-top-20/)
-
-[2025年最新巴黎机场交通攻略](https://aolitravel.com/paris/public-transport-paris-airports/)
-
-[巴黎四天三夜经典行程推荐](https://aolitravel.com/paris/paris-4days-trip/)
-
-[最实用的巴黎公共交通指南｜一文看懂怎么选！](https://aolitravel.com/paris/paris-public-transportation/)
-
-[巴黎埃菲尔铁塔完整指南|购票拍照、登塔全攻略](https://aolitravel.com/paris/eiffel-tower-paris-guide/)
-
-[巴黎圣母院游记攻略｜历史建筑与周边旅行指南](https://aolitravel.com/paris/notre-dame-paris-guide/)
-
-[法国必打卡｜巴黎歌剧院超详细图文全攻略](https://aolitravel.com/paris/paris-garnier-opera-guide/)
-
-[巴黎中餐馆卷王争霸赛（上篇）｜干饭人速存！](https://aolitravel.com/paris/paris-top-50-chinese-restaurants-1/)
-
-[巴黎中餐馆卷王争霸赛（下篇）｜干饭人速存！](https://aolitravel.com/paris/paris-top-50-chinese-restaurants-2/)
-
-[巴黎戴高乐机场最全直飞航班&交通攻略](https://aolitravel.com/paris/paris-airport-flights-and-pickup/)
-
-[巴黎迪士尼乐园游玩攻略｜玩转巴黎的魔法世界！](https://aolitravel.com/paris/visit-disneyland-paris/)
-
-[必看！凡尔赛宫游览全攻略｜半天&一天行程完美规划](https://aolitravel.com/paris/visit-versailles/)
-
-[枫丹白露宫一日游攻略：解锁皇室秘境！](https://aolitravel.com/paris/visit-fontainebleau/)
-
-[巴黎周边必去的十个绝美小镇｜1小时交通圈](https://aolitravel.com/paris/paris-nearby-10-top-villages/)
-
-**南法**
-
-[最新普罗旺斯薰衣草花期预报💜｜最佳观赏时间与路线](https://aolitravel.com/south-of-france/visit-france-provence-lavender-season/)
-
-[🌟南法7天怎么玩？收下这份保姆级攻略！](https://aolitravel.com/south-of-france/visit-south-france-7-day-trip/)
-
-[南法Top15最美宝藏小镇推荐!](https://aolitravel.com/south-of-france/visit-south-france-top-15-villages/)
-
-[法国马赛-普罗旺斯机场最全指南（含接机服务推荐）！](https://aolitravel.com/south-of-france/marseille-provence-airport-guide/)
-
-[🔥巴塞罗那到南法终极交通指南｜私藏路线大公开！](https://aolitravel.com/south-of-france/from-barcelona-to-marseille-guide/)
-
-[南法马赛一日游攻略｜本地向导经典路线推荐](https://aolitravel.com/south-of-france/marseille-1day-trip/)
-
-[马赛城市住宿指南｜帮你轻松规划马赛之旅](https://aolitravel.com/south-of-france/marseille-quartier-hotel-recommandation/)
-
-[马赛必打卡！Top15景点全攻略｜本地向导推荐指南](https://aolitravel.com/south-of-france/visit-marseille-top15-things-to-do/)
-
-[南法圣十字湖和看薰衣草最美攻略｜详细停车地点分享](https://aolitravel.com/south-of-france/visit-lavande-champ-saint-croix-verdon-moustiers-sainte-marie/#%EF%B8%8F-%E7%9C%8B%E6%B9%96%E6%94%BB%E7%95%A5)
-
-[阿尔勒城市旅行指南｜探索普罗旺斯的魅力](https://aolitravel.com/south-of-france/visit-arles-city-guide/)
-
-[「阿维尼翁旅行攻略」解锁教皇之城 🏰 Top15景点！](https://aolitravel.com/south-of-france/visit-avignon-city-guide-top-15-things-to-do/)
-
-[南法马赛「城市沙滩」不完全指南](https://aolitravel.com/south-of-france/marseille-top-beach-guide/)
-
-[马赛法餐指南｜10家本地人也爱的高分餐厅推荐](https://aolitravel.com/south-of-france/10-marseille-restaurants-recommandation/)
-
-[南法粉色盐湖+中世纪古镇艾格莫尔怎么玩？](https://aolitravel.com/south-of-france/visit-salin-aigues-mortes-camargue-travel-guide/)
-
-[尼斯最强旅行指南｜Top 18必游景点全攻略](https://aolitravel.com/south-of-france/nice-top-18-things-to-do/)
-
-[尼斯住宿全攻略｜7大街区带你解锁南法度假魅力 🌊](https://aolitravel.com/south-of-france/where-to-stay-in-nice-top7-quariters-hotel-recommandation/)
-
-[蔚蓝海岸尼斯、摩纳哥、戛纳最强三日游攻略](https://aolitravel.com/south-of-france/nice-eze-monaco-menton-cannes-3days-trip/)
-
-[南法宝藏城市「土伦」旅游全攻略](https://aolitravel.com/south-of-france/visit-toulon-city-guide/)
-
-[蔚蓝海岸艺术之旅｜尼斯及周边12大博物馆全攻略](https://aolitravel.com/south-of-france/france-cote-dazur-nice-art-trip/)
-
-**瑞士**
-
-[瑞士滑雪终极攻略｜13大顶级滑雪胜地推荐！](https://aolitravel.com/switzerland/swiss-ski-resorts-guide/)
-
-[🇨🇭日内瓦最全旅行攻略｜16大必去景点一次玩遍](https://aolitravel.com/switzerland/geneva-top-16-attractions-guide/)
-
-[从日内瓦出发的一日慢行｜8个推荐的湖畔小镇](https://aolitravel.com/switzerland/geneva-lake-town-guide/)
-
-[日内瓦6大街区推荐与住宿指南](https://aolitravel.com/switzerland/geneva-6-neighborhoods-guide-accommodation/)
-
-[苏黎世攻略｜16个必去景点带你玩转瑞士之心](https://aolitravel.com/switzerland/explore-zurich-16-must-see/)
-
-[卢塞恩两日游攻略｜玩遍湖光山色与童话小镇](https://aolitravel.com/switzerland/switzerland-lucerne-two-days-tour/)
-
-[伯尔尼一日游攻略｜深度体验历史文化、自然风光](https://aolitravel.com/switzerland/switzerland-bern-one-day-tour/)
-
-[卢加诺最全攻略｜瑞士南部最具意式风情的城市](https://aolitravel.com/switzerland/visit-lugano-top-10-things-to-do/)
-
-**Blog**
-
-[更多关于我的生活记录和感受](https://aolitravel.com/blog/)
+<div class="post-update-note" style="font-size: 0.88rem; color: #777; border-top: 1px solid #eee; margin-top: 2rem; padding-top: 0.75rem;">
+  <p style="margin-bottom: 0.15rem;"><strong>内容更新说明</strong></p>
+  <p style="margin-bottom: 0;">本文重新整理了马赛机场到市区、艾克斯、普罗旺斯小镇和南法多日路线的交通信息，并对容易变化的航班、票价和班次统一做了校对，最后对部分经常变动的交通信息增加了出发前以官方实时信息为准的提示。</p>
+</div>
