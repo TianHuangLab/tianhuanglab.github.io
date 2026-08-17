@@ -3,8 +3,8 @@ layout: post
 title: 我的地道里昂美食推荐（法餐篇）｜推荐餐厅和甜点
 date: 2026-01-09 20:00:00
 description: 来里昂必尝地道法餐？跟着我的 Bouchon 美食指南，提前为你的里昂之旅规划美食安排！
-tags: 里昂
-categories: 美食与餐厅推荐 自驾旅行
+tags: [法国, 里昂, 美食餐厅, 当地经验]
+categories: [美食生活]
 thumbnail: assets/img/108lyon-restaurants/lyon-restaurant-0.webp
 published: true
 toc:

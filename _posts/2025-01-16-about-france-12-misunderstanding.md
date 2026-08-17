@@ -3,8 +3,8 @@ layout: post
 title: 法国人真的每天都啃法棍？揭秘12个关于法国生活的迷思，你信了吗？🇫🇷
 date: 2025-01-16 10:00:00
 description: 从法棍到法式优雅，这篇文章将带你轻松解锁法国生活中那些让人又爱又困惑的12个有趣真相，刷新你对浪漫法国的印象！✨🥖
-tags: 法国
-categories: 文化与历史
+tags: [法国, 旅行观点, 避坑建议, 当地经验]
+categories: [旅行经验]
 thumbnail: assets/img/14-french-12-misunderstanding/aolitravel.com-14-french-12-misunderstanding-0.jpg
 ---
 

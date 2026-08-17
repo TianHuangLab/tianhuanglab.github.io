@@ -3,8 +3,8 @@ layout: post
 title: 旅行小记｜阳光海滩与复古老爷车的浪漫邂逅
 date: 2025-05-10 20:00:00
 description: 在阳光灿烂的南法小镇，偶遇一场复古老爷车展，在海风与街景之间穿越时光，收获了一段意外又迷人的旅程！
-tags: 法国 马赛 普罗旺斯 
-categories: 文化与历史 自然风光 节庆与活动 自驾旅行
+tags: [法国, 南法, 马赛, 普罗旺斯, 海岸旅行, 奥利笔记]
+categories: [旅行经验]
 thumbnail: assets/img/58vintage-cars-1day-trip/marseille-cassis-vintage-cars-1day-trip-16.jpeg
 published: true
 ---

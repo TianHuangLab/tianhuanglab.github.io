@@ -3,8 +3,8 @@ layout: post
 title: 第一次去蔚蓝海岸住哪里最合适？不租车的话，尼斯、戛纳、昂蒂布、芒通怎么选
 date: 2026-04-16 20:00:00
 description: 来蔚蓝海岸旅游，规划行程前，你真正该先想清楚的应该是base在哪里，是住在尼斯、戛纳、昂蒂布还是芒通～
-tags: 法国 尼斯 蔚蓝海岸
-categories: 文化历史 自然风光 自驾旅行
+tags: [法国, 南法, 尼斯, 蔚蓝海岸, 住宿选择, 交通攻略, 路线规划]
+categories: [交通住宿]
 thumbnail: assets/img/126cote-azur-base/cote-azur-base-1.png
 published: true
 toc:

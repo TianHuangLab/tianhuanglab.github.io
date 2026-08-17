@@ -3,8 +3,8 @@ layout: post
 title: 尼斯历史与旅游攻略｜从古希腊商港到蔚蓝海岸的“魅力明星城市”
 date: 2026-01-18 20:00:00
 description: 尼斯从古希腊商港发展到今天的地中海度假胜地，历史与风情交织，让它成为南法旅游的必去城市。
-tags: 法国 尼斯 蔚蓝海岸
-categories: 文化历史 自然风光
+tags: [法国, 南法, 尼斯, 蔚蓝海岸, 艺术与人文]
+categories: [文化艺术]
 thumbnail: assets/img/110nice-history/nice-0.webp
 published: true
 toc:

@@ -3,8 +3,8 @@ layout: post
 title: 旅行小记｜南法昂蒂布一日游，带你走进莫奈画里的南法海岸～
 date: 2025-08-02 20:00:00
 description: 一日玩转南法小众海边小镇Antibes｜超美海滨步道＋莫奈同款海景＋老城美食路线全攻略！
-tags: 法国 尼斯 蔚蓝海岸
-categories: 文化与历史
+tags: [法国, 南法, 尼斯, 蔚蓝海岸, 昂蒂布, 一日游, 奥利笔记]
+categories: [旅行经验]
 thumbnail: assets/img/76visit-antibes/visit-antibes-daytrip-0.webp
 published: true
 ---

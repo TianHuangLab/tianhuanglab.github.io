@@ -3,8 +3,8 @@ layout: post
 title: 欧洲最美阿尔卑斯山区法国🇫🇷、意大利🇮🇹、瑞士🇨🇭三国穿越之旅！
 date: 2023-08-22 20:00:00
 description: 终于踏上期待已久的阿尔卑斯穿越之旅，横跨法国、意大利、瑞士三国，用脚步丈量欧洲最壮美的山川风光⛰️，感受欧洲绝美自然与不同文化的完美融合！ 
-tags: 法国 瑞士 意大利 阿尔卑斯 
-categories: 自然风光 自驾旅行
+tags: [法国, 瑞士, 意大利, 阿尔卑斯, 多日游, 包车旅行, 旅行观点]
+categories: [路线规划]
 thumbnail: assets/img/post3-14days-alps-france-switzerland-italy-trip/14days-alps-france-switzerland-italy-trip-0.jpg
 map: true
 published: true

@@ -3,8 +3,8 @@ layout: post
 title: 旅行小记｜再次探访✨马赛守护圣母大教堂：一场文化与历史的沉浸之旅
 date: 2025-01-26 20:00:00
 description: 马赛守护圣母大教堂⛪️，高高站在山顶俯瞰整座城市，不仅颜值在线，还藏着满满的历史故事，是你来马赛一定要打卡的地方！
-tags: 法国 马赛 普罗旺斯
-categories: 文化与历史 自然风光
+tags: [法国, 南法, 马赛, 普罗旺斯, 艺术与人文, 摄影风景, 奥利笔记]
+categories: [文化艺术]
 thumbnail: assets/img/11marseille-1day-trip/11marseille-1day-trip-5.jpg
 ---
 {% include figure.liquid loading="eager" path="assets/img/11marseille-1day-trip/11marseille-1day-trip-1b.jpg" title="marseille-trip-aolitravel.com" class="img-fluid rounded z-depth-1" alt="马赛守护圣母大教堂：一场文化与历史的沉浸之旅marseille trip"%}

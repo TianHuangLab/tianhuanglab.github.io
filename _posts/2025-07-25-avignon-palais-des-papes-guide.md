@@ -3,8 +3,8 @@ layout: post
 title: 旅行小记｜再游阿维尼翁教皇宫：穿越信仰与权力的中世纪权力迷宫
 date: 2025-07-25 20:00:00
 description: 不只是打卡！跟我逛一圈阿维尼翁教皇宫，顺便搞懂中世纪宗教和世俗权力是怎么“卷”起来的～
-tags: 法国 阿维尼翁 普罗旺斯 
-categories: 文化与历史 自驾旅行 节庆与活动
+tags: [法国, 南法, 阿维尼翁, 普罗旺斯, 艺术与人文, 奥利笔记]
+categories: [文化艺术]
 thumbnail: assets/img/75avignon-palais-des-papes/avignon-palais-des-papes-guide-11.webp
 published: true
 ---

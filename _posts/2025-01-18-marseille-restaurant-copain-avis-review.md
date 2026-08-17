@@ -3,8 +3,8 @@ layout: post
 title: 美食地图系列｜探索马赛 Copains Restaurant 的四道式精致晚餐，味蕾的完美之旅！
 date: 2025-01-18 20:00:00
 description: 今天带你看看马赛的宝藏餐厅——Copains Restaurant！从新鲜的食材到口感搭配的奇思妙想，每一道菜都像艺术品一样让人惊喜😍。（用餐预算50欧元左右）
-tags: 法国 马赛 普罗旺斯
-categories: 美食与餐厅推荐
+tags: [法国, 南法, 马赛, 普罗旺斯, 美食餐厅, 奥利笔记]
+categories: [美食生活]
 thumbnail: assets/img/posts:2restaurant-copain-marseille-avis/restaurant-copain-marseille-avis-0.jpg
 ---
 

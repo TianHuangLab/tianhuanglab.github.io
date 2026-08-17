@@ -3,8 +3,8 @@ layout: post
 title: 旅行小记｜尼斯海滨最经典散步路线推荐：从马塞纳广场走到海滨大道，重新认识这座南法之城
 date: 2025-07-12 20:00:00
 description: 从马塞纳广场到英国人漫步大道，走一条经典又值得反复重走的海滨路线！沿着蔚蓝海岸，感受阳光与历史交织的南法魅力！
-tags: 法国 尼斯 蔚蓝海岸 
-categories: 文化与历史 自然风光
+tags: [法国, 南法, 尼斯, 蔚蓝海岸, 海岸旅行, 摄影风景, 奥利笔记]
+categories: [旅行经验]
 thumbnail: assets/img/74-nice-promenade-des-anglais/nice-promenade-des-anglais-itineraire-balade-1.webp
 published: true
 ---

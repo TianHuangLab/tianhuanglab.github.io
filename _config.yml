@@ -293,8 +293,22 @@ jekyll-archives:
     tag: "/blog/tag/:name/"
     category: "/blog/category/:name/"
 
-display_tags: ["巴黎", "马赛", "普罗旺斯", "尼斯", "蔚蓝海岸", "阿维尼翁", "格勒诺布尔", "阿尔卑斯", "法国", "瑞士"] # these tags will be displayed on the front page of your blog
-display_categories: ["文化与历史", "美食与餐厅推荐", "自然风光", "自驾旅行", "节庆与活动"] # these categories will be displayed on the front page of your blog
+display_tags: ["南法", "普罗旺斯", "蔚蓝海岸", "马赛", "尼斯", "法国"] # highlighted tags displayed on the front page of your blog
+display_categories: ["路线规划", "旅行经验", "交通住宿", "美食生活"] # highlighted categories displayed on the front page of your blog
+
+blog_tag_groups:
+  - name: 按地区看
+    items: ["法国", "南法", "巴黎", "马赛", "尼斯", "普罗旺斯", "蔚蓝海岸", "阿维尼翁", "艾克斯普罗旺斯", "摩纳哥", "埃兹", "昂蒂布", "戛纳", "芒通", "格勒诺布尔", "里昂", "阿尔卑斯", "卢瓦尔河谷", "诺曼底", "布列塔尼", "波尔多", "科西嘉", "瑞士", "西班牙", "意大利"]
+  - name: 按需求看
+    items: ["路线规划", "一日游", "多日游", "交通攻略", "机场交通", "住宿选择", "包车旅行", "定制旅行", "亲子旅行", "老人友好"]
+  - name: 按兴趣看
+    items: ["艺术与人文", "美食餐厅", "葡萄酒旅行", "徒步自然", "摄影风景", "小镇旅行", "海岸旅行", "季节玩法"]
+  - name: 奥利笔记
+    items: ["奥利笔记", "当地经验", "带团经验", "避坑建议", "旅行观点"]
+
+blog_category_groups:
+  - name: 内容类型
+    items: ["路线规划", "交通住宿", "旅行经验", "美食生活", "文化艺术", "自然户外"]
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar

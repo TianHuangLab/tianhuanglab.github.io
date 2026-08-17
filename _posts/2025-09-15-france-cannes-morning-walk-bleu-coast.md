@@ -3,8 +3,8 @@ layout: post
 title: 旅行小记｜戛纳清晨散步，探索不只有电影节的法国蔚蓝海岸小城
 date: 2025-09-15 20:00:00
 description: 早起的戛纳才最美——远离红毯和游客，我沿着海岸散步，看到了宁静的沙滩和地道的生活气息。
-tags: 法国 戛纳 蔚蓝海岸
-categories: 文化与历史 自然风光
+tags: [法国, 南法, 戛纳, 蔚蓝海岸, 海岸旅行, 摄影风景, 奥利笔记]
+categories: [旅行经验]
 thumbnail: assets/img/81cannes-vue-mer/cannes-vue-mer-0.png
 published: true
 ---

@@ -3,8 +3,8 @@ layout: post
 title: 尼斯美食不完全指南｜推荐5家我喜欢的法餐餐厅，让你第一次来就不踩雷～
 date: 2025-12-17 20:00:00
 description: 第一次来尼斯，不想踩雷？我整理了尼斯老城、港口附近本地人最爱的餐厅，从隐藏小巷到游客区靠谱法餐，让你轻松探索地道尼斯美食。
-tags: 法国 尼斯 蔚蓝海岸 美食 餐厅推荐
-categories: 美食与餐厅推荐
+tags: [法国, 南法, 尼斯, 蔚蓝海岸, 美食餐厅, 当地经验]
+categories: [美食生活]
 thumbnail: assets/img/101nice-restaurants/nice-restaurant-0.webp
 published: true
 toc:

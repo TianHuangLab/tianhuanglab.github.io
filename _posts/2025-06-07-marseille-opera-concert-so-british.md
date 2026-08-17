@@ -3,8 +3,8 @@ layout: post
 title: 🎻初夏走进马赛歌剧院，体验一场“英伦风”的亲子音乐之旅！
 date: 2025-06-07 20:00:00
 description: 走进马赛歌剧院，一场英伦风情的亲子音乐会，让古典音乐悄悄住进了孩子和大人的心里🎶
-tags: 法国 马赛 普罗旺斯 
-categories: 文化与历史 节庆与活动
+tags: [法国, 南法, 马赛, 普罗旺斯, 艺术与人文, 亲子旅行, 当地经验]
+categories: [文化艺术]
 thumbnail: assets/img/69so-british/so-british-0.jpg
 published: true
 ---

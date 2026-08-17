@@ -3,8 +3,8 @@ layout: post
 title: 在南法住进Airelles庄园饭店，是一种什么体验？为什么我会强烈推荐
 date: 2026-02-19 20:00:00
 description: 如果你想在南法真正放松下来，而不是赶行程，那Airelles Château de la Messardière是那种住过一次就会反复想回去的地方！
-tags: 法国 蔚蓝海岸
-categories: 文化历史 自然风光 
+tags: [法国, 南法, 蔚蓝海岸, 住宿选择, 海岸旅行, 当地经验]
+categories: [旅行经验]
 thumbnail: assets/img/119saint-tropez-airelles/saint-tropez-airelles-0.webp
 published: true
 toc:

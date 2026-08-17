@@ -3,8 +3,8 @@ layout: post
 title: 法国阿尔比（Albi）旅游攻略：陪孩子比赛住了 6 天后，我发现这座红砖老城非常值得逛！
 date: 2026-04-28 20:00:00
 description: 因为陪孩子来参加国际象棋比赛，我在阿尔比待了一周；原本不太了解这座城，结果到了以后发现，这里不仅风景漂亮而且历史底蕴也很深厚～
-tags: 法国
-categories: 文化历史 自然风光 自驾旅行
+tags: [法国, 小镇旅行, 亲子旅行, 当地经验]
+categories: [旅行经验]
 thumbnail: assets/img/128albi/albi-0.webp
 published: true
 toc:

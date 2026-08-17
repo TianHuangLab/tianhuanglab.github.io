@@ -3,8 +3,8 @@ layout: post
 title: 美食地图系列｜南法普罗旺斯地区米其林一星餐馆 Dan B 摘星体验
 date: 2025-02-26 20:00:00
 description: 探访隐秘小乡村Ventabren里的米其林一星餐厅，体验创意法式料理，享受视觉与味觉盛宴！ 🍽✨
-tags: 法国 马赛 普罗旺斯
-categories: 美食与餐厅推荐
+tags: [法国, 南法, 马赛, 普罗旺斯, 美食餐厅, 当地经验]
+categories: [美食生活]
 thumbnail: assets/img/post7-dan-b-restaurant-michelin-1-star-review/south-france-dan-b-restaurant-michelin-1-star-review-3.webp
 published: true
 ---

@@ -3,8 +3,8 @@ layout: post
 title: 旅行小记｜在法国最美小镇卢尔马兰遇上艺术节，原来生活可以这么浪漫
 date: 2025-06-09 20:00:00
 description: 探访作家加缪挚爱的普罗旺斯小镇Lourmarin，漫步古堡、偶遇音乐节，在街头邂逅法式慢生活！
-tags: 法国 马赛 普罗旺斯 
-categories: 文化与历史 节庆与活动 美食与餐厅推荐 自然风光 自驾旅行
+tags: [法国, 南法, 马赛, 普罗旺斯, 小镇旅行, 艺术与人文, 奥利笔记]
+categories: [旅行经验]
 thumbnail: assets/img/70visit-lourmarin/visit-provence-lourmarin-0.webp
 published: true
 ---

@@ -3,8 +3,8 @@ layout: post
 title: 法国尼斯老港的绝美夕阳风景照！我的拍照机位和时间分享~
 date: 2025-11-15 20:00:00
 description: 站在尼斯城堡山俯瞰老港，夕阳洒在海面和游艇上，那一刻真是纯粹的震撼瞬间（awe moment），让人忍不住按下快门记录永恒。
-tags: 法国 尼斯 蔚蓝海岸 
-categories: 文化与历史 自然风光
+tags: [法国, 南法, 尼斯, 蔚蓝海岸, 摄影风景, 海岸旅行, 奥利笔记]
+categories: [自然户外]
 thumbnail: assets/img/97nice-old-port/2426.jpg
 published: true
 ---

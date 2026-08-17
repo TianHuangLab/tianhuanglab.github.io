@@ -3,8 +3,8 @@ layout: post
 title: 马赛：从古罗马到拿破仑的法国门户
 date: 2025-12-29 20:00:00
 description: 马赛，一座被两千多年历史反复塑造的地中海门户城市，一篇文章带你全面解读马赛的前世今生！
-tags: 马赛 普罗旺斯
-categories: 文化与历史 自然风光
+tags: [法国, 南法, 马赛, 普罗旺斯, 艺术与人文]
+categories: [文化艺术]
 thumbnail: assets/img/105marseille-history/marseille-history-0.webp
 published: true
 toc:

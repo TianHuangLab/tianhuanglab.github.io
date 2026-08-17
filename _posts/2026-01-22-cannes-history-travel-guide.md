@@ -3,8 +3,8 @@ layout: post
 title: 戛纳（坎城）历史与旅游全攻略｜从古代小城到世界电影之都
 date: 2026-01-22 12:00:00
 description: 带你快速了解戛纳从古代小城发展到今天度假胜地的历史，也顺便告诉你来戛纳旅游哪些地方最值得去，你不管是第一次来或重游，相信都会很实用～
-tags: 法国 戛纳 圣玛格丽特岛 法国修道院 戛纳电影节 蔚蓝海岸
-categories: 文化历史 自然风光
+tags: [法国, 南法, 戛纳, 蔚蓝海岸, 艺术与人文]
+categories: [文化艺术]
 thumbnail: assets/img/112cannes-history/cannes-0a.webp
 published: true
 toc:

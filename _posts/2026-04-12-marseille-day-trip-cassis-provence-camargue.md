@@ -3,8 +3,8 @@ layout: post
 title: 马赛出发一日游怎么选？卡西斯、普罗旺斯山城、卡马格，别再只按照片选了
 date: 2026-04-12 20:00:00
 description: 如果你想从马赛出发，只想用一天时间游览周边，我更建议你先选“这一天想怎么过”，再选目的地！
-tags: 法国 马赛 阿维尼翁 普罗旺斯
-categories: 文化历史 自然风光 自驾旅行
+tags: [法国, 南法, 马赛, 普罗旺斯, 一日游, 包车旅行, 当地经验]
+categories: [路线规划]
 thumbnail: assets/img/123from-marseille-one-day-trip/from-marseille-day-trip-3.webp
 published: true
 toc:

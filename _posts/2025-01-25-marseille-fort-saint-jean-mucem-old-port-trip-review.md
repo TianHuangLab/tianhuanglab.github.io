@@ -3,8 +3,8 @@ layout: post
 title: 马赛必打卡！从圣让堡到地中海文明博物馆（MuCEM），探寻历史与现代的精彩碰撞
 date: 2025-01-25 20:00:00
 description: 感悟！马赛这座城市，将古老的历史与现代艺术无缝连接，每一步都仿佛走进了时间与文化的交响曲，这种古老与现代交织的魅力让人不禁深思。
-tags: 法国 马赛 普罗旺斯
-categories: 文化与历史 自然风光
+tags: [法国, 南法, 马赛, 普罗旺斯, 艺术与人文, 奥利笔记]
+categories: [文化艺术]
 thumbnail: assets/img/post4-marseille-fort-saint-jean-mucem-old-port-vieux-port/aolitravel.com-marseille-fort-saint-jean-mucem-old-port-11.png
 ---
 

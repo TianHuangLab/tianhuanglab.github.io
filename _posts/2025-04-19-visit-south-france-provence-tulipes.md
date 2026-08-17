@@ -3,8 +3,8 @@ layout: post
 title: 旅行小记 | 南法新玩法之探访普罗旺斯郁金香花田（不用去荷兰也能赏郁金香）！
 date: 2025-04-19 20:00:00
 description: 四月去普罗旺斯追郁金香吧！不用飞荷兰，阿维尼翁近郊也有超梦幻花海，拍照、美景、历史一网打尽🌷📸！
-tags: 法国 马赛 普罗旺斯 阿维尼翁
-categories: 节庆与活动 自然风光 自驾旅行
+tags: [法国, 南法, 马赛, 普罗旺斯, 阿维尼翁, 季节玩法, 摄影风景]
+categories: [自然户外]
 thumbnail: assets/img/66visit-provence-tulipes/visit-provence-tulipes-8.webp
 published: true
 ---

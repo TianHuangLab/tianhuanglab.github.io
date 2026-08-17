@@ -3,8 +3,8 @@ layout: post
 title: 为什么瑞士🇨🇭这么富？从巧克力、手表到银行的秘密
 date: 2025-12-18 20:00:00
 description: 从我多次往返瑞士的亲身观察出发，这篇文章用简单的方式，聊清楚这个低调国家为什么能长期成为世界上最富有的国家之一。
-tags: 瑞士
-categories: 文化与历史
+tags: [瑞士, 旅行观点, 艺术与人文]
+categories: [文化艺术]
 thumbnail: assets/img/102why-swiss-is-rich/switzerland-economy-1.webp
 published: true
 toc:

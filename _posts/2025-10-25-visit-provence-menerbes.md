@@ -3,8 +3,8 @@ layout: post
 title: 旅行小记｜游览南法普罗旺斯小镇 Ménerbes：一场慢悠悠的闲暇时光
 date: 2025-10-25 20:00:00
 description: 除了大家都熟知的普罗旺斯小镇，原来还有这么美的小众乡村，快来跟我一起探索吧！
-tags: 法国 普罗旺斯
-categories: 文化与历史 自然风光 自驾旅行
+tags: [法国, 南法, 普罗旺斯, 小镇旅行, 奥利笔记]
+categories: [旅行经验]
 thumbnail: assets/img/88menerbes/menerbes-2.jpg
 published: true
 ---

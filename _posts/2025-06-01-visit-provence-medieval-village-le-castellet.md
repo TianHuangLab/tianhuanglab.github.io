@@ -3,8 +3,8 @@ layout: post
 title: 旅行小记｜普罗旺斯秘境之探访中世纪葡萄酒小镇Le Castellet
 date: 2025-06-01 20:00:00
 description: 探秘南法宝藏小镇！葡萄酒香中的石头城，F1赛道旁的时光隧道，普罗旺斯最值得一去的小众目的地👉
-tags: 法国 马赛 普罗旺斯 
-categories: 文化与历史 自然风光 自驾旅行
+tags: [法国, 南法, 马赛, 普罗旺斯, 小镇旅行, 葡萄酒旅行, 奥利笔记]
+categories: [文化艺术]
 thumbnail: assets/img/62provence-le-castellet/aolitravel.com-le-castellet-0.jpeg
 published: true
 ---

@@ -3,8 +3,8 @@ layout: post
 title: 我陪女儿在法国农场骑小马记🐴 超治愈体验！
 date: 2025-03-12 20:00:00
 description: 学校出游日组织骑小马活动，我陪女儿参加，度过非常治愈系的一天！
-tags: 法国 马赛 普罗旺斯
-categories: 自然风光 节庆与活动
+tags: [法国, 南法, 马赛, 普罗旺斯, 亲子旅行, 当地经验]
+categories: [旅行经验]
 thumbnail: assets/img/38riding-a-pony-on-a-french-farm/riding-a-pony-on-a-french-farm-0.webp
 published: true
 ---

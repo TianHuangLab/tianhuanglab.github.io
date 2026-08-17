@@ -3,8 +3,8 @@ layout: post
 title: 美食地图系列｜马赛12家法餐厅推荐：本地人私藏的美味餐厅，游客必打卡！
 date: 2025-07-02 20:00:00
 description: 探索马赛最值得一试的12家我私藏的法餐厅，从屋顶美景到海港风情，美食与风味并存，是你打卡马赛美食地图的不二指南！
-tags: 法国 马赛 普罗旺斯 
-categories: 美食与餐厅推荐
+tags: [法国, 南法, 马赛, 普罗旺斯, 美食餐厅, 当地经验]
+categories: [美食生活]
 thumbnail: assets/img/73marseille-top-french-restaurant/marseille-top-french-restaurant-0.jpg
 published: true
 ---

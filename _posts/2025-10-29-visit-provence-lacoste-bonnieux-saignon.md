@@ -3,8 +3,8 @@ layout: post
 title: 普罗旺斯三小镇一日游路线推荐：Lacoste、Bonnieux、Saignon，一天感受吕贝隆山区的魅力
 date: 2025-10-29 20:00:00
 description: 如果你也想体验普罗旺斯一日慢游，避开人挤人的景点，这条小众路线真的很值得收藏~
-tags: 法国 普罗旺斯
-categories: 文化与历史 自然风光 自驾旅行
+tags: [法国, 南法, 普罗旺斯, 一日游, 小镇旅行, 当地经验]
+categories: [路线规划]
 thumbnail: assets/img/89lacoste-bonnieux-saignon/lacoste-bonnieux-saignon-4.jpg
 published: true
 pretty_table: true

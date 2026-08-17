@@ -3,8 +3,8 @@ layout: post
 title: 在马赛老港，我遇到了一组从美国来的华人家庭——他们的旅行方式，值得很多人参考
 date: 2026-03-25 20:00:00
 description: 不跟团、不完全自助——越来越多人开始用"第三种方式"玩南法。
-tags: 法国 马赛 尼斯 阿维尼翁 蔚蓝海岸 普罗旺斯
-categories: 文化历史 自然风光 自驾旅行
+tags: [法国, 南法, 马赛, 尼斯, 阿维尼翁, 普罗旺斯, 蔚蓝海岸, 包车旅行, 带团经验]
+categories: [旅行经验]
 thumbnail: assets/img/122provence-private-tour/provence-private-tour-1.webp
 published: true
 toc:
