@@ -5,7 +5,7 @@ permalink: /spain/
 description: 邂逅西班牙风情，漫游伊比利亚半岛阳光、艺术与海岸之间
 nav: false
 nav_order: 5
-display_categories: [加泰罗尼亚与东北, 马德里与中部, 安达卢西亚与南部, 北部西班牙, 西班牙海岛]
+display_categories: [西班牙全境与路线, 加泰罗尼亚与东北, 马德里与中部, 安达卢西亚与南部, 北部西班牙, 西班牙海岛]
 horizontal: false
 ---
 
