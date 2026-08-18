@@ -599,6 +599,7 @@ footer.sticky-bottom {
 }
 
 .blog-filter-chip {
+  background-color: var(--global-card-bg-color);
   border: 1px solid var(--global-divider-color);
   border-radius: 999px;
   color: var(--global-text-color);
@@ -606,7 +607,9 @@ footer.sticky-bottom {
   align-items: center;
   gap: 0.35rem;
   line-height: 1;
+  margin-bottom: 0.15rem;
   padding: 0.55rem 0.8rem;
+  white-space: nowrap;
   text-decoration: none;
   transition:
     border-color 0.15s ease,
