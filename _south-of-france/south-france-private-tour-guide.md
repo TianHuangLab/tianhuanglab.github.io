@@ -423,7 +423,7 @@ published: true
 - [尼斯机场交通攻略](https://aolitravel.com/south-of-france/france-nice-cote-azur-airport-guide/)
 - [法国与欧洲定制旅行](https://aolitravel.com/custom-travel/)
 
-{% include figure.liquid loading="eager" path="assets/img/142south-france-private-tour/cassiswebp" title="south-france-private-tour-guide" class="img-fluid rounded z-depth-1 watermarked" alt="南法包车旅游路线：普罗旺斯、马赛与蔚蓝海岸" %}
+{% include figure.liquid loading="eager" path="assets/img/142south-france-private-tour/cassis.webp" title="south-france-private-tour-guide" class="img-fluid rounded z-depth-1 watermarked" alt="南法包车旅游路线：普罗旺斯、马赛与蔚蓝海岸" %}
 
 
 <div class="post-update-note">
