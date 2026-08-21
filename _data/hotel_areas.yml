@@ -1,0 +1,82 @@
+paris-saint-lazare-opera:
+  city: paris
+  area_name: "Saint-Lazare / Opéra"
+  display_name: "住 Saint-Lazare / Opéra"
+  best_for:
+    - "想去吉维尼、奥维尔小镇、拉罗什居永"
+    - "想兼顾巴黎市区、购物、餐馆和交通"
+    - "第一次来巴黎，希望住宿位置省心"
+  description: "适合把巴黎西北方向小镇放进行程，也想兼顾巴黎市区的客人。这里交通、餐馆、购物都方便，第一次来巴黎会比较省心。"
+  caution: "旺季价格会偏高，建议优先看评分、地铁距离和夜间回酒店是否方便。"
+  affiliate_urls:
+    trip: "https://www.trip.com/t/GfnOXXnehR2"
+    hotels: "https://www.kqzyfj.com/click-101555905-14050247"
+    expedia: "https://www.kqzyfj.com/click-101555905-16949016"
+  preferred_platform: trip
+  button: "查这一区域住宿"
+
+paris-gare-de-lyon-bastille:
+  city: paris
+  area_name: "Gare de Lyon / Bastille"
+  display_name: "住 Gare de Lyon / Bastille"
+  best_for:
+    - "想去枫丹白露、巴比松、莫雷卢万"
+    - "后续计划坐 TGV 去南法"
+    - "希望交通方便，但不想住得太游客化"
+  description: "适合把枫丹白露、巴比松、莫雷卢万放进行程的人。如果后面还要坐 TGV 去南法，这一带也很方便。"
+  caution: "火车站附近酒店差异比较大，别只看价格，要认真看街区和近期评价。"
+  affiliate_urls:
+    trip: "https://www.trip.com/t/GfnOXXnehR2"
+    hotels: "https://www.kqzyfj.com/click-101555905-14050247"
+    expedia: "https://www.kqzyfj.com/click-101555905-16949016"
+  preferred_platform: trip
+  button: "对比这一区域住宿"
+
+paris-gare-est-nord:
+  city: paris
+  area_name: "Gare de l’Est / Gare du Nord"
+  display_name: "住 Gare de l’Est / Gare du Nord"
+  best_for:
+    - "想去普罗万、布兰迪堡、圣卢德诺"
+    - "需要衔接欧洲之星、北站或东站火车"
+    - "预算敏感，但仍想交通方便"
+  description: "适合去普罗万、中世纪小镇和巴黎东部路线。这里酒店选择多，但要认真看街区和评价，别只按最低价排序。"
+  caution: "这一区域便利，但街区感受差异明显。带老人孩子或晚归较多时，要优先看位置和评价。"
+  affiliate_urls:
+    trip: "https://www.trip.com/t/GfnOXXnehR2"
+    hotels: "https://www.kqzyfj.com/click-101555905-14050247"
+    expedia: "https://www.kqzyfj.com/click-101555905-16949016"
+  preferred_platform: trip
+  button: "查看这一区域住宿"
+
+paris-nearby-village-overnight:
+  city: paris
+  area_name: "枫丹白露 / Vernon-Giverny / 普罗万"
+  display_name: "小镇慢游住一晚"
+  best_for:
+    - "想看清晨或傍晚的小镇"
+    - "不想赶末班火车回巴黎"
+    - "想把枫丹白露、巴比松、莫雷卢万连起来"
+  description: "适合不想赶末班车、想看清晨或傍晚小镇的人。优先看枫丹白露、Vernon / Giverny、普罗万这几类节点。"
+  caution: "小镇住宿选择少，适合慢游；如果第二天要赶飞机或火车，还是住回巴黎更稳。"
+  affiliate_urls:
+    trip: "https://www.trip.com/t/GfnOXXnehR2"
+    hotels: "https://www.kqzyfj.com/click-101555905-14050247"
+    expedia: "https://www.kqzyfj.com/click-101555905-16949016"
+  preferred_platform: trip
+  button: "查周边小镇住宿"
+
+paris-budget-hostel:
+  city: paris
+  area_name: "巴黎高性价比青旅"
+  display_name: "预算友好住宿"
+  best_for:
+    - "一个人或预算敏感的旅行者"
+    - "想把住宿预算留给交通、门票和体验"
+    - "不介意房间更简单，更看重位置和价格"
+  description: "适合预算有限、一个人旅行，或只是想找一间位置还算方便、价格更轻的巴黎住宿。青旅和经济型住宿要认真看房型、评分和近期评价。"
+  caution: "如果带老人孩子、行李很多，或对安静和私密性要求高，建议优先看普通酒店。"
+  affiliate_urls:
+    trip: "https://www.trip.com/hotels/detail/?cityEnName=Paris&cityId=192&hotelId=123838436&locale=en-XX&Allianceid=5840493&SID=157301299&trip_sub1=paris_nearby_villages_paris_hostel&trip_sub3=D19372663"
+  preferred_platform: trip
+  button: "查看预算友好住宿"

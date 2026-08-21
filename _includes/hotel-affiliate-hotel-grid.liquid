@@ -1,0 +1,48 @@
+{% assign area_id = include.area_id %}
+{% assign hotel_ids_raw = include.hotel_ids | default: "" %}
+{% assign selected_hotel_ids = hotel_ids_raw | split: "," %}
+{% assign limit_count = include.limit | default: 24 %}
+{% assign platform = include.platform | default: "trip" %}
+{% assign hotels = site.data.hotels | where: "status", "active" %}
+
+{% if hotel_ids_raw == "" and area_id and area_id != "" %}
+  {% assign hotels = hotels | where: "area_id", area_id %}
+{% endif %}
+
+{% if hotels and hotels.size > 0 %}
+  <div class="row">
+    {% if hotel_ids_raw != "" %}
+      {% for hotel in hotels %}
+        {% if selected_hotel_ids contains hotel.id %}
+          {% assign href = "" %}
+          {% if platform == "trip" and hotel.affiliate_urls.trip %}
+            {% assign href = hotel.affiliate_urls.trip %}
+          {% elsif platform == "hotels" and hotel.affiliate_urls.hotels %}
+            {% assign href = hotel.affiliate_urls.hotels %}
+          {% elsif platform == "expedia" and hotel.affiliate_urls.expedia %}
+            {% assign href = hotel.affiliate_urls.expedia %}
+          {% elsif hotel.affiliate_urls.trip %}
+            {% assign href = hotel.affiliate_urls.trip %}
+          {% endif %}
+
+          {% include hotel-affiliate-hotel-card.liquid hotel=hotel href=href platform=platform button=include.button col=include.col image_height=include.image_height outline=include.outline primary=include.primary %}
+        {% endif %}
+      {% endfor %}
+    {% else %}
+      {% for hotel in hotels limit: limit_count %}
+        {% assign href = "" %}
+        {% if platform == "trip" and hotel.affiliate_urls.trip %}
+          {% assign href = hotel.affiliate_urls.trip %}
+        {% elsif platform == "hotels" and hotel.affiliate_urls.hotels %}
+          {% assign href = hotel.affiliate_urls.hotels %}
+        {% elsif platform == "expedia" and hotel.affiliate_urls.expedia %}
+          {% assign href = hotel.affiliate_urls.expedia %}
+        {% elsif hotel.affiliate_urls.trip %}
+          {% assign href = hotel.affiliate_urls.trip %}
+        {% endif %}
+
+        {% include hotel-affiliate-hotel-card.liquid hotel=hotel href=href platform=platform button=include.button col=include.col image_height=include.image_height outline=include.outline primary=include.primary %}
+      {% endfor %}
+    {% endif %}
+  </div>
+{% endif %}

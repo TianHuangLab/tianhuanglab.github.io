@@ -1,0 +1,22 @@
+{% assign hotel_ids = include.hotel_ids | split: "," %}
+<div class="hotel-affiliate-carousel">
+  <div class="hotel-affiliate-carousel__header">
+    {% if include.title %}<h3>{{ include.title }}</h3>{% endif %}
+    {% if include.intro %}<p>{{ include.intro }}</p>{% endif %}
+  </div>
+  <div class="hotel-affiliate-carousel__rail" aria-label="{{ include.title | escape }}">
+  {% for raw_id in hotel_ids %}
+    {% assign id = raw_id | strip %}
+    {% assign hotel = site.data.hotels | where: "id", id | first %}
+    {% if hotel %}
+      <div class="hotel-affiliate-carousel__item">
+        {% include hotel-affiliate-hotel-card.liquid hotel=hotel %}
+      </div>
+    {% endif %}
+  {% endfor %}
+  </div>
+</div>
+<style>
+.hotel-affiliate-carousel{margin:1.75rem 0 2rem;padding:1rem;border:1px solid rgba(123,63,228,.16);border-radius:14px;background:rgba(123,63,228,.035)}
+.hotel-affiliate-carousel__header h3{font-size:1.12rem;margin:0 0 .4rem}.hotel-affiliate-carousel__header p{margin:0 0 1rem;color:var(--global-text-color-light,#666);line-height:1.75}.hotel-affiliate-carousel__rail{display:flex;gap:1rem;overflow-x:auto;scroll-snap-type:x proximity;padding:.25rem .25rem .85rem;scrollbar-width:thin}.hotel-affiliate-carousel__item{flex:0 0 min(360px,88vw);scroll-snap-align:start}.hotel-affiliate-card{height:100%;display:flex;flex-direction:column;border:1px solid rgba(0,0,0,.08);border-radius:14px;background:#fff;overflow:hidden;box-shadow:0 4px 14px rgba(0,0,0,.05)}.hotel-affiliate-card__image img{width:100%;height:190px;object-fit:cover;display:block}.hotel-affiliate-card__body{padding:1rem;display:flex;flex-direction:column;gap:.55rem;flex:1}.hotel-affiliate-card__meta{display:flex;gap:.45rem;flex-wrap:wrap;font-size:.78rem;color:var(--global-theme-color,#7b3fe4)}.hotel-affiliate-card h4{font-size:1rem;margin:0;line-height:1.35}.hotel-affiliate-card p{margin:0;font-size:.92rem;line-height:1.65;color:var(--global-text-color,#333)}.hotel-affiliate-card__best{color:var(--global-text-color-light,#666)!important}.hotel-affiliate-card__button{margin-top:auto;align-self:flex-start;background:var(--global-theme-color,#7b3fe4);border:1px solid var(--global-theme-color,#7b3fe4);color:#fff!important;border-radius:10px;padding:.55rem .9rem;text-decoration:none!important;font-weight:600;box-shadow:0 4px 10px rgba(123,63,228,.22)}.hotel-affiliate-card__button:hover{filter:brightness(.95);color:#fff!important}@media (max-width:576px){.hotel-affiliate-carousel{margin:1.35rem 0;padding:.85rem}.hotel-affiliate-card__image img{height:165px}}
+</style>

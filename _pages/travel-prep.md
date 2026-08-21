@@ -2,7 +2,7 @@
 layout: page
 permalink: /travel-prep/
 title: 旅行准备
-description: 欧洲旅行全攻略：酒店预订、公共交通、自驾、包车、景点门票，一站搞定所有旅行必备工具！
+description: 欧洲自由行工具箱：酒店预订、租车自驾、交通门票、旅行好物与定制行程入口。
 nav: false
 nav_order: 6
 pretty_table: true
@@ -13,181 +13,292 @@ social: true
 published: true
 ---
 
-
 <swiper-container keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true">
-  <swiper-slide>  {% include figure.liquid loading="eager" path="assets/img/0tours/0travel product banner/tool2.png" title="aolitravel.com-trip-tools-hotel-transportation-ticket" class="img-fluid rounded z-depth-1" %}</swiper-slide>
-  <swiper-slide>  {% include figure.liquid loading="eager" path="assets/img/0tours/0travel product banner/tool3.png" title="aolitravel.com-trip-tools-hotel-transportation-ticket" class="img-fluid rounded z-depth-1" %}</swiper-slide>
-  <swiper-slide>  {% include figure.liquid loading="eager" path="assets/img/0tours/0travel product banner/tool4.png" title="aolitravel.com-trip-tools-hotel-transportation-ticket" class="img-fluid rounded z-depth-1" %}</swiper-slide>
-  <swiper-slide>  {% include figure.liquid loading="eager" path="assets/img/0tours/0travel product banner/tool5.png" title="aolitravel.com-trip-tools-hotel-transportation-ticket" class="img-fluid rounded z-depth-1" %}</swiper-slide>
-  <swiper-slide>  {% include figure.liquid loading="eager" path="assets/img/0tours/0travel product banner/tool1.png" title="aolitravel.com-trip-tools-hotel-transportation-ticket" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/0tours/0travel product banner/tool2.png" title="aolitravel.com-trip-tools-hotel-transportation-ticket" class="img-fluid rounded z-depth-1" alt="欧洲旅行酒店预订与交通工具" %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/0tours/0travel product banner/tool3.png" title="aolitravel.com-trip-tools-hotel-transportation-ticket" class="img-fluid rounded z-depth-1" alt="欧洲旅行门票活动预订工具" %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/0tours/0travel product banner/tool4.png" title="aolitravel.com-trip-tools-hotel-transportation-ticket" class="img-fluid rounded z-depth-1" alt="意大利和欧洲旅行准备工具" %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/0tours/0travel product banner/tool5.png" title="aolitravel.com-trip-tools-hotel-transportation-ticket" class="img-fluid rounded z-depth-1" alt="南法和欧洲自由行工具箱" %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/0tours/0travel product banner/tool1.png" title="aolitravel.com-trip-tools-hotel-transportation-ticket" class="img-fluid rounded z-depth-1" alt="罗马佛罗伦萨南法旅行工具" %}</swiper-slide>
 </swiper-container>
 
----
-
-## 酒店预订
-
-旅行途中，住得舒服真的很重要。不管你是准备来法国、瑞士、意大利玩，还是想在全球其他地方自由行，一家合适的酒店都能让旅途更轻松。我自己出行都会比较不同平台的房源、价格和优惠，然后再下手。为了方便大家，我这里整理了几个全球华人都很常用、支持中文界面和客服的平台，能帮你更快找到心仪的酒店。
-
-下面这三家网站是我个人最常用、也最放心推荐的：[Trip.com](https://www.trip.com/t/GfnOXXnehR2)、[Booking.com](https://www.booking.com/) 和 [Klook](https://affiliate.klook.com/redirect?aid=81133&aff_adid=1137208&k_site=https%3A%2F%2Fwww.klook.com%2F)。它们各有优势，适合不同需求，大家可以按自己习惯选择。
-
-<div class="row">
-  <div class="col-md-4">
-    <a href="https://www.trip.com/t/GfnOXXnehR2" target="_blank" class="d-block text-decoration-none">
-      {% include figure.liquid loading="eager" path="assets/img/0test-elements/tools-partners/1.png" title="aolitravel.com-hotel-villa-reservation" class="img-fluid rounded z-depth-1" %}
-      <p class="fw-bold mt-2">Trip.com是携程旗下的国际版一站式出行平台，如果你习惯中文预订、需要方便的售后服务，那么它就非常适合你。而且无论你人在中国大陆、香港、台湾、还是美国，能用人民币、港币、台币、美元等多币种支付。经常有优惠活动，在亚洲和欧洲的酒店价格竞争力很强，适合想要方便、省心的旅客。</p>
-    </a>
-  </div>
-
-  <div class="col-md-4">
-    <a href="https://www.booking.com/" target="_blank" class="d-block text-decoration-none">
-      {% include figure.liquid loading="eager" path="assets/img/0test-elements/tools-partners/4.png" title="aolitravel.com-hotel-villa-reservation" class="img-fluid rounded z-depth-1" %}
-      <p class="fw-bold mt-2">Booking.com 的优势在于选择多、覆盖面广，几乎全球任何大城市、小镇都有房源。它的取消政策相对灵活，很多酒店可以“先订后付”，这点对行程还没完全确定的人来说非常友好。中文页面做得也很到位，点评系统庞大，可以快速参考其他旅客的真实体验。</p>
-    </a>
-  </div>
-
-  <div class="col-md-4">
-    <a href="https://affiliate.klook.com/redirect?aid=81133&aff_adid=1137208&k_site=https%3A%2F%2Fwww.klook.com%2F" target="_blank" class="d-block text-decoration-none">
-      {% include figure.liquid loading="eager" path="assets/img/0test-elements/tools-partners/2.png" title="aolitravel.com-hotel-villa-reservation" class="img-fluid rounded z-depth-1" %}
-      <p class="fw-bold mt-2">大家熟悉 Klook 可能是因为它的一日游、门票和交通票券，其实它的酒店板块也越来越完善。在一些热门目的地，比如巴黎、伦敦、东京等地，常常能找到和活动打包的优惠。如果你打算酒店 + 景点门票/活动一起订，Klook 很值得看看。中文客服和移动端体验也很顺手，适合年轻旅行者。</p>
-    </a>
-  </div>
+<div class="mt-4 mb-4">
+  <p>这页可以先收藏起来。你如果正在自己规划法国、瑞士、意大利、西班牙，或者欧洲其他目的地，酒店、租车、机票火车、门票和旅行用品，都可以从这里找到适合你的预订工具。</p>
 </div>
 
-<div class="row">
-  <div class="col-md-4">
-    <a href="https://www.anrdoezrs.net/click-101555905-13831003" target="_blank" class="d-block text-decoration-none">
-      {% include figure.liquid loading="eager" path="assets/img/0test-elements/tools-partners/8.png" title="aolitravel.com-hotel-villa-reservation" class="img-fluid rounded z-depth-1" %}
-      <p class="fw-bold mt-2">hotel.com是国际化酒店预订平台，覆盖全球数十万家酒店和民宿。它的亮点是新升级的积分系统，每次预订有积分赠送可用于下次预订抵扣。支持多币种支付，取消灵活，界面简洁，搜索和筛选功能强大，真实点评丰富。如果你想 高频出行奖励 + 便捷预订体验，这家是不错的选择。</p>
-    </a>
-  </div>
-
-  <div class="col-md-4">
-    <a href="https://www.jdoqocy.com/click-101555905-15606970" target="_blank" class="d-block text-decoration-none">
-      {% include figure.liquid loading="eager" path="assets/img/0test-elements/tools-partners/7.png" title="aolitravel.com-hotel-villa-reservation" class="img-fluid rounded z-depth-1" %}
-      <p class="fw-bold mt-2">Expedia是全球知名一站式旅游平台，覆盖酒店、机票、租车和度假套餐。多币种支付、灵活取消，网站和APP使用顺畅。通过我的页面预订最近更新的Top Deals，可享高达七五折优惠，行程集中管理又省心，非常划算。</p>
-    </a>
-  </div>
-
-</div>
-
-
----
-
-## 交通预订
-
-在欧洲旅行，除了酒店和活动，交通绝对是重中之重。火车是最常见的长途方式，方便又能一路看风景；而如果你想去一些小镇、乡村或者公共交通不太便利的地方，自驾租车会更灵活自由。提前在靠谱的平台订票或租车，不仅能省钱，还能避免到了当地手忙脚乱。
-
-我这里推荐两个最常用、也最适合华人旅客的平台：[Trainline（火车票）](https://www.thetrainline.com/)和 [Trip.com（租车）](https://www.trip.com/t/ooxZ6LofhR2)。
-
-<div class="row">
-  <div class="col-md-4">
-    <a href="https://www.thetrainline.com/">
-      {% include figure.liquid loading="eager" path="assets/img/0test-elements/tools-partners/5.png" title="aolitravel.com-tools" class="img-fluid rounded z-depth-1" %}
-      <p class="fw-bold mt-2">如果你准备坐火车在欧洲各国之间穿梭，Trainline是一定要收藏的。它几乎涵盖法国、意大利、德国、瑞士、西班牙等国家的铁路公司，能直接比价不同车次，找到最合适的班次和价格。中文页面很友好，付款支持人民币/信用卡/支付宝等，出票速度快，电子票直接发邮箱或手机 App，拿着二维码就能上车。欧洲火车票早买相对便宜，尤其是跨国线路，一般提前买能省下一大笔。</p>
-    </a>
-  </div>
-  <div class="col-md-4">
-    <a href="https://www.trip.com/t/ooxZ6LofhR2">
-      {% include figure.liquid loading="eager" path="assets/img/0test-elements/tools-partners/1.png" title="aolitravel.com-tools" class="img-fluid rounded z-depth-1" %}
-      <p class="fw-bold mt-2">如果你更喜欢自驾探索，比如南法普罗旺斯小镇、意大利托斯卡纳乡间，或瑞士的湖区小镇，租车会比火车方便得多。Trip.com在租车领域覆盖面广，能比价全球公司，价格透明，还有中文客服协助。对讲中文的旅客来说，无论在世界哪里，都能顺手操作，并支持多币种支付，省去不少麻烦。另外，在欧洲租车记得提前确认国际驾照或官方认证翻译件，不同国家规定可能不同。</p>
-    </a>
-  </div>
- <div class="col-md-4">
-  <div style="cursor:pointer;" onclick="openTidio()">
-    {% include figure.liquid loading="eager" path="assets/img/0test-elements/tools-partners/6.png" title="aolitravel.com-tools" class="img-fluid rounded z-depth-1" %}
-    <p class="fw-bold mt-2">想找一个比自驾省心但比报团更灵活的方案？不妨试试我们的奥利旅行包车服务！自营车队覆盖南法核心线路，法国、瑞士、意大利也有可靠合作伙伴。专业司机、灵活行程、随时接送，让你轻松畅游小镇与风景名胜，不用担心路线和停车。📩点击咨询，让你的欧洲之旅更省心！
-    </p>
-  </div>
- </div>
-  
+<div class="d-flex flex-wrap mb-4">
+  <a href="#route-check" class="btn btn-sm btn-outline-primary mr-2 mb-2">判断路线</a>
+  <a href="#hotels" class="btn btn-sm btn-outline-primary mr-2 mb-2">酒店住宿</a>
+  <a href="#car-rental" class="btn btn-sm btn-outline-primary mr-2 mb-2">租车自驾</a>
+  <a href="#transport" class="btn btn-sm btn-outline-primary mr-2 mb-2">机票火车</a>
+  <a href="#tickets" class="btn btn-sm btn-outline-primary mr-2 mb-2">门票活动</a>
+  <a href="#travel-gear" class="btn btn-sm btn-outline-primary mr-2 mb-2">旅行好物</a>
+  <a href="#saved-tools" class="btn btn-sm btn-outline-primary mr-2 mb-2">常用入口</a>
+  <a href="{{ '/custom-travel/' | relative_url }}" class="btn btn-sm btn-primary text-white mb-2">不想自己折腾？</a>
 </div>
 
 ---
 
-## 当地活动预订
+## 1. 先判断：这趟旅行该怎么订？ {#route-check}
 
-除了酒店和交通，旅行中最让人期待的就是各种当地活动：城市观光、博物馆门票、特色体验、一日游……这些都能让旅程更有味道。与其到当地再临时买票，不如提前在可靠的平台上预订，不仅能保证有位置，有时候还能比现场便宜不少。
+欧洲旅行最容易多花钱的地方，不一定是酒店贵，而是路线一开始没想清楚。住哪里、怎么移动、要不要租车、门票订几点，其实都是连在一起的。
 
-我自己常用的两个平台是 [GetYourGuide](https://gyg.me/Vt3w1cGQ) 和 [Klook](https://affiliate.klook.com/redirect?aid=81133&aff_adid=1137208&k_site=https%3A%2F%2Fwww.klook.com%2F)，它们覆盖全球热门景点和活动，操作也很方便，都有中文页面和中文客服，非常适合自由行的旅客。
+| 你的情况 | 优先看什么 | 我的建议 |
+|---|---|---|
+| 主要玩巴黎、罗马、巴塞罗那这类大城市 | 酒店 + 机票/火车 | 先选住宿区域。住得对，后面每天都会轻松很多。 |
+| 想去普罗旺斯小镇、托斯卡纳乡间、湖区和海岸线 | 租车 / 包车 | 自驾自由；带老人孩子、行李多，包车通常更省心。 |
+| 法国、意大利、西班牙、瑞士跨城市移动 | 火车/机票比价 | 大城市之间不一定需要车，先看时间、换乘和行李压力。 |
+| 卢浮宫、圣家堂、梵蒂冈、少女峰这类热门项目 | 门票与活动 | 旺季不要现场赌票。门票时间要跟当天路线匹配。 |
+| 行程越查越复杂 | 定制行程 | 把人数、月份、天数和想去的地方发给我，我先帮你判断。 |
+
+<div class="d-flex flex-wrap mt-3">
+  <a href="{{ '/tours/' | relative_url }}" class="btn btn-primary text-white mr-2 mb-2">查看精选路线</a>
+  <a href="{{ '/custom-travel/' | relative_url }}" class="btn btn-outline-primary mb-2">填写行程需求</a>
+</div>
+
+---
+
+## 2. 酒店住宿：先选区域，再看价格 {#hotels}
+
+酒店不是只看评分和价格。欧洲很多老城很美，但拖着箱子走石板路、每天换乘、晚上回酒店太远，体验会被一点点消耗掉。我的建议是：先确定每天主要玩哪里，再选酒店区域。
 
 <div class="row">
-  <div class="col-md-4">
-    <a href="https://gyg.me/Vt3w1cGQ">
-      {% include figure.liquid loading="eager" path="assets/img/0test-elements/tools-partners/3.png" title="aolitravel.com-tools" class="img-fluid rounded z-depth-1" %}
-      <p class="fw-bold mt-2">GetYourGuide 可以说是欧洲本地活动最全的平台之一。无论你是想预订巴黎卢浮宫免门票，还是去瑞士少女峰一日游，基本都能找到。它的优势在于合作供应商多、选择范围广，很多独特的小众体验也能搜到。支持中文界面和移动端预订，付款后会收到电子凭证，出示二维码就能直接入场，非常方便。</p>
+  <div class="col-md-4 mb-4">
+    <!-- TODO affiliate: 将 href 替换成你的 Trip.com Global affiliate link -->
+    <a href="https://www.trip.com/t/GfnOXXnehR2" target="_blank" rel="sponsored nofollow noopener" class="d-block text-decoration-none">
+      {% include figure.liquid loading="eager" path="assets/img/0test-elements/tools-partners/1.png" title="trip.com-global-hotel-booking" class="img-fluid rounded z-depth-1" alt="Trip.com 酒店预订" %}
+      <p class="font-weight-bold mt-2">Trip.com｜适合习惯中文界面、多币种支付，希望酒店、机票、火车一起查询的旅客。中国大陆、香港、台湾、北美华人用起来都比较顺手。</p>
     </a>
   </div>
-  <div class="col-md-4">
-    <a href="https://affiliate.klook.com/redirect?aid=81133&aff_adid=1137208&k_site=https%3A%2F%2Fwww.klook.com%2F">
-      {% include figure.liquid loading="eager" path="assets/img/0test-elements/tools-partners/2.png" title="aolitravel.com-tools" class="img-fluid rounded z-depth-1" %}
-      <p class="fw-bold mt-2">Klook 在亚洲知名度很高，但其实在欧洲和全球各地的活动也越来越多。它常常会推出门票 + 接送 + 体验的组合优惠，特别适合想省心、一次性搞定行程的旅行者。中文页面和 App 用起来很顺手，而且经常有折扣码，适合预算有限又想玩得丰富的人。</p>
+
+  <div class="col-md-4 mb-4">
+    <!-- TODO affiliate: 将 href 替换成你的 Hotels.com France affiliate link -->
+    <a href="https://www.kqzyfj.com/click-101555905-14050247" target="_blank" rel="sponsored nofollow noopener" class="d-block text-decoration-none">
+      {% include figure.liquid loading="eager" path="assets/img/0test-elements/tools-partners/8.png" title="hotels-com-france-booking" class="img-fluid rounded z-depth-1" alt="Hotels.com France 酒店预订" %}
+      <p class="font-weight-bold mt-2">Hotels.com｜适合经常旅行、想积累会员权益的人。页面清楚，筛选方便，适合比较法国和欧洲城市里的酒店位置与价格。</p>
+    </a>
+  </div>
+
+  <div class="col-md-4 mb-4">
+    <!-- TODO affiliate: 将 href 替换成你的 Expedia France affiliate link -->
+    <a href="https://www.kqzyfj.com/click-101555905-16949016" target="_blank" rel="sponsored nofollow noopener" class="d-block text-decoration-none">
+      {% include figure.liquid loading="eager" path="assets/img/0test-elements/tools-partners/7.png" title="expedia-france-travel-booking" class="img-fluid rounded z-depth-1" alt="Expedia France 酒店机票租车预订" %}
+      <p class="font-weight-bold mt-2">Expedia｜适合想把酒店、机票、租车或度假套餐放在一起比较的人。行程还没完全定时，可以先看预算区间。</p>
     </a>
   </div>
 </div>
 
-
-
----
-
-## 实用票券
-
-去欧洲旅行，提前预订景点门票真的能省下不少时间和麻烦！巴黎迪士尼、埃菲尔铁塔游船、各大博物馆、主题乐园……这些热门景点现场买票经常要排长队，尤其是旺季。为了让大家玩得轻松，我整理了一些可靠的推荐票务信息，让你提前锁定心仪门票，直接扫码入场，无需排队。
-
-以下这些票券都是我们能够代购的，而且**部分热门门票价格甚至比官方略有优惠**，比现场买票更划算。需要注意的是，像**巴黎时装周**等部分热门活动或票圈，预订前建议先咨询可用日期，以免错过心仪场次。
-
-目前，我的推荐主要覆盖法国各大热门景点，包括大巴黎地区、南法、特色小镇、主题公园以及各类博物馆，满足不同旅行需求。无论你是家庭出游、情侣浪漫之旅，还是自由行探索，这里都能帮你快速找到合适的门票，节省宝贵的旅行时间。
-
-<table
-  data-click-to-select="true"
-  data-height="460"
-  data-pagination="true"
-  data-search="true"
-  data-toggle="table"
-  data-url="{{ '/assets/json/paris_tickets.json' | relative_url }}">
-  <thead>
-    <tr>
-      <th data-checkbox="true"></th>
-      <th data-field="城市" data-halign="left" data-align="left" data-sortable="true">城市</th>
-      <th data-field="门票" data-halign="left" data-align="left" data-sortable="true">门票</th>
-      <th data-field="价格" data-halign="left" data-align="left" data-sortable="true">价格</th>
-    </tr>
-  </thead>
-</table>
-
-
-
+**我的小提醒：** 巴黎、尼斯、罗马、巴塞罗那这类城市，别只看“离中心几公里”。有时差一站地铁，晚上回酒店的感受就差很多。
 
 ---
 
-## 联系我们
+## 3. 租车自驾：自由，但要先看清规则 {#car-rental}
 
-<!-- 人物介绍板块 -->
-<div style="display: flex; align-items: center; gap: 20px; margin: 2em 0;">
+如果你想去小镇、酒庄、乡间、湖边或海岸线，自驾确实很有吸引力。普罗旺斯、托斯卡纳、西班牙南部、瑞士湖区，有车会自由很多。但欧洲自驾也有现实问题：老城限行、停车、保险、押金、异地还车费、山路和行李，都最好提前看清楚。
 
-  <!-- 左侧头像（圆形） -->
-  <div style="flex: 1; text-align: center;">
-    {% include figure.liquid loading="eager" path="assets/img/profile-tian.jpg" title="aolitravel.com recommandation" class="img-fluid rounded-circle mx-auto d-block rounded z-depth-1" alt="aolitravel.com" %}
+<div class="row">
+  <div class="col-md-4 mb-4">
+        <a href="https://www.tkqlhce.com/click-101555905-15586457" target="_blank" rel="sponsored nofollow noopener" class="d-block text-decoration-none">
+      {% include figure.liquid loading="eager" path="assets/img/0test-elements/tools-partners/6.png" title="economybookings-car-rental" class="img-fluid rounded z-depth-1" alt="EconomyBookings 租车比价" %}
+      <p class="font-weight-bold mt-2">EconomyBookings｜适合先比较不同租车公司、车型和取还车点。下单前重点看保险、押金、里程、取车时间和异地还车规则。</p>
+    </a>
   </div>
 
-  <!-- 右侧文字内容 + 按钮 -->
-  <div style="flex: 2;">
-    <p>感谢你看到这里！以上内容都是我十多年在法国、瑞士、意大利等欧洲十多个国家旅行的亲身经验总结。无论你是想探索城市风光、自然景色，还是自驾、跟团或包车游；不管你想找美食、合适住宿，还是购买景点门票，相信在这个板块都能帮你找到实用信息。总之，欢迎来到这个分享欧洲自由行攻略、旅行路线、美食体验和实用工具的小天地！📩 如果有任何问题，随时联系我，让你的欧洲之旅更轻松、更顺心。</p>
-    <p><a href="https://aolitravel.com/">了解我更多...</a></p>
+  <div class="col-md-4 mb-4">
+    <!-- TODO affiliate: 将 href 替换成你的 Trip.com Global 租车 affiliate link -->
+    <a href="https://www.trip.com/carhire/?Allianceid=5840493&SID=157301299&trip_sub1=&trip_sub3=D19319190" target="_blank" rel="sponsored nofollow noopener" class="d-block text-decoration-none">
+      {% include figure.liquid loading="eager" path="assets/img/0test-elements/tools-partners/1.png" title="trip.com-car-rental" class="img-fluid rounded z-depth-1" alt="Trip.com 租车" %}
+      <p class="font-weight-bold mt-2">Trip.com 租车｜适合想用中文界面查车、订车和联系客服的旅客。对不熟悉欧洲租车条款的人来说，操作门槛低一些。</p>
+    </a>
+  </div>
 
-    <!-- 嵌入按钮 -->
-    <div class="d-flex gap-3 flex-wrap mt-2">
-      <a href="mailto:contact@aolitravel.com" class="btn btn-lg text-white" style="background-color: #6f42c1; border-radius: 0.75rem;">
-        发送邮件
-      </a>
-      <button class="btn btn-lg text-white" style="background-color: #6f42c1; border-radius: 0.75rem;" onclick="openTidio()">
-        在线聊天
-      </button>
+  <div class="col-md-4 mb-4">
+    <div onclick="openTidio()" style="cursor:pointer;">
+      {% include figure.liquid loading="eager" path="assets/img/0test-elements/tools-partners/6.png" title="aolitravel-private-car-tour" class="img-fluid rounded z-depth-1" alt="奥利旅行南法包车与定制小团" %}
+      <p class="font-weight-bold mt-2">不想自驾？带父母孩子、行李多，或者想去公共交通不方便的小镇，可以直接咨询包车或定制小团。少一点临时判断，旅行会舒服很多。</p>
+    </div>
+  </div>
+</div>
+
+<div class="d-flex flex-wrap mt-2">
+  <a href="{{ '/south-of-france/' | relative_url }}" class="btn btn-outline-primary mr-2 mb-2">看南法攻略</a>
+  <a href="{{ '/custom-travel/' | relative_url }}" class="btn btn-primary text-white mb-2">让我帮你判断路线</a>
+</div>
+
+---
+
+## 4. 机票、火车和跨城交通 {#transport}
+
+大城市之间，火车经常比自驾舒服。巴黎到马赛、罗马到佛罗伦萨、巴塞罗那到马德里，这类路线适合先查火车和机票。真正麻烦的，往往是从大城市去小镇、山区、酒庄和海岸线。
+
+<div class="row">
+  <div class="col-md-4 mb-4">
+    <!-- TODO affiliate: 将 href 替换成你的 Trip.com Global 火车/机票 affiliate link -->
+    <a href="https://www.trip.com/?Allianceid=5840493&SID=157301299&trip_sub1=&trip_sub3=D19319190" target="_blank" rel="sponsored nofollow noopener" class="d-block text-decoration-none">
+      {% include figure.liquid loading="eager" path="assets/img/0test-elements/tools-partners/1.png" title="trip.com-train-flight" class="img-fluid rounded z-depth-1" alt="Trip.com 火车机票查询" %}
+      <p class="font-weight-bold mt-2">Trip.com｜适合查机票、火车和酒店组合。跨国旅行刚开始规划时，可以先用它看大致价格、时间和衔接方式。</p>
+    </a>
+  </div>
+
+  <div class="col-md-4 mb-4">
+    <!-- TODO affiliate: 将 href 替换成你的 Expedia France affiliate link -->
+    <a href="https://www.jdoqocy.com/click-101555905-14344678" target="_blank" rel="sponsored nofollow noopener" class="d-block text-decoration-none">
+      {% include figure.liquid loading="eager" path="assets/img/0test-elements/tools-partners/7.png" title="expedia-flight-package" class="img-fluid rounded z-depth-1" alt="Expedia 机票酒店度假套餐" %}
+      <p class="font-weight-bold mt-2">Expedia｜适合比较机票、酒店和套餐。尤其是北美、英国、荷兰等地出发的客人，可以用来先估算整趟旅行预算。</p>
+    </a>
+  </div>
+
+  <div class="col-md-4 mb-4">
+    <!-- TODO affiliate: 将 href 替换成你的 Hotels.com France affiliate link -->
+    <a href="https://www.anrdoezrs.net/click-101555905-13831003" target="_blank" rel="sponsored nofollow noopener" class="d-block text-decoration-none">
+      {% include figure.liquid loading="eager" path="assets/img/0test-elements/tools-partners/8.png" title="hotels-com-city-stay" class="img-fluid rounded z-depth-1" alt="城市住宿与跨城旅行" %}
+      <p class="font-weight-bold mt-2">跨城住宿｜如果每天换城市，酒店位置要跟车站、机场或第二天出发方向一起看。便宜一点不一定真的省。</p>
+    </a>
+  </div>
+</div>
+
+---
+
+## 5. 门票与当地体验 {#tickets}
+
+热门景点能提前订，就不要到现场赌。卢浮宫、埃菲尔铁塔、梵蒂冈、圣家堂、少女峰、阿尔罕布拉宫这些地方，旺季临时买票很容易遇到时间不合适、排队太久，或者干脆没票。
+
+<div class="row">
+  <div class="col-md-4 mb-4">
+    <!-- TODO affiliate: 将 href 替换成你的 Trip.com Global 门票/活动 affiliate link -->
+    <a href="https://www.trip.com/t/GfnOXXnehR2" target="_blank" rel="sponsored nofollow noopener" class="d-block text-decoration-none">
+      {% include figure.liquid loading="eager" path="assets/img/0test-elements/tools-partners/1.png" title="trip.com-attractions" class="img-fluid rounded z-depth-1" alt="Trip.com 景点门票和当地活动" %}
+      <p class="font-weight-bold mt-2">Trip.com 门票与活动｜如果你的酒店、机票已经在这里查，也可以顺手看看当地门票和体验。中文用户用起来比较方便。</p>
+    </a>
+  </div>
+
+  <div class="col-md-4 mb-4">
+    <!-- TODO affiliate: 将 href 替换成你的 Expedia France affiliate link -->
+    <a href="https://www.jdoqocy.com/click-101555905-15606970" target="_blank" rel="sponsored nofollow noopener" class="d-block text-decoration-none">
+      {% include figure.liquid loading="eager" path="assets/img/0test-elements/tools-partners/7.png" title="expedia-things-to-do" class="img-fluid rounded z-depth-1" alt="Expedia 当地体验和活动" %}
+      <p class="font-weight-bold mt-2">Expedia 活动｜适合顺手查看城市体验、短途活动和套餐价格。适合把酒店、交通和体验放在一起比较。</p>
+    </a>
+  </div>
+
+  <div class="col-md-4 mb-4">
+    <a href="{{ '/custom-travel/' | relative_url }}" class="d-block text-decoration-none">
+      {% include figure.liquid loading="eager" path="assets/img/0tours/0template/0a.png" title="aolitravel-custom-route-ticket-time" class="img-fluid rounded z-depth-1" alt="法国与欧洲行程门票时间规划" %}
+      <p class="font-weight-bold mt-2">门票时间怎么配行程？如果你走多日路线，门票不是越早订越好，而是要订在真正适合当天路线的时间段。</p>
+    </a>
+  </div>
+</div>
+
+---
+
+## 6. 旅行好物：出发前准备，比到了再买省心 {#travel-gear}
+
+有些东西到了欧洲再买，真的不如出发前准备好。转换插头、充电线、防盗包、轻便雨衣、防晒用品、儿童用品、车载手机支架，这些小东西不贵，但少了会很烦。
+
+<div class="row">
+  <div class="col-md-4 mb-4">
+    <!-- TODO affiliate: 拿到 PartnerBoost - Amazon Marketplace affiliate link 后，把下面的 div 改回 a 标签并填入链接 -->
+    <div class="d-block">
+      {% include figure.liquid loading="eager" path="assets/img/0tours/0travel product banner/store-banner-1.png" title="amazon-travel-gear" class="img-fluid rounded z-depth-1" alt="欧洲旅行好物清单" %}
+      <p class="font-weight-bold mt-2">Amazon 旅行好物｜适合出发前准备插头、收纳、防晒、防盗、亲子和自驾用品。建议按旅行场景买，不要为了清单而清单。</p>
     </div>
   </div>
 
+  <div class="col-md-8 mb-4">
+    <p><strong>我会优先准备这些：</strong></p>
+    <ul>
+      <li>欧洲转换插头、多口充电器和备用充电线。</li>
+      <li>轻便防盗包，尤其是巴黎、巴塞罗那、罗马这类热门城市。</li>
+      <li>夏季南法、西班牙和意大利的防晒用品、帽子和墨镜。</li>
+      <li>自驾旅行用的手机支架、行李收纳袋和车载充电线。</li>
+      <li>带孩子或老人出行时，提前准备常用药、轻便雨具和舒适鞋。</li>
+    </ul>
+  </div>
 </div>
 
-<!-- 聊天脚本 -->
+---
+
+## 7. 邮轮：适合接上地中海路线 {#cruise}
+
+邮轮不是每个人都需要，但如果你计划把巴塞罗那、马赛、热那亚、罗马附近港口和地中海航线接在一起，可以提前查一查。它更适合“欧洲陆地旅行 + 地中海邮轮”这种组合玩法。
+
+<div class="row">
+  <div class="col-md-4 mb-4">
+    <!-- TODO affiliate: 拿到 CruiseDirect affiliate link 后，把下面的 div 改回 a 标签并填入链接 -->
+    <div class="d-block">
+      {% include figure.liquid loading="eager" path="assets/img/0tours/0travel product banner/tool4.png" title="cruisedirect-mediterranean-cruise" class="img-fluid rounded z-depth-1" alt="地中海邮轮预订" %}
+      <p class="font-weight-bold mt-2">CruiseDirect｜适合查询地中海邮轮航线。巴塞罗那、马赛、热那亚、罗马附近港口，都可能和法国南部或意大利路线自然衔接。</p>
+    </div>
+  </div>
+
+  <div class="col-md-8 mb-4">
+    <p>如果你想把邮轮接到南法、意大利或西班牙行程里，建议先看登船港、下船港和前后两天的住宿。邮轮本身不难订，难的是前后陆地行程别安排得太紧。</p>
+  </div>
+</div>
+
+---
+
+## 8. 按目的地收藏入口 {#saved-tools}
+
+如果你以后还会反复查，可以直接从这里进。不同目的地适合看的工具不一样：巴黎更看重酒店位置和门票；南法更看重租车、包车和路线；瑞士要提前看交通和住宿预算；西班牙、意大利则要把城市节奏和门票时间排好。
+
+<div class="row">
+  <div class="col-md-4 mb-3">
+    <a href="{{ '/south-of-france/' | relative_url }}" class="d-block text-decoration-none">
+      <strong>南法旅行工具</strong>
+      <p>马赛、普罗旺斯、尼斯、蔚蓝海岸，小镇和海岸路线先从这里看。</p>
+    </a>
+  </div>
+  <div class="col-md-4 mb-3">
+    <a href="{{ '/paris/' | relative_url }}" class="d-block text-decoration-none">
+      <strong>巴黎旅行工具</strong>
+      <p>酒店区域、热门门票、机场交通和巴黎周边路线。</p>
+    </a>
+  </div>
+  <div class="col-md-4 mb-3">
+    <a href="{{ '/france-travel/' | relative_url }}" class="d-block text-decoration-none">
+      <strong>法国旅行工具</strong>
+      <p>法国城市、地区路线、跨城交通和长线规划。</p>
+    </a>
+  </div>
+  <div class="col-md-4 mb-3">
+    <a href="{{ '/switzerland/' | relative_url }}" class="d-block text-decoration-none">
+      <strong>瑞士旅行工具</strong>
+      <p>湖区、雪山、小镇、酒店预算和法国瑞士路线灵感。</p>
+    </a>
+  </div>
+  <div class="col-md-4 mb-3">
+    <a href="{{ '/spain/' | relative_url }}" class="d-block text-decoration-none">
+      <strong>西班牙旅行工具</strong>
+      <p>巴塞罗那、安达卢西亚，以及西班牙接南法的路线。</p>
+    </a>
+  </div>
+  <div class="col-md-4 mb-3">
+    <a href="{{ '/tours/' | relative_url }}" class="d-block text-decoration-none">
+      <strong>精选路线</strong>
+      <p>已经有出行计划的话，可以先找一个最接近的路线方向。</p>
+    </a>
+  </div>
+</div>
+
+---
+
+## 9. 不想自己规划？也可以把行程交给我们
+
+如果你查完酒店、租车、交通和门票，发现路线越看越复杂，也很正常。欧洲旅行最花时间的，不是找到一个平台，而是把城市、酒店、交通、景点时间和同行人的体力放在一起判断。
+
+奥利旅行主要提供法国南部、巴黎、法国与欧洲周边的中文包车、小团和定制行程。你可以先自己用这页工具查预算，也可以把人数、月份、天数、进出城市和想去的地方发给我。我会帮你看看这趟旅行适合自驾、火车，还是包车更轻松。
+
+<div class="d-flex flex-wrap mt-3 mb-4">
+  <a href="{{ '/custom-travel/' | relative_url }}" class="btn btn-primary text-white mr-2 mb-2">填写行程需求</a>
+  <button class="btn btn-outline-primary mr-2 mb-2" onclick="openTidio()">在线聊聊行程</button>
+  <a href="{{ '/tours/' | relative_url }}" class="btn btn-outline-primary mb-2">查看精选路线</a>
+</div>
+
+---
+
+## 10. 关于这些推荐链接
+
+页面中部分链接是合作伙伴链接。如果你通过这些链接预订，我可能会获得少量佣金，但不会增加你的预订费用。它们只是旅行工具，不代表每个平台都一定适合你的行程。真正下单前，还是建议你看清楚价格、退改政策、保险条款、入住位置和实际需求。
+
 <script>
   function openTidio() {
     if (window.tidioChatApi) {
@@ -197,108 +308,3 @@ published: true
     }
   }
 </script>
-
----
-
-## 定制旅行
-
-还没找到完美的行程？让我们为您量身定制！
-如果您觉得这个行程不完全符合您的需求，没关系！我非常乐意根据您的兴趣、时间和预算，为您量身定制独特的旅行方案。
-无论是探索更多的隐藏景点，还是想要更灵活的安排，我们都可以为您打造专属的旅程。
-立即联系我们，告诉我们您的旅行梦想，我们将尽快为您设计出最适合的完美行程！
-
-💬 [点击这里](https://aolitravel.com/custom-travel/)与我们取得联系，开始您的定制之旅！
-
-  <div>
-    <a href="https://aolitravel.com/custom-travel/">
-      {% include figure.liquid loading="eager" path="assets/img/0tours/0template/0a.png" title="france-custom-tour" class="img-fluid rounded z-depth-1" alt="france-custom-tour" %}
-    </a>
-  </div>
-
----
-
-## 探索更多南法旅游体验
-
-还在犹豫如何安排行程？不妨看看我们为您精心准备的南法精选路线，从蔚蓝海岸到普罗旺斯山间小镇，灵感即刻启程！
-在这里，地中海的阳光与风情完美的交融在一起！无论是尼斯的海滩还是马赛的老港，南法的每一处景点都让人流连忘返。[点击这里](https://aolitravel.com/tours/)，探索更多奥利旅行旗下的法国旅游路线!
-
-<div class="row justify-content-sm-center">
-  <div class="col-sm mt-3 mt-md-0">
-    <a href="https://aolitravel.com/tours/">
-      {% include figure.liquid loading="eager" path="assets/img/0tours/0template/1.png" title="south-france-selected-tour" class="img-fluid rounded z-depth-1" alt="south-france-selected-tour南法旅游精选路线" %}
-    </a>
-  </div>
-  <div class="col-sm mt-3 mt-md-0">
-    <a href="https://aolitravel.com/tours/">
-      {% include figure.liquid loading="eager" path="assets/img/0tours/0template/2.png" title="south-france-selected-tour" class="img-fluid rounded z-depth-1" alt="south-france-selected-tour南法旅游精选路线" %}
-    </a>
-  </div>
-</div>
-
-<div class="row justify-content-sm-center">
-  <div class="col-sm mt-3 mt-md-0">
-    <a href="https://aolitravel.com/tours/">
-      {% include figure.liquid loading="eager" path="assets/img/0tours/0template/3.png" title="south-france-selected-tour" class="img-fluid rounded z-depth-1" alt="south-france-selected-tour南法旅游精选路线" %}
-    </a>
-  </div>
-  <div class="col-sm mt-3 mt-md-0">
-    <a href="https://aolitravel.com/tours/">
-      {% include figure.liquid loading="eager" path="assets/img/0tours/0template/4.png" title="south-france-selected-tour" class="img-fluid rounded z-depth-1" alt="south-france-selected-tour南法旅游精选路线" %}
-    </a>
-  </div>
-</div>
-
-<div class="row justify-content-sm-center">
-  <div class="col-sm mt-3 mt-md-0">
-    <a href="https://aolitravel.com/tours/">
-      {% include figure.liquid loading="eager" path="assets/img/0tours/0template/5.png" title="south-france-selected-tour" class="img-fluid rounded z-depth-1" alt="south-france-selected-tour南法旅游精选路线" %}
-    </a>
-  </div>
-  <div class="col-sm mt-3 mt-md-0">
-    <a href="https://aolitravel.com/tours/">
-      {% include figure.liquid loading="eager" path="assets/img/0tours/0template/6.png" title="south-france-selected-tour" class="img-fluid rounded z-depth-1" alt="south-france-selected-tour南法旅游精选路线" %}
-    </a>
-  </div>
-</div>
-
-<div class="row justify-content-sm-center">
-  <div class="col-sm mt-3 mt-md-0">
-    <a href="https://aolitravel.com/tours/">
-      {% include figure.liquid loading="eager" path="assets/img/0tours/0template/7.png" title="south-france-selected-tour" class="img-fluid rounded z-depth-1" alt="south-france-selected-tour南法旅游精选路线" %}
-    </a>
-  </div>
-  <div class="col-sm mt-3 mt-md-0">
-    <a href="https://aolitravel.com/tours/">
-      {% include figure.liquid loading="eager" path="assets/img/0tours/0template/8.png" title="south-france-selected-tour" class="img-fluid rounded z-depth-1" alt="south-france-selected-tour南法旅游精选路线" %}
-    </a>
-  </div>
-</div>
-
-<div class="row justify-content-sm-center">
-  <div class="col-sm mt-3 mt-md-0">
-    <a href="https://aolitravel.com/tours/">
-      {% include figure.liquid loading="eager" path="assets/img/0tours/0template/9.png" title="south-france-selected-tour" class="img-fluid rounded z-depth-1" alt="south-france-selected-tour南法旅游精选路线" %}
-    </a>
-  </div>
-  <div class="col-sm mt-3 mt-md-0">
-    <a href="https://aolitravel.com/tours/">
-      {% include figure.liquid loading="eager" path="assets/img/0tours/0template/10.png" title="south-france-selected-tour" class="img-fluid rounded z-depth-1" alt="south-france-selected-tour南法旅游精选路线" %}
-    </a>
-  </div>
-</div>
-
-<div class="row justify-content-sm-center">
-  <div class="col-sm mt-3 mt-md-0">
-    <a href="https://aolitravel.com/tours/">
-      {% include figure.liquid loading="eager" path="assets/img/0tours/0template/11.png" title="south-france-selected-tour" class="img-fluid rounded z-depth-1" alt="south-france-selected-tour南法旅游精选路线" %}
-    </a>
-  </div>
-  <div class="col-sm mt-3 mt-md-0">
-    <a href="https://aolitravel.com/tours/">
-      {% include figure.liquid loading="eager" path="assets/img/0tours/0template/12.png" title="south-france-selected-tour" class="img-fluid rounded z-depth-1" alt="south-france-selected-tour南法旅游精选路线" %}
-    </a>
-  </div>
-</div>
-
-
----

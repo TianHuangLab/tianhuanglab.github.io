@@ -1,0 +1,35 @@
+{% if include.area_id %}
+  {% assign area = site.data.hotel_areas[include.area_id] %}
+{% endif %}
+
+{% assign title = include.title | default: area.display_name %}
+{% assign text = include.text | default: area.description %}
+{% assign button = include.button | default: area.button | default: "查看住宿" %}
+{% assign platform = include.platform | default: area.preferred_platform | default: "trip" %}
+{% assign href = include.href | default: area.affiliate_urls[platform] %}
+
+{% assign button_class = "btn btn-sm btn-outline-primary" %}
+{% if include.primary == true or include.primary == "true" %}
+  {% assign button_class = "btn btn-sm btn-primary text-white" %}
+{% endif %}
+
+<div class="col-md-4 mb-4">
+  <div class="card h-100">
+    <div class="card-body">
+      <h3 class="h5 card-title">{{ title }}</h3>
+      <p class="card-text">{{ text }}</p>
+      {% if area.best_for %}
+        <ul class="small pl-3 mb-3">
+          {% for item in area.best_for limit: 2 %}
+            <li>{{ item }}</li>
+          {% endfor %}
+        </ul>
+      {% endif %}
+      {% if href %}
+        <a href="{{ href }}" target="_blank" rel="sponsored nofollow noopener" class="{{ button_class }}">{{ button }}</a>
+      {% else %}
+        <span class="text-muted small">住宿链接待补充</span>
+      {% endif %}
+    </div>
+  </div>
+</div>

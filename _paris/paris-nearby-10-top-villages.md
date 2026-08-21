@@ -26,6 +26,21 @@ Hello!
 
 ---
 
+## 巴黎周边小镇游，住哪里最方便？
+
+如果你准备从巴黎出发看周边小镇，住宿不一定要追求“离景点最近”，更重要的是离对应火车站方便。早上少转一趟地铁，整天都会轻松很多。
+
+- 去 **吉维尼、拉罗什居永、奥维尔小镇**，可以优先看 **圣拉扎尔火车站 / 歌剧院 Saint-Lazare / Opéra** 一带；
+- 去 **枫丹白露、巴比松、莫雷卢万**，可以优先看 **里昂火车站 / 巴士底狱 Gare de Lyon / Bastille** 一带；
+- 去 **普罗万、布兰迪堡、圣卢德诺**，可以优先看 **巴黎东站 / 巴黎北站 Gare de l’Est / Gare du Nord** 一带；
+- 如果想看清晨或傍晚的小镇，再考虑 **枫丹白露或普罗万住一晚**。
+
+下面先放几家最实用的住宿参考，重点是青旅、低预算和高性价比酒店；4 星酒店只作为想住舒服一点时的补充。后文会按路线再补充对应区域，不会重复推荐同一家。
+
+{% include hotel-affiliate-hotel-grid.liquid hotel_ids="paris-hostel-trip-123838436,paris-saint-lazare-trip-1574202,paris-gare-lyon-trip-3153419,paris-gare-est-nord-trip-115862975" button="查看实时房价" col="col-md-6" %}
+
+---
+
 ## 1. 拉罗什居永 - 塞纳河畔的"法国最美村庄"
 
 作为法兰西岛唯一入选"法国最美村庄"的地方，拉罗什居永（La Roche-Guyon）坐落在维克桑地区自然公园内，拥有令人惊叹的中世纪城堡。这座始建于1190年的防御要塞后来成为La Rochefoucauld家族的居所，城堡内不同年代的建筑痕迹和家具讲述着悠久的历史。
@@ -38,12 +53,16 @@ Hello!
 
 **实用信息：**
 
-- 交通：从巴黎Saint-Lazare车站至Mantes-la-Jolie，转乘接驳车
+- 交通：从巴黎圣拉扎尔火车站（Saint-Lazare）至 Mantes-la-Jolie，转乘接驳车
 - 官网：[larocheguyon.fr](http://larocheguyon.fr/)
 {% include figure.liquid loading="eager" path="assets/img/49paris-nearby-10-top-villages/paris-nearby-10-top-villages-1a.webp" title="aolitravel.com-visit-paris-nearby-10-villages" class="img-fluid rounded z-depth-1 watermarked" alt="巴黎周边最美小镇指南visit-paris-nearby-10-villages"%}
 {% include figure.liquid loading="eager" path="assets/img/49paris-nearby-10-top-villages/paris-nearby-10-top-villages-1b.webp" title="aolitravel.com-visit-paris-nearby-10-villages" class="img-fluid rounded z-depth-1 watermarked" alt="巴黎周边最美小镇指南visit-paris-nearby-10-villages"%}
 
 ---
+
+**如果你主要走塞纳河西北方向的小镇：** 住在圣拉扎尔火车站 / 歌剧院一带会比较省心。这里去 Saint-Lazare 方便，晚上回巴黎后吃饭、散步也不荒凉。
+
+{% include hotel-affiliate-hotel-grid.liquid hotel_ids="paris-saint-lazare-trip-717696,paris-saint-lazare-trip-2098489" button="查看实时房价" col="col-md-6" %}
 
 ## 2. 普罗万 - 被时光遗忘的中世纪瑰宝
 
@@ -58,10 +77,22 @@ Hello!
 
 **交通指南：**
 
-- 巴黎东站(Gare de l'Est)乘Transilien至Provins站
+- 巴黎东站（Gare de l’Est）乘 Transilien 至 Provins 站
 - 官网：[provins.net](https://www.provins.net/)
 {% include figure.liquid loading="eager" path="assets/img/49paris-nearby-10-top-villages/paris-nearby-10-top-villages-2a.webp" title="aolitravel.com-visit-paris-nearby-10-villages" class="img-fluid rounded z-depth-1 watermarked" alt="巴黎周边最美小镇指南visit-paris-nearby-10-villages"%}
 {% include figure.liquid loading="eager" path="assets/img/49paris-nearby-10-top-villages/paris-nearby-10-top-villages-2b.webp" title="aolitravel.com-visit-paris-nearby-10-villages" class="img-fluid rounded z-depth-1 watermarked" alt="巴黎周边最美小镇指南visit-paris-nearby-10-villages"%}
+
+---
+
+**如果你想把普罗万玩得从容一点：** 可以住巴黎东站 / 巴黎北站附近，或者在普罗万住一晚。前者适合一日往返，后者适合想看中世纪小城清晨和傍晚的游客。
+
+{% include hotel-affiliate-hotel-grid.liquid hotel_ids="provins-trip-716025,paris-gare-est-nord-trip-718135" button="查看实时房价" col="col-md-6" %}
+
+
+{% include hotel-affiliate-hotel-carousel.liquid title="住在巴黎西北：去吉维尼、鲁昂一带更省心" intro="如果这趟巴黎周边游偏向吉维尼、鲁昂、奥维尔小镇，住在圣拉扎尔火车站 / 歌剧院 Saint-Lazare / Opéra 一带会比较方便。下面几家更适合想兼顾交通、预算和巴黎市区体验的旅客。" hotel_ids="hotel_darcet_paris,hotel_fior_d_aliza_paris,maison_mere_paris,le_village_montmartre" %}
+
+
+{% include hotel-affiliate-hotel-carousel.liquid title="普罗万方向：看巴黎东站 / 巴黎北站，或住进中世纪小城" intro="普罗万适合从巴黎东站 / 巴黎北站 Gare de l’Est / Gare du Nord 方向出发。如果不想当天来回赶车，住进普罗万老城附近会更有旅行感。" hotel_ids="little_hotel_paris,hotel_este_paris,le_cesar_hotel_provins" %}
 
 ---
 
@@ -77,7 +108,7 @@ Hello!
 
 **如何前往：**
 
-- 巴黎里昂车站(Gare de Lyon)乘火车至Fontainebleau-Avon
+- 巴黎里昂火车站（Gare de Lyon）乘火车至 Fontainebleau-Avon
 - 旅游信息：[fontainebleau-tourisme.com](https://www.fontainebleau-tourisme.com/)
 
 如果你想了解更详细的枫丹白露宫游览攻略，请移步我的这篇攻略：
@@ -85,6 +116,11 @@ Hello!
 [《枫丹白露宫一日游攻略：解锁皇室秘境！》](https://aolitravel.com/paris/visit-fontainebleau/)
 {% include figure.liquid loading="eager" path="assets/img/49paris-nearby-10-top-villages/paris-nearby-10-top-villages-3a.webp" title="aolitravel.com-visit-paris-nearby-10-villages" class="img-fluid rounded z-depth-1 watermarked" alt="巴黎周边最美小镇指南visit-paris-nearby-10-villages"%}
 {% include figure.liquid loading="eager" path="assets/img/49paris-nearby-10-top-villages/paris-nearby-10-top-villages-3b.webp" title="aolitravel.com-visit-paris-nearby-10-villages" class="img-fluid rounded z-depth-1 watermarked" alt="巴黎周边最美小镇指南visit-paris-nearby-10-villages"%}
+
+---
+
+
+{% include hotel-affiliate-hotel-carousel.liquid title="枫丹白露方向：优先看里昂火车站或当地住一晚" intro="如果计划去枫丹白露，住在里昂火车站 / 巴士底狱 Gare de Lyon / Bastille 一带，交通衔接会轻松一些。想看清晨城堡或森林，也可以直接在枫丹白露住一晚。" hotel_ids="hotel_locomo_gare_de_lyon,hotel_de_venise_paris,the_people_paris_bercy,campanile_fontainebleau,aigle_noir_fontainebleau" %}
 
 ---
 
@@ -104,6 +140,16 @@ Hello!
 - 官网：[barbizon.fr](http://www.barbizon.fr/)
 {% include figure.liquid loading="eager" path="assets/img/49paris-nearby-10-top-villages/paris-nearby-10-top-villages-4a.webp" title="aolitravel.com-visit-paris-nearby-10-villages" class="img-fluid rounded z-depth-1 watermarked" alt="巴黎周边最美小镇指南visit-paris-nearby-10-villages"%}
 {% include figure.liquid loading="eager" path="assets/img/49paris-nearby-10-top-villages/paris-nearby-10-top-villages-4b.webp" title="aolitravel.com-visit-paris-nearby-10-villages" class="img-fluid rounded z-depth-1 watermarked" alt="巴黎周边最美小镇指南visit-paris-nearby-10-villages"%}
+
+**要不要在枫丹白露或巴比松住一晚？**
+
+如果你只看枫丹白露宫，当天从巴黎往返就够了；但如果你想把枫丹白露宫、森林、巴比松和莫雷卢万放在一起，我会更建议住一晚。这样第二天不用赶着回巴黎，也能把小镇和森林走得松一点。
+
+<div class="mb-4">
+  <a href="{{ '/paris/visit-fontainebleau/' | relative_url }}" class="btn btn-sm btn-primary text-white mr-2 mb-2">看枫丹白露宫攻略</a>
+</div>
+
+{% include hotel-affiliate-hotel-grid.liquid hotel_ids="fontainebleau-trip-2542612,fontainebleau-trip-41627596" button="查看实时房价" col="col-md-6" %}
 
 ---
 
@@ -220,6 +266,7 @@ Hello!
 {% include figure.liquid loading="eager" path="assets/img/49paris-nearby-10-top-villages/paris-nearby-10-top-villages-10b.webp" title="aolitravel.com-visit-paris-nearby-10-villages" class="img-fluid rounded z-depth-1 watermarked" alt="巴黎周边最美小镇指南visit-paris-nearby-10-villages"%}
 
 ---
+
 
 ## 旅行小贴士
 
@@ -386,3 +433,6 @@ Hello!
 **Blog**
 
 [更多关于我的生活记录和感受](https://aolitravel.com/blog/)
+
+
+{% include hotel-affiliate-hotel-carousel.liquid title="预算有限：巴黎也可以这样选住宿" intro="如果你更想把预算留给博物馆、餐厅和周边一日游，可以优先看交通方便、评价稳定的青旅或经济型酒店。不要只看低价，位置和夜间回酒店是否方便也很重要。" hotel_ids="fraternity_hotel_paris,the_people_paris_bercy,hotel_darcet_paris,little_hotel_paris" %}

@@ -1,0 +1,15 @@
+{% assign areas = include.areas | default: page.hotel_areas %}
+
+{% if areas %}
+  {% include hotel-affiliate-disclosure.liquid %}
+
+  <div class="row">
+    {% for area_id in areas %}
+      {% if forloop.first %}
+        {% include hotel-affiliate-area-card.liquid area_id=area_id primary=true %}
+      {% else %}
+        {% include hotel-affiliate-area-card.liquid area_id=area_id %}
+      {% endif %}
+    {% endfor %}
+  </div>
+{% endif %}

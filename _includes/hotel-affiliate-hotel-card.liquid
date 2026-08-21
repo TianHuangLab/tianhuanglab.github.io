@@ -1,0 +1,28 @@
+{% assign hotel = include.hotel %}
+{% assign hotel_url = include.href | default: hotel.affiliate_url | default: hotel.url | default: hotel.link | default: hotel.affiliate_urls.trip | default: hotel.affiliate_urls.hotels | default: hotel.affiliate_urls.expedia %}
+{% assign hotel_name = hotel.hotel_name | default: hotel.name | default: hotel.title %}
+{% assign hotel_alt = hotel.image_alt | default: hotel_name %}
+{% assign hotel_copy = hotel.reader_note | default: hotel.summary | default: hotel.description | default: hotel.recommendation_reason %}
+{% if hotel and hotel_url %}
+<div class="hotel-affiliate-card">
+  {% if hotel.image %}
+  <a class="hotel-affiliate-card__image" href="{{ hotel_url }}" target="_blank" rel="nofollow sponsored noopener">
+    <img src="{{ hotel.image | relative_url }}" alt="{{ hotel_alt | escape }}" loading="lazy">
+  </a>
+  {% endif %}
+  <div class="hotel-affiliate-card__body">
+    <div class="hotel-affiliate-card__meta">
+      {% if hotel.area %}<span>{{ hotel.area }}</span>{% endif %}
+      {% if hotel.category %}<span>{{ hotel.category }}</span>{% endif %}
+    </div>
+    <h4>{{ hotel_name }}</h4>
+    {% if hotel_copy %}
+      <p>{{ hotel_copy }}</p>
+    {% endif %}
+    {% if hotel.best_for %}
+      <p class="hotel-affiliate-card__best"><strong>适合：</strong>{{ hotel.best_for | join: "、" }}</p>
+    {% endif %}
+    <a class="hotel-affiliate-card__button" href="{{ hotel_url }}" target="_blank" rel="nofollow sponsored noopener">{{ include.button | default: "查看实时房价" }}</a>
+  </div>
+</div>
+{% endif %}
