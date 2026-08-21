@@ -1,42 +1,28 @@
-- platform: trip
+trip:
   name: "Trip.com"
   status: active
-  priority: P1
+  priority: 1
+  rel: "sponsored nofollow noopener"
   best_for:
     - "中文用户"
-    - "酒店、机票、火车一起查询"
-    - "多币种支付"
-  link_policy: "优先使用 Trip.com affiliate deep link；没有具体酒店深链时，使用城市或区域搜索页链接。"
-  rel: "sponsored nofollow noopener"
+    - "法国及欧洲酒店预订"
+    - "多币种和中文界面"
 
-- platform: hotels
-  name: "Hotels.com France"
+hotels:
+  name: "Hotels.com"
   status: active
-  priority: P2
+  priority: 2
+  rel: "sponsored nofollow noopener"
   best_for:
-    - "比较酒店位置和价格"
     - "欧美用户"
-    - "会员权益"
-  link_policy: "作为 Trip.com 的补充平台，适合城市住宿推荐和价格比较。"
-  rel: "sponsored nofollow noopener"
+    - "酒店价格比较"
+    - "会员用户"
 
-- platform: expedia
-  name: "Expedia France"
+expedia:
+  name: "Expedia"
   status: active
-  priority: P2
-  best_for:
-    - "北美、英国、欧洲用户"
-    - "酒店、机票、租车和套餐比较"
-  link_policy: "适合非中文用户、组合产品和自由行工具场景。"
+  priority: 3
   rel: "sponsored nofollow noopener"
-
-- platform: economybookings
-  name: "EconomyBookings"
-  status: active
-  priority: P2
   best_for:
-    - "自驾用户"
-    - "机场取还车"
-    - "租车比价"
-  link_policy: "只放在自驾、机场、路线规划和工具页中，不混入酒店推荐卡片。"
-  rel: "sponsored nofollow noopener"
+    - "欧美市场"
+    - "酒店、机票和行程组合"

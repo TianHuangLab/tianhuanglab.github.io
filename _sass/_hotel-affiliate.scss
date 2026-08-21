@@ -1,0 +1,139 @@
+.hotel-affiliate-grid {
+    margin-top: 0.75rem;
+    margin-bottom: 0.5rem;
+  
+    > [class*="col-"] {
+      display: flex;
+    }
+  }
+  
+  .hotel-affiliate-card {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+  
+    border: 1px solid rgba(0, 0, 0, 0.08);
+    border-radius: 14px;
+    overflow: hidden;
+  
+    background: var(--global-card-bg-color, var(--global-bg-color, #fff));
+    box-shadow: 0 4px 14px rgba(0, 0, 0, 0.05);
+  }
+  
+  .hotel-affiliate-card__image {
+    display: block;
+  }
+  
+  .hotel-affiliate-card__image img {
+    display: block;
+    width: 100%;
+    height: 190px;
+    object-fit: cover;
+  }
+  
+  .hotel-affiliate-card__body {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    gap: 0.55rem;
+  
+    padding: 1rem;
+  }
+  
+  .hotel-affiliate-card__meta {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4rem;
+  
+    font-size: 0.78rem;
+    color: var(--global-theme-color);
+  }
+  
+  .hotel-affiliate-card__title {
+    margin: 0;
+  
+    font-size: 1rem;
+    font-weight: 700;
+    line-height: 1.4;
+  }
+  
+  .hotel-affiliate-card__body p {
+    margin: 0;
+  
+    font-size: 0.92rem;
+    line-height: 1.65;
+  }
+  
+  .hotel-affiliate-card__caution {
+    color: var(--global-text-color-light, #666);
+  }
+  
+  .hotel-affiliate-card__button {
+    align-self: flex-start;
+    margin-top: auto;
+  
+    padding: 0.55rem 0.9rem;
+  
+    border: 1px solid var(--global-theme-color);
+    border-radius: 10px;
+  
+    background: var(--global-theme-color);
+    color: #fff !important;
+  
+    text-decoration: none !important;
+    font-weight: 600;
+  }
+  
+  .hotel-affiliate-card__button:hover {
+    filter: brightness(0.95);
+    color: #fff !important;
+  }
+  
+  /* Carousel */
+  
+  .hotel-affiliate-carousel {
+    margin: 1.75rem 0 2rem;
+    padding: 1rem;
+  
+    border: 1px solid rgba(123, 63, 228, 0.16);
+    border-radius: 14px;
+  }
+  
+  .hotel-affiliate-carousel__header h3 {
+    margin: 0 0 0.4rem;
+    font-size: 1.12rem;
+  }
+  
+  .hotel-affiliate-carousel__header p {
+    margin: 0 0 1rem;
+    line-height: 1.75;
+    color: var(--global-text-color-light, #666);
+  }
+  
+  .hotel-affiliate-carousel__rail {
+    display: flex;
+    gap: 1rem;
+  
+    overflow-x: auto;
+    scroll-snap-type: x proximity;
+  
+    padding: 0.25rem 0.25rem 0.85rem;
+    scrollbar-width: thin;
+  }
+  
+  .hotel-affiliate-carousel__item {
+    flex: 0 0 min(360px, 88vw);
+    scroll-snap-align: start;
+  }
+  
+  @media (max-width: 576px) {
+    .hotel-affiliate-card__image img {
+      height: 165px;
+    }
+  
+    .hotel-affiliate-carousel {
+      margin: 1.35rem 0;
+      padding: 0.85rem;
+    }
+  }

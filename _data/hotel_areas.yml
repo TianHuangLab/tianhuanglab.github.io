@@ -1,82 +1,62 @@
 paris-saint-lazare-opera:
+  status: active
   city: paris
-  area_name: "Saint-Lazare / Opéra"
-  display_name: "住 Saint-Lazare / Opéra"
+  display_name: "圣拉扎尔车站 / 歌剧院"
+  local_name: "Saint-Lazare / Opéra"
   best_for:
-    - "想去吉维尼、奥维尔小镇、拉罗什居永"
-    - "想兼顾巴黎市区、购物、餐馆和交通"
-    - "第一次来巴黎，希望住宿位置省心"
-  description: "适合把巴黎西北方向小镇放进行程，也想兼顾巴黎市区的客人。这里交通、餐馆、购物都方便，第一次来巴黎会比较省心。"
-  caution: "旺季价格会偏高，建议优先看评分、地铁距离和夜间回酒店是否方便。"
-  affiliate_urls:
-    trip: "https://www.trip.com/t/GfnOXXnehR2"
-    hotels: "https://www.kqzyfj.com/click-101555905-14050247"
-    expedia: "https://www.kqzyfj.com/click-101555905-16949016"
-  preferred_platform: trip
-  button: "查这一区域住宿"
+    - "吉维尼、奥维尔、拉罗什居永方向"
+    - "想兼顾巴黎市区和周边一日游"
+  description: "如果行程里有较多巴黎西北方向的小镇，这一带会比较省事。晚上回巴黎以后，吃饭、购物和市区交通也方便。"
+  caution: "旺季价格偏高，别只看离火车站几百米，也要看夜间回酒店的路线和近期评价。"
+  guide_url: "/paris/paris-map-arr/"
+  guide_button: "看巴黎住宿区域攻略"
 
 paris-gare-de-lyon-bastille:
+  status: active
   city: paris
-  area_name: "Gare de Lyon / Bastille"
-  display_name: "住 Gare de Lyon / Bastille"
+  display_name: "巴黎里昂火车站 / 巴士底狱"
+  local_name: "Gare de Lyon / Bastille"
   best_for:
-    - "想去枫丹白露、巴比松、莫雷卢万"
-    - "后续计划坐 TGV 去南法"
-    - "希望交通方便，但不想住得太游客化"
-  description: "适合把枫丹白露、巴比松、莫雷卢万放进行程的人。如果后面还要坐 TGV 去南法，这一带也很方便。"
-  caution: "火车站附近酒店差异比较大，别只看价格，要认真看街区和近期评价。"
-  affiliate_urls:
-    trip: "https://www.trip.com/t/GfnOXXnehR2"
-    hotels: "https://www.kqzyfj.com/click-101555905-14050247"
-    expedia: "https://www.kqzyfj.com/click-101555905-16949016"
-  preferred_platform: trip
-  button: "对比这一区域住宿"
+    - "枫丹白露、巴比松、莫雷卢万方向"
+    - "之后准备坐 TGV 前往法国南部"
+  description: "如果巴黎周边行程主要往东南方向走，住这一带会少很多横穿巴黎的交通时间。"
+  caution: "火车站周围不同街道住宿体验差异不小，带老人孩子时尤其要看具体位置。"
+  guide_url: "/paris/paris-map-arr/"
+  guide_button: "看巴黎住宿区域攻略"
 
 paris-gare-est-nord:
+  status: active
   city: paris
-  area_name: "Gare de l’Est / Gare du Nord"
-  display_name: "住 Gare de l’Est / Gare du Nord"
+  display_name: "巴黎东站 / 巴黎北站"
+  local_name: "Gare de l’Est / Gare du Nord"
   best_for:
-    - "想去普罗万、布兰迪堡、圣卢德诺"
-    - "需要衔接欧洲之星、北站或东站火车"
-    - "预算敏感，但仍想交通方便"
-  description: "适合去普罗万、中世纪小镇和巴黎东部路线。这里酒店选择多，但要认真看街区和评价，别只按最低价排序。"
-  caution: "这一区域便利，但街区感受差异明显。带老人孩子或晚归较多时，要优先看位置和评价。"
-  affiliate_urls:
-    trip: "https://www.trip.com/t/GfnOXXnehR2"
-    hotels: "https://www.kqzyfj.com/click-101555905-14050247"
-    expedia: "https://www.kqzyfj.com/click-101555905-16949016"
-  preferred_platform: trip
-  button: "查看这一区域住宿"
+    - "普罗万和巴黎东部方向"
+    - "需要东站或北站火车衔接"
+  description: "去普罗万一日往返时，住得离巴黎东站近一点会很实用，尤其是准备早出发的人。"
+  caution: "交通非常方便，但街区感受差异比较明显，订房时不要只按最低价格排序。"
+  guide_url: "/paris/paris-map-arr/"
+  guide_button: "看巴黎住宿区域攻略"
 
-paris-nearby-village-overnight:
-  city: paris
-  area_name: "枫丹白露 / Vernon-Giverny / 普罗万"
-  display_name: "小镇慢游住一晚"
+fontainebleau-centre:
+  status: active
+  city: fontainebleau
+  display_name: "枫丹白露市中心"
+  local_name: "Fontainebleau"
   best_for:
-    - "想看清晨或傍晚的小镇"
-    - "不想赶末班火车回巴黎"
-    - "想把枫丹白露、巴比松、莫雷卢万连起来"
-  description: "适合不想赶末班车、想看清晨或傍晚小镇的人。优先看枫丹白露、Vernon / Giverny、普罗万这几类节点。"
-  caution: "小镇住宿选择少，适合慢游；如果第二天要赶飞机或火车，还是住回巴黎更稳。"
-  affiliate_urls:
-    trip: "https://www.trip.com/t/GfnOXXnehR2"
-    hotels: "https://www.kqzyfj.com/click-101555905-14050247"
-    expedia: "https://www.kqzyfj.com/click-101555905-16949016"
-  preferred_platform: trip
-  button: "查周边小镇住宿"
+    - "枫丹白露宫、森林、巴比松"
+    - "准备在这一带住一晚"
+  description: "如果准备把枫丹白露周边连起来玩，当地住一晚比第二天再从巴黎重新出发舒服很多。"
+  caution: "如果只是看枫丹白露宫，没有必要为了住宿专门换酒店。"
+  guide_url: "/paris/visit-fontainebleau/"
+  guide_button: "看枫丹白露攻略"
 
-paris-budget-hostel:
-  city: paris
-  area_name: "巴黎高性价比青旅"
-  display_name: "预算友好住宿"
+provins-centre:
+  status: active
+  city: provins
+  display_name: "普罗万"
+  local_name: "Provins"
   best_for:
-    - "一个人或预算敏感的旅行者"
-    - "想把住宿预算留给交通、门票和体验"
-    - "不介意房间更简单，更看重位置和价格"
-  description: "适合预算有限、一个人旅行，或只是想找一间位置还算方便、价格更轻的巴黎住宿。青旅和经济型住宿要认真看房型、评分和近期评价。"
-  caution: "如果带老人孩子、行李很多，或对安静和私密性要求高，建议优先看普通酒店。"
-  affiliate_urls:
-    trip: "https://www.trip.com/hotels/detail/?cityEnName=Paris&cityId=192&hotelId=123838436&locale=en-XX&Allianceid=5840493&SID=157301299&trip_sub1=paris_nearby_villages_paris_hostel&trip_sub3=D19372663"
-  preferred_platform: trip
-  button: "查看预算友好住宿"
+    - "想看清晨和傍晚的中世纪古城"
+    - "不想当天赶回巴黎"
+  description: "普罗万住一晚的价值主要是旅行体验，而不是交通效率。游客散去之后的小镇会安静很多。"
+  caution: "如果第二天有飞机或长途火车，还是回巴黎住更稳。"
