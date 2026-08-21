@@ -1,49 +1,64 @@
-# based on https://distresssignal.org/busting-css-cache-with-jekyll-md5-hash
-# https://gist.github.com/BryanSchuetz/2ee8c115096d7dd98f294362f6a667db
 module Jekyll
   module CacheBust
     class CacheDigester
-      require 'digest/md5'
-      require 'pathname'
-
-      attr_accessor :file_name, :directory
+      require "digest/md5"
 
       def initialize(file_name:, directory: nil)
-        self.file_name = file_name
-        self.directory = directory
+        @file_name = file_name
+        @directory = directory
       end
 
       def digest!
-        [file_name, '?', Digest::MD5.hexdigest(file_contents)].join
+        "#{@file_name}?#{Digest::MD5.hexdigest(contents)}"
       end
 
       private
 
-      def directory_files_content
-        target_path = File.join(directory, '**', '*')
-        Dir[target_path].map{|f| File.read(f) unless File.directory?(f) }.join
+      def contents
+        content = +""
+        # Hash the main source file itself.
+        source_file = local_file_name
+        if source_file && File.file?(source_file)
+          content << source_file
+          content << File.read(source_file)
+        end
+
+        # Also hash all dependency files in the supplied directory.
+        if @directory && Dir.exist?(@directory)
+          Dir[File.join(@directory, "**", "*")]
+            .select { |path| File.file?(path) }
+            .sort
+            .each do |path|
+              content << path
+              content << File.read(path)
+            end
+        end
+        content
       end
 
-      def file_content
-        local_file_name = file_name.slice((file_name.index('assets/')..-1))
-        File.read(local_file_name)
-      end
-
-      def file_contents
-        is_directory? ? file_content : directory_files_content
-      end
-
-      def is_directory?
-        directory.nil?
+      def local_file_name
+        return nil unless @file_name
+        # main.css is generated from assets/css/main.scss.
+        if @file_name.include?("assets/css/main.css")
+          "assets/css/main.scss"
+        else
+          asset_index = @file_name.index("assets/")
+          asset_index ? @file_name[asset_index..] : @file_name
+        end
       end
     end
 
     def bust_file_cache(file_name)
-      CacheDigester.new(file_name: file_name, directory: nil).digest!
+      CacheDigester.new(
+        file_name: file_name
+      ).digest!
     end
 
     def bust_css_cache(file_name)
-      CacheDigester.new(file_name: file_name, directory: 'assets/_sass').digest!
+      CacheDigester.new(
+        file_name: file_name,
+        directory: "_sass"
+      ).digest!
     end
   end
 end
