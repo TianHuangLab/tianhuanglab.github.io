@@ -1,0 +1,233 @@
+paris-saint-lazare-trip-1574202:
+  name: "Hotel Darcet"
+  area: "圣拉扎尔火车站 / 歌剧院 Saint-Lazare / Opéra"
+  category: "高性价比二星"
+  image: "assets/img/hotels/hotel-darcet-paris.webp"
+  affiliate_url: "https://www.trip.com/hotels/detail/?cityEnName=Paris&cityId=192&hotelId=1574202&locale=en-XX&Allianceid=5840493&SID=157301299&trip_sub1=paris_nearby_villages_saint_lazare&trip_sub3=D19371872"
+  reader_note: "适合想控制预算、又希望住在交通方便位置的读者。靠近圣拉扎尔方向，去巴黎西北方向小镇更省心，房间不走奢华路线，但胜在实用。"
+  best_for: "预算优先、去吉维尼或鲁昂方向"
+
+paris-saint-lazare-trip-2098489:
+  name: "Hôtel Fior d’Aliza"
+  area: "圣拉扎尔火车站 / 歌剧院 Saint-Lazare / Opéra"
+  category: "舒适精品酒店"
+  image: "assets/img/hotels/hotel-fior-d-aliza-paris.webp"
+  affiliate_url: "https://www.trip.com/hotels/detail/?cityEnName=Paris&cityId=192&hotelId=2098489&locale=en-XX&Allianceid=5840493&SID=157301299&trip_sub1=paris_nearby_villages_saint_lazare&trip_sub3=D19371872"
+  reader_note: "如果你想住在歌剧院与蒙马特之间，又希望酒店有一点巴黎小而美的氛围，这家比较适合作为舒适型选择。"
+  best_for: "情侣、朋友、想住得更有巴黎感"
+
+paris-saint-lazare-trip-717696:
+  name: "Maison Mère"
+  area: "圣拉扎尔火车站 / 歌剧院 Saint-Lazare / Opéra"
+  category: "四星补充"
+  image: "assets/img/hotels/maison-mere-paris.webp"
+  affiliate_url: "https://www.trip.com/hotels/detail/?cityEnName=Paris&cityId=192&hotelId=717696&locale=en-XX&Allianceid=5840493&SID=157301299&trip_sub1=paris_nearby_villages_saint_lazare&trip_sub3=D19371872"
+  reader_note: "更适合想把巴黎住宿也住得舒服一点的读者。位置在右岸，去歌剧院、蒙马特和圣拉扎尔一带都比较方便。"
+  best_for: "想升级住宿体验、又不想离交通太远"
+
+paris-gare-lyon-trip-45557883:
+  name: "The People - Paris Bercy"
+  area: "里昂火车站 / 巴士底狱 Gare de Lyon / Bastille"
+  category: "青旅/轻预算"
+  image: "assets/img/hotels/the-people-paris-bercy.webp"
+  affiliate_url: "https://www.trip.com/hotels/detail/?cityEnName=Paris&cityId=192&hotelId=45557883&locale=en-XX&Allianceid=5840493&SID=157301299&trip_sub1=paris_nearby_villages_gare_de_lyon&trip_sub3=D19371872"
+  reader_note: "预算有限、一个人或年轻朋友出行，可以看这类青旅型住宿。它更适合把预算留给交通、门票和吃饭的读者。"
+  best_for: "独旅、朋友同行、预算优先"
+
+paris-gare-lyon-trip-3153419:
+  name: "Hôtel de Venise"
+  area: "里昂火车站 / 巴士底狱 Gare de Lyon / Bastille"
+  category: "实用三星"
+  image: "assets/img/hotels/hotel-de-venise-paris.webp"
+  affiliate_url: "https://www.trip.com/hotels/detail/?cityEnName=Paris&cityId=192&hotelId=3153419&locale=en-XX&Allianceid=5840493&SID=157301299&trip_sub1=paris_nearby_villages_gare_de_lyon&trip_sub3=D19371872"
+  reader_note: "适合第二天要从里昂火车站方向出发，又希望住得安静、简单、交通方便的客人。"
+  best_for: "去枫丹白露、家庭或情侣轻预算"
+
+paris-gare-lyon-trip-3915805:
+  name: "Hotel Locomo - Gare de Lyon Bastille"
+  area: "里昂火车站 / 巴士底狱 Gare de Lyon / Bastille"
+  category: "设计感三星"
+  image: "assets/img/hotels/hotel-locomo-gare-de-lyon.webp"
+  affiliate_url: "https://www.trip.com/hotels/detail/?cityEnName=Paris&cityId=192&hotelId=3915805&locale=en-XX&Allianceid=5840493&SID=157301299&trip_sub1=paris_nearby_villages_gare_de_lyon&trip_sub3=D19371872"
+  reader_note: "如果你想住得离里昂火车站很近，又希望房间和公共空间更有设计感，可以重点看这一家。"
+  best_for: "看重交通效率，也想住得舒服一点"
+
+paris-gare-est-nord-trip-718135:
+  name: "Little Hotel"
+  area: "巴黎东站 / 巴黎北站 Gare de l’Est / Gare du Nord"
+  category: "轻预算酒店"
+  image: "assets/img/hotels/little-hotel-paris.webp"
+  affiliate_url: "https://www.trip.com/hotels/detail/?cityEnName=Paris&cityId=192&hotelId=718135&locale=en-XX&Allianceid=5840493&SID=157301299&trip_sub1=paris_nearby_villages_gare_est_nord&trip_sub3=D19371872"
+  reader_note: "适合需要使用巴黎东站或北站、同时预算不想太高的读者。位置不是最浪漫的巴黎，但交通效率不错。"
+  best_for: "去普罗万、香槟方向或转车方便"
+
+paris-gare-est-nord-trip-115862975:
+  name: "Hotel Este"
+  area: "巴黎东站 / 巴黎北站 Gare de l’Est / Gare du Nord"
+  category: "四星补充"
+  image: "assets/img/hotels/hotel-este-paris.webp"
+  affiliate_url: "https://www.trip.com/hotels/detail/?cityEnName=Paris&cityId=192&hotelId=115862975&locale=en-XX&Allianceid=5840493&SID=157301299&trip_sub1=paris_nearby_villages_gare_est_nord&trip_sub3=D19371872"
+  reader_note: "如果你想住在东站/北站附近，但希望酒店更新、更舒服一点，可以把它作为升级选择。"
+  best_for: "想兼顾交通和住宿质感"
+
+paris-hostel-trip-1577797:
+  name: "Le Village Montmartre"
+  area: "蒙马特 Montmartre"
+  category: "青旅/轻预算"
+  image: "assets/img/hotels/le-village-montmartre.webp"
+  affiliate_url: "https://www.trip.com/hotels/detail/?cityEnName=Paris&cityId=192&hotelId=1577797&locale=en-XX&Allianceid=5840493&SID=157301299&trip_sub1=paris_nearby_villages_paris_hostel&trip_sub3=D19371872"
+  reader_note: "适合喜欢蒙马特气氛、预算有限但又想住得有一点巴黎感的读者。更适合轻装出行。"
+  best_for: "独旅、朋友同行、想住蒙马特"
+
+paris-hostel-trip-123838436:
+  name: "Fraternity-Hotel"
+  area: "巴黎东部"
+  category: "青旅/轻预算"
+  image: "assets/img/hotels/fraternity-hotel-paris.webp"
+  affiliate_url: "https://www.trip.com/hotels/detail/?cityEnName=Paris&cityId=192&hotelId=123838436&locale=en-XX&Allianceid=5840493&SID=157301299&trip_sub1=paris_nearby_villages_paris_hostel&trip_sub3=D19372663"
+  reader_note: "适合一个人旅行、预算有限、又希望住得有一点社区感的读者。更偏轻松实用，不适合追求传统酒店服务的人。"
+  best_for: "独旅、年轻朋友、长住预算控制"
+
+fontainebleau-trip-41627596:
+  name: "Campanile Fontainebleau"
+  area: "枫丹白露 Fontainebleau"
+  category: "实用三星"
+  image: "assets/img/hotels/campanile-fontainebleau.webp"
+  affiliate_url: "https://www.trip.com/hotels/detail/?cityEnName=Fontainebleau&cityId=22968&hotelId=41627596&locale=en-XX&Allianceid=5840493&SID=157301299&trip_sub1=paris_nearby_villages_fontainebleau&trip_sub3=D19371872"
+  reader_note: "如果你想在枫丹白露住一晚、第二天慢慢看宫殿或森林，这家胜在位置和实用性。"
+  best_for: "枫丹白露过夜、宫殿和森林慢游"
+
+fontainebleau-trip-2542612:
+  name: "Aigle Noir Fontainebleau MGallery"
+  area: "枫丹白露 Fontainebleau"
+  category: "四星补充"
+  image: "assets/img/hotels/aigle-noir-fontainebleau.webp"
+  affiliate_url: "https://www.trip.com/hotels/detail/?cityEnName=Fontainebleau&cityId=22968&hotelId=2542612&locale=en-XX&Allianceid=5840493&SID=157301299&trip_sub1=paris_nearby_villages_fontainebleau&trip_sub3=D19371872"
+  reader_note: "如果枫丹白露这一晚想住得更有质感，可以看这家四星选择。适合纪念日、亲子或不想太赶的行程。"
+  best_for: "纪念日、亲子、想住得更舒服"
+
+provins-trip-716025:
+  name: "Le César Hôtel"
+  area: "普罗万 Provins"
+  category: "当地住宿"
+  image: "assets/img/hotels/le-cesar-hotel-provins.webp"
+  affiliate_url: "https://www.trip.com/hotels/detail/?cityEnName=Provins&cityId=23711&hotelId=716025&locale=en-XX&Allianceid=5840493&SID=157301299&trip_sub1=paris_nearby_villages_provins&trip_sub3=D19371872"
+  reader_note: "如果你想在普罗万住一晚，看傍晚古城和第二天清晨的安静街巷，这家位置会比当天往返更有旅行感。"
+  best_for: "想看古城夜色和清晨街巷"
+
+hotel_darcet_paris:
+  name: "Hotel Darcet"
+  area: "巴黎西北｜克利希广场 / 蒙马特南侧"
+  category: "二星高性价比"
+  image: "assets/img/hotels/hotel-darcet-paris.webp"
+  affiliate_url: "https://www.trip.com/hotels/detail/?cityEnName=Paris&cityId=192&hotelId=1574202&locale=en-XX&Allianceid=5840493&SID=157301299&trip_sub1=paris_nearby_villages_saint_lazare&trip_sub3=D19371872"
+  reader_note: "位置靠近地铁与圣拉扎尔方向，适合想控制预算、又希望住在交通方便区域的旅客。"
+  best_for: "巴黎周边一日游、预算友好、轻装出行"
+
+hotel_fior_d_aliza_paris:
+  name: "Hôtel Fior d’Aliza"
+  area: "巴黎九区｜歌剧院 / 圣拉扎尔"
+  category: "三星精品"
+  image: "assets/img/hotels/hotel-fior-d-aliza-paris.webp"
+  affiliate_url: "https://www.trip.com/hotels/detail/?cityEnName=Paris&cityId=192&hotelId=2098489&locale=en-XX&Allianceid=5840493&SID=157301299&trip_sub1=paris_nearby_villages_saint_lazare&trip_sub3=D19371872"
+  reader_note: "九区位置比较灵活，去歌剧院、蒙马特和圣拉扎尔都方便，适合作为巴黎周边游的市区落脚点。"
+  best_for: "情侣、朋友、想住得精致一点的旅客"
+
+maison_mere_paris:
+  name: "Maison Mère"
+  area: "巴黎九区｜歌剧院 / 圣拉扎尔"
+  category: "四星舒适"
+  image: "assets/img/hotels/maison-mere-paris.webp"
+  affiliate_url: "https://www.trip.com/hotels/detail/?cityEnName=Paris&cityId=192&hotelId=717696&locale=en-XX&Allianceid=5840493&SID=157301299&trip_sub1=paris_nearby_villages_saint_lazare&trip_sub3=D19371872"
+  reader_note: "设计感和舒适度更好，适合想把巴黎住宿体验也安排得更舒服的客人。"
+  best_for: "四星舒适、情侣、家庭轻奢"
+
+le_village_montmartre:
+  name: "Le Village Montmartre"
+  area: "巴黎蒙马特"
+  category: "青旅 / 经济住宿"
+  image: "assets/img/hotels/le-village-montmartre.webp"
+  affiliate_url: "https://www.trip.com/hotels/detail/?cityEnName=Paris&cityId=192&hotelId=1577797&locale=en-XX&Allianceid=5840493&SID=157301299&trip_sub1=paris_nearby_villages_saint_lazare&trip_sub3=D19371872"
+  reader_note: "适合预算有限、喜欢蒙马特生活感的年轻旅客。去圣拉扎尔方向也不算绕。"
+  best_for: "背包客、独旅、预算优先"
+
+fraternity_hotel_paris:
+  name: "Fraternity-Hotel"
+  area: "巴黎十一区"
+  category: "青旅 / 经济住宿"
+  image: "assets/img/hotels/fraternity-hotel-paris.webp"
+  affiliate_url: "https://www.trip.com/hotels/detail/?cityEnName=Paris&cityId=192&hotelId=123838436&locale=en-XX&Allianceid=5840493&SID=157301299&trip_sub1=paris_nearby_villages_paris_hostel&trip_sub3=D19372663"
+  reader_note: "更适合想把住宿预算留给餐厅、博物馆和日间行程的旅客。"
+  best_for: "独旅、年轻朋友、预算优先"
+
+hotel_locomo_gare_de_lyon:
+  name: "Hotel Locomo - Gare de Lyon Bastille"
+  area: "里昂火车站 / 巴士底狱 Gare de Lyon / Bastille"
+  category: "三星设计感"
+  image: "assets/img/hotels/hotel-locomo-gare-de-lyon.webp"
+  affiliate_url: "https://www.trip.com/hotels/detail/?cityEnName=Paris&cityId=192&hotelId=3915805&locale=en-XX&Allianceid=5840493&SID=157301299&trip_sub1=paris_nearby_villages_gare_de_lyon&trip_sub3=D19371872"
+  reader_note: "离里昂火车站很近，适合计划去枫丹白露，或后续要接法国南部高铁的旅客。"
+  best_for: "枫丹白露方向、高铁衔接、短住"
+
+hotel_de_venise_paris:
+  name: "Hôtel de Venise"
+  area: "里昂火车站 / 巴士底狱 Gare de Lyon / Bastille"
+  category: "三星性价比"
+  image: "assets/img/hotels/hotel-de-venise-paris.webp"
+  affiliate_url: "https://www.trip.com/hotels/detail/?cityEnName=Paris&cityId=192&hotelId=3153419&locale=en-XX&Allianceid=5840493&SID=157301299&trip_sub1=paris_nearby_villages_gare_de_lyon&trip_sub3=D19371872"
+  reader_note: "位置实用，房间风格简单舒服，适合把重点放在出行效率和预算平衡上。"
+  best_for: "家庭、朋友、巴黎东南方向路线"
+
+the_people_paris_bercy:
+  name: "The People - Paris Bercy"
+  area: "巴黎贝西 / 里昂火车站方向"
+  category: "青旅 / 经济住宿"
+  image: "assets/img/hotels/the-people-paris-bercy.webp"
+  affiliate_url: "https://www.trip.com/hotels/detail/?cityEnName=Paris&cityId=192&hotelId=45557883&locale=en-XX&Allianceid=5840493&SID=157301299&trip_sub1=paris_nearby_villages_gare_de_lyon&trip_sub3=D19371872"
+  reader_note: "公共空间和交通都比较友好，适合预算有限但不想住得太将就的旅客。"
+  best_for: "独旅、朋友、年轻旅客"
+
+little_hotel_paris:
+  name: "Little Hotel"
+  area: "巴黎东站 / 巴黎北站 Gare de l’Est / Gare du Nord"
+  category: "二星经济"
+  image: "assets/img/hotels/little-hotel-paris.webp"
+  affiliate_url: "https://www.trip.com/hotels/detail/?cityEnName=Paris&cityId=192&hotelId=718135&locale=en-XX&Allianceid=5840493&SID=157301299&trip_sub1=paris_nearby_villages_gare_est_nord&trip_sub3=D19371872"
+  reader_note: "适合需要靠近东站、北站，准备去普罗万或接火车行程的旅客。"
+  best_for: "普罗万方向、火车衔接、预算友好"
+
+hotel_este_paris:
+  name: "Hotel Este"
+  area: "巴黎东站 / 巴黎北站 Gare de l’Est / Gare du Nord"
+  category: "四星舒适"
+  image: "assets/img/hotels/hotel-este-paris.webp"
+  affiliate_url: "https://www.trip.com/hotels/detail/?cityEnName=Paris&cityId=192&hotelId=115862975&locale=en-XX&Allianceid=5840493&SID=157301299&trip_sub1=paris_nearby_villages_gare_est_nord&trip_sub3=D19371872"
+  reader_note: "如果你想住在东站、北站附近，但又希望房间和公共空间更舒服，可以重点看这一家。"
+  best_for: "四星舒适、火车衔接、短住巴黎"
+
+campanile_fontainebleau:
+  name: "Campanile Fontainebleau"
+  area: "枫丹白露 Fontainebleau"
+  category: "三星实用"
+  image: "assets/img/hotels/campanile-fontainebleau.webp"
+  affiliate_url: "https://www.trip.com/hotels/detail/?cityEnName=Fontainebleau&cityId=22968&hotelId=41627596&locale=en-XX&Allianceid=5840493&SID=157301299&trip_sub1=paris_nearby_villages_fontainebleau&trip_sub3=D19371872"
+  reader_note: "适合想在枫丹白露住一晚、第二天慢慢看城堡或森林的旅客。"
+  best_for: "枫丹白露过夜、城堡游、家庭朋友"
+
+aigle_noir_fontainebleau:
+  name: "Aigle Noir Fontainebleau MGallery"
+  area: "枫丹白露 Fontainebleau"
+  category: "四星精选"
+  image: "assets/img/hotels/aigle-noir-fontainebleau.webp"
+  affiliate_url: "https://www.trip.com/hotels/detail/?cityEnName=Fontainebleau&cityId=22968&hotelId=2542612&locale=en-XX&Allianceid=5840493&SID=157301299&trip_sub1=paris_nearby_villages_fontainebleau&trip_sub3=D19371872"
+  reader_note: "更适合想把枫丹白露安排成一晚小旅行，而不是匆匆当天往返的客人。"
+  best_for: "四星舒适、城堡氛围、慢旅行"
+
+le_cesar_hotel_provins:
+  name: "Le César Hôtel"
+  area: "普罗万 Provins"
+  category: "四星精品"
+  image: "assets/img/hotels/le-cesar-hotel-provins.webp"
+  affiliate_url: "https://www.trip.com/hotels/detail/?cityEnName=Provins&cityId=23711&hotelId=716025&locale=en-XX&Allianceid=5840493&SID=157301299&trip_sub1=paris_nearby_villages_provins&trip_sub3=D19371872"
+  reader_note: "如果想看普罗万清晨或傍晚的中世纪老城，住一晚会比当天往返更有感觉。"
+  best_for: "普罗万过夜、中世纪小镇、情侣朋友"

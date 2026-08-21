@@ -6,6 +6,7 @@
 # 3. 本库优先服务“按文章文意推荐住宿”，不是做酒店排行榜。
 # 4. 酒店价格、评分和房态会变化；页面文案避免写死实时价格。
 
+# Paris nearby villages hotel affiliate recommendations
 - id: paris-saint-lazare-trip-717520
   status: active
   priority: P1

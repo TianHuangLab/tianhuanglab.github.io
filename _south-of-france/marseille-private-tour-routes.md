@@ -3,7 +3,7 @@ layout: page
 title: 马赛出发南法怎么玩？包车路线1到7天这样选
 description: 从马赛老港、卡西斯到普罗旺斯和尼斯方向，按天数帮你选路线。
 permalink: /south-of-france/marseille-private-tour-routes/
-img: assets/img/0custom-travel/custom-travel-private-van-marseille.webp
+img: assets/img/143marseille-private-tour/marseille old port.webp
 importance: 2.2
 category: 南法路线与交通
 related_publications: false
@@ -94,13 +94,13 @@ published: true
   }
 </style>
 
-{% include figure.liquid loading="eager" path="assets/img/0custom-travel/custom-travel-private-van-marseille.webp" title="marseille-private-tour-routes" class="img-fluid rounded z-depth-1" alt="马赛出发南法包车路线，适合家庭小团前往普罗旺斯和蔚蓝海岸" %}
+{% include figure.liquid loading="eager" path="assets/img/143marseille-private-tour/marseille old port.webp" title="marseille-private-tour-routes" class="img-fluid rounded z-depth-1" alt="马赛出发南法包车路线，适合家庭小团前往普罗旺斯和蔚蓝海岸" %}
 
-很多人把马赛（Marseille）当作南法第一站，是因为这里有机场、有 TGV 火车站，也有真正属于地中海的生活气。老港、守护圣母大教堂、卡西斯（Cassis）、普罗旺斯小镇、阿维尼翁（Avignon）、尼斯（Nice）方向，其实都可以从马赛出发慢慢展开。
+很多人把马赛（Marseille）当作南法第一站，是因为这里有机场、有 TGV 火车站，也有真正属于地中海的生活气息，是地中海沿岸最大的城市之一。老港、守护圣母大教堂、卡西斯（Cassis）、普罗旺斯小镇、阿维尼翁（Avignon）、尼斯（Nice）方向，其实都可以从马赛出发慢慢游览。
 
-但马赛出发怎么玩，不能只看“附近有什么景点”。你要先看自己有几天，住在哪里，同行人能不能走，有没有老人孩子，最后是从马赛离开，还是一路玩到尼斯再走。
+但马赛出发怎么玩，不能只看“附近有什么景点”。你要先看看自己计划游览几天，住在哪里，同行人大概是什么情况，有没有老人孩子，最后是返回马赛离开，还是一路玩到尼斯再离开。总之，不同的情况可以优化出不同的行程线路。
 
-我常驻马赛，平时接机、带团、做路线，大部分南法行程也都是从这里开始或在这里收尾。我的感受很简单：**马赛很适合作为南法包车路线的起点，但不适合把所有地方都硬塞进一天。**
+我常驻马赛，平时接机、带团、做路线，大部分南法行程也都是从这里开始或在这里收尾。我的思路很简单：**马赛很适合作为南法包车路线的起点，但不适合把所有方向的行程都硬塞进一天。**
 
 <div class="marseille-route-note">
   <p class="mb-0"><strong>先看结论：</strong>如果只有1天，从马赛老港、守护圣母大教堂和卡西斯开始就很好；如果有2天，可以加普罗旺斯三小镇；如果有4天，马赛、普罗旺斯和蔚蓝海岸可以连起来；如果有7天，才比较适合做一条完整的南法深度路线。</p>
@@ -121,13 +121,13 @@ published: true
 
 ## 1. 马赛适合作为南法出发地吗？
 
-适合，而且很适合。
+适合，而且很适合！
 
-马赛有两个优势。第一，它是南法真正的大城市，航班、火车、酒店、餐厅和港口都比较完整。第二，它的位置很有意思：往西北可以去阿维尼翁、阿尔勒（Arles）和普罗旺斯小镇，往东可以去卡西斯、戛纳（Cannes）、昂蒂布（Antibes）、尼斯、埃兹（Èze）和摩纳哥（Monaco）。
+马赛有两个优势。第一，它是南法真正的大城市，航班、火车、酒店、餐厅和港口都比较完整。第二，它的位置很方便：往西北可以去阿维尼翁、阿尔勒（Arles）和普罗旺斯小镇，往东可以去卡西斯、戛纳（Cannes）、昂蒂布（Antibes）、尼斯、埃兹（Èze）和摩纳哥（Monaco）。
 
 也就是说，你可以把马赛当作一趟南法旅行的开场。
 
-但我也会提醒一句：马赛不是那种“住着不动，所有地方都轻松当天往返”的城市。它更适合做出发点，或者做前两晚的基地。想要把普罗旺斯和蔚蓝海岸都玩得舒服，后面通常还是要看情况换到阿维尼翁、艾克斯普罗旺斯（Aix-en-Provence）或尼斯附近住。
+但我需要提醒的地方是：马赛不是那种“可以连续住一周，所有地方都轻松当天往返”的城市。它更适合做出发点，或者做前两到三晚的基地。想要把普罗旺斯和蔚蓝海岸都玩得舒服，后面通常还是要看情况换到阿维尼翁、艾克斯普罗旺斯（Aix-en-Provence）或尼斯附近住。
 
 <div class="marseille-route-grid">
   <div class="marseille-route-card">
@@ -197,7 +197,7 @@ published: true
 
 ## 4. 有4天：马赛、普罗旺斯、尼斯方向都能放进来
 
-4天是我觉得很实用的一个长度。
+4天是我觉得很舒服的一个南法行程长度，刚好兼顾普罗旺斯+蔚蓝海岸。
 
 它比一日游从容很多，又不像7天那样需要完整假期。第一次来南法，想从马赛出发，同时看普罗旺斯和蔚蓝海岸，4天可以这样安排：
 
@@ -242,15 +242,17 @@ published: true
 - [10天9夜法国深度漫游](https://aolitravel.com/tours/visit-france-10days-tour-paris-marseille-nice-cannes-monaco-avignon-arles/)
 - [蔚蓝海岸尼斯、摩纳哥、戛纳三日游](https://aolitravel.com/south-of-france/nice-eze-monaco-menton-cannes-3days-trip/)
 
+{% include figure.liquid loading="lazy" path="assets/img/143marseille-private-tour/nice colline du chateau.jpg" title="marseille-to-nice-eze-monaco-private-tour" class="img-fluid rounded z-depth-1" alt="从马赛一路前往尼斯、埃兹和摩纳哥的南法包车多日路线" %}
+
 ---
 
 ## 6. 马赛包车和公共交通怎么选？
 
 如果只是马赛市内玩，公共交通和步行就够了。
 
-如果从马赛去卡西斯，公共交通也能做到，只是接驳不一定舒服。去普罗旺斯小镇、塞南克修道院、红土城、圣十字湖（Lac de Sainte-Croix）这些地方，公共交通就会明显消耗时间。
+如果从马赛去卡西斯，公共交通也能做到，只是接驳不一定舒服。去普罗旺斯小镇、塞南克修道院、红土城、圣十字湖（Lac de Sainte-Croix）这些地方，公共交通就会明显消耗你的游览时间。
 
-我会这样判断：
+我会这样总结：
 
 | 你的情况 | 更适合 |
 |---|---|
@@ -281,6 +283,8 @@ published: true
 **误区四：所有南法路线都应该从尼斯开始。**  
 尼斯很适合玩蔚蓝海岸，但如果你想看普罗旺斯和马赛，马赛出发反而更自然。
 
+
+
 ---
 
 ## 8. 如果你住在马赛，我会先问这几个问题
@@ -295,9 +299,9 @@ published: true
 - 能不能接受换一次酒店？
 - 有没有已经订好的门票、餐厅或酒店？
 
-这些问题听起来很细，但它们会直接决定路线。
+这些问题听起来很细，但它们会直接决定行程路线怎么安排。
 
-如果你只说“我想玩南法”，答案会很大；但如果你说“我们一家四口，马赛进出，住三晚，想看卡西斯和小镇，不想太累”，路线马上就清楚很多。
+如果你只说“我想玩南法”，答案会很大；但如果你说“我们一家三口，马赛进出，住三晚，想看卡西斯和小镇，不想太累”，路线马上就清楚很多。欢迎找我聊聊～
 
 <div class="marseille-route-actions">
   <a href="/custom-travel/" class="btn text-white" style="background-color: #6f42c1;">填写马赛出发路线需求</a>
@@ -310,6 +314,9 @@ published: true
 - [马赛城市沙滩指南](https://aolitravel.com/south-of-france/marseille-top-beach-guide/)
 - [南法旅游攻略主题中心](https://aolitravel.com/south-of-france/)
 
+{% include figure.liquid loading="lazy" path="assets/img/143marseille-private-tour/marseille corniche.jpg" title="marseille-to-nice-eze-monaco-private-tour" class="img-fluid rounded z-depth-1" alt="从马赛一路前往尼斯、埃兹和摩纳哥的南法包车多日路线" %}
+
+
 <div class="post-update-note">
-  <p>本文会根据马赛出发路线、南法包车接待经验和实际交通变化持续更新。写这篇文章的目的，是帮你先判断马赛适合怎么玩，再决定是公共交通、自驾，还是安排包车小团。</p>
+  <p>本文会根据马赛出发路线、南法包车接待经验和实际交通变化持续更新。希望能帮你先判断马赛适合怎么玩，再决定是公共交通、自驾，还是安排包车小团。</p>
 </div>
