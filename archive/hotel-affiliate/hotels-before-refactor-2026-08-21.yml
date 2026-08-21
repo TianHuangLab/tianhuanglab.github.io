@@ -1,0 +1,843 @@
+# Hotel Affiliate Database
+#
+# 维护原则：
+# 1. 只有 status: active 的酒店才会被正式推荐组件调用。
+# 2. affiliate 链接必须使用 rel="sponsored nofollow noopener"。
+# 3. 本库优先服务“按文章文意推荐住宿”，不是做酒店排行榜。
+# 4. 酒店价格、评分和房态会变化；页面文案避免写死实时价格。
+
+- id: paris-saint-lazare-trip-717520
+  status: active
+  priority: P1
+  hotel_name: "Hotel France Albion"
+  city: "巴黎"
+  country: "法国"
+  area_id: "paris-saint-lazare-opera"
+  area: "Saint-Lazare / Opéra"
+  address: "11 Rue Notre Dame de Lorette, Paris 9e"
+  hotel_id_trip: "717520"
+  category: "交通便利型酒店"
+  star_level: ""
+  budget_level: "中等预算"
+  nearby:
+    - "Opéra"
+    - "Saint-Lazare"
+    - "巴黎9区"
+  destination_tags:
+    - "巴黎"
+    - "巴黎周边小镇"
+    - "Saint-Lazare"
+  page_contexts:
+    - "paris-nearby-villages"
+  traveler_type:
+    - "第一次来巴黎"
+    - "计划从巴黎坐火车去周边小镇"
+  best_for:
+    - "想兼顾巴黎市区和周边一日游"
+    - "喜欢住在餐馆、地铁和火车站都方便的区域"
+  not_for:
+    - "想住非常安静的郊区"
+  recommendation_reason: "位置在巴黎9区，适合把 Opéra / Saint-Lazare 一带作为巴黎基地。白天去吉维尼、奥维尔或塞纳河谷方向，晚上回市区吃饭散步，会比较省心。"
+  caution_note: "巴黎市区酒店房间普遍不大，预订前建议看近期评价和房型面积。"
+  affiliate_urls:
+    trip: "https://www.trip.com/hotels/detail/?cityEnName=Paris&cityId=192&hotelId=717520&locale=en-XX&Allianceid=5840493&SID=157301299&trip_sub1=paris_nearby_villages_saint_lazare&trip_sub3=D19371872"
+  preferred_platform: "trip"
+  last_checked: "2026-08-20"
+
+- id: paris-saint-lazare-trip-1574202
+  status: active
+  priority: P1
+  hotel_name: "Hotel Darcet"
+  city: "巴黎"
+  country: "法国"
+  area_id: "paris-saint-lazare-opera"
+  area: "Saint-Lazare / Opéra / Batignolles"
+  address: "4 Rue Darcet, Paris 17e"
+  hotel_id_trip: "1574202"
+  image: "assets/img/hotels/paris/hotel-darcet-paris.webp"
+  image_alt: "Hotel Darcet 巴黎酒店外观"
+  category: "高性价比酒店"
+  star_level: ""
+  budget_level: "经济到中等预算"
+  nearby:
+    - "Place de Clichy"
+    - "Batignolles"
+    - "Saint-Lazare"
+  destination_tags:
+    - "巴黎"
+    - "经济型住宿"
+    - "Saint-Lazare"
+  page_contexts:
+    - "paris-nearby-villages"
+  traveler_type:
+    - "预算敏感但想住在交通方便区域"
+    - "白天出城、晚上回巴黎"
+  best_for:
+    - "想控制住宿预算"
+    - "接受住在更生活化一点的街区"
+  not_for:
+    - "想住巴黎最核心景点步行圈"
+  recommendation_reason: "更适合看重实用和性价比的客人。位置不算最游客化，但去 Saint-Lazare 和市区交通都方便，适合把钱留给行程和餐厅。"
+  caution_note: "这类酒店建议重点看房间大小、隔音和近期评价。"
+  affiliate_urls:
+    trip: "https://www.trip.com/hotels/detail/?cityEnName=Paris&cityId=192&hotelId=1574202&locale=en-XX&Allianceid=5840493&SID=157301299&trip_sub1=paris_nearby_villages_saint_lazare&trip_sub3=D19371872"
+  preferred_platform: "trip"
+  last_checked: "2026-08-20"
+
+- id: paris-saint-lazare-trip-718538
+  status: active
+  priority: P2
+  hotel_name: "Hotel Audran"
+  city: "巴黎"
+  country: "法国"
+  area_id: "paris-saint-lazare-opera"
+  area: "Montmartre / Opéra"
+  address: "7 Rue Audran, Paris 18e"
+  hotel_id_trip: "718538"
+  category: "蒙马特经济型酒店"
+  star_level: ""
+  budget_level: "经济到中等预算"
+  nearby:
+    - "Montmartre"
+    - "Abbesses"
+    - "Pigalle"
+  destination_tags:
+    - "巴黎"
+    - "蒙马特"
+    - "经济型住宿"
+  page_contexts:
+    - "paris-nearby-villages"
+  traveler_type:
+    - "喜欢蒙马特氛围"
+    - "想住得有巴黎生活感"
+  best_for:
+    - "想把蒙马特和巴黎周边短途结合起来"
+    - "预算不想太高"
+  not_for:
+    - "带很多行李且不想走坡路"
+  recommendation_reason: "适合喜欢蒙马特街区气质的人。这里比歌剧院一带更有生活感，也更适合晚上在附近散步、喝一杯。"
+  caution_note: "蒙马特有坡，带老人、行李多或晚归较多时，要留意具体位置。"
+  affiliate_urls:
+    trip: "https://www.trip.com/hotels/detail/?cityEnName=Paris&cityId=192&hotelId=718538&locale=en-XX&Allianceid=5840493&SID=157301299&trip_sub1=paris_nearby_villages_saint_lazare&trip_sub3=D19371872"
+  preferred_platform: "trip"
+  last_checked: "2026-08-20"
+
+- id: paris-saint-lazare-trip-730406
+  status: active
+  priority: P2
+  hotel_name: "Hôtel Magellan"
+  city: "巴黎"
+  country: "法国"
+  area_id: "paris-saint-lazare-opera"
+  area: "Batignolles / Monceau"
+  address: "17 Rue Jean-Baptiste Dumas, Paris 17e"
+  hotel_id_trip: "730406"
+  category: "安静街区酒店"
+  star_level: ""
+  budget_level: "中等预算"
+  nearby:
+    - "Batignolles"
+    - "Porte Maillot"
+    - "Monceau"
+  destination_tags:
+    - "巴黎"
+    - "巴黎17区"
+    - "安静住宿"
+  page_contexts:
+    - "paris-nearby-villages"
+  traveler_type:
+    - "想住得安静一点"
+    - "家庭或情侣"
+  best_for:
+    - "不想住在游客最密集的街区"
+    - "更在意夜间休息"
+  not_for:
+    - "想步行到卢浮宫、歌剧院等核心景点"
+  recommendation_reason: "更偏安静、舒服的巴黎17区选择。适合白天出城或进市区玩，晚上希望回到不那么吵的街区休息。"
+  caution_note: "位置不在最核心景点旁，适合能接受地铁或打车衔接的客人。"
+  affiliate_urls:
+    trip: "https://www.trip.com/hotels/detail/?cityEnName=Paris&cityId=192&hotelId=730406&locale=en-XX&Allianceid=5840493&SID=157301299&trip_sub1=paris_nearby_villages_saint_lazare&trip_sub3=D19371872"
+  preferred_platform: "trip"
+  last_checked: "2026-08-20"
+
+- id: paris-saint-lazare-trip-2098489
+  status: active
+  priority: P1
+  hotel_name: "Hôtel Fior d’Aliza"
+  city: "巴黎"
+  country: "法国"
+  area_id: "paris-saint-lazare-opera"
+  area: "Opéra / 9区"
+  address: "39 Rue Lamartine, Paris 9e"
+  hotel_id_trip: "2098489"
+  image: "assets/img/hotels/paris/hotel-fior-d-aliza-paris.webp"
+  image_alt: "Hôtel Fior d’Aliza 巴黎酒店房间"
+  category: "市中心精品型酒店"
+  star_level: ""
+  budget_level: "中等预算"
+  nearby:
+    - "Opéra"
+    - "Grands Boulevards"
+    - "Montmartre"
+  destination_tags:
+    - "巴黎"
+    - "歌剧院"
+    - "精品酒店"
+  page_contexts:
+    - "paris-nearby-villages"
+  traveler_type:
+    - "情侣"
+    - "想兼顾交通和巴黎氛围"
+  best_for:
+    - "想住在巴黎9区，吃饭和交通都方便"
+    - "想要比纯经济酒店更有设计感"
+  not_for:
+    - "只按最低价找住宿"
+  recommendation_reason: "适合想住在巴黎9区、又希望酒店有一点小而美气质的客人。去歌剧院、蒙马特和 Saint-Lazare 都比较顺。"
+  caution_note: "精品型酒店要重点看房型面积和是否适合放大件行李。"
+  affiliate_urls:
+    trip: "https://www.trip.com/hotels/detail/?cityEnName=Paris&cityId=192&hotelId=2098489&locale=en-XX&Allianceid=5840493&SID=157301299&trip_sub1=paris_nearby_villages_saint_lazare&trip_sub3=D19371872"
+  preferred_platform: "trip"
+  last_checked: "2026-08-20"
+
+- id: paris-saint-lazare-trip-717696
+  status: active
+  priority: P1
+  hotel_name: "Maison Mère"
+  city: "巴黎"
+  country: "法国"
+  area_id: "paris-saint-lazare-opera"
+  area: "Opéra / 9区"
+  address: "7 Rue Mayran, Paris 9e"
+  hotel_id_trip: "717696"
+  image: "assets/img/hotels/paris/maison-mere-paris.webp"
+  image_alt: "Maison Mère 巴黎设计房间"
+  category: "舒适设计型酒店"
+  star_level: ""
+  budget_level: "中高预算"
+  nearby:
+    - "Opéra"
+    - "Grands Boulevards"
+    - "Gare du Nord"
+  destination_tags:
+    - "巴黎"
+    - "设计酒店"
+    - "舒适住宿"
+  page_contexts:
+    - "paris-nearby-villages"
+  traveler_type:
+    - "情侣"
+    - "家庭"
+    - "希望酒店本身更舒服"
+  best_for:
+    - "想在巴黎住得更有质感"
+    - "白天出城后，晚上回酒店也有放松感"
+  not_for:
+    - "只想找最低预算住宿"
+  recommendation_reason: "适合把住宿体验也看得比较重要的客人。位置仍在巴黎9区，适合作为城市与周边小镇之间的舒适基地。"
+  caution_note: "旺季价格可能偏高，建议早看早定。"
+  affiliate_urls:
+    trip: "https://www.trip.com/hotels/detail/?cityEnName=Paris&cityId=192&hotelId=717696&locale=en-XX&Allianceid=5840493&SID=157301299&trip_sub1=paris_nearby_villages_saint_lazare&trip_sub3=D19371872"
+  preferred_platform: "trip"
+  last_checked: "2026-08-20"
+
+- id: paris-saint-lazare-trip-2199622
+  status: active
+  priority: P3
+  hotel_name: "Le Regent Montmartre by Hiphophostels"
+  city: "巴黎"
+  country: "法国"
+  area_id: "paris-saint-lazare-opera"
+  area: "Montmartre / Anvers"
+  address: "37 Boulevard Marguerite de Rochechouart, Paris 9e"
+  hotel_id_trip: "2199622"
+  category: "青旅 / 经济型住宿"
+  star_level: ""
+  budget_level: "低预算"
+  nearby:
+    - "Montmartre"
+    - "Sacré-Cœur"
+    - "Anvers"
+  destination_tags:
+    - "巴黎"
+    - "青旅"
+    - "蒙马特"
+  page_contexts:
+    - "paris-nearby-villages"
+  traveler_type:
+    - "独自旅行"
+    - "年轻旅行者"
+    - "预算优先"
+  best_for:
+    - "想把预算留给交通、门票和餐厅"
+    - "接受青旅氛围"
+  not_for:
+    - "带老人孩子"
+    - "对安静和私密性要求高"
+  recommendation_reason: "适合预算优先、也喜欢蒙马特氛围的旅行者。更像城市旅行补给站，不是传统舒适型酒店。"
+  caution_note: "青旅类住宿务必看房型、噪音和安全评价。"
+  affiliate_urls:
+    trip: "https://www.trip.com/hotels/detail/?cityEnName=Paris&cityId=192&hotelId=2199622&locale=en-XX&Allianceid=5840493&SID=157301299&trip_sub1=paris_nearby_villages_saint_lazare&trip_sub3=D19371872"
+  preferred_platform: "trip"
+  last_checked: "2026-08-20"
+
+- id: paris-saint-lazare-trip-1577797
+  status: active
+  priority: P3
+  hotel_name: "Le Village Montmartre"
+  city: "巴黎"
+  country: "法国"
+  area_id: "paris-saint-lazare-opera"
+  area: "Montmartre"
+  address: "20 Rue d'Orsel, Paris 18e"
+  hotel_id_trip: "1577797"
+  image: "assets/img/hotels/paris/le-village-montmartre.webp"
+  image_alt: "Le Village Montmartre 巴黎房间"
+  category: "青旅 / 经济型住宿"
+  star_level: ""
+  budget_level: "低预算"
+  nearby:
+    - "Montmartre"
+    - "Sacré-Cœur"
+    - "Anvers"
+  destination_tags:
+    - "巴黎"
+    - "青旅"
+    - "蒙马特"
+  page_contexts:
+    - "paris-nearby-villages"
+  traveler_type:
+    - "独自旅行"
+    - "学生或年轻游客"
+  best_for:
+    - "喜欢住在蒙马特附近"
+    - "预算优先，接受公共空间和青旅氛围"
+  not_for:
+    - "需要传统酒店服务"
+  recommendation_reason: "适合想住在蒙马特、预算比较克制的旅行者。白天去周边，晚上回到一个有烟火气的巴黎街区。"
+  caution_note: "建议确认具体床位/房型、楼层和取消政策。"
+  affiliate_urls:
+    trip: "https://www.trip.com/hotels/detail/?cityEnName=Paris&cityId=192&hotelId=1577797&locale=en-XX&Allianceid=5840493&SID=157301299&trip_sub1=paris_nearby_villages_saint_lazare&trip_sub3=D19371872"
+  preferred_platform: "trip"
+  last_checked: "2026-08-20"
+
+- id: paris-gare-lyon-trip-45557883
+  status: active
+  priority: P3
+  hotel_name: "The People - Paris Bercy"
+  city: "巴黎"
+  country: "法国"
+  area_id: "paris-gare-de-lyon-bastille"
+  area: "Gare de Lyon / Bercy"
+  address: "28 Boulevard de Reuilly, Paris 12e"
+  hotel_id_trip: "45557883"
+  image: "assets/img/hotels/paris/the-people-paris-bercy.webp"
+  image_alt: "The People - Paris Bercy 公共空间"
+  category: "青旅 / 生活方式住宿"
+  star_level: ""
+  budget_level: "低到中等预算"
+  nearby:
+    - "Bercy"
+    - "Gare de Lyon"
+    - "12区"
+  destination_tags:
+    - "巴黎"
+    - "Gare de Lyon"
+    - "青旅"
+  page_contexts:
+    - "paris-nearby-villages"
+  traveler_type:
+    - "年轻旅行者"
+    - "预算敏感"
+    - "后续要去南法"
+  best_for:
+    - "计划从 Gare de Lyon 出发"
+    - "想住得轻松、有公共空间"
+  not_for:
+    - "想要安静传统酒店"
+  recommendation_reason: "适合从巴黎东南方向出发、或后续要坐 TGV 去南法的旅行者。Bercy 一带交通方便，青旅气质也更轻松。"
+  caution_note: "青旅/生活方式住宿要确认房型、安静度和是否适合自己的旅行方式。"
+  affiliate_urls:
+    trip: "https://www.trip.com/hotels/detail/?cityEnName=Paris&cityId=192&hotelId=45557883&locale=en-XX&Allianceid=5840493&SID=157301299&trip_sub1=paris_nearby_villages_gare_de_lyon&trip_sub3=D19371872"
+  preferred_platform: "trip"
+  last_checked: "2026-08-20"
+
+- id: paris-gare-lyon-trip-2561357
+  status: active
+  priority: P3
+  hotel_name: "Young and Happy Latin Quarter by Hiphophostels"
+  city: "巴黎"
+  country: "法国"
+  area_id: "paris-gare-de-lyon-bastille"
+  area: "Latin Quarter"
+  address: "80 Rue Mouffetard, Paris 5e"
+  hotel_id_trip: "2561357"
+  category: "青旅 / 拉丁区住宿"
+  star_level: ""
+  budget_level: "低预算"
+  nearby:
+    - "Latin Quarter"
+    - "Rue Mouffetard"
+    - "Panthéon"
+  destination_tags:
+    - "巴黎"
+    - "拉丁区"
+    - "青旅"
+  page_contexts:
+    - "paris-nearby-villages"
+  traveler_type:
+    - "独自旅行"
+    - "预算有限但想住巴黎老城区"
+  best_for:
+    - "想住在拉丁区、晚上也有地方散步吃饭"
+    - "接受青旅住宿"
+  not_for:
+    - "需要舒适酒店和大房间"
+  recommendation_reason: "严格说它不在 Gare de Lyon 旁边，但拉丁区生活感很好，也适合想把巴黎市区和短途出行结合起来的年轻旅行者。"
+  caution_note: "如果第二天一早赶火车，要提前确认到车站的时间。"
+  affiliate_urls:
+    trip: "https://www.trip.com/hotels/detail/?cityEnName=Paris&cityId=192&hotelId=2561357&locale=en-XX&Allianceid=5840493&SID=157301299&trip_sub1=paris_nearby_villages_gare_de_lyon&trip_sub3=D19371872"
+  preferred_platform: "trip"
+  last_checked: "2026-08-20"
+
+- id: paris-gare-lyon-trip-3153419
+  status: active
+  priority: P1
+  hotel_name: "Hôtel de Venise"
+  city: "巴黎"
+  country: "法国"
+  area_id: "paris-gare-de-lyon-bastille"
+  area: "Gare de Lyon / Reuilly"
+  address: "4 Rue Chaligny, Paris 12e"
+  hotel_id_trip: "3153419"
+  image: "assets/img/hotels/paris/hotel-de-venise-paris.webp"
+  image_alt: "Hôtel de Venise 巴黎房间"
+  category: "高性价比酒店"
+  star_level: ""
+  budget_level: "中等预算"
+  nearby:
+    - "Gare de Lyon"
+    - "Reuilly"
+    - "Bastille"
+  destination_tags:
+    - "巴黎"
+    - "Gare de Lyon"
+    - "枫丹白露"
+  page_contexts:
+    - "paris-nearby-villages"
+  traveler_type:
+    - "要去枫丹白露方向"
+    - "后续计划坐 TGV 去南法"
+  best_for:
+    - "想住在 Gare de Lyon 附近，但不想太靠车站正门"
+    - "重视交通和价格平衡"
+  not_for:
+    - "想住左岸或卢浮宫附近"
+  recommendation_reason: "适合以 Gare de Lyon 为出发点的人。去枫丹白露、莫雷卢万，或者后续去南法，都比住太远更轻松。"
+  caution_note: "火车站区域酒店差异大，建议看街区、噪音和近期评价。"
+  affiliate_urls:
+    trip: "https://www.trip.com/hotels/detail/?cityEnName=Paris&cityId=192&hotelId=3153419&locale=en-XX&Allianceid=5840493&SID=157301299&trip_sub1=paris_nearby_villages_gare_de_lyon&trip_sub3=D19371872"
+  preferred_platform: "trip"
+  last_checked: "2026-08-20"
+
+- id: paris-gare-lyon-trip-2193471
+  status: active
+  priority: P1
+  hotel_name: "Hotel Palym"
+  city: "巴黎"
+  country: "法国"
+  area_id: "paris-gare-de-lyon-bastille"
+  area: "Gare de Lyon"
+  address: "4 Rue Emile Gilbert, Paris 12e"
+  hotel_id_trip: "2193471"
+  category: "车站便利型酒店"
+  star_level: ""
+  budget_level: "中等预算"
+  nearby:
+    - "Gare de Lyon"
+    - "Bastille"
+    - "Seine"
+  destination_tags:
+    - "巴黎"
+    - "Gare de Lyon"
+    - "TGV"
+  page_contexts:
+    - "paris-nearby-villages"
+  traveler_type:
+    - "需要赶火车"
+    - "计划去枫丹白露或南法"
+  best_for:
+    - "想最大化 Gare de Lyon 的交通便利"
+    - "行李多，不想早上转太多地铁"
+  not_for:
+    - "不喜欢住火车站附近"
+  recommendation_reason: "适合把交通便利放在第一位的人。尤其是要从 Gare de Lyon 出发去枫丹白露、勃艮第或南法时，住近一点真的省力。"
+  caution_note: "便利和街区氛围需要平衡，预订前建议看近期评价。"
+  affiliate_urls:
+    trip: "https://www.trip.com/hotels/detail/?cityEnName=Paris&cityId=192&hotelId=2193471&locale=en-XX&Allianceid=5840493&SID=157301299&trip_sub1=paris_nearby_villages_gare_de_lyon&trip_sub3=D19371872"
+  preferred_platform: "trip"
+  last_checked: "2026-08-20"
+
+- id: paris-gare-lyon-trip-3915805
+  status: active
+  priority: P1
+  hotel_name: "Hotel Locomo - Gare de Lyon Bastille"
+  city: "巴黎"
+  country: "法国"
+  area_id: "paris-gare-de-lyon-bastille"
+  area: "Gare de Lyon / Bastille"
+  address: "6 Bis Rue De Lyon, Paris 12e"
+  hotel_id_trip: "3915805"
+  image: "assets/img/hotels/paris/hotel-locomo-gare-de-lyon.webp"
+  image_alt: "Hotel Locomo Gare de Lyon 房间"
+  category: "车站便利型酒店"
+  star_level: ""
+  budget_level: "中等预算"
+  nearby:
+    - "Gare de Lyon"
+    - "Bastille"
+    - "12区"
+  destination_tags:
+    - "巴黎"
+    - "Gare de Lyon"
+    - "枫丹白露"
+  page_contexts:
+    - "paris-nearby-villages"
+  traveler_type:
+    - "行程衔接紧"
+    - "希望住得离车站很近"
+  best_for:
+    - "早班火车或行李较多"
+    - "后续接南法、里昂或勃艮第"
+  not_for:
+    - "想要度假型酒店"
+  recommendation_reason: "主打就是 Gare de Lyon 附近的便利。适合短住、赶火车，或者把巴黎作为法国长线前后的中转点。"
+  caution_note: "车站附近酒店更要看隔音和房间大小。"
+  affiliate_urls:
+    trip: "https://www.trip.com/hotels/detail/?cityEnName=Paris&cityId=192&hotelId=3915805&locale=en-XX&Allianceid=5840493&SID=157301299&trip_sub1=paris_nearby_villages_gare_de_lyon&trip_sub3=D19371872"
+  preferred_platform: "trip"
+  last_checked: "2026-08-20"
+
+- id: paris-gare-lyon-trip-7511917
+  status: active
+  priority: P2
+  hotel_name: "Hotel Maison Traversière"
+  city: "巴黎"
+  country: "法国"
+  area_id: "paris-gare-de-lyon-bastille"
+  area: "Gare de Lyon / Reuilly"
+  address: "31 Rue Traversière, Paris 12e"
+  hotel_id_trip: "7511917"
+  category: "车站周边酒店"
+  star_level: ""
+  budget_level: "中等预算"
+  nearby:
+    - "Gare de Lyon"
+    - "Bastille"
+    - "12区"
+  destination_tags:
+    - "巴黎"
+    - "Gare de Lyon"
+    - "交通便利"
+  page_contexts:
+    - "paris-nearby-villages"
+  traveler_type:
+    - "想靠近 Gare de Lyon"
+    - "短住巴黎"
+  best_for:
+    - "需要衔接火车和巴黎市区"
+    - "不想每天早上跨城转车"
+  not_for:
+    - "想住巴黎浪漫景点核心区"
+  recommendation_reason: "适合把 Gare de Lyon 当作出行节点的客人。不是为了酒店本身惊艳，而是为了让交通和行李衔接更简单。"
+  caution_note: "建议比较同区域几家酒店的近期评分和房型。"
+  affiliate_urls:
+    trip: "https://www.trip.com/hotels/detail/?cityEnName=Paris&cityId=192&hotelId=7511917&locale=en-XX&Allianceid=5840493&SID=157301299&trip_sub1=paris_nearby_villages_gare_de_lyon&trip_sub3=D19371872"
+  preferred_platform: "trip"
+  last_checked: "2026-08-20"
+
+- id: paris-gare-est-nord-trip-718135
+  status: active
+  priority: P2
+  hotel_name: "Little Hotel"
+  city: "巴黎"
+  country: "法国"
+  area_id: "paris-gare-est-nord"
+  area: "Gare de l’Est / Canal Saint-Martin"
+  address: "3 Rue Pierre Chausson, Paris 10e"
+  hotel_id_trip: "718135"
+  image: "assets/img/hotels/paris/little-hotel-paris.webp"
+  image_alt: "Little Hotel 巴黎酒店房间"
+  category: "东站周边经济型酒店"
+  star_level: ""
+  budget_level: "经济到中等预算"
+  nearby:
+    - "Gare de l’Est"
+    - "Canal Saint-Martin"
+    - "10区"
+  destination_tags:
+    - "巴黎"
+    - "Gare de l’Est"
+    - "普罗万"
+  page_contexts:
+    - "paris-nearby-villages"
+  traveler_type:
+    - "想去普罗万方向"
+    - "需要东站或北站衔接"
+  best_for:
+    - "从东站出发去普罗万、中世纪小镇"
+    - "预算希望更可控"
+  not_for:
+    - "晚归较多且对街区感受很敏感"
+  recommendation_reason: "适合以巴黎东站为出发点的人。去普罗万这类东部路线时，住得近一点，早上会少折腾很多。"
+  caution_note: "东站/北站一带便利但街区差异明显，建议认真看近期评价。"
+  affiliate_urls:
+    trip: "https://www.trip.com/hotels/detail/?cityEnName=Paris&cityId=192&hotelId=718135&locale=en-XX&Allianceid=5840493&SID=157301299&trip_sub1=paris_nearby_villages_gare_est_nord&trip_sub3=D19371872"
+  preferred_platform: "trip"
+  last_checked: "2026-08-20"
+
+- id: paris-gare-est-nord-trip-718506
+  status: active
+  priority: P2
+  hotel_name: "Hotel d'Alsace"
+  city: "巴黎"
+  country: "法国"
+  area_id: "paris-gare-est-nord"
+  area: "Gare de l’Est"
+  address: "85 Boulevard de Strasbourg, Paris 10e"
+  hotel_id_trip: "718506"
+  category: "车站便利型经济酒店"
+  star_level: ""
+  budget_level: "经济预算"
+  nearby:
+    - "Gare de l’Est"
+    - "Gare du Nord"
+    - "10区"
+  destination_tags:
+    - "巴黎"
+    - "Gare de l’Est"
+    - "经济住宿"
+  page_contexts:
+    - "paris-nearby-villages"
+  traveler_type:
+    - "预算优先"
+    - "需要靠近火车站"
+  best_for:
+    - "短住和赶火车"
+    - "用住宿预算换交通便利"
+  not_for:
+    - "想要巴黎度假感或安静街区"
+  recommendation_reason: "更偏实用型选择。适合只住一两晚、重点是赶车和降低预算的人。"
+  caution_note: "这类酒店一定要看近期评价，尤其是清洁、隔音和街区感受。"
+  affiliate_urls:
+    trip: "https://www.trip.com/hotels/detail/?cityEnName=Paris&cityId=192&hotelId=718506&locale=en-XX&Allianceid=5840493&SID=157301299&trip_sub1=paris_nearby_villages_gare_est_nord&trip_sub3=D19371872"
+  preferred_platform: "trip"
+  last_checked: "2026-08-20"
+
+- id: paris-gare-est-nord-trip-115862975
+  status: active
+  priority: P1
+  hotel_name: "Hotel Este"
+  city: "巴黎"
+  country: "法国"
+  area_id: "paris-gare-est-nord"
+  area: "Gare de l’Est"
+  address: "76 Boulevard de Strasbourg, Paris 10e"
+  hotel_id_trip: "115862975"
+  image: "assets/img/hotels/paris/hotel-este-paris.webp"
+  image_alt: "Hotel Este 巴黎房间"
+  category: "东站周边舒适型酒店"
+  star_level: ""
+  budget_level: "中高预算"
+  nearby:
+    - "Gare de l’Est"
+    - "Gare du Nord"
+    - "10区"
+  destination_tags:
+    - "巴黎"
+    - "Gare de l’Est"
+    - "舒适住宿"
+  page_contexts:
+    - "paris-nearby-villages"
+  traveler_type:
+    - "想靠近车站但不想太将就"
+    - "情侣或家庭"
+  best_for:
+    - "去普罗万方向"
+    - "需要东站、北站或欧洲火车衔接"
+  not_for:
+    - "不喜欢车站街区"
+  recommendation_reason: "适合想要东站附近便利，但又希望住宿质感更稳一点的客人。去普罗万或衔接北站、东站都方便。"
+  caution_note: "位置方便，但仍建议确认夜间回酒店的街区感受。"
+  affiliate_urls:
+    trip: "https://www.trip.com/hotels/detail/?cityEnName=Paris&cityId=192&hotelId=115862975&locale=en-XX&Allianceid=5840493&SID=157301299&trip_sub1=paris_nearby_villages_gare_est_nord&trip_sub3=D19371872"
+  preferred_platform: "trip"
+  last_checked: "2026-08-20"
+
+- id: fontainebleau-trip-41627596
+  status: active
+  priority: P1
+  hotel_name: "Campanile Fontainebleau"
+  city: "枫丹白露"
+  country: "法国"
+  area_id: "paris-nearby-village-overnight"
+  area: "Fontainebleau"
+  address: "17-19 Boulevard Magenta, Fontainebleau"
+  hotel_id_trip: "41627596"
+  image: "assets/img/hotels/fontainebleau/campanile-fontainebleau.webp"
+  image_alt: "Campanile Fontainebleau 酒店房间"
+  category: "枫丹白露过夜酒店"
+  star_level: ""
+  budget_level: "中等预算"
+  nearby:
+    - "枫丹白露宫"
+    - "枫丹白露市中心"
+    - "森林"
+  destination_tags:
+    - "枫丹白露"
+    - "巴比松"
+    - "巴黎周边过夜"
+  page_contexts:
+    - "paris-nearby-villages"
+  traveler_type:
+    - "想在枫丹白露住一晚"
+    - "想连玩巴比松、森林和莫雷卢万"
+  best_for:
+    - "不想当天赶回巴黎"
+    - "想把枫丹白露段走慢一点"
+  not_for:
+    - "只看枫丹白露宫半天"
+  recommendation_reason: "适合把枫丹白露宫、森林和巴比松放在一起的人。住一晚之后，第二天不用从巴黎重新出发，节奏舒服很多。"
+  caution_note: "如果第二天要赶飞机或大火车，仍建议住回巴黎。"
+  affiliate_urls:
+    trip: "https://www.trip.com/hotels/detail/?cityEnName=Fontainebleau&cityId=22968&hotelId=41627596&locale=en-XX&Allianceid=5840493&SID=157301299&trip_sub1=paris_nearby_villages_fontainebleau&trip_sub3=D19371872"
+  preferred_platform: "trip"
+  last_checked: "2026-08-20"
+
+- id: fontainebleau-trip-2542612
+  status: active
+  priority: P1
+  hotel_name: "Aigle Noir Fontainebleau MGallery"
+  city: "枫丹白露"
+  country: "法国"
+  area_id: "paris-nearby-village-overnight"
+  area: "Fontainebleau"
+  address: "Fontainebleau"
+  hotel_id_trip: "2542612"
+  image: "assets/img/hotels/fontainebleau/aigle-noir-fontainebleau.webp"
+  image_alt: "Aigle Noir Fontainebleau MGallery 房间"
+  category: "枫丹白露舒适型酒店"
+  star_level: "4星"
+  budget_level: "中高预算"
+  nearby:
+    - "枫丹白露宫"
+    - "枫丹白露市中心"
+  destination_tags:
+    - "枫丹白露"
+    - "4星酒店"
+    - "巴黎周边过夜"
+  page_contexts:
+    - "paris-nearby-villages"
+  traveler_type:
+    - "情侣"
+    - "家庭"
+    - "想把枫丹白露住得更舒服"
+  best_for:
+    - "想靠近枫丹白露宫"
+    - "希望小镇过夜也有品质感"
+  not_for:
+    - "只追求最低价格"
+  recommendation_reason: "如果你想把枫丹白露作为一个真正的停留点，而不是匆匆打卡，这类更舒适的酒店会让小镇夜晚也成为旅程的一部分。"
+  caution_note: "旺季和周末价格波动明显，建议提前比较。"
+  affiliate_urls:
+    trip: "https://www.trip.com/hotels/detail/?cityEnName=Fontainebleau&cityId=22968&hotelId=2542612&locale=en-XX&Allianceid=5840493&SID=157301299&trip_sub1=paris_nearby_villages_fontainebleau&trip_sub3=D19371872"
+  preferred_platform: "trip"
+  last_checked: "2026-08-20"
+
+- id: provins-trip-716025
+  status: active
+  priority: P1
+  hotel_name: "Le César Hôtel"
+  city: "普罗万"
+  country: "法国"
+  area_id: "paris-nearby-village-overnight"
+  area: "Provins"
+  address: "13 Rue Sainte-Croix, Provins"
+  hotel_id_trip: "716025"
+  image: "assets/img/hotels/le-cesar-hotel-provins.webp"
+  image_alt: "Le César Hôtel 普罗万酒店房间"
+  category: "中世纪小镇过夜酒店"
+  star_level: ""
+  budget_level: "中等预算"
+  rating: "8.8"
+  review_count: "44"
+  nearby:
+    - "普罗万中世纪城"
+    - "地下通道"
+    - "普罗万火车站"
+  destination_tags:
+    - "普罗万"
+    - "巴黎周边过夜"
+    - "中世纪小镇"
+  page_contexts:
+    - "paris-nearby-villages"
+  traveler_type:
+    - "想看普罗万夜晚或中世纪节"
+    - "不想赶末班火车"
+  best_for:
+    - "想在中世纪小镇住一晚"
+    - "行程里有普罗万深度游"
+  not_for:
+    - "只计划普罗万半日游"
+  recommendation_reason: "适合想在普罗万慢下来的人。小镇白天热闹，傍晚游客散去后，反而更能感受到中世纪城的气氛。"
+  caution_note: "小镇住宿选择不多，适合慢游；如果第二天赶飞机，建议回巴黎住。"
+  affiliate_urls:
+    trip: "https://www.trip.com/hotels/detail/?cityEnName=Provins&cityId=23711&hotelId=716025&locale=en-XX&Allianceid=5840493&SID=157301299&trip_sub1=paris_nearby_villages_provins&trip_sub3=D19371872"
+  preferred_platform: "trip"
+  last_checked: "2026-08-20"
+
+- id: paris-hostel-trip-123838436
+  status: active
+  priority: P3
+  hotel_name: "Fraternity-Hotel"
+  city: "巴黎"
+  country: "法国"
+  area_id: "paris-budget-hostel"
+  area: "Ménilmontant / 11区"
+  address: "6 Rue Moret, Paris 11e"
+  hotel_id_trip: "123838436"
+  image: "assets/img/hotels/paris/fraternity-hotel-paris.webp"
+  image_alt: "Fraternity-Hotel 巴黎公共空间"
+  category: "青旅 / 低预算住宿"
+  star_level: ""
+  budget_level: "低预算"
+  rating: "8.7"
+  review_count: "50"
+  nearby:
+    - "Ménilmontant"
+    - "Couronnes"
+    - "巴黎11区"
+  destination_tags:
+    - "巴黎"
+    - "青旅"
+    - "低预算"
+  page_contexts:
+    - "paris-nearby-villages"
+  traveler_type:
+    - "独自旅行"
+    - "预算优先"
+    - "年轻旅行者"
+  best_for:
+    - "希望用更低住宿预算留出更多旅行预算"
+    - "能接受热闹街区和青旅氛围"
+  not_for:
+    - "带老人孩子"
+    - "对电梯、安静和私密性要求高"
+  recommendation_reason: "适合预算很敏感、旅行方式更轻的人。它不适合作为所有人的巴黎住宿答案，但对独行和年轻旅行者有参考价值。"
+  caution_note: "资料显示可能无电梯，且街区较热闹；下单前一定看清房型、楼层和近期评价。"
+  affiliate_urls:
+    trip: "https://www.trip.com/hotels/detail/?cityEnName=Paris&cityId=192&hotelId=123838436&locale=en-XX&Allianceid=5840493&SID=157301299&trip_sub1=paris_nearby_villages_paris_hostel&trip_sub3=D19372663"
+  preferred_platform: "trip"
+  last_checked: "2026-08-20"
+
+# Paris nearby villages hotel affiliate recommendations
