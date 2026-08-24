@@ -274,3 +274,57 @@
     padding: 0.85rem;
   }
 }
+
+.hotel-affiliate-stay-block {
+  margin: 1.25rem 0 1.75rem;
+}
+
+.hotel-affiliate-area-links {
+  width: 100%;
+  margin: -0.25rem 0 1.75rem;
+  padding-top: 0.25rem;
+  font-size: 0.92rem;
+  line-height: 1.6;
+}
+
+.hotel-affiliate-area-links__row {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 0.25rem 0.5rem;
+}
+
+.hotel-affiliate-area-links__row + .hotel-affiliate-area-links__row {
+  margin-top: 0.45rem;
+}
+
+.hotel-affiliate-area-links__label {
+  font-weight: 600;
+}
+
+.hotel-affiliate-area-links__items {
+  display: inline-flex;
+  flex-wrap: wrap;
+  gap: 0.25rem 0.5rem;
+}
+
+.hotel-affiliate-area-links a {
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+@media (max-width: 767.98px) {
+  .hotel-affiliate-area-links {
+    margin-top: -0.1rem;
+    font-size: 0.9rem;
+  }
+
+  .hotel-affiliate-area-links__row {
+    display: block;
+  }
+
+  .hotel-affiliate-area-links__label {
+    display: block;
+    margin-bottom: 0.15rem;
+  }
+}

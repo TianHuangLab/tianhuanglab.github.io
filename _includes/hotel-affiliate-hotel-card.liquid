@@ -14,9 +14,9 @@
     {% elsif hotel_url == blank and hotel.affiliate_urls.hotels %}
       {% assign selected_platform = "hotels" %}
       {% assign hotel_url = hotel.affiliate_urls.hotels %}
-    {% elsif hotel_url == blank and hotel.affiliate_urls.expedia %}
-      {% assign selected_platform = "expedia" %}
-      {% assign hotel_url = hotel.affiliate_urls.expedia %}
+    {% elsif hotel_url == blank and hotel.affiliate_urls.booking %}
+      {% assign selected_platform = "booking" %}
+      {% assign hotel_url = hotel.affiliate_urls.booking %}
     {% endif %}
   {% endif %}
 

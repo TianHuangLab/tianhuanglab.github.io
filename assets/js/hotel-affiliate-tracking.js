@@ -47,3 +47,73 @@ document.addEventListener("DOMContentLoaded", function () {
       });
     });
   });
+
+
+  (() => {
+    function initStayAffiliateTracking() {
+      window.dataLayer = window.dataLayer || [];
+  
+      const links = Array.from(
+        document.querySelectorAll("[data-stay-affiliate-link]")
+      );
+  
+      if (!links.length) return;
+  
+      function getPayload(element) {
+        return {
+          affiliate_scope: element.dataset.affiliateScope || "",
+          area_id: element.dataset.areaId || "",
+          city: element.dataset.city || "",
+          affiliate_platform: element.dataset.platform || "",
+          hotel_placement: element.dataset.hotelPlacement || "unspecified",
+          page_path: element.dataset.pagePath || window.location.pathname
+        };
+      }
+  
+      links.forEach((link) => {
+        link.addEventListener("click", () => {
+          window.dataLayer.push({
+            event: "stay_affiliate_click",
+            ...getPayload(link)
+          });
+        });
+      });
+  
+      const seen = new WeakSet();
+  
+      if ("IntersectionObserver" in window) {
+        const observer = new IntersectionObserver(
+          (entries) => {
+            entries.forEach((entry) => {
+              if (!entry.isIntersecting) return;
+              if (entry.intersectionRatio < 0.5) return;
+              if (seen.has(entry.target)) return;
+  
+              seen.add(entry.target);
+  
+              window.dataLayer.push({
+                event: "stay_affiliate_impression",
+                ...getPayload(entry.target)
+              });
+  
+              observer.unobserve(entry.target);
+            });
+          },
+          {
+            threshold: [0.5]
+          }
+        );
+  
+        links.forEach((link) => observer.observe(link));
+      }
+    }
+  
+    if (document.readyState === "loading") {
+      document.addEventListener(
+        "DOMContentLoaded",
+        initStayAffiliateTracking
+      );
+    } else {
+      initStayAffiliateTracking();
+    }
+  })();

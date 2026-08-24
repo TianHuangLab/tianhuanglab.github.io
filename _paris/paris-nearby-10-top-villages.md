@@ -61,6 +61,10 @@ pretty_table: true
 
 如果巴黎酒店还没订，可以先看我的[巴黎住宿安全指南｜区域推荐与避坑攻略](https://aolitravel.com/paris/paris-map-arr/)，先把住宿区域定下来，再考虑具体酒店会容易很多。
 
+如果是一家四口、多人一起住，或者准备在巴黎连续住四五晚以上，我也会强烈推荐你预订整套公寓。尤其是需要厨房、洗衣机或两个独立卧室的时候，不一定非得订两间酒店房。
+
+{% include hotel-affiliate-area-links.liquid city="paris" placement="stay-overview-family" show_compare=false apartment=true %}
+
 ---
 
 ## 路线一：巴黎西北方向
@@ -132,7 +136,11 @@ pretty_table: true
 
 {% include hotel-affiliate-disclosure.liquid %}
 
-{% include hotel-affiliate-hotel-grid.liquid hotel_ids="hotel-darcet-paris,hotel-fior-daliza-paris" placement="after-west-route" button="查看实时房价" col="col-12 col-md-6" limit="2" %}
+{% include hotel-affiliate-stay-block.liquid
+   area_id="paris-saint-lazare-opera"
+   hotel_ids="hotel-darcet-paris,hotel-fior-daliza-paris"
+   placement="after-west-route"
+%}
 
 ---
 
@@ -191,7 +199,6 @@ pretty_table: true
   <a href="{{ '/paris/visit-fontainebleau/' | relative_url }}" class="btn btn-sm btn-primary text-white mr-2 mb-2">看枫丹白露宫攻略</a>
 </div>
 
-{% include hotel-affiliate-hotel-grid.liquid hotel_ids="fontainebleau-trip-2542612,fontainebleau-trip-41627596" button="查看实时房价" col="col-md-6" %}
 
 
 ---
@@ -242,7 +249,12 @@ pretty_table: true
 
 这一晚我更建议直接住枫丹白露，而不是继续住巴黎里昂火车站附近。
 
-{% include hotel-affiliate-hotel-grid.liquid hotel_ids="campanile-fontainebleau,aigle-noir-fontainebleau" placement="after-fontainebleau-route" button="查看实时房价" col="col-12 col-md-6" limit="2" %}
+
+{% include hotel-affiliate-stay-block.liquid
+   area_id="fontainebleau-centre"
+   hotel_ids="campanile-fontainebleau,aigle-noir-fontainebleau"
+   placement="after-fontainebleau-route"
+%}
 
 ---
 
@@ -308,11 +320,17 @@ pretty_table: true
 
 ### 去普罗万，要不要直接住一晚？
 
-如果普罗万只是一天行程，我还是建议继续住巴黎。早上从巴黎东站出发，晚上回来，不用为了一个小镇来回搬运行李。
+如果普罗万只是一天行程，我还是建议你继续住巴黎。早上从巴黎东站出发，晚上回来，不用为了一个小镇一日游来回搬运行李。
 
-但如果你本来就想深入玩一玩普罗万，尤其想看看傍晚游客散去之后的古城，那么住一晚就有意义了，是我强烈推荐的游玩体验！
+但如果你本来就想深入玩一玩普罗万中世界小镇，尤其想看看傍晚游客散去之后的古城，那么住一晚就有意义了，是我强烈推荐的游玩体验！
 
-{% include hotel-affiliate-hotel-grid.liquid hotel_ids="little-hotel-paris,le-cesar-provins" placement="after-provins-route" button="查看实时房价" col="col-12 col-md-6" limit="2" %}
+{% include hotel-affiliate-stay-block.liquid
+   area_id="paris-gare-est-nord"
+   hotel_ids="little-hotel-paris,le-cesar-provins"
+   limit=2
+   placement="after-provins-route"
+%}
+
 
 ---
 

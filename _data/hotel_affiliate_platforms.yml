@@ -1,9 +1,11 @@
 trip:
   name: "Trip.com"
   status: active
+  role: hotel_primary
   priority: 1
   rel: "sponsored nofollow noopener"
   best_for:
+    - "具体酒店推荐"
     - "中文用户"
     - "法国及欧洲酒店预订"
     - "多币种和中文界面"
@@ -11,18 +13,141 @@ trip:
 hotels:
   name: "Hotels.com"
   status: active
+  role: area_compare
   priority: 2
   rel: "sponsored nofollow noopener"
   best_for:
+    - "区域酒店比较"
     - "欧美用户"
-    - "酒店价格比较"
     - "会员用户"
+  destination_urls:
+    paris: "https://www.kqzyfj.com/click-101555905-13831003?url=https%3A%2F%2Ffr.hotels.com%2FHotel-Search%3Fdestination%3DParis%252C%2520France%26regionId%3D2734"
+    fontainebleau: "https://www.tkqlhce.com/click-101555905-13831003?url=https%3A%2F%2Ffr.hotels.com%2FHotel-Search%3Fdestination%3DFontainebleau%252C%2520Seine-et-Marne%2520%2528d%25C3%25A9partement%2529%252C%2520France%26regionId%3D4801"
+    provins: "https://www.tkqlhce.com/click-101555905-13831003?url=https%3A%2F%2Ffr.hotels.com%2FHotel-Search%3Fdestination%3DProvins%252C%2520Seine-et-Marne%2520%2528d%25C3%25A9partement%2529%252C%2520France%26regionId%3D5522"
+    nice: "https://www.kqzyfj.com/click-101555905-13831003?url=https%3A%2F%2Ffr.hotels.com%2FHotel-Search%3Fdestination%3DNice%252C%2520Alpes-Maritimes%252C%2520France%26regionId%3D2526"
+    marseille: "https://www.anrdoezrs.net/click-101555905-13831003?url=https%3A%2F%2Ffr.hotels.com%2FHotel-Search%3Fdestination%3DMarseille%252C%2BD%25C3%25A9partement%2Bdes%2BBouches-du-Rh%25C3%25B4ne%252C%2BFrance%26regionId%3D178710"
+    lyon: "https://www.tkqlhce.com/click-101555905-13831003?url=https%3A%2F%2Ffr.hotels.com%2FHotel-Search%3Fdestination%3DLyon%252C%2BM%25C3%25A9tropole%2Bde%2BLyon%252C%2BFrance%26regionId%3D2190"
+    monaco: "https://www.anrdoezrs.net/click-101555905-13831003?url=https%3A%2F%2Ffr.hotels.com%2FHotel-Search%3Fdestination%3DMonaco%252C%2BProvence-Alpes-C%25C3%25B4te%2Bd%25E2%2580%2599Azur%252C%2BMonaco%26regionId%3D6050684"
+    avignon: "https://www.anrdoezrs.net/click-101555905-13831003?url=https%3A%2F%2Ffr.hotels.com%2FHotel-Search%3Fdestination%3DAvignon%252C%2BVaucluse%2B%2528d%25C3%25A9partement%2529%252C%2BFrance%26regionId%3D601802"
+    aix-en-provence: "https://www.jdoqocy.com/click-101555905-13831003?url=https%3A%2F%2Ffr.hotels.com%2FHotel-Search%3Fdestination%3DAix-en-Provence%252C%2BD%25C3%25A9partement%2Bdes%2BBouches-du-Rh%25C3%25B4ne%252C%2BFrance%26regionId%3D601680"
+    nantes: "https://www.jdoqocy.com/click-101555905-13831003?url=https%3A%2F%2Ffr.hotels.com%2FHotel-Search%3Fdestination%3DNantes%252C%2BLoire-Atlantique%252C%2BFrance%26regionId%3D6051052"
+    rouen: "https://www.jdoqocy.com/click-101555905-13831003?url=https%3A%2F%2Ffr.hotels.com%2FHotel-Search%3Fdestination%3DRouen%252C%2BSeine-Maritime%2B%2528d%25C3%25A9partement%2529%252C%2BFrance%26regionId%3D3650"
+    strasbourg: "https://www.dpbolvw.net/click-101555905-13831003?url=https%3A%2F%2Ffr.hotels.com%2FHotel-Search%3Fdestination%3DStrasbourg%252C%2BBas-Rhin%2B%2528d%25C3%25A9partement%2529%252C%2BFrance%26regionId%3D6217179"
+    toulouse: "https://www.anrdoezrs.net/click-101555905-13831003?url=https%3A%2F%2Ffr.hotels.com%2FHotel-Search%3Fdestination%3DToulouse%252C%2BHaute-Garonne%252C%2BFrance%26regionId%3D6034506"
+    versailles: "https://www.dpbolvw.net/click-101555905-13831003?url=https%3A%2F%2Ffr.hotels.com%2FHotel-Search%3Fdestination%3DVersailles%252C%2BYvelines%2B%2528d%25C3%25A9partement%2529%252C%2BFrance%26regionId%3D5570"
+    lille: "https://www.jdoqocy.com/click-101555905-13831003?url=https%3A%2F%2Ffr.hotels.com%2FHotel-Search%3Fdestination%3DLille%252C%2BNord%2B%2528d%25C3%25A9partement%2529%252C%2BFrance%26regionId%3D2076"
+    saint-malo: "https://www.jdoqocy.com/click-101555905-13831003?url=https%3A%2F%2Ffr.hotels.com%2FHotel-Search%3Fdestination%3DSaint-Malo%252C%2BD%25C3%25A9partement%2Bd%25E2%2580%2599Ille-et-Vilaine%252C%2BFrance%26regionId%3D500649"
+    blois: "https://www.jdoqocy.com/click-101555905-13831003?url=https%3A%2F%2Ffr.hotels.com%2FHotel-Search%3Fdestination%3DBlois%252C%2BLoir-et-Cher%2B%2528d%25C3%25A9partement%2529%252C%2BFrance%26regionId%3D4751"
+    geneva: "https://www.tkqlhce.com/click-101555905-13831003?url=https%3A%2F%2Ffr.hotels.com%2FHotel-Search%3Fdestination%3DGen%25C3%25A8ve%252C%2BCanton%2Bde%2BGen%25C3%25A8ve%252C%2BSuisse%26regionId%3D1403"
+    zurich: "https://www.jdoqocy.com/click-101555905-13831003?url=https%3A%2F%2Ffr.hotels.com%2FHotel-Search%3Fdestination%3DZurich%252C%2BCanton%2Bde%2BZurich%252C%2BSuisse%26regionId%3D4191"
+    bern: "https://www.jdoqocy.com/click-101555905-13831003?url=https%3A%2F%2Ffr.hotels.com%2FHotel-Search%3Fdestination%3DBerne%252C%2BCanton%2Bde%2BBerne%252C%2BSuisse%26regionId%3D684"
+    lucerne: "https://www.anrdoezrs.net/click-101555905-13831003?url=https%3A%2F%2Ffr.hotels.com%2FHotel-Search%3Fdestination%3DLucerne%252C%2BCanton%2Bde%2BLucerne%252C%2BSuisse%26regionId%3D4477"
+    interlaken: "https://www.dpbolvw.net/click-101555905-13831003?url=https%3A%2F%2Ffr.hotels.com%2FHotel-Search%3Fdestination%3DInterlaken%252C%2BCanton%2Bde%2BBerne%252C%2BSuisse%26regionId%3D6052439"
+    basel: "https://www.kqzyfj.com/click-101555905-13831003?url=https%3A%2F%2Ffr.hotels.com%2FHotel-Search%3Fdestination%3DB%25C3%25A2le%252C%2520B%25C3%25A2le-ville%252C%2520Suisse%26regionId%3D6050770"
+    barcelona: "https://www.dpbolvw.net/click-101555905-13831003?url=https%3A%2F%2Ffr.hotels.com%2FHotel-Search%3Fdestination%3DBarcelone%252C%2BBarcelone%252C%2BCatalogne%252C%2BEspagne%26regionId%3D513"
+    madrid: "https://www.jdoqocy.com/click-101555905-13831003?url=https%3A%2F%2Ffr.hotels.com%2FHotel-Search%3Fdestination%3DMadrid%252C%2BCommunaut%25C3%25A9%2Bde%2BMadrid%252C%2BEspagne%26regionId%3D2198"
+    valencia: "https://www.kqzyfj.com/click-101555905-13831003?url=https%3A%2F%2Ffr.hotels.com%2FHotel-Search%3Fdestination%3DValence%252C%2BCommunaut%25C3%25A9%2Bvalencienne%252C%2BEspagne%26regionId%3D3713"
+    seville: "https://www.kqzyfj.com/click-101555905-13831003?url=https%3A%2F%2Ffr.hotels.com%2FHotel-Search%3Fdestination%3DS%25C3%25A9ville%252C%2BAndalousie%252C%2BEspagne%26regionId%3D3312"
+    milan: "https://www.anrdoezrs.net/click-101555905-13831003?url=https%3A%2F%2Ffr.hotels.com%2FHotel-Search%3Fdestination%3DMilan%252C%2BLombardie%252C%2BItalie%26regionId%3D2302"
+    rome: "https://www.jdoqocy.com/click-101555905-13831003?url=https%3A%2F%2Ffr.hotels.com%2FHotel-Search%3Fdestination%3DRome%252C%2BLatium%252C%2BItalie%26regionId%3D3023"
 
-expedia:
-  name: "Expedia"
+
+booking:
+  name: "Booking.com"
   status: active
+  role: area_compare
   priority: 3
   rel: "sponsored nofollow noopener"
   best_for:
-    - "欧美市场"
-    - "酒店、机票和行程组合"
+    - "高购买意图用户"
+    - "Booking.com / Genius 用户"
+    - "区域住宿比较"
+  destination_urls:
+    paris: "https://www.anrdoezrs.net/click-101555905-16977800"
+    fontainebleau: "https://www.jdoqocy.com/click-101555905-11795693?url=https%3A%2F%2Fwww.booking.com%2Fsearchresults.zh-tw.html%3Fss%3DFontainebleau%252C%2BFrance%26dest_id%3D-1427288%26dest_type%3Dcity%26lang%3Dzh-tw"
+    provins: "https://www.tkqlhce.com/click-101555905-11795693?url=https%3A%2F%2Fwww.booking.com%2Fsearchresults.zh-tw.html%3Fss%3DProvins%252C%2BIle%2Bde%2BFrance%252C%2BFrance%26dest_id%3D-1460219%26dest_type%3Dcity%26lang%3Dzh-tw"
+    nice: "https://www.dpbolvw.net/click-101555905-11795693?url=https%3A%2F%2Fwww.booking.com%2Fsearchresults.zh-tw.html%3Fss%3DNice%252C%2BProvence-Alpes-C%25C3%25B4te%2Bd%2527Azur%252C%2BFrance%26dest_id%3D-1454990%26dest_type%3Dcity%26lang%3Dzh-tw"
+    marseille: "https://www.kqzyfj.com/click-101555905-11795693?url=https%3A%2F%2Fwww.booking.com%2Fsearchresults.zh-tw.html%3Fss%3DMarseille%252C%2BProvence-Alpes-C%25C3%25B4te%2Bd%2527Azur%252C%2BFrance%26dest_id%3D-1449947%26dest_type%3Dcity%26lang%3Dzh-tw"
+    lyon: "https://www.anrdoezrs.net/click-101555905-11795693?url=https%3A%2F%2Fwww.booking.com%2Fsearchresults.zh-tw.html%3Fss%3DLyon%252C%2BRh%25C3%25B4ne-Alps%2B%2528Grand%2BLyon%2BAgglom%25C3%25A9ration%2529%252C%2BFrance%26dest_id%3D-1448468%26dest_type%3Dcity%26lang%3Dzh-tw"
+    monaco: "https://www.kqzyfj.com/click-101555905-11795693?url=https%3A%2F%2Fwww.booking.com%2Fsearchresults.zh-tw.html%3Fss%3DMonaco%26dest_id%3D140%26dest_type%3Dcountry%26lang%3Dzh-tw"
+    avignon: "https://www.jdoqocy.com/click-101555905-11795693?url=https%3A%2F%2Fwww.booking.com%2Fsearchresults.zh-tw.html%3Fss%3DAvignon%252C%2BProvence-Alpes-C%25C3%25B4te%2Bd%2527Azur%252C%2BFrance%26dest_id%3D-1409631%26dest_type%3Dcity%26lang%3Dzh-tw"
+    aix-en-provence: "https://www.dpbolvw.net/click-101555905-11795693?url=https%3A%2F%2Fwww.booking.com%2Fsearchresults.zh-tw.html%3Fss%3DAix-en-Provence%252C%2BProvence-Alpes-C%25C3%25B4te%2Bd%2527Azur%252C%2BFrance%26dest_id%3D-1406939%26dest_type%3Dcity%26lang%3Dzh-tw"
+    nantes: "https://www.tkqlhce.com/click-101555905-11795693?url=https%3A%2F%2Fwww.booking.com%2Fsearchresults.zh-tw.html%3Fss%3DNantes%252C%2BPays%2Bde%2Bla%2BLoire%2B%2528Nantes%2BMetropolitan%2BArea%2529%252C%2BFrance%26dest_id%3D-1454460%26dest_type%3Dcity%26lang%3Dzh-tw"
+    rouen: "https://www.dpbolvw.net/click-101555905-11795693?url=https%3A%2F%2Fwww.booking.com%2Fsearchresults.zh-tw.html%3Fss%3DRouen%252C%2BUpper%2BNormandy%252C%2BFrance%26dest_id%3D-1462807%26dest_type%3Dcity%26lang%3Dzh-tw"
+    strasbourg: "https://www.dpbolvw.net/click-101555905-11795693?url=https%3A%2F%2Fwww.booking.com%2Fsearchresults.zh-tw.html%3Fss%3DStrasbourg%252C%2BAlsace%2B%2528Strasbourg%2BEurometropole%2529%252C%2BFrance%26dest_id%3D-1471697%26dest_type%3Dcity%26lang%3Dzh-tw"
+    toulouse: "https://www.anrdoezrs.net/click-101555905-11795693?url=https%3A%2F%2Fwww.booking.com%2Fsearchresults.zh-tw.html%3Fss%3DToulouse%252C%2BMidi-Pyr%25C3%25A9n%25C3%25A9es%252C%2BFrance%26dest_id%3D-1473166%26dest_type%3Dcity%26lang%3Dzh-tw"
+    versailles: "https://www.tkqlhce.com/click-101555905-11795693?url=https%3A%2F%2Fwww.booking.com%2Fsearchresults.zh-tw.html%3Fss%3DVersailles%252C%2BIle%2Bde%2BFrance%252C%2BFrance%26dest_id%3D-1475811%26dest_type%3Dcity%26lang%3Dzh-tw"
+    lille: "https://www.kqzyfj.com/click-101555905-11795693?url=https%3A%2F%2Fwww.booking.com%2Fsearchresults.zh-tw.html%3Fss%3DLille%252C%2BNord-Pas-de-Calais%252C%2BFrance%26dest_id%3D-1447079%26dest_type%3Dcity%26lang%3Dzh-tw"
+    saint-malo: "https://www.jdoqocy.com/click-101555905-11795693?url=https%3A%2F%2Fwww.booking.com%2Fsearchresults.zh-tw.html%3Fss%3DSaint%2BMalo%2B%2528Saint-Malo%2529%252C%2BBrittany%252C%2BFrance%26dest_id%3D-1466824%26dest_type%3Dcity%26lang%3Dzh-tw"
+    blois: "https://www.kqzyfj.com/click-101555905-11795693?url=https%3A%2F%2Fwww.booking.com%2Fsearchresults.zh-tw.html%3Fss%3DBlois%252C%2BCentre%252C%2BFrance%26dest_id%3D-1413119%26dest_type%3Dcity%26lang%3Dzh-tw"
+    geneva: "https://www.tkqlhce.com/click-101555905-11795693?url=https%3A%2F%2Fwww.booking.com%2Fsearchresults.zh-tw.html%3Fss%3DGeneva%252C%2BCanton%2Bof%2BGeneva%252C%2BSwitzerland%26dest_id%3D-2552151%26dest_type%3Dcity%26lang%3Dzh-tw"
+    zurich: "https://www.tkqlhce.com/click-101555905-11795693?url=https%3A%2F%2Fwww.booking.com%2Fsearchresults.zh-tw.html%3Fss%3DZurich%252C%2BCanton%2Bof%2BZurich%252C%2BSwitzerland%26dest_id%3D-2554935%26dest_type%3Dcity%26lang%3Dzh-tw"
+    bern: "https://www.jdoqocy.com/click-101555905-11795693?url=https%3A%2F%2Fwww.booking.com%2Fsearchresults.zh-tw.html%3Fss%3DBern%2B%2528Berne%2529%252C%2BCanton%2Bof%2BBern%252C%2BSwitzerland%26dest_id%3D-2551235%26dest_type%3Dcity%26lang%3Dzh-tw"
+    lucerne: "https://www.jdoqocy.com/click-101555905-11795693?url=https%3A%2F%2Fwww.booking.com%2Fsearchresults.zh-tw.html%3Fss%3DLucerne%252C%2BCanton%2Bof%2BLucerne%252C%2BSwitzerland%26dest_id%3D-2552994%26dest_type%3Dcity%26lang%3Dzh-tw"
+    interlaken: "https://www.tkqlhce.com/click-101555905-11795693?url=https%3A%2F%2Fwww.booking.com%2Fsearchresults.zh-tw.html%3Fss%3DInterlaken%252C%2BCanton%2Bof%2BBern%2B%2528Interlaken%2529%252C%2BSwitzerland%26dest_id%3D-2552548%26dest_type%3Dcity%26lang%3Dzh-tw"
+    basel: "https://www.anrdoezrs.net/click-101555905-11795693?url=https%3A%2F%2Fwww.booking.com%2Fsearchresults.zh-tw.html%3Fss%3DBasel%252C%2BCanton%2Bof%2BBasel-Stadt%252C%2BSwitzerland%26dest_id%3D-2551183%26dest_type%3Dcity%26lang%3Dzh-tw"
+    barcelona: "https://www.anrdoezrs.net/click-101555905-11795693?url=https%3A%2F%2Fwww.booking.com%2Fsearchresults.zh-tw.html%3Fss%3DBarcelona%252C%2BCatalonia%2B%2528Barcelona%2BProvince%2529%252C%2BSpain%26dest_id%3D-372490%26dest_type%3Dcity%26lang%3Dzh-tw"
+    madrid: "https://www.anrdoezrs.net/click-101555905-11795693?url=https%3A%2F%2Fwww.booking.com%2Fsearchresults.zh-tw.html%3Fss%3DMadrid%252C%2BCommunity%2Bof%2BMadrid%252C%2BSpain%26dest_id%3D-390625%26dest_type%3Dcity%26lang%3Dzh-tw"
+    valencia: "https://www.tkqlhce.com/click-101555905-11795693?url=https%3A%2F%2Fwww.booking.com%2Fsearchresults.zh-tw.html%3Fss%3DValencia%252C%2BValencia%2BCommunity%252C%2BSpain%26dest_id%3D-406131%26dest_type%3Dcity%26lang%3Dzh-tw"
+    seville: "https://www.dpbolvw.net/click-101555905-11795693?url=https%3A%2F%2Fwww.booking.com%2Fsearchresults.zh-tw.html%3Fss%3DSeville%252C%2BAndaluc%25C3%25ADa%2B%2528Seville%2BProvince%2529%252C%2BSpain%26dest_id%3D-402849%26dest_type%3Dcity%26lang%3Dzh-tw"
+    milan: "https://www.jdoqocy.com/click-101555905-11795693?url=https%3A%2F%2Fwww.booking.com%2Fsearchresults.zh-tw.html%3Fss%3DMilan%252C%2BLombardy%252C%2BItaly%26dest_id%3D-121726%26dest_type%3Dcity%26lang%3Dzh-tw"
+    rome: "https://www.anrdoezrs.net/click-101555905-11795693?url=https%3A%2F%2Fwww.booking.com%2Fsearchresults.zh-tw.html%3Fss%3DRome%252C%2BLazio%252C%2BItaly%26dest_id%3D-126693%26dest_type%3Dcity%26lang%3Dzh-tw"
+    venice: ""
+    florence: ""
+    naples: ""
+
+
+abritel:
+  name: "Abritel"
+  status: active
+  role: apartment
+  priority: 4
+  rel: "sponsored nofollow noopener"
+  best_for:
+    - "家庭"
+    - "多人同行"
+    - "长住"
+    - "整套公寓和度假屋"
+  destination_urls:
+    paris: "https://www.tkqlhce.com/click-101555905-10854070?url=https%3A%2F%2Fwww.abritel.fr%2Fsearch%3Fdestination%3DParis%252C%2520France%26regionId%3D2734"
+    bordeaux: "https://www.kqzyfj.com/click-101555905-10854070?url=https%3A%2F%2Fwww.abritel.fr%2Fsearch%3Fdestination%3DBordeaux%252C%2BGironde%2B%2528d%25C3%25A9partement%2529%252C%2BFrance%26regionId%3D651%26latLong%3D44.841061%252C-0.580168%26adults%3D2%26sort%3DRECOMMENDED"
+    nice: "https://www.anrdoezrs.net/click-101555905-10854070?url=https%3A%2F%2Fwww.abritel.fr%2Fsearch%3Fdestination%3DNice%252C%2BAlpes-Maritimes%252C%2BFrance%26regionId%3D2526%26latLong%3D43.710173%252C7.261953%26adults%3D2%26sort%3DRECOMMENDED"
+    marseille: "https://www.dpbolvw.net/click-101555905-10854070?url=https%3A%2F%2Fwww.abritel.fr%2Fsearch%3Fdestination%3DMarseille%252C%2BD%25C3%25A9partement%2Bdes%2BBouches-du-Rh%25C3%25B4ne%252C%2BFrance%26regionId%3D178710%26latLong%3D43.296482%252C5.36978%26adults%3D2%26sort%3DRECOMMENDED"
+    lyon: "https://www.anrdoezrs.net/click-101555905-10854070?url=https%3A%2F%2Fwww.abritel.fr%2Fsearch%3Fdestination%3DLyon%252C%2BM%25C3%25A9tropole%2Bde%2BLyon%252C%2BFrance%26regionId%3D2190"
+    monaco: "https://www.dpbolvw.net/click-101555905-10854070?url=https%3A%2F%2Fwww.abritel.fr%2Fsearch%3Fdestination%3DMonaco%252C%2BProvence-Alpes-C%25C3%25B4te%2Bd%25E2%2580%2599Azur%252C%2BMonaco%26regionId%3D6050684%26latLong%3D43.731142%252C7.419758%26adults%3D2%26sort%3DRECOMMENDED"
+    avignon: "https://www.jdoqocy.com/click-101555905-10854070?url=https%3A%2F%2Fwww.abritel.fr%2Fsearch%3Fdestination%3DAvignon%252C%2BVaucluse%2B%2528d%25C3%25A9partement%2529%252C%2BFrance%26regionId%3D601802%26latLong%3D43.949329%252C4.805875%26adults%3D2%26sort%3DRECOMMENDED"
+    aix-en-provence: "https://www.dpbolvw.net/click-101555905-10854070?url=https%3A%2F%2Fwww.abritel.fr%2Fsearch%3Fdestination%3DAix-en-Provence%252C%2BD%25C3%25A9partement%2Bdes%2BBouches-du-Rh%25C3%25B4ne%252C%2BFrance%26regionId%3D601680%26latLong%3D43.529743%252C5.447427%26adults%3D2%26sort%3DRECOMMENDED"
+    nantes: "https://www.jdoqocy.com/click-101555905-10854070?url=https%3A%2F%2Fwww.abritel.fr%2Fsearch%3Fdestination%3DNantes%252C%2BLoire-Atlantique%252C%2BFrance%26regionId%3D6051052%26latLong%3D47.218372%252C-1.553621%26adults%3D2%26sort%3DRECOMMENDED"
+    rouen: "https://www.jdoqocy.com/click-101555905-10854070?url=https%3A%2F%2Fwww.abritel.fr%2Fsearch%3Fdestination%3DRouen%252C%2BSeine-Maritime%2B%2528d%25C3%25A9partement%2529%252C%2BFrance%26regionId%3D3650%26latLong%3D49.441498%252C1.0917%26adults%3D2%26sort%3DRECOMMENDED"
+    strasbourg: "https://www.kqzyfj.com/click-101555905-10854070?url=https%3A%2F%2Fwww.abritel.fr%2Fsearch%3Fdestination%3DStrasbourg%252C%2BBas-Rhin%2B%2528d%25C3%25A9partement%2529%252C%2BFrance%26regionId%3D6217179%26latLong%3D48.5835%252C7.74588%26adults%3D2%26sort%3DRECOMMENDED"
+    toulouse: "https://www.anrdoezrs.net/click-101555905-10854070?url=https%3A%2F%2Fwww.abritel.fr%2Fsearch%3Fdestination%3DToulouse%252C%2BHaute-Garonne%252C%2BFrance%26regionId%3D6034506%26latLong%3D43.604655%252C1.444202%26adults%3D2%26sort%3DRECOMMENDED"
+    versailles: "https://www.dpbolvw.net/click-101555905-10854070?url=https%3A%2F%2Fwww.abritel.fr%2Fsearch%3Fdestination%3DVersailles%252C%2BYvelines%2B%2528d%25C3%25A9partement%2529%252C%2BFrance%26regionId%3D5570%26latLong%3D48.80236%252C2.12978%26adults%3D2%26sort%3DRECOMMENDED"
+    lille: "https://www.jdoqocy.com/click-101555905-10854070?url=https%3A%2F%2Fwww.abritel.fr%2Fsearch%3Fdestination%3DLille%252C%2BNord%2B%2528d%25C3%25A9partement%2529%252C%2BFrance%26regionId%3D2076%26latLong%3D50.636948%252C3.06357%26adults%3D2%26sort%3DRECOMMENDED"
+    saint-malo: "https://www.jdoqocy.com/click-101555905-10854070?url=https%3A%2F%2Fwww.abritel.fr%2Fsearch%3Fdestination%3DSaint-Malo%252C%2BD%25C3%25A9partement%2Bd%25E2%2580%2599Ille-et-Vilaine%252C%2BFrance%26regionId%3D500649%26latLong%3D48.64959%252C-2.02604%26adults%3D2%26sort%3DRECOMMENDED"
+    blois: "https://www.jdoqocy.com/click-101555905-10854070?url=https%3A%2F%2Fwww.abritel.fr%2Fsearch%3Fdestination%3DBlois%252C%2BLoir-et-Cher%2B%2528d%25C3%25A9partement%2529%252C%2BFrance%26regionId%3D4751%26latLong%3D47.587669%252C1.33363%26adults%3D2%26sort%3DRECOMMENDED"
+    geneva: "https://www.kqzyfj.com/click-101555905-10854070?url=https%3A%2F%2Fwww.abritel.fr%2Fsearch%3Fdestination%3DGen%25C3%25A8ve%252C%2BCanton%2Bde%2BGen%25C3%25A8ve%252C%2BSuisse%26regionId%3D1403%26latLong%3D46.20291%252C6.148%26adults%3D2%26sort%3DRECOMMENDED"
+    zurich: "https://www.jdoqocy.com/click-101555905-10854070?url=https%3A%2F%2Fwww.abritel.fr%2Fsearch%3Fdestination%3DZurich%252C%2BCanton%2Bde%2BZurich%252C%2BSuisse%26regionId%3D4191%26latLong%3D47.376893%252C8.541699%26adults%3D2%26sort%3DRECOMMENDED"
+    bern: "https://www.jdoqocy.com/click-101555905-10854070?url=https%3A%2F%2Fwww.abritel.fr%2Fsearch%3Fdestination%3DBerne%252C%2BCanton%2Bde%2BBerne%252C%2BSuisse%26regionId%3D684%26latLong%3D46.947972%252C7.44745%26adults%3D2%26sort%3DRECOMMENDED"
+    lucerne: "https://www.jdoqocy.com/click-101555905-10854070?url=https%3A%2F%2Fwww.abritel.fr%2Fsearch%3Fdestination%3DLucerne%252C%2BCanton%2Bde%2BLucerne%252C%2BSuisse%26regionId%3D4477%26latLong%3D47.05225%252C8.30614%26adults%3D2%26sort%3DRECOMMENDED"
+    interlaken: "https://www.anrdoezrs.net/click-101555905-10854070?url=https%3A%2F%2Fwww.abritel.fr%2Fsearch%3Fdestination%3DInterlaken%252C%2BCanton%2Bde%2BBerne%252C%2BSuisse%26regionId%3D6052439%26latLong%3D46.685028%252C7.85432%26adults%3D2%26sort%3DRECOMMENDED"
+    basel: "https://www.tkqlhce.com/click-101555905-10854070?url=https%3A%2F%2Fwww.abritel.fr%2Fsearch%3Fdestination%3DB%25C3%25A2le%252C%2BB%25C3%25A2le-ville%252C%2BSuisse%26regionId%3D6050770%26latLong%3D47.558189%252C7.58792%26adults%3D2%26sort%3DRECOMMENDED"
+    barcelona: "https://www.tkqlhce.com/click-101555905-10854070?url=https%3A%2F%2Fwww.abritel.fr%2Fsearch%3Fdestination%3DBarcelone%252C%2BBarcelone%252C%2BCatalogne%252C%2BEspagne%26regionId%3D513%26latLong%3D41.384988%252C2.174263%26adults%3D2%26sort%3DRECOMMENDED"
+    madrid: "https://www.tkqlhce.com/click-101555905-10854070?url=https%3A%2F%2Fwww.abritel.fr%2Fsearch%3Fdestination%3DMadrid%252C%2BCommunaut%25C3%25A9%2Bde%2BMadrid%252C%2BEspagne%26regionId%3D2198%26latLong%3D40.416784%252C-3.703795%26adults%3D2%26sort%3DRECOMMENDED"
+    valencia: ""
+    seville: ""
+    milan: "https://www.dpbolvw.net/click-101555905-10854070?url=https%3A%2F%2Fwww.abritel.fr%2Fsearch%3Fdestination%3DMilan%252C%2BLombardie%252C%2BItalie%26regionId%3D2302%26latLong%3D45.465424%252C9.185925%26adults%3D2%26sort%3DRECOMMENDED"
+    rome: ""
+    venice: ""
+    florence: ""
+    naples: ""
+
+
+
+
+
+expedia:
+  name: "Expedia"
+  status: inactive
+  role: legacy
+  priority: 99
+  rel: "sponsored nofollow noopener"

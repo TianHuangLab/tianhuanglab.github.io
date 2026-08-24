@@ -1,0 +1,44 @@
+{% assign area_id = include.area_id | default: "" %}
+{% assign placement = include.placement | default: "unspecified" %}
+
+{% if area_id != "" %}
+
+  <div
+    class="hotel-affiliate-stay-block"
+    data-stay-area="{{ area_id | escape }}"
+    data-stay-placement="{{ placement | escape }}"
+  >
+
+    {% if include.title %}
+      <div class="hotel-affiliate-stay-block__header">
+        <h3>{{ include.title }}</h3>
+      </div>
+    {% endif %}
+
+    {% if include.intro %}
+      <p class="hotel-affiliate-stay-block__intro">
+        {{ include.intro }}
+      </p>
+    {% endif %}
+
+
+    {% include hotel-affiliate-hotel-grid.liquid
+      area_id=area_id
+      hotel_ids=include.hotel_ids
+      limit=include.limit
+      platform="trip"
+      placement=placement
+      button=include.button
+      show_caution=include.show_caution
+    %}
+
+
+    {% include hotel-affiliate-area-links.liquid
+      area_id=area_id
+      placement=placement
+      apartment=include.apartment
+    %}
+
+  </div>
+
+{% endif %}

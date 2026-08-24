@@ -1,0 +1,141 @@
+{% assign area_id = include.area_id %}
+{% assign area = site.data.hotel_areas[area_id] %}
+
+{% assign city = include.city %}
+{% if city == nil or city == "" %}
+{% if area %}
+{% assign city = area.city %}
+{% endif %}
+{% endif %}
+
+{% assign hotels_platform = site.data.hotel_affiliate_platforms.hotels %}
+{% assign booking_platform = site.data.hotel_affiliate_platforms.booking %}
+{% assign abritel_platform = site.data.hotel_affiliate_platforms.abritel %}
+
+{% assign hotels_url = nil %}
+{% assign booking_url = nil %}
+{% assign abritel_url = nil %}
+
+
+{% comment %}
+Hotels.com：
+优先 area override，没有则 fallback 到 city。
+{% endcomment %}
+
+{% if area and area.affiliate_urls and area.affiliate_urls.hotels %}
+{% assign hotels_url = area.affiliate_urls.hotels %}
+{% endif %}
+
+{% if hotels_url == nil or hotels_url == "" %}
+{% if city and hotels_platform and hotels_platform.destination_urls %}
+{% assign hotels_url = hotels_platform.destination_urls[city] %}
+{% endif %}
+{% endif %}
+
+
+{% comment %}
+Booking.com：
+优先 area override，没有则 fallback 到 city。
+{% endcomment %}
+
+{% if area and area.affiliate_urls and area.affiliate_urls.booking %}
+{% assign booking_url = area.affiliate_urls.booking %}
+{% endif %}
+
+{% if booking_url == nil or booking_url == "" %}
+{% if city and booking_platform and booking_platform.destination_urls %}
+{% assign booking_url = booking_platform.destination_urls[city] %}
+{% endif %}
+{% endif %}
+
+
+{% comment %}
+Abritel：
+默认使用 city destination URL。
+{% endcomment %}
+
+{% if city and abritel_platform and abritel_platform.destination_urls %}
+{% assign abritel_url = abritel_platform.destination_urls[city] %}
+{% endif %}
+
+
+{% assign show_compare = true %}
+{% if include.show_compare == false %}
+{% assign show_compare = false %}
+{% endif %}
+
+
+{% if show_compare %}
+{% if hotels_url or booking_url %}
+
+<div class="hotel-affiliate-area-links">
+<div class="hotel-affiliate-area-links__row">
+
+<span class="hotel-affiliate-area-links__label">这几家不合适？自己比较更多：</span>
+
+<span class="hotel-affiliate-area-links__items">
+
+{% if hotels_url and hotels_platform.status == "active" %}
+<a
+href="{{ hotels_url }}"
+target="_blank"
+rel="{{ hotels_platform.rel | default: 'sponsored nofollow noopener' }}"
+data-stay-affiliate-link
+data-affiliate-scope="area"
+data-area-id="{{ area_id }}"
+data-city="{{ city }}"
+data-platform="hotels"
+data-hotel-placement="{{ include.placement }}"
+data-page-path="{{ page.url }}"
+>Hotels.com</a>
+{% endif %}
+
+{% if booking_url and booking_platform.status == "active" %}
+<a
+href="{{ booking_url }}"
+target="_blank"
+rel="{{ booking_platform.rel | default: 'sponsored nofollow noopener' }}"
+data-stay-affiliate-link
+data-affiliate-scope="area"
+data-area-id="{{ area_id }}"
+data-city="{{ city }}"
+data-platform="booking"
+data-hotel-placement="{{ include.placement }}"
+data-page-path="{{ page.url }}"
+>Booking.com</a>
+{% endif %}
+
+</span>
+</div>
+</div>
+
+{% endif %}
+{% endif %}
+
+
+{% if include.apartment == true %}
+{% if abritel_url and abritel_platform.status == "active" %}
+
+<div class="hotel-affiliate-area-links hotel-affiliate-area-links--apartment">
+<div class="hotel-affiliate-area-links__row">
+
+<span class="hotel-affiliate-area-links__label">家庭、多人或者想住更久？不妨看看民宿</span>
+
+<a
+href="{{ abritel_url }}"
+target="_blank"
+rel="{{ abritel_platform.rel | default: 'sponsored nofollow noopener' }}"
+data-stay-affiliate-link
+data-affiliate-scope="city"
+data-area-id="{{ area_id }}"
+data-city="{{ city }}"
+data-platform="abritel"
+data-hotel-placement="{{ include.placement }}"
+data-page-path="{{ page.url }}"
+>看看整套公寓和度假屋</a>
+
+</div>
+</div>
+
+{% endif %}
+{% endif %}

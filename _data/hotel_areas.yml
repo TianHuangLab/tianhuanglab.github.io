@@ -10,6 +10,9 @@ paris-saint-lazare-opera:
   caution: "旺季价格偏高，别只看离火车站几百米，也要看夜间回酒店的路线和近期评价。"
   guide_url: "/paris/paris-map-arr/"
   guide_button: "看巴黎住宿区域攻略"
+  affiliate_urls:
+    hotels: ""
+    booking: ""
 
 paris-gare-de-lyon-bastille:
   status: active
@@ -24,6 +27,7 @@ paris-gare-de-lyon-bastille:
   guide_url: "/paris/paris-map-arr/"
   guide_button: "看巴黎住宿区域攻略"
 
+
 paris-gare-est-nord:
   status: active
   city: paris
@@ -36,6 +40,9 @@ paris-gare-est-nord:
   caution: "交通非常方便，但街区感受差异比较明显，订房时不要只按最低价格排序。"
   guide_url: "/paris/paris-map-arr/"
   guide_button: "看巴黎住宿区域攻略"
+  affiliate_urls:
+    hotels: ""
+    booking: ""
 
 fontainebleau-centre:
   status: active
