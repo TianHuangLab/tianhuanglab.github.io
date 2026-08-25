@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 尼斯最强旅行指南｜Top 18必游景点全攻略
-description: 一文囊括尼斯景点，带你畅游蔚蓝海岸明珠，探索尼斯的历史、艺术与自然之美!
+title: 尼斯景点怎么选？18个值得去的地方
+description: 老城、城堡山、海边怎么安排？结合我在南法的实际体验，帮你快速挑重点
 img: assets/img/12nice-top-18-things-to-do/12nice-top-18-things-to-do-4.jpg
 importance: 1
 category: 尼斯与蔚蓝海岸
@@ -9,453 +9,430 @@ related_publications: false
 related_posts: true
 toc:
   sidebar: left
-tags: 法国 尼斯 线路攻略 行程
+tags: 法国 尼斯 尼斯景点 蔚蓝海岸 旅行攻略
 map: true
 published: true
 ---
-尼斯，这座坐落在法国蔚蓝海岸的美丽城市，历史悠久，魅力无穷。如果你已经去了巴黎，那么你在法国接下来的旅行目的地，我强烈推荐尼斯！
 
-从古希腊时期到今天，尼斯一直是地中海的文化交汇点。它曾是罗马帝国的一个重要城市，后成为萨沃伊王朝的领土，直到19世纪加入法国。由于其得天独厚的地理位置，尼斯自古就是一个繁忙的港口和贸易中心，也早早吸引了不少艺术家和贵族。
+尼斯是我很喜欢的一座南法城市。它不像巴黎那样需要不停赶景点，老城、海边、市场和几个最经典的观景点离得都不远，很多地方靠走路就能串起来。
 
-在19世纪末到20世纪初，尼斯成为欧洲的热门度假胜地，吸引了大量富裕游客。今天，尼斯不仅是法国的第五大城市，也是全球游客热爱的度假天堂，凭借温暖的气候、迷人的海岸线和丰富的文化遗产，成为了蔚蓝海岸最闪亮的明星。
+如果时间不多，我会优先留给**尼斯老城、城堡山、英国人散步大道、萨莱亚市场、马塞纳广场和Lympia港**。一天能看到尼斯最经典的一面；如果住两三晚，再去Cimiez、博物馆，或者从尼斯去摩纳哥、埃兹和昂蒂布，会舒服很多。
 
-> 关于我：现常驻南法，几年前从巴黎搬到了这里，在地中海的阳光下开启了全新的生活篇章。走过十几个国家，足迹遍布三大洲，但无论走多远，旅行始终是我灵魂的栖息地，爱在山间徒步、海边吹风，冬天则滑雪畅玩。超懂**法国**——如果你被这篇**尼斯攻略**吸引，不妨顺便参考我的其他**法国旅游攻略（含[巴黎](https://aolitravel.com/paris/)、[南法](https://aolitravel.com/south-of-france/)、[法国全集](https://aolitravel.com/france-travel/)、[精选路线](https://aolitravel.com/tours/)）**，帮你把欧洲之旅延伸得更精彩、更顺畅。从南法阳光海岸到北部历史名城，我把旅行路线、景点和实用经验都整理好了，让你的旅程轻松不踩雷！
->
+尼斯历史上长期受到萨沃伊和意大利文化影响，1860年才正式并入法国。所以老城的颜色、街道和饮食，和法国北部城市很不一样，这也是我觉得尼斯耐逛的地方。
 
-[维基百科-尼斯](https://zh.wikipedia.org/wiki/%E5%B0%BC%E6%96%AF)
-[百度百科-尼斯](https://baike.baidu.com/item/%E5%B0%BC%E6%96%AF/4665)
-{% include figure.liquid loading="eager" path="assets/img/12nice-top-18-things-to-do/12nice-top-18-things-to-do-1a.jpg" title="nice-trip-aolitravel.com" class="img-fluid rounded z-depth-1" %}
+> **关于我：**我现在长期生活在法国南部（尼斯&马赛）。这里很多地方我自己走过不止一次，所以这篇不只列景点，也会告诉你哪些值得优先看、哪些有时间再去。如果你正在规划南法行程，也可以看看我整理的[精选路线](https://aolitravel.com/tours/)，里面有尼斯、摩纳哥、普罗旺斯等方向的路线产品。
+
+{% include figure.liquid loading="eager" path="assets/img/12nice-top-18-things-to-do/12nice-top-18-things-to-do-1a.jpg" title="尼斯景点与天使湾景色" class="img-fluid rounded z-depth-1" %}
 
 ---
 
-### 1. 超人气#ILoveNice地标
+## 尼斯景点怎么选？
 
-如果你来尼斯，一定不能错过的地标之一就是位于普罗旺斯的#ILoveNice字母墙。这个巨大的“ILoveNice”字母标志成为了尼斯的一个超级热门打卡地，吸引着来自全球的游客。这个地标不仅仅是一个拍照的好地方，还是尼斯的网红打卡地，代表了这座城市的色彩斑澜、阳光和美丽。
+如果第一次到尼斯、又只有一天，我会先推荐**老城 + 海边 + 观景点**这三个重点。博物馆和Cimiez可以放到第二天，小众景点则看时间，不必为了“打卡数量”专门绕路。
 
-**文化历史**：尼斯一直以来都是法国最受欢迎的旅游目的地之一，#ILoveNice的设计灵感来自于尼斯的独特风情和历史。这座城市位于法国南部，拥有超过千年的历史，曾是法国皇室和贵族的度假胜地，历史与现代交织，赋予了这个地方无限魅力。
+| 你的时间 / 兴趣 | 我会优先选 |
+| --- | --- |
+| 只有半天 | 老城 + 萨莱亚市场 + 城堡山 |
+| 只有1天 | 老城 + 城堡山 + 海滨大道 + 马塞纳广场 + 港口 |
+| 有2天 | 再加Cimiez + 马蒂斯 / 夏加尔博物馆 |
+| 带孩子 | 城堡山 + 海边 + Promenade du Paillon + Parc Phoenix |
+| 喜欢艺术 | 马蒂斯博物馆 + 夏加尔博物馆 + Villa Masséna |
+| 想看日落 | 城堡山 + Quai Rauba Capèu |
 
-**地点与如何到达**：#ILoveNice地标位于尼斯市中心，靠近海滨大道，城堡山脚下。最近的地铁站是"Masséna站"，步行约5分钟即可到达，或者你也可以乘坐公交车到"Promenade des Anglais"站。对于自驾游客，直接导航至市中心，停车场不远，非常方便。
-
-**如何游览**：拍一张创意十足的照片，留下美好回忆。可以在周围的咖啡馆坐下休息，享受尼斯的阳光和海风。
-
-**门票**：免费。
-{% include figure.liquid loading="eager" path="assets/img/12nice-top-18-things-to-do/12nice-top-18-things-to-do-1.jpg" title="nice-trip-aolitravel.com" class="img-fluid rounded z-depth-1" %}
+下面这18个地方，我按**好玩和值得玩的标准**重新排了一遍。
 
 ---
 
-### 2. 城堡山的绝美景色
+## 尼斯18个值得去的景点
 
-尼斯的城堡山（Colline du Château）是另一处游客不能错过的景点。站在山顶，你将欣赏到尼斯港口、海滩以及蓝色地中海的全景。这里不仅可以让你俯瞰到美丽的海岸线，还是体验尼斯历史的好地方。
+### 1. 尼斯老城 Vieux Nice
 
-**文化历史**：城堡山曾是尼斯的一个古老城堡遗址，这座城堡在17世纪被摧毁，如今只剩下部分遗迹，但仍能感受到曾经的辉煌。今天的城堡山成为了一个公共公园，绿树成荫，是游客和当地居民日常散步、野餐的好去处。
+如果只让我推荐一个“最像尼斯”的地方，我会先选老城。
 
-**地点与如何到达**：城堡山位于尼斯老城区的东南角，距离最近的地铁站"Opéra-Vieille Ville站"步行约15分钟。你也可以选择搭乘公交车到“Place Garibaldi”站或海滨大道边的“Cours Saleya”站，再步行前往山顶。如果自驾，路面停车较为有限，但附近有公共停车场。
+这里没有一条必须照着走的固定路线。彩色外墙、窄巷、小餐馆、冰淇淋店和市场挤在一起，走着走着就会碰到Place Rossetti、尼斯主座大教堂和各种小店。比起赶景点，我更喜欢在这里随便走。
 
-**如何游览**：你可以步行攀登，沿途欣赏美丽的花园和古老的建筑。也可以选择搭乘电梯（地址：1 Rue des Ponchettes, 06300 Nice），这样可以节省体力，快速抵达山顶，享受无与伦比的景观。
+**怎么到**：老城就在市中心，从Masséna一带步行即可，也可以搭电车到Opéra - Vieille Ville或Cathédrale - Vieille Ville附近。
 
-**门票**：免费。
+**我会怎么逛**：上午先逛萨莱亚市场和老城，中午吃点Socca或尼斯本地菜，下午接着去城堡山。
 
-{% include figure.liquid loading="eager" path="assets/img/12nice-top-18-things-to-do/12nice-top-18-things-to-do-2.jpg" title="nice-trip-aolitravel.com" class="img-fluid rounded z-depth-1" %}
+**门票**：老城街区免费。
+
+{% include figure.liquid loading="eager" path="assets/img/12nice-top-18-things-to-do/12nice-top-18-things-to-do-3.jpg" title="尼斯老城彩色街道" class="img-fluid rounded z-depth-1" %}
+
 ---
 
-### 3. 尼斯老城小巷
+### 2. 城堡山 Colline du Château
 
-尼斯的老城区（Vieux Nice）是体验这座城市独特魅力的地方，迷人的小巷、五光十色的市场和历史悠久的建筑，让每一个角落都充满了故事。从色彩斑斓的街道到琳琅满目的小店，尼斯的老城区就是你感受当地文化的最佳场所。
+如果只选一个尼斯观景点，我会选**城堡山**。
 
-**文化历史**：尼斯老城区保留了许多中世纪的建筑和狭窄街道，历史上这里曾是尼斯的商业和文化中心。街区内有许多餐馆、商店和手工艺品店，展现了尼斯悠久的传统和浓厚的地中海风情。
+山顶可以同时看到天使湾、尼斯老城和Lympia港，也是第一次来最容易看懂尼斯城市格局的地方。山上现在是一座公共公园，有树林、瀑布和几个不同方向的观景位置。
 
-**地点与如何到达**：尼斯老城位于市中心，最近的地铁站是"Opéra-Vieille Ville站"，从这里步行约5分钟即可到达。老城不大，可以轻松步行游览，充满魅力的街道让你每走一步都有新发现。
+**怎么到**：可以从老城一侧步行上山，也可以从Rue des Ponchettes附近搭电梯。电梯运行情况可能调整，到了现场再看最稳。
 
-**如何游览**：建议你悠闲地在街道上漫步，停下来品尝当地美食，比如尼斯沙拉或传统的"Socca"（鹰嘴豆饼）。你还可以参观尼斯主座大教堂（Cathédrale Sainte-Réparate de Nice）和其他历史建筑，享受宁静又热闹的老城区生活。
+**我会怎么逛**：如果不赶时间，我更喜欢下午偏晚再上去。正午光线很亮，夏天也晒。想看日落的话，记得留意公园当天关门时间。
 
-**门票**：免费。
+**门票**：免费。开放时间可查看[尼斯蔚蓝海岸旅游局](https://www.explorenicecotedazur.com/culture/parc-de-la-colline-du-chateau/)。
 
-{% include figure.liquid loading="eager" path="assets/img/12nice-top-18-things-to-do/12nice-top-18-things-to-do-3.jpg" title="nice-trip-aolitravel.com" class="img-fluid rounded z-depth-1" %}
+{% include figure.liquid loading="eager" path="assets/img/12nice-top-18-things-to-do/12nice-top-18-things-to-do-2.jpg" title="尼斯城堡山俯瞰天使湾" class="img-fluid rounded z-depth-1" %}
+
 ---
 
-### 4. 英国人漫步海滨大道和沙滩
+### 3. 英国人散步大道 Promenade des Anglais
 
-尼斯的海滨大道（Promenade des Anglais）是尼斯最具代表性的景点之一。它沿着海岸线伸展，长达7公里，游客可以在这里悠闲地散步、跑步、骑自行车，或者仅仅在沙滩上晒太阳，享受美丽的地中海风光。
+英国人散步大道是尼斯最有辨识度的海边风景。沿着天使湾一路走，可以散步、骑车，也可以什么都不做，就坐在蓝色椅子上看海。
 
-**文化历史**：19世纪时，英国游客首次来到尼斯，这条海滨大道便得名“Promenade des Anglais”（意为“英国人漫步道”）。自此以后，尼斯逐渐成为了欧洲贵族和名流的度假胜地，海滨大道也成为了他们日常散步的地方。
+它的名字和19世纪长期来尼斯过冬的英国游客有关。后来尼斯逐渐成为欧洲著名的度假城市，这条海滨大道也成了城市最经典的一张名片。
 
-**地点与如何到达**：海滨大道从尼斯市中心一直延伸到机场附近，最近的地铁站是"Masséna站"。你可以从市区步行前往，或乘坐公交车到"Promenade des Anglais"站。自驾的朋友也可以在沿线的多个停车场找到停车位。
+**怎么到**：从Masséna广场或老城步行几分钟就是海边，没必要专门坐车过来。
 
-**如何游览**：你可以选择步行或者租一辆自行车，沿着海滨大道欣赏海景。这里有许多咖啡馆和小摊位，适合停下来小憩。沙滩上的躺椅和遮阳伞也是放松的好地方。
-
-**门票**：免费。
-
-{% include figure.liquid loading="eager" path="assets/img/12nice-top-18-things-to-do/12nice-top-18-things-to-do-4.jpg" title="nice-trip-aolitravel.com" class="img-fluid rounded z-depth-1" %}
----
-
-### 5. Lympia港口的彩色小船
-
-Lympia港口（Port Lympia）是尼斯一个古老而富有魅力的港口，坐落在海滨大道东端。港口周围是五彩斑斓的小船和渔民的小屋，画面如同一幅美丽的油画。这里是尼斯一个非常有氛围的地方，适合漫步、拍照，感受海港的悠闲生活。
-
-**文化历史**：Lympia港口自19世纪以来一直是尼斯的主要港口之一。这里曾是航运和渔业的核心区域，随着尼斯的现代化，这个港口如今更像是一个休闲和旅游区域，周围的建筑和色彩斑斓的小船赋予了这里浓厚的地中海风情。
-
-**地点与如何到达**：Lympia港口距离尼斯市中心约1公里，最近的地铁站是"Place Garibaldi"站，步行大约10分钟可以到达。如果自驾，可以将车停在附近的公共停车场，步行几分钟即可到达港口。
-
-**如何游览**：港口周围有许多餐馆，适合你停下来享用一顿地中海风味的海鲜大餐。你也可以在港口附近漫步，欣赏五彩的小船和周围的古老建筑，感受这个历史悠久的港口的宁静与美丽。
-
-**门票**：免费。
-{% include figure.liquid loading="eager" path="assets/img/12nice-top-18-things-to-do/12nice-top-18-things-to-do-5.jpg" title="nice-trip-aolitravel.com" class="img-fluid rounded z-depth-1" %}
----
-
-### 6. 圣弗朗索瓦塔的360°全景
-
-圣弗朗索瓦塔（Tour Saint-François）位于尼斯老城区，提供了一个绝佳的全景视角，能让你一览尼斯的美丽。站在塔顶，你可以看到尼斯的海岸线、蓝色的地中海、城堡山以及整个城市的迷人风光，是观光和拍照的理想地点。
-
-**文化历史**：圣弗朗索瓦塔建于18世纪，最初作为军事用途的瞭望塔。随着时间的推移，它逐渐成为了尼斯的一个旅游热点。塔内不仅有历史的痕迹，还有一些展示尼斯历史文化的展览，讲述着这座城市的故事。
-
-**地点与如何到达**：圣弗朗索瓦塔位于尼斯老城的西部，靠近港口。最近的地铁站是"Opéra-Vieille Ville站"，从这里步行大约15分钟即可到达；另外，轻轨在Cathédrale - Vieille Ville下车，步行约4分钟。如果乘坐公交，可以选择"Place Garibaldi"站下车，再步行前往。
-
-**如何游览**：你可以登上塔顶，感受360度的壮丽视野。在塔下，有许多小街道和咖啡馆，适合你放松休息，享受周围的美景。
-
-**门票**：门票约为5欧元，建议提前[查看官网](https://www.nice.fr/fr/culture/patrimoine/la-tour-saint-francois?type=articles)确认开放时间和日期。
-
-{% include figure.liquid loading="eager" path="assets/img/12nice-top-18-things-to-do/12nice-top-18-things-to-do-6.jpg" title="nice-trip-aolitravel.com" class="img-fluid rounded z-depth-1" %}
----
-
-### 7. 马塞纳广场的艺术魅力
-
-马塞纳广场（Place Masséna）是尼斯最繁华的地标之一，广场中央有着令人惊艳的艺术雕塑和喷泉，四周围绕着19世纪的建筑，给人一种时光交错的感觉。这里是游客和当地人经常聚集的地方，充满了生机与活力。
-
-**文化历史**：Masséna广场以法国军事将领安德烈·马西纳（André Masséna）命名，广场建于19世纪初期，经历了多次的扩建与重修。如今，它不仅是尼斯市中心的交通枢纽，也是艺术展示和文化活动的重要场所。广场上的"光之雕塑"、"太阳神"雕塑等艺术装置为这里增添了现代艺术的氛围。
-
-**地点与如何到达**：Masséna广场位于尼斯市中心，紧邻海滨大道。最近的地铁站是"Masséna站"，步行即可到达。如果自驾，周围有多个停车场可供选择。
-
-**如何游览**：可以在广场上漫步，欣赏周围的建筑和艺术雕塑。广场附近有许多商店、咖啡馆和餐馆，适合休息或品尝当地的美食。晚上的灯光和雕塑的反射更加迷人，非常适合夜游。
+**我会怎么逛**：不用单独安排半天。把它放进老城—Masséna—海边这条步行路线里最自然，傍晚尤其舒服。
 
 **门票**：免费。
 
-{% include figure.liquid loading="eager" path="assets/img/12nice-top-18-things-to-do/12nice-top-18-things-to-do-7.jpg" title="nice-trip-aolitravel.com" class="img-fluid rounded z-depth-1" %}
+{% include figure.liquid loading="eager" path="assets/img/12nice-top-18-things-to-do/12nice-top-18-things-to-do-4.jpg" title="英国人散步大道与尼斯海滩" class="img-fluid rounded z-depth-1" %}
+
 ---
 
-### 8. 多姿多彩的马蒂斯博物馆
+### 4. 萨莱亚市场 Cours Saleya
 
-马蒂斯博物馆（Musée Matisse）是世界著名艺术家亨利·马蒂斯的故居，位于尼斯的西北部。博物馆收藏了马蒂斯的绘画、雕塑以及他的个人物品，是了解这位艺术大师的理想场所。
+Cours Saleya就在尼斯老城和海边之间，是我很建议上午顺路逛的地方。鲜花、水果、蔬菜、本地食材和小吃摊让这里比单纯的“旅游市场”更有生活感。
 
-**文化历史**：[亨利·马蒂斯](https://zh.wikipedia.org/wiki/%E4%BA%A8%E5%88%A9%C2%B7%E9%A9%AC%E8%92%82%E6%96%AF)是20世纪最重要的艺术家之一，他的作品在全球范围内有着极大的影响力。马蒂斯在尼斯居住多年，受到地中海阳光和尼斯风景的启发，创作了大量富有色彩和生命力的作品。马蒂斯博物馆开设于1963年，馆内展示了他不同时期的艺术作品，包括油画、剪纸以及雕塑。
+对游客来说，这里也是认识尼斯饮食最简单的入口。想试Socca、Pan Bagnat，或者只是看看当地人怎么买菜，都可以从这里开始。
 
-**地点与如何到达**：博物馆位于尼斯市北部的加尔多门（Cimiez），最近的地铁站是"Libération站"，从站点可以搭乘公交车或者步行前往，车程大约10分钟。如果自驾，博物馆周围有免费停车位。
+**怎么到**：从老城步行即可，离海滨大道也只有几分钟。
 
-**如何游览**：建议你从博物馆的主要入口进入，参观展览区，深入了解马蒂斯的艺术世界。博物馆周围还有美丽的花园，可以在参观结束后到花园里走一走，享受宁静的氛围。
+**我会怎么逛**：尽量上午来。周二到周日以鲜花、果蔬和本地产品为主；周一主要是古董和跳蚤市场。开放安排可能随节假日调整。
 
-**门票**：成人门票约10欧元，学生和18岁以下游客免费；另外有多种票券可以选择，比如4天尼斯9个博物馆的联票，票价15欧。[查看官网](https://www.musee-matisse-nice.org/en/)
+**门票**：免费，购物另计。可查看[Cours Saleya官方旅游信息](https://www.explorenicecotedazur.com/en/culture/cours-saleya/)。
 
-{% include figure.liquid loading="eager" path="assets/img/12nice-top-18-things-to-do/12nice-top-18-things-to-do-8.jpg" title="nice-trip-aolitravel.com" class="img-fluid rounded z-depth-1" %}
+{% include figure.liquid loading="eager" path="assets/img/12nice-top-18-things-to-do/12nice-top-18-things-to-do-13.jpg" title="尼斯Cours Saleya市场" class="img-fluid rounded z-depth-1" %}
+
 ---
 
-### 9. 尼斯现当代艺术博物馆
+### 5. 马塞纳广场 Place Masséna
 
-尼斯现当代艺术博物馆（Musée d'Art Moderne et d'Art Contemporain，简称MAMAC）展示了20世纪以来的现代和当代艺术作品。博物馆的建筑本身就是一件艺术品，尤其是它的外立面，吸引了大量的艺术爱好者。
+马塞纳广场是尼斯市中心最容易经过的地标之一，也是安排步行路线很好用的起点。
 
-**文化历史**：MAMAC成立于1990年，馆内展示了许多西方和美国的艺术作品，尤其注重展示后现代艺术的风格。博物馆的收藏包括了著名艺术家的作品，如皮特·霍普金斯、安迪·沃霍尔等，涵盖了从抽象表现主义到波普艺术等多个艺术流派。
+红色外墙、黑白格地面、太阳神喷泉和现代艺术装置，让它白天和晚上看起来不太一样。位置也很方便：往南是海边，往东是老城，旁边就是Promenade du Paillon。
 
-**地点与如何到达**：博物馆位于尼斯市中心，靠近老城区。最近的地铁站是"Place Garibaldi站"，从这里步行大约10分钟即可到达博物馆。如果自驾，可以在博物馆附近的停车场停放车辆。
+**怎么到**：电车Masséna站下车即可。
 
-**如何游览**：博物馆分为多个展厅，每个展厅展示不同风格的艺术作品。可以在这里花上几个小时，细细品味每一件展品。不要错过博物馆顶层的观景台，从这里你可以俯瞰整个尼斯市区。
-
-**门票**：成人票大约10欧元，18岁以下免票；另外有多种票券可以选择，比如4天尼斯9个博物馆的联票，票价15欧。[查看官网](https://www.mamac-nice.org/en/)
-
-{% include figure.liquid loading="eager" path="assets/img/12nice-top-18-things-to-do/12nice-top-18-things-to-do-9.jpg" title="nice-trip-aolitravel.com" class="img-fluid rounded z-depth-1" %}
----
-
-### 10. 历史古迹圣尼古拉大教堂
-
-圣尼古拉大教堂（Cathédrale Saint-Nicolas）是一座位于尼斯的东正教教堂，以其壮丽的建筑风格和历史意义而著名。教堂是俄罗斯沙皇家族在尼斯的礼拜场所，也是法国最大的东正教教堂之一。
-
-**文化历史**：圣尼古拉大教堂建于19世纪末，俄国沙皇尼古拉二世为这座教堂的建设提供了资助。教堂的建筑风格受到俄罗斯传统东正教建筑的影响，拥有丰富的色彩、独特的圆顶和精美的马赛克，是一种东西方文化的结合。教堂内的壁画、图标和祭坛装饰，展现了东正教的宗教艺术。
-
-**地点与如何到达**：圣尼古拉大教堂位于尼斯市中心，靠近主要交通枢纽"Place Masséna"。最近的地铁站是"Masséna站"，从站点步行约10分钟即可到达。自驾游客可以在附近的停车场停放车辆。
-
-**如何游览**：教堂内的装饰和壁画非常精美，建议你花时间欣赏每一处细节。教堂外部的花园和周围的街区也很适合散步，是一个静谧的地方，适合放松心情。
-
-**门票**：入场费为5欧元，但如果你只是参观外部或在教堂周围散步，是免费的。
-
-{% include figure.liquid loading="eager" path="assets/img/12nice-top-18-things-to-do/12nice-top-18-things-to-do-10.webp" title="nice-trip-aolitravel.com" class="img-fluid rounded z-depth-1" %}
----
-
-### 11. Jacques Chirac步道的光影
-
-Jacques Chirac步道（Promenade Jacques Chirac）是尼斯一条风景如画的步道，沿着滨海大道的延伸部分，这里是当地人和游客日常散步、跑步的热门地点。步道命名为法国前总统Jacques Chirac的名字，体现了对这位政治人物的尊敬。
-
-**文化历史**：Jacques Chirac步道虽然较为现代，但其建设和布局让人能够感受到地中海的自然魅力。这里是尼斯城市更新的一部分，目的在于为市民和游客提供更多的开放空间，增加城市的可持续性和环保意识。步道上有不少艺术装置，结合了自然景观和现代艺术，展现了尼斯的独特魅力。
-
-**地点与如何到达**：Jacques Chirac步道位于尼斯市南部，沿着海滨大道往西走即可到达。最近的地铁站是"Masséna站"，从站点步行大约20分钟。如果你开车，可以在附近的停车场找到停车位，然后步行到达步道。
-
-**如何游览**：这条步道非常适合散步和晨跑。你可以从起点开始，沿着海岸线慢慢走，享受海风和美丽的景色。这里的艺术装置也值得停下脚步欣赏，尤其是在黄昏时分，阳光洒在雕塑上，光影变幻，十分迷人。
-
-**门票**：免费。
-{% include figure.liquid loading="eager" path="assets/img/12nice-top-18-things-to-do/12nice-top-18-things-to-do-11.webp" title="nice-trip-aolitravel.com" class="img-fluid rounded z-depth-1" %}
----
-
-### 12. 西米埃兹修道院——宁静的港湾
-
-西米埃兹修道院（Monastère de Cimiez）位于尼斯的上城区，是一座历史悠久的修道院，也是一个远离尘嚣的宁静港湾。修道院的建筑古老且庄严，周围是美丽的花园，给人一种超凡脱俗的感觉。
-
-**文化历史**：西米埃兹修道院建于16世纪，曾是佛教修道士的生活和修行场所。今天，它不仅是宗教朝圣地，也是艺术和文化的汇聚地。修道院内有丰富的历史遗迹，传说它曾是古罗马时期的一个重要地点，附近还有古罗马剧院遗址。
-
-**地点与如何到达**：西米埃兹修道院位于尼斯的加尔多门（Cimiez）区，距离市中心稍远。最近的地铁站是"Libération站"，从这里乘坐公交车到达修道院大约10分钟。如果你开车，可以直接前往修道院附近的停车场。
-
-**如何游览**：在修道院内可以参观教堂、花园和博物馆，感受这个地方的宁静与庄严。修道院的花园非常美丽，适合散步和静坐，享受周围的自然环境。
-
-
-{% include figure.liquid loading="eager" path="assets/img/12nice-top-18-things-to-do/12nice-top-18-things-to-do-12.jpg" title="nice-trip-aolitravel.com" class="img-fluid rounded z-depth-1" %}
----
-
-### 13. 漫步老城Saleya市场
-
-尼斯的Saleya市场（Marché Saleya）位于老城区，是一个历史悠久、充满活力的市场。这里的摊位色彩斑斓，售卖着新鲜的水果、蔬菜、香料、花卉以及各种地方特产，是体验尼斯当地生活的好去处。
-
-**文化历史**：Saleya市场的历史可以追溯到中世纪，曾是尼斯老城区的主要市场之一。市场周围的建筑充满了地中海风情，卖家们摆满了各种各样的商品，充满了当地特色。这里不仅是购物的好地方，也是体验尼斯风情、感受地中海文化的重要场所。
-
-**地点与如何到达**：Saleya市场位于尼斯老城区的核心位置，靠近海滨大道。最近的地铁站是"Opéra-Vieille Ville站"，从这里步行不到5分钟即可到达市场。你也可以选择乘坐公交车到"Place Garibaldi"站，步行到市场。
-
-**如何游览**：逛市场时，不妨停下来和摊主聊天，了解一些当地特产和美食。你还可以品尝新鲜的水果、当地的糕点或者小吃，感受地道的尼斯味道。
-
-**门票**：市场是免费的，但购买商品需要自付费用。
-
-{% include figure.liquid loading="eager" path="assets/img/12nice-top-18-things-to-do/12nice-top-18-things-to-do-13.jpg" title="nice-trip-aolitravel.com" class="img-fluid rounded z-depth-1" %}
----
-
-### 14. 海上的餐厅 Le Plongeoir
-
-Le Plongeoir是尼斯一个非常独特的餐厅，坐落在悬崖上的一座旧游泳池遗址上。这个餐厅不仅提供美味的地中海菜肴，还能让你在用餐时欣赏到壮丽的海景。
-
-**文化历史**：Le Plongeoir餐厅最早是作为一个泳池平台建立的，曾经是上世纪50年代的一个热门游泳和跳水的地方。随着时间的推移，这里逐渐被改造成一个高档餐厅，成为了游客和当地人享受美食与美景的绝佳去处。
-
-**地点与如何到达**：Le Plongeoir位于尼斯的西南部，靠近Cimiez区。最近的地铁站是"Masséna站"，从站点搭乘公交车到达约15分钟。自驾游客可以通过导航直接到达，餐厅附近有停车位。
-
-**如何游览**：可以提前预定餐位，享受一顿地道的法式餐点。在餐厅露台上，你可以眺望到地中海的美景，享受独特的用餐体验。如果没有用餐，也可以在餐厅的周围散步，欣赏这个独特的建筑和景色。
-
-**门票**：餐厅消费约40-60欧元每人。餐厅目前临时关闭，后续开放日期仍未公布。具体详情请[查看官网](https://www.leplongeoir.com/)
-
-{% include figure.liquid loading="eager" path="assets/img/12nice-top-18-things-to-do/12nice-top-18-things-to-do-14.jpg" title="nice-trip-aolitravel.com" class="img-fluid rounded z-depth-1" %}
----
-
-### 15. 游览凤凰城动植物公园
-
-凤凰城动植物公园（Parc Phoenix）是一个集自然景观和教育功能为一体的公园，位于尼斯西部，公园内有着丰富的动植物资源，是适合家庭游客和自然爱好者的理想去处。
-
-**文化历史**：凤凰城动植物公园开设于1990年，占地近7公顷，园内有许多生态区域，如热带雨林区、沙漠区等，展示了世界各地的植物和动物。公园的设计旨在推动环保教育，并展示地球生态的多样性和美丽。
-
-**地点与如何到达**：公园位于尼斯的西部，离市区大约有20分钟车程。最近的公交车站是"Parc Phoenix"站。如果你开车，可以直接停车进入公园。
-
-**如何游览**：公园内有丰富的动植物资源，可以参观热带植物区、鸟类区以及大水族馆，感受大自然的魅力。这里也有儿童游乐设施，非常适合带小朋友一起游玩。
-
-**门票**：成人票约5.5欧元，儿童和学生有折扣。[官网](https://www.parc-phoenix.org/le-parc/infos-pratiques/)
-
-{% include figure.liquid loading="eager" path="assets/img/12nice-top-18-things-to-do/12nice-top-18-things-to-do-15.jpg" title="nice-trip-aolitravel.com" class="img-fluid rounded z-depth-1" %}
----
-
-### 16. Gairaut瀑布的隐秘角落
-
-Gairaut瀑布（Cascade de Gairaut）是一个藏在尼斯周围自然景观中的小宝藏。瀑布位于尼斯的东南部，是一个自然景点，远离市区的喧嚣，给人一种宁静、放松的感觉。
-
-**文化历史**：Gairaut瀑布是由人工修建的水道和自然瀑布形成的景观。这里的水流从山坡上缓缓而下，形成美丽的瀑布景观。周围的绿地和树木将这个地方装点得如诗如画，是散步和放松的好地方。
-
-**地点与如何到达**：Gairaut瀑布位于尼斯市东南约5公里的地方，最近的公交车站是"Le Gairaut"站。从市中心搭乘公交车约20分钟即可到达。自驾游客可以通过导航直接前往，周围有停车位。
-
-**如何游览**：来到瀑布，你可以在周围的绿地上散步，享受自然的美景。这里是个适合冥想、拍照的地方，非常适合寻找片刻的宁静。
+**我会怎么逛**：不用专门留太久，放在老城和海边之间顺路经过就好。如果晚上还在市中心，可以再回来看看灯光。
 
 **门票**：免费。
 
-{% include figure.liquid loading="eager" path="assets/img/12nice-top-18-things-to-do/12nice-top-18-things-to-do-16.jpg" title="nice-trip-aolitravel.com" class="img-fluid rounded z-depth-1" %}
----
-
-### 17. 夏加尔博物馆
-
-夏加尔博物馆（Musée National Marc Chagall）是尼斯的艺术宝藏之一，专门展示著名俄罗斯艺术家马克·夏加尔的作品。博物馆内收藏了大量的夏加尔的画作、版画以及玻璃艺术品，充满了色彩和梦幻感。
-
-**文化历史**：马克·夏加尔是20世纪最具影响力的艺术家之一，以其独特的色彩运用和富有幻想性的艺术风格著称。夏加尔博物馆于1973年开馆，展品主要包括他的宗教艺术、舞蹈与音乐主题的作品，以及他为法国各地教堂创作的玻璃窗。
-
-**地点与如何到达**：博物馆位于尼斯西北部的Cimiez区，距离市中心大约15分钟车程。最近的地铁站是"Libération"站，可以乘公交车到达博物馆，车程约10分钟。
-
-**如何游览**：在博物馆中可以详细了解夏加尔的艺术世界，观赏他丰富的作品。博物馆内有专门的解说，帮助你更好地理解每幅作品的背景和创作过程。
-
-**门票**：成人票约10欧元，18岁以下免票。[查看官网](https://musees-nationaux-alpesmaritimes.fr/chagall/en/practical-information)
-
-{% include figure.liquid loading="eager" path="assets/img/12nice-top-18-things-to-do/12nice-top-18-things-to-do-17.jpg" title="nice-trip-aolitravel.com" class="img-fluid rounded z-depth-1" %}
----
-
-### 18. 尼斯狂欢节
-
-尼斯狂欢节（The Carnival of Nice）是世界三大狂欢节之一，每年2月举行，持续2-3周。狂欢节期间，尼斯街头充满了节庆的气氛，盛大的花车游行、精彩的烟火表演、以及无数的街头艺术表演让每个参与者都沉浸在欢乐的氛围中。节日详情每年会稍有变化，具体请查阅[活动官网](https://www.nicecarnaval.com/en/)。
-
-**文化历史**：尼斯狂欢节的历史可以追溯到17世纪，是尼斯最重要的文化活动之一。节庆的庆祝形式独具特色，展现了当地居民对美好生活的热爱。期间的花车游行和鲜花节尤为著名，是吸引世界各地游客的亮点。
-
-**地点与如何到达**：尼斯狂欢节的主要活动集中在市中心和海滨大道附近。最近的地铁站是"Masséna站"，公交站也很多，可以方便到达各大活动区域。
-
-**如何游览**：建议你提前查看活动日程，选择一个花车游行或者夜间烟火表演的日期参与。穿上你最炫目的服饰，融入节日的欢乐氛围。
-
-**门票**：不同活动票价不同，花车游行的票价约为20-30欧元，烟火表演则通常是免费的。
-{% include figure.liquid loading="eager" path="assets/img/12nice-top-18-things-to-do/12nice-top-18-things-to-do-18.jpg" title="nice-trip-aolitravel.com" class="img-fluid rounded z-depth-1" %}
+{% include figure.liquid loading="eager" path="assets/img/12nice-top-18-things-to-do/12nice-top-18-things-to-do-7.jpg" title="尼斯马塞纳广场Place Masséna" class="img-fluid rounded z-depth-1" %}
 
 ---
 
-> 出发前，总少不了做点功课，对吧？为了让你的行程更轻松，我整理了三大实用资源：👉1.[**精选路线**](https://aolitravel.com/tours/)：汇集我们自己运营、靠谱的巴黎和南法游览路线，让你玩得尽兴又不踩雷。 👉2.[**旅行工具**](https://aolitravel.com/travel-prep/)：酒店、机票、车票、租车或包车预订，以及各种旅行资源，一站搞定行程安排。 👉3.[**旅行商城**](https://aolitravel.com/store/)：我们陆续上新精选旅行好物，从出行装备到当地特色小物，让旅程更舒适、更有趣。用上这些推荐，你再也不用东奔西找，既省时又省心。想让你的欧洲或瑞士之旅顺利又精彩？从这里开始，就对了！
->
+### 6. #ILoveNice 与 Quai Rauba Capèu
 
-{% include figure.liquid loading="eager" path="assets/img/12nice-top-18-things-to-do/12nice-top-18-things-to-do-19.jpg" title="nice-trip-aolitravel.com" class="img-fluid rounded z-depth-1" %}
+#ILoveNice很适合拍照，但我不太建议为了这个字母标志专门安排一个“景点时间”。
 
-如果你想探寻更多关于法国的美好，可以查阅以下内容：
+更值得看的是它旁边的**Quai Rauba Capèu**。这里就在城堡山脚下，面向天使湾，视野很开，也是我比较喜欢的日落位置之一。
 
-想了解更多法国或瑞士的旅行灵感？快来探索我的其他旅游攻略吧！😊🇫🇷
+**怎么到**：从老城或Cours Saleya步行过来很近，也可以从城堡山下山后顺路经过。
 
-**法国旅游**
+**我会怎么逛**：拍完照继续沿海边走就好，20分钟左右通常够了。
 
-[法国旅行前准备攻略：一站式指南](https://aolitravel.com/france-travel/france-travel-information/)
+**门票**：免费。
 
-[法国旅行入门攻略：申根旅游签证申请指南](https://aolitravel.com/france-travel/france-visa-information/)
+{% include figure.liquid loading="eager" path="assets/img/12nice-top-18-things-to-do/12nice-top-18-things-to-do-1.jpg" title="尼斯ILoveNice地标与Quai Rauba Capèu" class="img-fluid rounded z-depth-1" %}
 
-[法国文化小课堂｜礼仪、语言、饮食文化、餐馆用餐指南](https://aolitravel.com/france-travel/french-culture-101-etiquette-language-culinary-dining/)
+---
 
-[🇫🇷法兰西十二时辰：每个月最该去的绝美秘境，错过等一年！](https://aolitravel.com/france-travel/explore-france-12-best-monthly-destinations/)
+### 7. Lympia港 Port Lympia
 
-[法国滑雪🇫🇷入门全攻略｜我的多年经验总结](https://aolitravel.com/france-travel/france-ski-guide/)
+尼斯港和老城的感觉不太一样。这里的彩色建筑、传统小船和沿港餐馆，让城市突然安静下来一点。
 
-[法国TOP20滑雪胜地全攻略 ❄️｜探秘阿尔卑斯顶级滑雪天堂](https://aolitravel.com/france-travel/french-top-20-ski-resort-guide/)
+如果已经走了老城和城堡山，我很建议继续往港口方向走，而不是在#ILoveNice就折返。这里也是去科西嘉等方向乘船的重要码头，所以除了游客，也能看到尼斯日常的一面。
 
-[法国打折村「不完全指南」带你省钱买大牌！](https://aolitravel.com/france-travel/france-outlet-shopping-mall-village-guide/)
+**怎么到**：电车L2可以到Port Lympia；从Garibaldi广场或城堡山步行过来也方便。
 
-[法国看球之旅⚽｜探秘法甲六大豪门](https://aolitravel.com/france-travel/france-football-league-1-visit-top-6-clubs/)
+**我会怎么逛**：沿港口慢慢走一圈即可，傍晚的光线更好。
 
-[波尔多旅游指南｜探索葡萄酒之城15个宝藏景点](https://aolitravel.com/france-travel/visit-bordeaux-top-15-things-to-do/)
+**门票**：免费。
 
-[里昂必打卡18大景点：从古迹到艺术，玩转法国“光之城”！](https://aolitravel.com/france-travel/visit-lyon-top-18-things-to-do/)
+{% include figure.liquid loading="eager" path="assets/img/12nice-top-18-things-to-do/12nice-top-18-things-to-do-5.jpg" title="尼斯Lympia港口彩色建筑与小船" class="img-fluid rounded z-depth-1" %}
 
-[南法 vs 南意：地中海风情的双面魅力，你Pick哪一边？](https://aolitravel.com/france-travel/south-france-south-italy-trip-comparison/)
+---
 
-[玫瑰之城「图卢兹」解锁浪漫与科技的完美之旅](https://aolitravel.com/france-travel/visit-toulouse-top-12-things-to-do/)
+### 8. Garibaldi广场 Place Garibaldi
 
-[欧洲之心「斯特拉斯堡」Top12景点深度游攻略](https://aolitravel.com/france-travel/visit-strasbourg-top-12-things-to-do/)
+Garibaldi广场连接老城和港口，也是尼斯很有代表性的历史广场。
 
-[最美小镇「科尔马」一日游攻略｜仿佛误入童话世界✨](https://aolitravel.com/france-travel/visit-colmar-1-day-trip/)
+赭黄色外墙、拱廊和露台餐馆，很能看出尼斯受到意大利文化影响的一面。广场中央是出生于尼斯的Giuseppe Garibaldi雕像。
 
-[「格勒诺布尔」终极攻略｜8大必玩景点&美食、远足、滑雪](https://aolitravel.com/france-travel/visit-grenoble-guide/)
+**怎么到**：电车Garibaldi附近下车，步行去老城和Lympia港都很方便。
 
-[南特必玩12大景点全攻略｜教你玩转法国最潮文艺之城！](https://aolitravel.com/france-travel/visit-nantes-top-12-things-to-do/)
+**我会怎么逛**：路过时停下来看看就够了，不用专门绕路。想坐下来喝杯咖啡，这一带也很合适。
 
-[3天玩转法国布列塔尼！圣马洛、迪纳尔、迪南、圣米歇尔山全攻略](https://aolitravel.com/france-travel/visit-brittany-bretagne-saint-malo-dinard-dinan-mont-saint-michel/)
+**门票**：免费。
 
-[雷恩旅游全攻略｜布列塔尼的心脏，历史与活力的魅力之城！](https://aolitravel.com/france-travel/visit-rennes-top-12-things-to-do/)
+---
 
-[🇫🇷里尔必玩15大景点全攻略！一次玩透，轻松有趣！](https://aolitravel.com/france-travel/visit-lille-top-15-things-to-do/)
+### 9. Promenade du Paillon
 
-[诺曼底之心「鲁昂」城市旅游深度指南｜距离巴黎1.5小时](https://aolitravel.com/france-travel/visit-rouen-city-guide/)
+Promenade du Paillon就在Masséna广场旁边，是尼斯市中心一块很好用的绿色空间。
 
-[🌿 蒙彼利埃2日生态旅行攻略：徒步、海鲜、运河骑行](https://aolitravel.com/france-travel/visit-montpellier-city-guide/)
+草地、水镜、喷泉和儿童游乐设施都集中在这里。如果带孩子，我会把这里的优先级放得比一些博物馆更高：位置方便，玩累了随时可以离开，也不会影响后面的行程。
 
-[🍾香槟之城「兰斯」终极旅行指南](https://aolitravel.com/france-travel/visit-reims-city-guide/)
+**怎么到**：从Masséna广场、Jean Médecin或老城步行即可。
 
-[法国勃艮第童话小城「第戎」的一日旅游攻略](https://aolitravel.com/france-travel/visit-dijon-city-guide/)
+**我会怎么逛**：走累了来坐一会儿，夏天孩子会比较喜欢水镜和喷雾区。
 
-[探访阿尔卑斯的威尼斯｜我的「安纳西」独家旅游攻略](https://aolitravel.com/france-travel/visit-alps-annecy-city-guide/)
+**门票**：免费。开放时间会按季节调整。
 
-[法国世界文化遗产「圣米歇尔山」最全旅行指南！](https://aolitravel.com/france-travel/visit-saint-michel-mount-normandie/)
+---
 
-[法国美丽岛「科西嘉」全攻略｜这个地中海神仙小岛也太绝了](https://aolitravel.com/france-travel/visit-france-corse-guide/)
+### 10. 圣尼古拉俄罗斯东正教大教堂 Cathédrale Saint-Nicolas
 
-[穿越时光的城堡之旅｜法国卢瓦尔河谷最全游览指南](https://aolitravel.com/france-travel/visit-castles-the-loire-france/)
+在尼斯看到这样一座俄罗斯东正教大教堂，还是挺让人意外的。
 
-[比利牛斯山深藏的安道尔🇦🇩小到离谱，好玩到炸](https://aolitravel.com/france-travel/visit-pyrenees-andorra-guide/)
+圣尼古拉大教堂受到俄罗斯传统教堂建筑影响，彩色圆顶很醒目，内部还有大量圣像、壁画和木雕。尼斯在19世纪到20世纪初吸引了不少俄罗斯贵族和侨民，这座教堂正好留下了这段历史。
 
-[🇫🇷法国最值得打卡的世界文化遗产TOP15｜一生必去清单](https://aolitravel.com/france-travel/france-15-unesco-historic-cultural-sites/)
+**怎么到**：从Nice-Ville火车站一带过去比较方便，步行或搭公交都可以。
 
-[🍷法国葡萄酒旅行攻略｜六大产区，一文看懂！](https://aolitravel.com/france-travel/france-wine-region-travel-guide/)
+**我会怎么逛**：如果喜欢建筑和历史，值得专门来；如果只有一天时间，我会把它排在老城、城堡山和海边之后。
 
-[去法国看网球？法网、巴黎大师赛、蒙特卡洛大师赛全攻略](https://aolitravel.com/france-travel/roland-garros-paris-masters-monte-carlo-tennis-tournament-guide/)
+**门票**：开放和收费方式可能调整，出发前查看官方信息更稳。
 
-**巴黎**
+{% include figure.liquid loading="eager" path="assets/img/12nice-top-18-things-to-do/12nice-top-18-things-to-do-10.webp" title="尼斯圣尼古拉俄罗斯东正教大教堂" class="img-fluid rounded z-depth-1" %}
 
-[巴黎住宿安全指南｜区域推荐与避坑攻略](https://aolitravel.com/paris/paris-map-arr/)
+---
 
-[巴黎必去景点Top20｜一文带你玩转浪漫之都](https://aolitravel.com/paris/paris-top-20/)
+### 11. 马蒂斯博物馆 Musée Matisse
 
-[2025年最新巴黎机场交通攻略](https://aolitravel.com/paris/public-transport-paris-airports/)
+如果喜欢艺术，马蒂斯博物馆是尼斯比较值得看的博物馆之一。
 
-[巴黎四天三夜经典行程推荐](https://aolitravel.com/paris/paris-4days-trip/)
+马蒂斯在尼斯生活和创作多年，地中海的光线和色彩对他的作品影响很大。博物馆位于Cimiez的一座历史建筑里，收藏横跨他多个创作时期的绘画、素描、雕塑和剪纸作品。
 
-[最实用的巴黎公共交通指南｜一文看懂怎么选！](https://aolitravel.com/paris/paris-public-transportation/)
+**怎么到**：博物馆在Cimiez高地，从市中心搭公交更方便。
 
-[法国必打卡｜巴黎歌剧院超详细图文全攻略](https://aolitravel.com/paris/paris-garnier-opera-guide/)
+**我会怎么逛**：最好和Cimiez修道院、花园以及附近的古罗马遗址放在半天里一起看，不建议只为了一个博物馆来回跑。
 
-[巴黎圣母院游记攻略｜历史、建筑与周边旅行指南](https://aolitravel.com/paris/notre-dame-paris-guide/)
+**门票**：票价和开放时间建议查看[马蒂斯博物馆官网](https://www.musee-matisse-nice.org/en/)。
 
-[巴黎中餐馆卷王争霸赛（上篇）｜干饭人速存！](https://aolitravel.com/paris/paris-top-50-chinese-restaurants-1/)
+{% include figure.liquid loading="eager" path="assets/img/12nice-top-18-things-to-do/12nice-top-18-things-to-do-8.jpg" title="尼斯马蒂斯博物馆Musée Matisse" class="img-fluid rounded z-depth-1" %}
 
-[巴黎中餐馆卷王争霸赛（下篇）｜干饭人速存！](https://aolitravel.com/paris/paris-top-50-chinese-restaurants-2/)
+---
 
-[巴黎戴高乐机场最全直飞航班&交通攻略](https://aolitravel.com/paris/paris-airport-flights-and-pickup/)
+### 12. 夏加尔博物馆 Musée National Marc Chagall
 
-[巴黎迪士尼乐园游玩攻略｜玩转巴黎的魔法世界！](https://aolitravel.com/paris/visit-disneyland-paris/)
+夏加尔博物馆是另一座我会推荐给艺术爱好者的尼斯博物馆。
 
-[必看！凡尔赛宫游览全攻略｜半天&一天行程完美规划](https://aolitravel.com/paris/visit-versailles/)
+这里最核心的是夏加尔围绕《圣经》主题创作的一系列大型作品，色彩非常有辨识度。和很多“什么都有一点”的综合博物馆不同，这里主题比较集中，平时不太逛美术馆的人也容易看进去。
 
-[枫丹白露宫一日游攻略：解锁皇室秘境！](https://aolitravel.com/paris/visit-fontainebleau/)
+**怎么到**：从市中心搭公交前往比较方便。
 
-[巴黎周边必去的十个绝美小镇｜1小时交通圈](https://aolitravel.com/paris/paris-nearby-10-top-villages/)
+**我会怎么逛**：如果时间有限，马蒂斯和夏加尔不一定两个都去，可以根据自己更喜欢哪位艺术家来选。
 
-**南法**
+**门票**：具体票价和开放时间可查看[夏加尔博物馆官网](https://musees-nationaux-alpesmaritimes.fr/chagall/en/practical-information)。
 
-[最新普罗旺斯薰衣草花期预报💜｜最佳观赏时间与路线](https://aolitravel.com/south-of-france/visit-france-provence-lavender-season/)
+{% include figure.liquid loading="eager" path="assets/img/12nice-top-18-things-to-do/12nice-top-18-things-to-do-17.jpg" title="尼斯夏加尔博物馆Musée National Marc Chagall" class="img-fluid rounded z-depth-1" %}
 
-[🌟南法7天怎么玩？收下这份保姆级攻略！](https://aolitravel.com/south-of-france/visit-south-france-7-day-trip/)
+---
 
-[南法Top15最美宝藏小镇推荐!](https://aolitravel.com/south-of-france/visit-south-france-top-15-villages/)
+### 13. Cimiez修道院与花园 Monastère de Cimiez
 
-[法国马赛-普罗旺斯机场最全指南（含接机服务推荐）！](https://aolitravel.com/south-of-france/marseille-provence-airport-guide/)
+Cimiez比老城安静很多。如果在尼斯住两晚以上，又想看看游客没那么集中的一面，可以把这里留半天。
 
-[🔥巴塞罗那到南法终极交通指南｜私藏路线大公开！](https://aolitravel.com/south-of-france/from-barcelona-to-marseille-guide/)
+Cimiez修道院属于**方济各会传统**，旁边有花园、墓园和古罗马遗迹，马蒂斯博物馆也在附近。它不是那种“必须拍照打卡”的地方，但很适合慢慢走。
 
-[南法马赛一日游攻略｜本地向导经典路线推荐](https://aolitravel.com/south-of-france/marseille-1day-trip/)
+**怎么到**：从市中心搭公交到Cimiez一带最方便。
 
-[马赛城市住宿指南｜帮你轻松规划马赛之旅](https://aolitravel.com/south-of-france/marseille-quartier-hotel-recommandation/)
+**我会怎么逛**：马蒂斯博物馆 + Cimiez修道院 + 花园一起安排，半天差不多。
 
-[马赛必打卡！Top15景点全攻略｜本地向导推荐指南](https://aolitravel.com/south-of-france/visit-marseille-top15-things-to-do/)
+**门票**：修道院及花园以现场开放规则为准。
 
-[南法圣十字湖和看薰衣草最美攻略｜详细停车地点分享](https://aolitravel.com/south-of-france/visit-lavande-champ-saint-croix-verdon-moustiers-sainte-marie/#%EF%B8%8F-%E7%9C%8B%E6%B9%96%E6%94%BB%E7%95%A5)
+{% include figure.liquid loading="eager" path="assets/img/12nice-top-18-things-to-do/12nice-top-18-things-to-do-12.jpg" title="尼斯Cimiez修道院与花园" class="img-fluid rounded z-depth-1" %}
 
-[阿尔勒城市旅行指南｜探索普罗旺斯的魅力](https://aolitravel.com/south-of-france/visit-arles-city-guide/)
+---
 
-[「阿维尼翁旅行攻略」解锁教皇之城 🏰 Top15景点！](https://aolitravel.com/south-of-france/visit-avignon-city-guide-top-15-things-to-do/)
+### 14. Parc Phoenix 凤凰城动植物公园
 
-[南法马赛「城市沙滩」不完全指南](https://aolitravel.com/south-of-france/marseille-top-beach-guide/)
+Parc Phoenix在尼斯西边、靠近机场，是带孩子旅行时很实用的一个选择。
 
-[马赛法餐指南｜10家本地人也爱的高分餐厅推荐](https://aolitravel.com/south-of-france/10-marseille-restaurants-recommandation/)
+园内有主题花园、温室、湖泊和多种动物，整体强度不大。对第一次来尼斯、只有一天的游客，我不会把它排进核心路线；但如果带小朋友、天气太热，或者住得离机场近，就很合适。
 
-[南法粉色盐湖+中世纪古镇艾格莫尔怎么玩？](https://aolitravel.com/south-of-france/visit-salin-aigues-mortes-camargue-travel-guide/)
+**怎么到**：电车L2、L3在Parc Phoenix一带设站，离机场也很近。
 
-[尼斯最强旅行指南｜Top 18必游景点全攻略](https://aolitravel.com/south-of-france/nice-top-18-things-to-do/)
+**我会怎么逛**：预留2—3小时比较舒服。
 
-[尼斯住宿全攻略｜7大街区带你解锁南法度假魅力 🌊](https://aolitravel.com/south-of-france/where-to-stay-in-nice-top7-quariters-hotel-recommandation/)
+**门票**：具体价格和开放时间可查看[Parc Phoenix官网](https://www.parc-phoenix.org/le-parc/infos-pratiques/)。
 
-[蔚蓝海岸尼斯、摩纳哥、戛纳最强三日游攻略](https://aolitravel.com/south-of-france/nice-eze-monaco-menton-cannes-3days-trip/)
+{% include figure.liquid loading="eager" path="assets/img/12nice-top-18-things-to-do/12nice-top-18-things-to-do-15.jpg" title="尼斯Parc Phoenix凤凰城动植物公园" class="img-fluid rounded z-depth-1" %}
 
-[南法宝藏城市「土伦」旅游全攻略](https://aolitravel.com/south-of-france/visit-toulon-city-guide/)
+---
 
-[蔚蓝海岸艺术之旅｜尼斯及周边12大博物馆全攻略](https://aolitravel.com/south-of-france/france-cote-dazur-nice-art-trip/)
+### 15. Gairaut瀑布 Cascade de Gairaut
 
-**瑞士**
+Gairaut瀑布在尼斯**北面的山坡**上，比市中心的景点小众很多。
 
-[瑞士滑雪终极攻略｜13大顶级滑雪胜地推荐！](https://aolitravel.com/switzerland/swiss-ski-resorts-guide/)
+它并不是天然大瀑布，而是和19世纪把Vésubie水源引入尼斯的供水工程有关。如果已经来过尼斯几次，或者刚好自驾，我觉得可以顺路看看；但第一次来只有一天，就不用特意跑。
 
-[🇨🇭日内瓦最全旅行攻略｜16大必去景点一次玩遍](https://aolitravel.com/switzerland/geneva-top-16-attractions-guide/)
+**怎么到**：从市中心搭公交可以到达，自驾会更方便。
 
-[从日内瓦出发的一日慢行｜8个推荐的湖畔小镇](https://aolitravel.com/switzerland/geneva-lake-town-guide/)
+**我会怎么逛**：这里停留不用太久，主要看瀑布、木屋式建筑和周边山景。
 
-[日内瓦6大街区推荐与住宿指南](https://aolitravel.com/switzerland/geneva-6-neighborhoods-guide-accommodation/)
+**门票**：免费。
 
-[苏黎世攻略｜16个必去景点带你玩转瑞士之心](https://aolitravel.com/switzerland/explore-zurich-16-must-see/)
+{% include figure.liquid loading="eager" path="assets/img/12nice-top-18-things-to-do/12nice-top-18-things-to-do-16.jpg" title="尼斯Gairaut瀑布Cascade de Gairaut" class="img-fluid rounded z-depth-1" %}
 
-[卢塞恩两日游攻略｜玩遍湖光山色与童话小镇](https://aolitravel.com/switzerland/switzerland-lucerne-two-days-tour/)
+---
 
-[伯尔尼一日游攻略｜深度体验历史文化、自然风光](https://aolitravel.com/switzerland/switzerland-bern-one-day-tour/)
+### 16. 尼斯主座大教堂 Cathédrale Sainte-Réparate
 
-[卢加诺最全攻略｜瑞士南部最具意式风情的城市](https://aolitravel.com/switzerland/visit-lugano-top-10-things-to-do/)
+这座教堂就在老城Place Rossetti，是逛尼斯老城时最容易顺路进去看的历史建筑之一。
 
-**Blog**
+外面看起来不算张扬，里面则是比较典型的巴洛克装饰。因为位置太方便，我反而觉得它比一些需要专门坐车去的小众景点更适合第一次游客。
 
-[更多关于我的生活记录和感受](https://aolitravel.com/blog/)
+**怎么到**：就在尼斯老城中心，从Cours Saleya步行几分钟。
+
+**我会怎么逛**：不用单独安排时间，逛老城时顺路进去看看即可。遇到宗教仪式时注意保持安静。
+
+**门票**：一般可免费进入，开放时段可能因宗教活动调整。
+
+{% include figure.liquid loading="eager" path="assets/img/12nice-top-18-things-to-do/Cathedrale-Sainte-Reparate-nice.jpg" title="尼斯主座大教堂 Cathédrale Sainte-Réparate" class="img-fluid rounded z-depth-1" %}
+
+
+---
+
+### 17. Villa Masséna 马塞纳别墅博物馆
+
+如果对尼斯从19世纪到“美好年代”这段历史感兴趣，Villa Masséna值得看一眼。
+
+这座海滨别墅后来改为艺术与历史博物馆，位置就在英国人散步大道旁边。它很适合和海滨大道、Negresco酒店外观一起安排，不需要专门绕远。
+
+**怎么到**：从Masséna广场沿海滨大道向西步行即可。
+
+**我会怎么逛**：喜欢城市历史可以进去看；如果时间紧，看看建筑和外面的花园也可以。
+
+**门票**：博物馆收费，花园可免费进入；开放和票价以官方信息为准。
+
+{% include figure.liquid loading="eager" path="assets/img/12nice-top-18-things-to-do/Villa-Massena.jpg" title="Villa Masséna 马塞纳博物馆" class="img-fluid rounded z-depth-1" %}
+
+
+---
+
+### 18. Mont Boron 博隆山 与 Fort du Mont-Alban 阿尔巴山堡垒
+
+如果已经看过城堡山，还想找一个安静一点的观景和散步区域，我会推荐Mont Boron。
+
+这里有大片地中海森林和步道，视野可以往尼斯、Villefranche-sur-Mer和海岸方向延伸。附近的Fort du Mont-Alban建于16世纪，本身也很有历史感。
+
+**怎么到**：公交或自驾更方便，喜欢走路的人也可以安排成一段轻徒步。
+
+**我会怎么逛**：重点其实是森林和观景，不一定非要进城堡内部。Fort du Mont-Alban内部参观通常只在特定日期和导览时段开放，出发前最好先查。
+
+**门票**：Mont Boron公园免费；城堡参观以官方安排为准。
+
+{% include figure.liquid loading="eager" path="assets/img/12nice-top-18-things-to-do/Fort du Mont-Alban.jpg" title="Fort du Mont-Alban 阿尔巴山堡垒" class="img-fluid rounded z-depth-1" %}
+
+
+---
+
+## 如果只有一天，我会这样逛尼斯
+
+如果只有一天，我会走：
+
+**Masséna广场 → Promenade du Paillon → 萨莱亚市场 → 尼斯老城 → 城堡山 → #ILoveNice / Quai Rauba Capèu → Lympia港**
+
+这条路线基本靠走路就能完成，也不会为了多看一个景点来回折返。下午如果还有时间，再沿海边回到英国人散步大道，天气好的话待到傍晚也很舒服。
+
+如果有第二天，再去Cimiez、马蒂斯博物馆、夏加尔博物馆，或者把时间留给尼斯周边。
+
+想继续安排周边，可以看我的[住在尼斯怎么玩周边？一日游路线安排指南](https://aolitravel.com/south-of-france/nice-day-trips-guide-draft/)和[蔚蓝海岸尼斯、摩纳哥、戛纳三日游攻略](https://aolitravel.com/south-of-france/nice-eze-monaco-menton-cannes-3days-trip/)。
+
+---
+
+## 住哪里，逛这些景点最省事？
+
+这篇主要讲景点，所以我不打算塞一大排酒店。不够真正影响住宿体验的，是**住在哪个区域**。
+
+如果主要想靠步行逛老城、海边和城堡山，我会优先看**老城 / Masséna附近**。位置最省心，晚上吃饭也方便。
+
+如果第二天还准备坐火车去**摩纳哥、昂蒂布或戛纳**，可以考虑**Jean Médecin / Nice-Ville火车站一带**。这一带不一定最有度假氛围，但拖着行李赶火车会轻松不少。
+
+如果更在意海景和度假氛围，再看**英国人散步大道 Promenade des Anglais**周边，不过同样预算下，海边通常更贵。
+
+我另外整理了[尼斯住宿全攻略｜7大街区怎么选](https://aolitravel.com/south-of-france/where-to-stay-in-nice-top7-quariters-hotel-recommandation/)，选酒店时可以接着看。
+
+---
+
+## 游览信息补充，出发前知道就好
+
+### 2月来尼斯，狂欢节值得看吗？
+
+值得，但它是**节庆活动**，所以我没有把它硬塞进全年Top18里。
+
+尼斯狂欢节通常在2月举行，大型花车、夜间游行和著名的“鲜花大战”都集中在市中心一带。每年的日期、主题和票价会变化，出发前直接看[尼斯狂欢节官网](https://www.nicecarnaval.com/en/)最稳。
+
+{% include figure.liquid loading="eager" path="assets/img/12nice-top-18-things-to-do/12nice-top-18-things-to-do-18.jpg" title="尼斯狂欢节Carnaval de Nice" class="img-fluid rounded z-depth-1" %}
+
+---
+
+### Le Plongeoir：不是景点，但位置确实很特别
+
+Le Plongeoir不算“尼斯18大景点”，但如果想找一顿有海景、位置又特别的饭，可以记一下。
+
+餐厅建在海边岩石上的旧跳水平台位置，露台几乎悬在地中海上。这里更适合约会或想慢慢吃一顿饭的时候，旺季建议提前订位。
+
+营业季节和开放时间会调整，去之前可以查看[Le Plongeoir官网](https://www.leplongeoir.com/)。
+
+{% include figure.liquid loading="eager" path="assets/img/12nice-top-18-things-to-do/12nice-top-18-things-to-do-14.jpg" title="尼斯海景餐厅Le Plongeoir" class="img-fluid rounded z-depth-1" %}
+
+---
+
+### 2026更新：这两个旧热门景点暂时别专门跑
+
+**MAMAC 尼斯现当代艺术博物馆**
+
+MAMAC目前因大型翻修关闭，尼斯蔚蓝海岸旅游局标注预计关闭至**2028年**。如果主要为了现代艺术来尼斯，可以先看我整理的[蔚蓝海岸艺术之旅｜尼斯及周边12大博物馆](https://aolitravel.com/south-of-france/france-cote-dazur-nice-art-trip/)。
+
+**Tour Saint-François 圣弗朗索瓦塔**
+
+圣弗朗索瓦塔自2025年11月起临时关闭，目前不建议专门过去。它以后重新开放，我会再考虑把它放回景点推荐里。
+
+---
+
+## 尼斯景点常见问题 FAQ
+
+**尼斯最值得去的景点有哪些？**
+
+如果时间有限，我最推荐**尼斯老城、城堡山、英国人散步大道、萨莱亚市场、马塞纳广场和Lympia港**。这几个地方基本能看到尼斯最经典的一面。
+
+**尼斯一天够玩吗？**
+
+如果主要看市区经典景点，一天够用。想逛博物馆、Cimiez，或者在海边慢一点，我更建议住两晚。
+
+**尼斯景点集中吗？**
+
+城区景点很集中。老城、萨莱亚市场、城堡山、Masséna广场和海滨大道基本可以步行串起来；Cimiez、Parc Phoenix、Gairaut和Mont Boron等地方再搭公交或电车。
+
+**尼斯需要租车吗？**
+
+只玩尼斯市区完全不需要。老城和海边更适合步行，公共交通也方便。准备深入普罗旺斯，或者去公共交通不方便的小镇时，租车才更有意义。
+
+**尼斯有哪些免费景点？**
+
+尼斯老城、城堡山、英国人散步大道、Masséna广场、Garibaldi广场、Promenade du Paillon、Lympia港和Mont Boron公园等都可以免费游览。
+
+**尼斯哪里看日落比较好？**
+
+我更推荐**城堡山**和**Quai Rauba Capeu**。城堡山视野高，可以同时看到天使湾和城市；如果不想爬山，直接在海边等日落会轻松很多。
+
+---
+
+**继续看尼斯和蔚蓝海岸**
+
+如果已经决定去尼斯，下面几篇更适合接着看：
+
+- [尼斯住宿全攻略｜7大街区怎么选](https://aolitravel.com/south-of-france/where-to-stay-in-nice-top7-quariters-hotel-recommandation/)
+- [尼斯机场落地指南｜市区酒店交通怎么选](https://aolitravel.com/south-of-france/france-nice-cote-azur-airport-guide/)
+- [住在尼斯怎么玩周边？一日游路线安排指南](https://aolitravel.com/south-of-france/nice-day-trips-guide-draft/)
+- [蔚蓝海岸尼斯、摩纳哥、戛纳三日游攻略](https://aolitravel.com/south-of-france/nice-eze-monaco-menton-cannes-3days-trip/)
+- [摩纳哥旅游攻略｜18个必打卡景点](https://aolitravel.com/south-of-france/monaco-top-18-must-see-guide/)
+- [第一次去南法完整规划指南｜路线、季节、交通住宿与城市取舍](https://aolitravel.com/south-of-france/south-of-france-travel-guide/)
+
+{% include figure.liquid loading="lazy" path="assets/img/12nice-top-18-things-to-do/12nice-top-18-things-to-do-19.jpg" title="尼斯与蔚蓝海岸旅行" class="img-fluid rounded z-depth-1" %}
