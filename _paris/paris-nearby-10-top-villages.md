@@ -147,6 +147,8 @@ pretty_table: true
    apartment=false
 %}
 
+{% include hotel-affiliate-disclosure.liquid %}
+
 
 ---
 
@@ -445,4 +447,8 @@ pretty_table: true
 
 [枫丹白露宫一日游攻略：解锁皇室秘境！](https://aolitravel.com/paris/visit-fontainebleau/)
 
-{% include hotel-affiliate-disclosure.liquid %}
+---
+
+<div class="post-update-note">
+  <p><strong>内容更新：</strong>本文重新整理了巴黎周边10个小镇的交通方式、路线组合和住宿建议，并按巴黎西北、枫丹白露、巴黎东部三个方向重新梳理行程，补充了吉维尼、枫丹白露、普罗万等地当天往返还是住一晚的建议，帮助读者更快安排巴黎周边一日游或两日路线。</p>
+</div>
