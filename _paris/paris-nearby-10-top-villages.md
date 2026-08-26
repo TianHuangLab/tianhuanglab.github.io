@@ -63,7 +63,13 @@ pretty_table: true
 
 如果是一家四口、多人一起住，或者准备在巴黎连续住四五晚以上，我也会强烈推荐你预订整套公寓。尤其是需要厨房、洗衣机或两个独立卧室的时候，不一定非得订两间酒店房。
 
-{% include hotel-affiliate-area-links.liquid city="paris" placement="stay-overview-family" show_compare=false apartment=true %}
+{% include hotel-affiliate-area-links.liquid
+   city="paris"
+   placement="stay-overview-family"
+   show_compare=false
+   apartment=true
+%}
+
 
 ---
 
@@ -134,13 +140,13 @@ pretty_table: true
 
 这里我只放两个不同预算的选择：一个更偏实用和性价比，一个住得稍微舒服一点。
 
-{% include hotel-affiliate-disclosure.liquid %}
-
 {% include hotel-affiliate-stay-block.liquid
    area_id="paris-saint-lazare-opera"
-   hotel_ids="hotel-darcet-paris,hotel-fior-daliza-paris"
+   hotel_ids="le-regent-montmartre-paris,hotel-darcet-paris,maison-mere-paris"
    placement="after-west-route"
+   apartment=false
 %}
+
 
 ---
 
@@ -254,6 +260,7 @@ pretty_table: true
    area_id="fontainebleau-centre"
    hotel_ids="campanile-fontainebleau,aigle-noir-fontainebleau"
    placement="after-fontainebleau-route"
+   apartment=false
 %}
 
 ---
@@ -326,9 +333,9 @@ pretty_table: true
 
 {% include hotel-affiliate-stay-block.liquid
    area_id="paris-gare-est-nord"
-   hotel_ids="little-hotel-paris,le-cesar-provins"
-   limit=2
+   hotel_ids="hotel-dalsace-paris,little-hotel-paris,le-cesar-provins"
    placement="after-provins-route"
+   apartment=false
 %}
 
 
@@ -438,4 +445,4 @@ pretty_table: true
 
 [枫丹白露宫一日游攻略：解锁皇室秘境！](https://aolitravel.com/paris/visit-fontainebleau/)
 
-
+{% include hotel-affiliate-disclosure.liquid %}

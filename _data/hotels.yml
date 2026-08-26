@@ -5,8 +5,9 @@
 # 2. affiliate 链接必须使用 rel="sponsored nofollow noopener"。
 # 3. 本库优先服务“按文章文意推荐住宿”，不是做酒店排行榜。
 # 4. 酒店价格、评分和房态会变化；页面文案避免写死实时价格。
+# 5. 标准住宿块优先覆盖：低预算/青旅 + 高性价比 + 位置/品质型；具体文章仍可显式指定 hotel_ids。
 
-- id: hotel-france-albion-paris
+- id: "hotel-france-albion-paris"
   status: active
   priority: P1
   hotel_name: "Hotel France Albion"
@@ -16,6 +17,8 @@
   area: "Saint-Lazare / Opéra"
   address: "11 Rue Notre Dame de Lorette, Paris 9e"
   hotel_id_trip: "717520"
+  image: "assets/img/hotels/paris/hotel-france-albion-paris.webp"
+  image_alt: "Hotel France Albion 巴黎住宿图片"
   category: "交通便利型酒店"
   star_level: ""
   budget_level: "中等预算"
@@ -39,10 +42,10 @@
   caution_note: "巴黎市区酒店房间普遍不大，预订前建议看近期评价和房型面积。"
   affiliate_urls:
     trip: "https://www.trip.com/hotels/detail/?cityEnName=Paris&cityId=192&hotelId=717520&locale=en-XX&Allianceid=5840493&SID=157301299&trip_sub1=paris_nearby_villages_saint_lazare&trip_sub3=D19371872"
-  preferred_platform: "trip"
+  preferred_platform: trip
   last_checked: "2026-08-20"
 
-- id: hotel-darcet-paris
+- id: "hotel-darcet-paris"
   status: active
   priority: P1
   hotel_name: "Hotel Darcet"
@@ -77,10 +80,10 @@
   caution_note: "这类经济型酒店房间通常不大，预订前建议重点看房型面积、隔音和近期评价。"
   affiliate_urls:
     trip: "https://www.trip.com/hotels/detail/?cityEnName=Paris&cityId=192&hotelId=1574202&locale=en-XX&Allianceid=5840493&SID=157301299&trip_sub1=paris_nearby_villages_saint_lazare&trip_sub3=D19371872"
-  preferred_platform: "trip"
+  preferred_platform: trip
   last_checked: "2026-08-20"
 
-- id: hotel-audran-paris
+- id: "hotel-audran-paris"
   status: active
   priority: P2
   hotel_name: "Hotel Audran"
@@ -90,6 +93,8 @@
   area: "Montmartre / Opéra"
   address: "7 Rue Audran, Paris 18e"
   hotel_id_trip: "718538"
+  image: "assets/img/hotels/paris/hotel-audran-paris.webp"
+  image_alt: "Hotel Audran 巴黎住宿图片"
   category: "蒙马特经济型酒店"
   star_level: ""
   budget_level: "经济到中等预算"
@@ -113,10 +118,10 @@
   caution_note: "蒙马特有坡，带老人、行李多或晚归较多时，要留意具体位置。"
   affiliate_urls:
     trip: "https://www.trip.com/hotels/detail/?cityEnName=Paris&cityId=192&hotelId=718538&locale=en-XX&Allianceid=5840493&SID=157301299&trip_sub1=paris_nearby_villages_saint_lazare&trip_sub3=D19371872"
-  preferred_platform: "trip"
+  preferred_platform: trip
   last_checked: "2026-08-20"
 
-- id: hotel-magellan-paris
+- id: "hotel-magellan-paris"
   status: active
   priority: P2
   hotel_name: "Hôtel Magellan"
@@ -126,6 +131,8 @@
   area: "Batignolles / Monceau"
   address: "17 Rue Jean-Baptiste Dumas, Paris 17e"
   hotel_id_trip: "730406"
+  image: "assets/img/hotels/paris/hotel-magellan-paris.webp"
+  image_alt: "Hôtel Magellan 巴黎住宿图片"
   category: "安静街区酒店"
   star_level: ""
   budget_level: "中等预算"
@@ -149,10 +156,10 @@
   caution_note: "位置不在最核心景点旁，适合能接受地铁或打车衔接的客人。"
   affiliate_urls:
     trip: "https://www.trip.com/hotels/detail/?cityEnName=Paris&cityId=192&hotelId=730406&locale=en-XX&Allianceid=5840493&SID=157301299&trip_sub1=paris_nearby_villages_saint_lazare&trip_sub3=D19371872"
-  preferred_platform: "trip"
+  preferred_platform: trip
   last_checked: "2026-08-20"
 
-- id: hotel-fior-daliza-paris
+- id: "hotel-fior-daliza-paris"
   status: active
   priority: P1
   hotel_name: "Hôtel Fior d’Aliza"
@@ -187,10 +194,10 @@
   caution_note: "精品型酒店要重点看房型面积和是否适合放大件行李。"
   affiliate_urls:
     trip: "https://www.trip.com/hotels/detail/?cityEnName=Paris&cityId=192&hotelId=2098489&locale=en-XX&Allianceid=5840493&SID=157301299&trip_sub1=paris_nearby_villages_saint_lazare&trip_sub3=D19371872"
-  preferred_platform: "trip"
+  preferred_platform: trip
   last_checked: "2026-08-20"
 
-- id: maison-mere-paris
+- id: "maison-mere-paris"
   status: active
   priority: P1
   hotel_name: "Maison Mère"
@@ -226,10 +233,10 @@
   caution_note: "旺季价格可能偏高，建议早看早定。"
   affiliate_urls:
     trip: "https://www.trip.com/hotels/detail/?cityEnName=Paris&cityId=192&hotelId=717696&locale=en-XX&Allianceid=5840493&SID=157301299&trip_sub1=paris_nearby_villages_saint_lazare&trip_sub3=D19371872"
-  preferred_platform: "trip"
+  preferred_platform: trip
   last_checked: "2026-08-20"
 
-- id: le-regent-montmartre-paris
+- id: "le-regent-montmartre-paris"
   status: active
   priority: P3
   hotel_name: "Le Regent Montmartre by Hiphophostels"
@@ -239,6 +246,8 @@
   area: "Montmartre / Anvers"
   address: "37 Boulevard Marguerite de Rochechouart, Paris 9e"
   hotel_id_trip: "2199622"
+  image: "assets/img/hotels/paris/le-regent-montmartre-paris.webp"
+  image_alt: "Le Regent Montmartre 巴黎青旅图片"
   category: "青旅 / 经济型住宿"
   star_level: ""
   budget_level: "低预算"
@@ -264,10 +273,10 @@
   caution_note: "青旅类住宿务必看房型、噪音和安全评价。"
   affiliate_urls:
     trip: "https://www.trip.com/hotels/detail/?cityEnName=Paris&cityId=192&hotelId=2199622&locale=en-XX&Allianceid=5840493&SID=157301299&trip_sub1=paris_nearby_villages_saint_lazare&trip_sub3=D19371872"
-  preferred_platform: "trip"
+  preferred_platform: trip
   last_checked: "2026-08-20"
 
-- id: le-village-montmartre-paris
+- id: "le-village-montmartre-paris"
   status: active
   priority: P3
   hotel_name: "Le Village Montmartre"
@@ -302,10 +311,10 @@
   caution_note: "建议确认具体床位/房型、楼层和取消政策。"
   affiliate_urls:
     trip: "https://www.trip.com/hotels/detail/?cityEnName=Paris&cityId=192&hotelId=1577797&locale=en-XX&Allianceid=5840493&SID=157301299&trip_sub1=paris_nearby_villages_saint_lazare&trip_sub3=D19371872"
-  preferred_platform: "trip"
+  preferred_platform: trip
   last_checked: "2026-08-20"
 
-- id: the-people-paris-bercy
+- id: "the-people-paris-bercy"
   status: active
   priority: P3
   hotel_name: "The People - Paris Bercy"
@@ -341,46 +350,52 @@
   caution_note: "青旅/生活方式住宿要确认房型、安静度和是否适合自己的旅行方式。"
   affiliate_urls:
     trip: "https://www.trip.com/hotels/detail/?cityEnName=Paris&cityId=192&hotelId=45557883&locale=en-XX&Allianceid=5840493&SID=157301299&trip_sub1=paris_nearby_villages_gare_de_lyon&trip_sub3=D19371872"
-  preferred_platform: "trip"
+  preferred_platform: trip
   last_checked: "2026-08-20"
 
-- id: young-and-happy-latin-quarter-paris
+- id: "young-and-happy-latin-quarter-paris"
   status: active
-  priority: P3
+  priority: P1
   hotel_name: "Young and Happy Latin Quarter by Hiphophostels"
   city: "巴黎"
   country: "法国"
-  area_id: "paris-gare-de-lyon-bastille"
-  area: "Latin Quarter"
-  address: "80 Rue Mouffetard, Paris 5e"
+  area_id: "paris-saint-germain-latin-quarter"
+  area: "Saint-Germain / Latin Quarter"
+  address: "80 Rue Mouffetard, 5th arrondissement-Pantheon, Paris, Ile-de-France, 75005, France"
   hotel_id_trip: "2561357"
+  image: "assets/img/hotels/paris/young-and-happy-latin-quarter-paris.webp"
+  image_alt: "Young and Happy Latin Quarter by Hiphophostels 住宿图片"
   category: "青旅 / 拉丁区住宿"
   star_level: ""
   budget_level: "低预算"
+  rating: "8.5"
+  review_count: "101"
   nearby:
     - "Latin Quarter"
-    - "Rue Mouffetard"
-    - "Panthéon"
+    - "Notre-Dame Cathedral of Paris"
+    - "Seine River"
   destination_tags:
     - "巴黎"
     - "拉丁区"
-    - "青旅"
+    - "圣日耳曼"
   traveler_type:
     - "独自旅行"
-    - "预算有限但想住巴黎老城区"
+    - "年轻旅行者"
+    - "预算优先"
   best_for:
-    - "想住在拉丁区、晚上也有地方散步吃饭"
-    - "接受青旅住宿"
+    - "想把住宿预算压低"
+    - "接受公共空间和青旅氛围"
   not_for:
-    - "需要舒适酒店和大房间"
-  recommendation_reason: "严格说它不在 Gare de Lyon 旁边，但拉丁区生活感很好，也适合想把巴黎市区和短途出行结合起来的年轻旅行者。"
-  caution_note: "如果第二天一早赶火车，要提前确认到车站的时间。"
+    - "带老人孩子且更看重私密性"
+    - "对安静和传统酒店服务要求高"
+  recommendation_reason: "适合预算优先、又想住在拉丁区生活圈的年轻旅行者。Rue Mouffetard 一带吃饭和散步都方便，是这一区少见的低预算选择。"
+  caution_note: "青旅类住宿务必看清床位/私人房型、噪音、储物和近期安全评价。"
   affiliate_urls:
-    trip: "https://www.trip.com/hotels/detail/?cityEnName=Paris&cityId=192&hotelId=2561357&locale=en-XX&Allianceid=5840493&SID=157301299&trip_sub1=paris_nearby_villages_gare_de_lyon&trip_sub3=D19371872"
-  preferred_platform: "trip"
-  last_checked: "2026-08-20"
+    trip: "https://www.trip.com/hotels/detail/?cityEnName=Paris&cityId=192&hotelId=2561357&Allianceid=5840493&SID=157301299&trip_sub1=paris-saint-germain-latin-quarter&trip_sub3=D19475913"
+  preferred_platform: trip
+  last_checked: "2026-08-25"
 
-- id: hotel-de-venise-paris
+- id: "hotel-de-venise-paris"
   status: active
   priority: P1
   hotel_name: "Hôtel de Venise"
@@ -415,10 +430,10 @@
   caution_note: "火车站区域酒店差异大，建议看街区、噪音和近期评价。"
   affiliate_urls:
     trip: "https://www.trip.com/hotels/detail/?cityEnName=Paris&cityId=192&hotelId=3153419&locale=en-XX&Allianceid=5840493&SID=157301299&trip_sub1=paris_nearby_villages_gare_de_lyon&trip_sub3=D19371872"
-  preferred_platform: "trip"
+  preferred_platform: trip
   last_checked: "2026-08-20"
 
-- id: hotel-palym-paris
+- id: "hotel-palym-paris"
   status: active
   priority: P1
   hotel_name: "Hotel Palym"
@@ -428,6 +443,8 @@
   area: "Gare de Lyon"
   address: "4 Rue Emile Gilbert, Paris 12e"
   hotel_id_trip: "2193471"
+  image: "assets/img/hotels/paris/hotel-palym-paris.webp"
+  image_alt: "Hotel Palym 巴黎住宿图片"
   category: "车站便利型酒店"
   star_level: ""
   budget_level: "中等预算"
@@ -451,10 +468,10 @@
   caution_note: "便利和街区氛围需要平衡，预订前建议看近期评价。"
   affiliate_urls:
     trip: "https://www.trip.com/hotels/detail/?cityEnName=Paris&cityId=192&hotelId=2193471&locale=en-XX&Allianceid=5840493&SID=157301299&trip_sub1=paris_nearby_villages_gare_de_lyon&trip_sub3=D19371872"
-  preferred_platform: "trip"
+  preferred_platform: trip
   last_checked: "2026-08-20"
 
-- id: hotel-locomo-paris
+- id: "hotel-locomo-paris"
   status: active
   priority: P1
   hotel_name: "Hotel Locomo - Gare de Lyon Bastille"
@@ -489,46 +506,50 @@
   caution_note: "车站附近酒店更要看隔音和房间大小。"
   affiliate_urls:
     trip: "https://www.trip.com/hotels/detail/?cityEnName=Paris&cityId=192&hotelId=3915805&locale=en-XX&Allianceid=5840493&SID=157301299&trip_sub1=paris_nearby_villages_gare_de_lyon&trip_sub3=D19371872"
-  preferred_platform: "trip"
+  preferred_platform: trip
   last_checked: "2026-08-20"
 
-- id: hotel-maison-traversiere-paris
+- id: "hotel-maison-traversiere-paris"
   status: active
   priority: P2
   hotel_name: "Hotel Maison Traversière"
   city: "巴黎"
   country: "法国"
-  area_id: "paris-gare-de-lyon-bastille"
-  area: "Gare de Lyon / Reuilly"
-  address: "31 Rue Traversière, Paris 12e"
+  area_id: "paris-marais-hotel-de-ville"
+  area: "Marais / Hôtel de Ville"
+  address: "31 Rue Traversière, 12th arrondissement-Reuilly, Paris, Ile-de-France, 75012, France"
   hotel_id_trip: "7511917"
-  category: "车站周边酒店"
+  image: "assets/img/hotels/paris/hotel-maison-traversiere-paris.webp"
+  image_alt: "Hotel Maison Traversière 住宿图片"
+  category: "巴士底 / 玛黑东侧实用酒店"
   star_level: ""
   budget_level: "中等预算"
+  rating: "9.2"
+  review_count: "79"
   nearby:
-    - "Gare de Lyon"
-    - "Bastille"
-    - "12区"
+    - "Le Marais"
+    - "Seine River"
+    - "Gare d'Austerlitz"
   destination_tags:
     - "巴黎"
-    - "Gare de Lyon"
-    - "交通便利"
+    - "玛黑区"
+    - "巴黎市中心"
   traveler_type:
-    - "想靠近 Gare de Lyon"
-    - "短住巴黎"
+    - "喜欢逛街、咖啡馆和夜间散步"
+    - "年轻旅行者或情侣"
   best_for:
-    - "需要衔接火车和巴黎市区"
-    - "不想每天早上跨城转车"
+    - "想把玛黑区、塞纳河右岸和市中心串起来"
+    - "不想每天花太多时间坐地铁"
   not_for:
-    - "想住巴黎浪漫景点核心区"
-  recommendation_reason: "适合把 Gare de Lyon 当作出行节点的客人。不是为了酒店本身惊艳，而是为了让交通和行李衔接更简单。"
-  caution_note: "建议比较同区域几家酒店的近期评分和房型。"
+    - "睡眠很敏感且只想住安静住宅区"
+  recommendation_reason: "这一住宿池更适合喜欢巴黎市中心街区感的人，去玛黑区、塞纳河右岸和巴士底一带都比较顺。 从位置上看，靠近 Le Marais，适合作为这一片的住宿候选。"
+  caution_note: "这一带不同街道热闹程度差异很大；部分推荐位于玛黑区边缘或邻近街区，预订前要看具体地址和夜间路线。"
   affiliate_urls:
-    trip: "https://www.trip.com/hotels/detail/?cityEnName=Paris&cityId=192&hotelId=7511917&locale=en-XX&Allianceid=5840493&SID=157301299&trip_sub1=paris_nearby_villages_gare_de_lyon&trip_sub3=D19371872"
-  preferred_platform: "trip"
-  last_checked: "2026-08-20"
+    trip: "https://www.trip.com/hotels/detail/?cityEnName=Paris&cityId=192&hotelId=7511917&Allianceid=5840493&SID=157301299&trip_sub1=paris-marais-hotel-de-ville&trip_sub3=D19475913"
+  preferred_platform: trip
+  last_checked: "2026-08-25"
 
-- id: little-hotel-paris
+- id: "little-hotel-paris"
   status: active
   priority: P2
   hotel_name: "Little Hotel"
@@ -563,10 +584,10 @@
   caution_note: "东站/北站一带便利但街区差异明显，建议认真看近期评价。"
   affiliate_urls:
     trip: "https://www.trip.com/hotels/detail/?cityEnName=Paris&cityId=192&hotelId=718135&locale=en-XX&Allianceid=5840493&SID=157301299&trip_sub1=paris_nearby_villages_gare_est_nord&trip_sub3=D19371872"
-  preferred_platform: "trip"
+  preferred_platform: trip
   last_checked: "2026-08-20"
 
-- id: hotel-dalsace-paris
+- id: "hotel-dalsace-paris"
   status: active
   priority: P2
   hotel_name: "Hotel d'Alsace"
@@ -576,6 +597,8 @@
   area: "Gare de l’Est"
   address: "85 Boulevard de Strasbourg, Paris 10e"
   hotel_id_trip: "718506"
+  image: "assets/img/hotels/paris/hotel-dalsace-paris.webp"
+  image_alt: "Hotel d'Alsace 巴黎住宿图片"
   category: "车站便利型经济酒店"
   star_level: ""
   budget_level: "经济预算"
@@ -599,10 +622,10 @@
   caution_note: "这类酒店一定要看近期评价，尤其是清洁、隔音和街区感受。"
   affiliate_urls:
     trip: "https://www.trip.com/hotels/detail/?cityEnName=Paris&cityId=192&hotelId=718506&locale=en-XX&Allianceid=5840493&SID=157301299&trip_sub1=paris_nearby_villages_gare_est_nord&trip_sub3=D19371872"
-  preferred_platform: "trip"
+  preferred_platform: trip
   last_checked: "2026-08-20"
 
-- id: hotel-este-paris
+- id: "hotel-este-paris"
   status: active
   priority: P1
   hotel_name: "Hotel Este"
@@ -637,10 +660,10 @@
   caution_note: "位置方便，但仍建议确认夜间回酒店的街区感受。"
   affiliate_urls:
     trip: "https://www.trip.com/hotels/detail/?cityEnName=Paris&cityId=192&hotelId=115862975&locale=en-XX&Allianceid=5840493&SID=157301299&trip_sub1=paris_nearby_villages_gare_est_nord&trip_sub3=D19371872"
-  preferred_platform: "trip"
+  preferred_platform: trip
   last_checked: "2026-08-20"
 
-- id: campanile-fontainebleau
+- id: "campanile-fontainebleau"
   status: active
   priority: P1
   hotel_name: "Campanile Fontainebleau"
@@ -675,10 +698,10 @@
   caution_note: "如果第二天要赶飞机或火车，仍建议住回巴黎市中心。"
   affiliate_urls:
     trip: "https://www.trip.com/hotels/detail/?cityEnName=Fontainebleau&cityId=22968&hotelId=41627596&locale=en-XX&Allianceid=5840493&SID=157301299&trip_sub1=paris_nearby_villages_fontainebleau&trip_sub3=D19371872"
-  preferred_platform: "trip"
+  preferred_platform: trip
   last_checked: "2026-08-20"
 
-- id: aigle-noir-fontainebleau
+- id: "aigle-noir-fontainebleau"
   status: active
   priority: P1
   hotel_name: "Aigle Noir Fontainebleau MGallery"
@@ -713,10 +736,10 @@
   caution_note: "旺季和周末价格波动明显，建议提前比较。"
   affiliate_urls:
     trip: "https://www.trip.com/hotels/detail/?cityEnName=Fontainebleau&cityId=22968&hotelId=2542612&locale=en-XX&Allianceid=5840493&SID=157301299&trip_sub1=paris_nearby_villages_fontainebleau&trip_sub3=D19371872"
-  preferred_platform: "trip"
+  preferred_platform: trip
   last_checked: "2026-08-20"
 
-- id: le-cesar-provins
+- id: "le-cesar-provins"
   status: active
   priority: P1
   hotel_name: "Le César Hôtel"
@@ -753,10 +776,10 @@
   caution_note: "小镇住宿选择不多，适合慢游；如果第二天赶飞机，建议回巴黎住。"
   affiliate_urls:
     trip: "https://www.trip.com/hotels/detail/?cityEnName=Provins&cityId=23711&hotelId=716025&locale=en-XX&Allianceid=5840493&SID=157301299&trip_sub1=paris_nearby_villages_provins&trip_sub3=D19371872"
-  preferred_platform: "trip"
+  preferred_platform: trip
   last_checked: "2026-08-20"
 
-- id: fraternity-hotel-paris
+- id: "fraternity-hotel-paris"
   status: active
   priority: P3
   hotel_name: "Fraternity-Hotel"
@@ -795,7 +818,1246 @@
   caution_note: "资料显示可能无电梯，且街区较热闹；下单前一定看清房型、楼层和近期评价。"
   affiliate_urls:
     trip: "https://www.trip.com/hotels/detail/?cityEnName=Paris&cityId=192&hotelId=123838436&locale=en-XX&Allianceid=5840493&SID=157301299&trip_sub1=paris_nearby_villages_paris_hostel&trip_sub3=D19372663"
-  preferred_platform: "trip"
+  preferred_platform: trip
   last_checked: "2026-08-20"
+
+- id: "hotel-louvre-sainte-anne-paris"
+  status: active
+  priority: P1
+  hotel_name: "Hotel Louvre Sainte Anne"
+  city: "巴黎"
+  country: "法国"
+  area_id: "paris-louvre-palais-royal"
+  area: "Louvre / Palais-Royal"
+  address: "32 Rue Sainte-Anne, 1st arrondissement-Louvre, Paris, Ile-de-France, 75001, France"
+  hotel_id_trip: "2857108"
+  image: "assets/img/hotels/paris/hotel-louvre-sainte-anne-paris.webp"
+  image_alt: "Hotel Louvre Sainte Anne 住宿图片"
+  category: "卢浮宫核心位置酒店"
+  star_level: ""
+  budget_level: "中高预算"
+  rating: "9.2"
+  review_count: "112"
+  nearby:
+    - "Louvre Museum"
+    - "Palais Garnier"
+    - "Avenue des Champs-Élysées"
+  destination_tags:
+    - "巴黎"
+    - "卢浮宫"
+    - "巴黎市中心"
+  traveler_type:
+    - "第一次来巴黎"
+    - "希望主要景点步行可达"
+  best_for:
+    - "想减少每天换乘"
+    - "行程集中在卢浮宫、杜乐丽和塞纳河沿线"
+  not_for:
+    - "只按最低住宿价格选择"
+  recommendation_reason: "位置是最大的优势，适合把卢浮宫、杜乐丽花园和巴黎核心区安排在一起。对于第一次来巴黎、希望少换乘的人，这一带很省时间。 从位置上看，靠近 Louvre Museum，适合作为这一片的住宿候选。"
+  caution_note: "核心区房价通常更高、房间也可能偏小，预订前建议同时看房型面积、隔音和近期评价。"
+  affiliate_urls:
+    trip: "https://www.trip.com/hotels/detail/?cityEnName=Paris&cityId=192&hotelId=2857108&Allianceid=5840493&SID=157301299&trip_sub1=paris-louvre-palais-royal&trip_sub3=D19475913"
+  preferred_platform: trip
+  last_checked: "2026-08-25"
+
+- id: "hotel-crayon-paris"
+  status: active
+  priority: P1
+  hotel_name: "Hôtel Crayon"
+  city: "巴黎"
+  country: "法国"
+  area_id: "paris-louvre-palais-royal"
+  area: "Louvre / Palais-Royal"
+  address: "25 Rue du Bouloi, 1st arrondissement-Louvre, Paris, Ile-de-France, 75001, France"
+  hotel_id_trip: "717263"
+  image: "assets/img/hotels/paris/hotel-crayon-paris.webp"
+  image_alt: "Hôtel Crayon 住宿图片"
+  category: "市中心精品型酒店"
+  star_level: ""
+  budget_level: "中等到中高预算"
+  rating: "9.0"
+  review_count: "117"
+  nearby:
+    - "Louvre Museum"
+    - "Palais Garnier"
+    - "Le Marais"
+  destination_tags:
+    - "巴黎"
+    - "卢浮宫"
+    - "巴黎市中心"
+  traveler_type:
+    - "第一次来巴黎"
+    - "情侣或更看重住宿体验的人"
+  best_for:
+    - "想减少每天换乘"
+    - "希望位置之外也有更好的住宿质感"
+  not_for:
+    - "只按最低价格选择住宿"
+  recommendation_reason: "位置是最大的优势，适合把卢浮宫、杜乐丽花园和巴黎核心区安排在一起。对于第一次来巴黎、希望少换乘的人，这一带很省时间。 从位置上看，靠近 Louvre Museum，适合作为这一片的住宿候选。"
+  caution_note: "核心区房价通常更高、房间也可能偏小，预订前建议同时看房型面积、隔音和近期评价。"
+  affiliate_urls:
+    trip: "https://www.trip.com/hotels/detail/?cityEnName=Paris&cityId=192&hotelId=717263&Allianceid=5840493&SID=157301299&trip_sub1=paris-louvre-palais-royal&trip_sub3=D19475913"
+  preferred_platform: trip
+  last_checked: "2026-08-25"
+
+- id: "hotel-opera-richepanse-paris"
+  status: active
+  priority: P1
+  hotel_name: "Hotel Opera Richepanse"
+  city: "巴黎"
+  country: "法国"
+  area_id: "paris-louvre-palais-royal"
+  area: "Louvre / Palais-Royal"
+  address: "14 Rue du Chevalier de Saint-George, 1st arrondissement-Louvre, Paris, Ile-de-France, 75001, France"
+  hotel_id_trip: "2157988"
+  image: "assets/img/hotels/paris/hotel-opera-richepanse-paris.webp"
+  image_alt: "Hotel Opera Richepanse 住宿图片"
+  category: "高品质市中心酒店"
+  star_level: "4星"
+  budget_level: "中高预算"
+  rating: "9.6"
+  review_count: "45"
+  nearby:
+    - "Avenue des Champs-Élysées"
+    - "Palais Garnier"
+    - "Louvre Museum"
+  destination_tags:
+    - "巴黎"
+    - "卢浮宫"
+    - "巴黎市中心"
+  traveler_type:
+    - "第一次来巴黎"
+    - "情侣或更看重住宿体验的人"
+  best_for:
+    - "想减少每天换乘"
+    - "希望位置之外也有更好的住宿质感"
+  not_for:
+    - "只按最低价格选择住宿"
+  recommendation_reason: "位置是最大的优势，适合把卢浮宫、杜乐丽花园和巴黎核心区安排在一起。对于第一次来巴黎、希望少换乘的人，这一带很省时间。 从位置上看，靠近 Avenue des Champs-Élysées，适合作为这一片的住宿候选。"
+  caution_note: "核心区房价通常更高、房间也可能偏小，预订前建议同时看房型面积、隔音和近期评价。"
+  affiliate_urls:
+    trip: "https://www.trip.com/hotels/detail/?cityEnName=Paris&cityId=192&hotelId=2157988&Allianceid=5840493&SID=157301299&trip_sub1=paris-louvre-palais-royal&trip_sub3=D19475913"
+  preferred_platform: trip
+  last_checked: "2026-08-25"
+
+- id: "hotel-louvre-montana-paris"
+  status: active
+  priority: P2
+  hotel_name: "Hotel Louvre Montana"
+  city: "巴黎"
+  country: "法国"
+  area_id: "paris-louvre-palais-royal"
+  area: "Louvre / Palais-Royal"
+  address: "12 Rue Saint-Roch, 1st arrondissement-Louvre, Paris, Ile-de-France, 75001, France"
+  hotel_id_trip: "718478"
+  image: "assets/img/hotels/paris/hotel-louvre-montana-paris.webp"
+  image_alt: "Hotel Louvre Montana 住宿图片"
+  category: "卢浮宫旁精品酒店"
+  star_level: ""
+  budget_level: "较高预算"
+  rating: "9.4"
+  review_count: "104"
+  nearby:
+    - "Louvre Museum"
+    - "Avenue des Champs-Élysées"
+    - "Palais Garnier"
+  destination_tags:
+    - "巴黎"
+    - "卢浮宫"
+    - "巴黎市中心"
+  traveler_type:
+    - "第一次来巴黎"
+    - "情侣或更看重住宿体验的人"
+  best_for:
+    - "想减少每天换乘"
+    - "希望位置之外也有更好的住宿质感"
+  not_for:
+    - "只按最低价格选择住宿"
+  recommendation_reason: "位置是最大的优势，适合把卢浮宫、杜乐丽花园和巴黎核心区安排在一起。对于第一次来巴黎、希望少换乘的人，这一带很省时间。 从位置上看，靠近 Louvre Museum，适合作为这一片的住宿候选。"
+  caution_note: "核心区房价通常更高、房间也可能偏小，预订前建议同时看房型面积、隔音和近期评价。"
+  affiliate_urls:
+    trip: "https://www.trip.com/hotels/detail/?cityEnName=Paris&cityId=192&hotelId=718478&Allianceid=5840493&SID=157301299&trip_sub1=paris-louvre-palais-royal&trip_sub3=D19475913"
+  preferred_platform: trip
+  last_checked: "2026-08-25"
+
+- id: "grand-hotel-des-balcons-paris"
+  status: active
+  priority: P1
+  hotel_name: "Grand Hotel des Balcons"
+  city: "巴黎"
+  country: "法国"
+  area_id: "paris-saint-germain-latin-quarter"
+  area: "Saint-Germain / Latin Quarter"
+  address: "3 Rue Casimir Delavigne, 6th arrondissement-Luxembourg, Paris, Ile-de-France, 75006, France"
+  hotel_id_trip: "5575134"
+  image: "assets/img/hotels/paris/grand-hotel-des-balcons-paris.webp"
+  image_alt: "Grand Hotel des Balcons 住宿图片"
+  category: "左岸高性价比酒店"
+  star_level: ""
+  budget_level: "中等预算"
+  rating: "8.6"
+  review_count: "110"
+  nearby:
+    - "Latin Quarter"
+    - "Luxembourg Garden"
+    - "Louvre Museum"
+  destination_tags:
+    - "巴黎"
+    - "拉丁区"
+    - "圣日耳曼"
+  traveler_type:
+    - "喜欢左岸街区氛围"
+    - "第一次来巴黎或独自旅行"
+  best_for:
+    - "想步行到卢森堡公园、圣母院一带"
+    - "晚上希望附近有餐馆、咖啡馆和街区生活"
+  not_for:
+    - "只想住现代商务区"
+  recommendation_reason: "适合喜欢巴黎左岸氛围的人，步行、餐饮和公共交通都比较均衡，白天看景点、晚上继续散步都方便。 从位置上看，靠近 Latin Quarter，适合作为这一片的住宿候选。"
+  caution_note: "左岸热门街道房间普遍不大，预算型住宿尤其要留意隔音、楼层和是否有电梯。"
+  affiliate_urls:
+    trip: "https://www.trip.com/hotels/detail/?cityEnName=Paris&cityId=192&hotelId=5575134&Allianceid=5840493&SID=157301299&trip_sub1=paris-saint-germain-latin-quarter&trip_sub3=D19475913"
+  preferred_platform: trip
+  last_checked: "2026-08-25"
+
+- id: "hotel-design-sorbonne-paris"
+  status: active
+  priority: P1
+  hotel_name: "Hotel Design Sorbonne"
+  city: "巴黎"
+  country: "法国"
+  area_id: "paris-saint-germain-latin-quarter"
+  area: "Saint-Germain / Latin Quarter"
+  address: "6 Rue Victor Cousin, 5th arrondissement-Pantheon, Paris, Ile-de-France, 75005, France"
+  hotel_id_trip: "717475"
+  image: "assets/img/hotels/paris/hotel-design-sorbonne-paris.webp"
+  image_alt: "Hotel Design Sorbonne 住宿图片"
+  category: "拉丁区设计型酒店"
+  star_level: ""
+  budget_level: "中等预算"
+  rating: "8.7"
+  review_count: "118"
+  nearby:
+    - "Latin Quarter"
+    - "Luxembourg Garden"
+    - "Notre-Dame Cathedral of Paris"
+  destination_tags:
+    - "巴黎"
+    - "拉丁区"
+    - "圣日耳曼"
+  traveler_type:
+    - "喜欢左岸街区氛围"
+    - "情侣或更看重住宿体验的人"
+  best_for:
+    - "想步行到卢森堡公园、圣母院一带"
+    - "希望位置之外也有更好的住宿质感"
+  not_for:
+    - "只按最低价格选择住宿"
+  recommendation_reason: "适合喜欢巴黎左岸氛围的人，步行、餐饮和公共交通都比较均衡，白天看景点、晚上继续散步都方便。 从位置上看，靠近 Latin Quarter，适合作为这一片的住宿候选。"
+  caution_note: "左岸热门街道房间普遍不大，预算型住宿尤其要留意隔音、楼层和是否有电梯。"
+  affiliate_urls:
+    trip: "https://www.trip.com/hotels/detail/?cityEnName=Paris&cityId=192&hotelId=717475&Allianceid=5840493&SID=157301299&trip_sub1=paris-saint-germain-latin-quarter&trip_sub3=D19475913"
+  preferred_platform: trip
+  last_checked: "2026-08-25"
+
+- id: "hotel-central-saint-germain-paris"
+  status: active
+  priority: P2
+  hotel_name: "Hôtel Central Saint Germain"
+  city: "巴黎"
+  country: "法国"
+  area_id: "paris-saint-germain-latin-quarter"
+  area: "Saint-Germain / Latin Quarter"
+  address: "3 Rue Champollion, 5th arrondissement-Pantheon, Paris, Ile-de-France, 75005, France"
+  hotel_id_trip: "1574931"
+  image: "assets/img/hotels/paris/hotel-central-saint-germain-paris.webp"
+  image_alt: "Hôtel Central Saint Germain 住宿图片"
+  category: "左岸交通便利型酒店"
+  star_level: ""
+  budget_level: "中等预算"
+  rating: "8.9"
+  review_count: "128"
+  nearby:
+    - "Latin Quarter"
+    - "Notre-Dame Cathedral of Paris"
+    - "Luxembourg Garden"
+  destination_tags:
+    - "巴黎"
+    - "拉丁区"
+    - "圣日耳曼"
+  traveler_type:
+    - "喜欢左岸街区氛围"
+    - "第一次来巴黎或独自旅行"
+  best_for:
+    - "想步行到卢森堡公园、圣母院一带"
+    - "晚上希望附近有餐馆、咖啡馆和街区生活"
+  not_for:
+    - "只想住现代商务区"
+  recommendation_reason: "适合喜欢巴黎左岸氛围的人，步行、餐饮和公共交通都比较均衡，白天看景点、晚上继续散步都方便。 从位置上看，靠近 Latin Quarter，适合作为这一片的住宿候选。"
+  caution_note: "左岸热门街道房间普遍不大，预算型住宿尤其要留意隔音、楼层和是否有电梯。"
+  affiliate_urls:
+    trip: "https://www.trip.com/hotels/detail/?cityEnName=Paris&cityId=192&hotelId=1574931&Allianceid=5840493&SID=157301299&trip_sub1=paris-saint-germain-latin-quarter&trip_sub3=D19475913"
+  preferred_platform: trip
+  last_checked: "2026-08-25"
+
+- id: "the-people-paris-marais"
+  status: active
+  priority: P1
+  hotel_name: "The People - Paris Marais"
+  city: "巴黎"
+  country: "法国"
+  area_id: "paris-marais-hotel-de-ville"
+  area: "Marais / Hôtel de Ville"
+  address: "17 Boulevard Morland, 4th arrondissement-Hotel-de-Ville, Paris, Ile-de-France, 75004, France"
+  hotel_id_trip: "91432085"
+  image: "assets/img/hotels/paris/the-people-paris-marais.webp"
+  image_alt: "The People - Paris Marais 住宿图片"
+  category: "青旅 / 生活方式住宿"
+  star_level: ""
+  budget_level: "低到中等预算"
+  rating: "8.4"
+  review_count: "578"
+  nearby:
+    - "Le Marais"
+    - "Seine River"
+    - "Notre-Dame Cathedral of Paris"
+  destination_tags:
+    - "巴黎"
+    - "玛黑区"
+    - "巴黎市中心"
+  traveler_type:
+    - "独自旅行"
+    - "年轻旅行者"
+    - "预算优先"
+  best_for:
+    - "想把住宿预算压低"
+    - "接受公共空间和青旅氛围"
+  not_for:
+    - "带老人孩子且更看重私密性"
+    - "对安静和传统酒店服务要求高"
+  recommendation_reason: "适合预算优先、喜欢公共空间和年轻氛围的人。位置靠近玛黑区和塞纳河，既能控制住宿成本，也不用把自己放到太偏的区域。"
+  caution_note: "青旅类住宿务必看清床位/私人房型、噪音、储物和近期安全评价。"
+  affiliate_urls:
+    trip: "https://www.trip.com/hotels/detail/?cityEnName=Paris&cityId=192&hotelId=91432085&Allianceid=5840493&SID=157301299&trip_sub1=paris-marais-hotel-de-ville&trip_sub3=D19475913"
+  preferred_platform: trip
+  last_checked: "2026-08-25"
+
+- id: "jills-hotel-paris"
+  status: active
+  priority: P1
+  hotel_name: "Jills Hotel"
+  city: "巴黎"
+  country: "法国"
+  area_id: "paris-marais-hotel-de-ville"
+  area: "Marais / Hôtel de Ville"
+  address: "61 Rue du Château d'Eau, 10th arrondissement-Entrepot, Paris, Ile-de-France, 75010, France"
+  hotel_id_trip: "117982661"
+  image: "assets/img/hotels/paris/jills-hotel-paris.webp"
+  image_alt: "Jills Hotel 住宿图片"
+  category: "新开精品型酒店"
+  star_level: ""
+  budget_level: "中等预算"
+  rating: "9.3"
+  review_count: "61"
+  nearby:
+    - "Le Marais"
+    - "Paris North Station"
+    - "Palais Garnier"
+  destination_tags:
+    - "巴黎"
+    - "玛黑区"
+    - "巴黎市中心"
+  traveler_type:
+    - "喜欢逛街、咖啡馆和夜间散步"
+    - "情侣或更看重住宿体验的人"
+  best_for:
+    - "想把玛黑区、塞纳河右岸和市中心串起来"
+    - "希望位置之外也有更好的住宿质感"
+  not_for:
+    - "只按最低价格选择住宿"
+  recommendation_reason: "这一住宿池更适合喜欢巴黎市中心街区感的人，去玛黑区、塞纳河右岸和巴士底一带都比较顺。 从位置上看，靠近 Le Marais，适合作为这一片的住宿候选。"
+  caution_note: "这一带不同街道热闹程度差异很大；部分推荐位于玛黑区边缘或邻近街区，预订前要看具体地址和夜间路线。"
+  affiliate_urls:
+    trip: "https://www.trip.com/hotels/detail/?cityEnName=Paris&cityId=192&hotelId=117982661&Allianceid=5840493&SID=157301299&trip_sub1=paris-marais-hotel-de-ville&trip_sub3=D19475913"
+  preferred_platform: trip
+  last_checked: "2026-08-25"
+
+- id: "hotel-taylor-paris"
+  status: active
+  priority: P1
+  hotel_name: "Hotel Taylor"
+  city: "巴黎"
+  country: "法国"
+  area_id: "paris-marais-hotel-de-ville"
+  area: "Marais / Hôtel de Ville"
+  address: "6 Rue Taylor, 10th arrondissement-Entrepot, Paris, Ile-de-France, 75010, France"
+  hotel_id_trip: "1565620"
+  image: "assets/img/hotels/paris/hotel-taylor-paris.webp"
+  image_alt: "Hotel Taylor 住宿图片"
+  category: "高性价比舒适型酒店"
+  star_level: ""
+  budget_level: "中等预算"
+  rating: "9.1"
+  review_count: "134"
+  nearby:
+    - "Le Marais"
+    - "Paris East Station"
+    - "Louvre Museum"
+  destination_tags:
+    - "巴黎"
+    - "玛黑区"
+    - "巴黎市中心"
+  traveler_type:
+    - "喜欢逛街、咖啡馆和夜间散步"
+    - "年轻旅行者或情侣"
+  best_for:
+    - "想把玛黑区、塞纳河右岸和市中心串起来"
+    - "不想每天花太多时间坐地铁"
+  not_for:
+    - "睡眠很敏感且只想住安静住宅区"
+  recommendation_reason: "这一住宿池更适合喜欢巴黎市中心街区感的人，去玛黑区、塞纳河右岸和巴士底一带都比较顺。 从位置上看，靠近 Le Marais，适合作为这一片的住宿候选。"
+  caution_note: "这一带不同街道热闹程度差异很大；部分推荐位于玛黑区边缘或邻近街区，预订前要看具体地址和夜间路线。"
+  affiliate_urls:
+    trip: "https://www.trip.com/hotels/detail/?cityEnName=Paris&cityId=192&hotelId=1565620&Allianceid=5840493&SID=157301299&trip_sub1=paris-marais-hotel-de-ville&trip_sub3=D19475913"
+  preferred_platform: trip
+  last_checked: "2026-08-25"
+
+- id: "residence-hoteliere-champ-de-mars-paris"
+  status: active
+  priority: P1
+  hotel_name: "Residence Hoteliere Champ de Mars"
+  city: "巴黎"
+  country: "法国"
+  area_id: "paris-eiffel-invalides"
+  area: "Eiffel Tower / Invalides"
+  address: "2 Bis rue Alasseur, 15th arrondissement-Vaugirard, Paris, Ile-de-France, 75015, France"
+  hotel_id_trip: "2865767"
+  image: "assets/img/hotels/paris/residence-hoteliere-champ-de-mars-paris.webp"
+  image_alt: "Residence Hoteliere Champ de Mars 住宿图片"
+  category: "铁塔附近低预算住宿"
+  star_level: ""
+  budget_level: "经济到中等预算"
+  rating: "8.6"
+  review_count: "21"
+  nearby:
+    - "Eiffel Tower"
+    - "Seine River"
+    - "Champ de Mars"
+  destination_tags:
+    - "巴黎"
+    - "埃菲尔铁塔"
+    - "荣军院"
+  traveler_type:
+    - "第一次来巴黎"
+    - "预算比较敏感"
+  best_for:
+    - "希望控制住宿预算"
+    - "想步行到埃菲尔铁塔和战神广场"
+  not_for:
+    - "希望酒店本身有明显度假感或奢华体验"
+  recommendation_reason: "适合把埃菲尔铁塔、战神广场和塞纳河西段作为行程重点的人，晚上回酒店前再看一次铁塔也很方便。 从位置上看，靠近 Eiffel Tower，适合作为这一片的住宿候选。"
+  caution_note: "景点周边价格通常偏高，部分街道晚上餐饮密度一般，建议同时比较交通、房型和近期评价。"
+  affiliate_urls:
+    trip: "https://www.trip.com/hotels/detail/?cityEnName=Paris&cityId=192&hotelId=2865767&Allianceid=5840493&SID=157301299&trip_sub1=paris-eiffel-invalides&trip_sub3=D19475913"
+  preferred_platform: trip
+  last_checked: "2026-08-25"
+
+- id: "hotel-baldi-by-magna-arbor-paris"
+  status: active
+  priority: P1
+  hotel_name: "Hôtel Baldi by Magna Arbor"
+  city: "巴黎"
+  country: "法国"
+  area_id: "paris-eiffel-invalides"
+  area: "Eiffel Tower / Invalides"
+  address: "42 Bd Garibaldi, 15th arrondissement-Vaugirard, Paris, Ile-de-France, 75015, France"
+  hotel_id_trip: "729914"
+  image: "assets/img/hotels/paris/hotel-baldi-by-magna-arbor-paris.webp"
+  image_alt: "Hôtel Baldi by Magna Arbor 住宿图片"
+  category: "埃菲尔区域高性价比酒店"
+  star_level: ""
+  budget_level: "中等预算"
+  rating: "8.9"
+  review_count: "46"
+  nearby:
+    - "Eiffel Tower"
+    - "Paris Montparnasse Station"
+    - "Avenue des Champs-Élysées"
+  destination_tags:
+    - "巴黎"
+    - "埃菲尔铁塔"
+    - "荣军院"
+  traveler_type:
+    - "第一次来巴黎"
+    - "想住在标志性景点附近"
+  best_for:
+    - "想步行到埃菲尔铁塔和战神广场"
+    - "晚上想方便看铁塔夜景"
+  not_for:
+    - "只追求巴黎最低住宿价格"
+  recommendation_reason: "适合把埃菲尔铁塔、战神广场和塞纳河西段作为行程重点的人，晚上回酒店前再看一次铁塔也很方便。 从位置上看，靠近 Eiffel Tower，适合作为这一片的住宿候选。"
+  caution_note: "景点周边价格通常偏高，部分街道晚上餐饮密度一般，建议同时比较交通、房型和近期评价。"
+  affiliate_urls:
+    trip: "https://www.trip.com/hotels/detail/?cityEnName=Paris&cityId=192&hotelId=729914&Allianceid=5840493&SID=157301299&trip_sub1=paris-eiffel-invalides&trip_sub3=D19475913"
+  preferred_platform: trip
+  last_checked: "2026-08-25"
+
+- id: "hotel-lilas-blanc-paris"
+  status: active
+  priority: P2
+  hotel_name: "Hotel Lilas Blanc"
+  city: "巴黎"
+  country: "法国"
+  area_id: "paris-eiffel-invalides"
+  area: "Eiffel Tower / Invalides"
+  address: "5 rue de l'Avre, 15th arrondissement-Vaugirard, Paris, Ile-de-France, 75015, France"
+  hotel_id_trip: "9272527"
+  image: "assets/img/hotels/paris/hotel-lilas-blanc-paris.webp"
+  image_alt: "Hotel Lilas Blanc 住宿图片"
+  category: "铁塔周边实用酒店"
+  star_level: ""
+  budget_level: "中等预算"
+  rating: "8.9"
+  review_count: "135"
+  nearby:
+    - "Eiffel Tower"
+    - "Seine River"
+    - "Champ de Mars"
+  destination_tags:
+    - "巴黎"
+    - "埃菲尔铁塔"
+    - "荣军院"
+  traveler_type:
+    - "第一次来巴黎"
+    - "想住在标志性景点附近"
+  best_for:
+    - "想步行到埃菲尔铁塔和战神广场"
+    - "晚上想方便看铁塔夜景"
+  not_for:
+    - "只追求巴黎最低住宿价格"
+  recommendation_reason: "适合把埃菲尔铁塔、战神广场和塞纳河西段作为行程重点的人，晚上回酒店前再看一次铁塔也很方便。 从位置上看，靠近 Eiffel Tower，适合作为这一片的住宿候选。"
+  caution_note: "景点周边价格通常偏高，部分街道晚上餐饮密度一般，建议同时比较交通、房型和近期评价。"
+  affiliate_urls:
+    trip: "https://www.trip.com/hotels/detail/?cityEnName=Paris&cityId=192&hotelId=9272527&Allianceid=5840493&SID=157301299&trip_sub1=paris-eiffel-invalides&trip_sub3=D19475913"
+  preferred_platform: trip
+  last_checked: "2026-08-25"
+
+- id: "mercure-paris-centre-tour-eiffel"
+  status: active
+  priority: P1
+  hotel_name: "Mercure Paris Centre Tour Eiffel"
+  city: "巴黎"
+  country: "法国"
+  area_id: "paris-eiffel-invalides"
+  area: "Eiffel Tower / Invalides"
+  address: "20 Rue Jean Rey, 15th arrondissement-Vaugirard, Paris, Ile-de-France, 75015, France"
+  hotel_id_trip: "2108896"
+  image: "assets/img/hotels/paris/mercure-paris-centre-tour-eiffel.webp"
+  image_alt: "Mercure Paris Centre Tour Eiffel 住宿图片"
+  category: "埃菲尔铁塔品质型酒店"
+  star_level: ""
+  budget_level: "中高预算"
+  rating: "8.5"
+  review_count: "482"
+  nearby:
+    - "Eiffel Tower"
+    - "Seine River"
+    - "Avenue des Champs-Élysées"
+  destination_tags:
+    - "巴黎"
+    - "埃菲尔铁塔"
+    - "荣军院"
+  traveler_type:
+    - "第一次来巴黎"
+    - "情侣或更看重住宿体验的人"
+  best_for:
+    - "想步行到埃菲尔铁塔和战神广场"
+    - "希望位置之外也有更好的住宿质感"
+  not_for:
+    - "只按最低价格选择住宿"
+  recommendation_reason: "适合把埃菲尔铁塔、战神广场和塞纳河西段作为行程重点的人，晚上回酒店前再看一次铁塔也很方便。 从位置上看，靠近 Eiffel Tower，适合作为这一片的住宿候选。"
+  caution_note: "景点周边价格通常偏高，部分街道晚上餐饮密度一般，建议同时比较交通、房型和近期评价。"
+  affiliate_urls:
+    trip: "https://www.trip.com/hotels/detail/?cityEnName=Paris&cityId=192&hotelId=2108896&Allianceid=5840493&SID=157301299&trip_sub1=paris-eiffel-invalides&trip_sub3=D19475913"
+  preferred_platform: trip
+  last_checked: "2026-08-25"
+
+- id: "chambellan-morgane-paris"
+  status: active
+  priority: P1
+  hotel_name: "Chambellan Morgane"
+  city: "巴黎"
+  country: "法国"
+  area_id: "paris-champs-elysees-arc"
+  area: "Champs-Élysées / Arc de Triomphe"
+  address: "6 Rue Kepler, 16th arrondissement-Passy, Paris, Ile-de-France, 75016, France"
+  hotel_id_trip: "729867"
+  image: "assets/img/hotels/paris/chambellan-morgane-paris.webp"
+  image_alt: "Chambellan Morgane 住宿图片"
+  category: "凯旋门精品型酒店"
+  star_level: ""
+  budget_level: "中等到中高预算"
+  rating: "9.0"
+  review_count: "40"
+  nearby:
+    - "Champs Elysées"
+    - "Arc de Triomphe de l’Etoile"
+    - "Eiffel Tower"
+  destination_tags:
+    - "巴黎"
+    - "香榭丽舍"
+    - "凯旋门"
+  traveler_type:
+    - "第一次来巴黎"
+    - "情侣或更看重住宿体验的人"
+  best_for:
+    - "想住在凯旋门和香榭丽舍附近"
+    - "希望位置之外也有更好的住宿质感"
+  not_for:
+    - "只按最低价格选择住宿"
+  recommendation_reason: "适合把凯旋门、香榭丽舍和西巴黎作为重点的人。位置成熟、交通方便，尤其适合行程较紧、希望少折腾的人。 从位置上看，靠近 Champs Elysées，适合作为这一片的住宿候选。"
+  caution_note: "这一区域住宿价格上限很高，建议不要只看星级，要同时比较房间面积、隔音和真实位置。"
+  affiliate_urls:
+    trip: "https://www.trip.com/hotels/detail/?cityEnName=Paris&cityId=192&hotelId=729867&Allianceid=5840493&SID=157301299&trip_sub1=paris-champs-elysees-arc&trip_sub3=D19475913"
+  preferred_platform: trip
+  last_checked: "2026-08-25"
+
+- id: "acacias-etoile-paris"
+  status: active
+  priority: P1
+  hotel_name: "Acacias Etoile"
+  city: "巴黎"
+  country: "法国"
+  area_id: "paris-champs-elysees-arc"
+  area: "Champs-Élysées / Arc de Triomphe"
+  address: "11 Rue des Acacias, 17th arrondissement-Batignolles-Monceau, Paris, Ile-de-France, 75017, France"
+  hotel_id_trip: "717722"
+  image: "assets/img/hotels/paris/acacias-etoile-paris.webp"
+  image_alt: "Acacias Etoile 住宿图片"
+  category: "凯旋门高性价比酒店"
+  star_level: ""
+  budget_level: "中等预算"
+  rating: "9.3"
+  review_count: "83"
+  nearby:
+    - "Champs Elysées"
+    - "Arc de Triomphe de l’Etoile"
+    - "Eiffel Tower"
+  destination_tags:
+    - "巴黎"
+    - "香榭丽舍"
+    - "凯旋门"
+  traveler_type:
+    - "第一次来巴黎"
+    - "情侣或重视核心位置的旅行者"
+  best_for:
+    - "想住在凯旋门和香榭丽舍附近"
+    - "希望西巴黎景点步行或短途交通可达"
+  not_for:
+    - "预算非常有限"
+  recommendation_reason: "适合把凯旋门、香榭丽舍和西巴黎作为重点的人。位置成熟、交通方便，尤其适合行程较紧、希望少折腾的人。 从位置上看，靠近 Champs Elysées，适合作为这一片的住宿候选。"
+  caution_note: "这一区域住宿价格上限很高，建议不要只看星级，要同时比较房间面积、隔音和真实位置。"
+  affiliate_urls:
+    trip: "https://www.trip.com/hotels/detail/?cityEnName=Paris&cityId=192&hotelId=717722&Allianceid=5840493&SID=157301299&trip_sub1=paris-champs-elysees-arc&trip_sub3=D19475913"
+  preferred_platform: trip
+  last_checked: "2026-08-25"
+
+- id: "hidden-hotel-paris"
+  status: active
+  priority: P1
+  hotel_name: "Hidden Hotel"
+  city: "巴黎"
+  country: "法国"
+  area_id: "paris-champs-elysees-arc"
+  area: "Champs-Élysées / Arc de Triomphe"
+  address: "28 Rue de l'Arc de Triomphe, 17th arrondissement-Batignolles-Monceau, Paris, Ile-de-France, 75017, France"
+  hotel_id_trip: "718603"
+  image: "assets/img/hotels/paris/hidden-hotel-paris.webp"
+  image_alt: "Hidden Hotel 住宿图片"
+  category: "凯旋门设计型酒店"
+  star_level: ""
+  budget_level: "中高预算"
+  rating: "9.3"
+  review_count: "132"
+  nearby:
+    - "Champs Elysées"
+    - "Arc de Triomphe de l’Etoile"
+    - "Eiffel Tower"
+  destination_tags:
+    - "巴黎"
+    - "香榭丽舍"
+    - "凯旋门"
+  traveler_type:
+    - "第一次来巴黎"
+    - "情侣或更看重住宿体验的人"
+  best_for:
+    - "想住在凯旋门和香榭丽舍附近"
+    - "希望位置之外也有更好的住宿质感"
+  not_for:
+    - "只按最低价格选择住宿"
+  recommendation_reason: "适合把凯旋门、香榭丽舍和西巴黎作为重点的人。位置成熟、交通方便，尤其适合行程较紧、希望少折腾的人。 从位置上看，靠近 Champs Elysées，适合作为这一片的住宿候选。"
+  caution_note: "这一区域住宿价格上限很高，建议不要只看星级，要同时比较房间面积、隔音和真实位置。"
+  affiliate_urls:
+    trip: "https://www.trip.com/hotels/detail/?cityEnName=Paris&cityId=192&hotelId=718603&Allianceid=5840493&SID=157301299&trip_sub1=paris-champs-elysees-arc&trip_sub3=D19475913"
+  preferred_platform: trip
+  last_checked: "2026-08-25"
+
+- id: "hotel-de-la-boetie-paris"
+  status: active
+  priority: P2
+  hotel_name: "Hotel de La Boétie"
+  city: "巴黎"
+  country: "法国"
+  area_id: "paris-champs-elysees-arc"
+  area: "Champs-Élysées / Arc de Triomphe"
+  address: "91 Rue La Boétie, 8th arrondissement-Elysee, Paris, Ile-de-France, 75008, France"
+  hotel_id_trip: "717760"
+  image: "assets/img/hotels/paris/hotel-de-la-boetie-paris.webp"
+  image_alt: "Hotel de La Boétie 住宿图片"
+  category: "香榭丽舍核心位置酒店"
+  star_level: ""
+  budget_level: "中高预算"
+  rating: "8.9"
+  review_count: "115"
+  nearby:
+    - "Champs Elysées"
+    - "Arc de Triomphe de l’Etoile"
+    - "Eiffel Tower"
+  destination_tags:
+    - "巴黎"
+    - "香榭丽舍"
+    - "凯旋门"
+  traveler_type:
+    - "第一次来巴黎"
+    - "情侣或重视核心位置的旅行者"
+  best_for:
+    - "想住在凯旋门和香榭丽舍附近"
+    - "希望西巴黎景点步行或短途交通可达"
+  not_for:
+    - "预算非常有限"
+  recommendation_reason: "适合把凯旋门、香榭丽舍和西巴黎作为重点的人。位置成熟、交通方便，尤其适合行程较紧、希望少折腾的人。 从位置上看，靠近 Champs Elysées，适合作为这一片的住宿候选。"
+  caution_note: "这一区域住宿价格上限很高，建议不要只看星级，要同时比较房间面积、隔音和真实位置。"
+  affiliate_urls:
+    trip: "https://www.trip.com/hotels/detail/?cityEnName=Paris&cityId=192&hotelId=717760&Allianceid=5840493&SID=157301299&trip_sub1=paris-champs-elysees-arc&trip_sub3=D19475913"
+  preferred_platform: trip
+  last_checked: "2026-08-25"
+
+- id: "hotel-la-maison-montparnasse-paris"
+  status: active
+  priority: P1
+  hotel_name: "Hôtel La Maison Montparnasse"
+  city: "巴黎"
+  country: "法国"
+  area_id: "paris-montparnasse-denfert"
+  area: "Montparnasse / Denfert-Rochereau"
+  address: "53 Rue de Gergovie, 14th arrondissement-Observatoire, Paris, Ile-de-France, 75014, France"
+  hotel_id_trip: "729858"
+  image: "assets/img/hotels/paris/hotel-la-maison-montparnasse-paris.webp"
+  image_alt: "Hôtel La Maison Montparnasse 住宿图片"
+  category: "蒙帕纳斯经济型酒店"
+  star_level: ""
+  budget_level: "经济预算"
+  rating: "9.0"
+  review_count: "131"
+  nearby:
+    - "Paris Montparnasse Station"
+    - "Eiffel Tower"
+    - "Paris Expo Porte de Versailles"
+  destination_tags:
+    - "巴黎"
+    - "蒙帕纳斯"
+    - "左岸"
+  traveler_type:
+    - "想控制巴黎住宿预算"
+    - "预算比较敏感"
+  best_for:
+    - "希望控制住宿预算"
+    - "想兼顾左岸生活感和交通"
+  not_for:
+    - "希望酒店本身有明显度假感或奢华体验"
+  recommendation_reason: "蒙帕纳斯一带通常比最核心旅游区更容易找到价格和交通的平衡，餐饮密度高，也适合需要火车衔接的人。 从位置上看，靠近 Paris Montparnasse Station，适合作为这一片的住宿候选。"
+  caution_note: "不同位置到核心景点的步行距离差异较大，建议先确认最近地铁站和到主要行程点的通勤时间。"
+  affiliate_urls:
+    trip: "https://www.trip.com/hotels/detail/?cityEnName=Paris&cityId=192&hotelId=729858&Allianceid=5840493&SID=157301299&trip_sub1=paris-montparnasse-denfert&trip_sub3=D19475913"
+  preferred_platform: trip
+  last_checked: "2026-08-25"
+
+- id: "hotel-transcontinental-paris"
+  status: active
+  priority: P1
+  hotel_name: "Hôtel Transcontinental"
+  city: "巴黎"
+  country: "法国"
+  area_id: "paris-montparnasse-denfert"
+  area: "Montparnasse / Denfert-Rochereau"
+  address: "155 Av. du Maine, 14th arrondissement-Observatoire, Paris, Ile-de-France, 75014, France"
+  hotel_id_trip: "1577782"
+  image: "assets/img/hotels/paris/hotel-transcontinental-paris.webp"
+  image_alt: "Hôtel Transcontinental 住宿图片"
+  category: "蒙帕纳斯高性价比酒店"
+  star_level: ""
+  budget_level: "经济到中等预算"
+  rating: "9.0"
+  review_count: "245"
+  nearby:
+    - "Paris Montparnasse Station"
+    - "Luxembourg Garden"
+    - "Catacombs of Paris"
+  destination_tags:
+    - "巴黎"
+    - "蒙帕纳斯"
+    - "左岸"
+  traveler_type:
+    - "想控制巴黎住宿预算"
+    - "需要蒙帕纳斯车站衔接"
+  best_for:
+    - "想兼顾左岸生活感和交通"
+    - "后续从 Montparnasse 出发"
+  not_for:
+    - "只想住卢浮宫或香榭丽舍步行圈"
+  recommendation_reason: "蒙帕纳斯一带通常比最核心旅游区更容易找到价格和交通的平衡，餐饮密度高，也适合需要火车衔接的人。 从位置上看，靠近 Paris Montparnasse Station，适合作为这一片的住宿候选。"
+  caution_note: "不同位置到核心景点的步行距离差异较大，建议先确认最近地铁站和到主要行程点的通勤时间。"
+  affiliate_urls:
+    trip: "https://www.trip.com/hotels/detail/?cityEnName=Paris&cityId=192&hotelId=1577782&Allianceid=5840493&SID=157301299&trip_sub1=paris-montparnasse-denfert&trip_sub3=D19475913"
+  preferred_platform: trip
+  last_checked: "2026-08-25"
+
+- id: "hotel-montparnasse-saint-germain-paris"
+  status: active
+  priority: P1
+  hotel_name: "Hôtel Montparnasse Saint Germain"
+  city: "巴黎"
+  country: "法国"
+  area_id: "paris-montparnasse-denfert"
+  area: "Montparnasse / Denfert-Rochereau"
+  address: "19 Rue du Départ, 14th arrondissement-Observatoire, Paris, Ile-de-France, 75014, France"
+  hotel_id_trip: "2511458"
+  image: "assets/img/hotels/paris/hotel-montparnasse-saint-germain-paris.webp"
+  image_alt: "Hôtel Montparnasse Saint Germain 住宿图片"
+  category: "车站便利型酒店"
+  star_level: ""
+  budget_level: "中等预算"
+  rating: "9.0"
+  review_count: "130"
+  nearby:
+    - "Montparnasse"
+    - "Paris Montparnasse Station"
+    - "Luxembourg Garden"
+  destination_tags:
+    - "巴黎"
+    - "蒙帕纳斯"
+    - "左岸"
+  traveler_type:
+    - "想控制巴黎住宿预算"
+    - "需要蒙帕纳斯车站衔接"
+  best_for:
+    - "想兼顾左岸生活感和交通"
+    - "后续从 Montparnasse 出发"
+  not_for:
+    - "只想住卢浮宫或香榭丽舍步行圈"
+  recommendation_reason: "蒙帕纳斯一带通常比最核心旅游区更容易找到价格和交通的平衡，餐饮密度高，也适合需要火车衔接的人。 从位置上看，靠近 Montparnasse，适合作为这一片的住宿候选。"
+  caution_note: "不同位置到核心景点的步行距离差异较大，建议先确认最近地铁站和到主要行程点的通勤时间。"
+  affiliate_urls:
+    trip: "https://www.trip.com/hotels/detail/?cityEnName=Paris&cityId=192&hotelId=2511458&Allianceid=5840493&SID=157301299&trip_sub1=paris-montparnasse-denfert&trip_sub3=D19475913"
+  preferred_platform: trip
+  last_checked: "2026-08-25"
+
+- id: "holiday-inn-express-paris-cdg-airport-by-ihg"
+  status: active
+  priority: P1
+  hotel_name: "Holiday Inn Express PARIS - CDG AIRPORT by IHG"
+  city: "巴黎戴高乐机场"
+  country: "法国"
+  area_id: "paris-cdg-airport-roissypole"
+  area: "CDG Airport / Roissypole"
+  address: "5 Rue du Voyageur, Roissy-en-France, Ile-de-France, 95700, France"
+  hotel_id_trip: "15113899"
+  image: "assets/img/hotels/paris/holiday-inn-express-paris-cdg-airport-by-ihg.webp"
+  image_alt: "Holiday Inn Express PARIS - CDG AIRPORT by IHG 住宿图片"
+  category: "机场实用型酒店"
+  star_level: ""
+  budget_level: "中等预算"
+  rating: "9.0"
+  review_count: "940"
+  nearby:
+    - "Parc Pr"
+    - "Le Pignon Est, Pignon des Ecuries"
+    - "Fresque Mermoz dans la lumière des Andes"
+  destination_tags:
+    - "巴黎"
+    - "戴高乐机场"
+    - "机场住宿"
+  traveler_type:
+    - "早班机或深夜抵达"
+    - "转机或只在机场附近住一晚"
+  best_for:
+    - "不想凌晨横穿巴黎"
+    - "需要机场航站楼或接驳交通方便"
+  not_for:
+    - "主要行程都在巴黎市中心且住两晚以上"
+  recommendation_reason: "这类酒店的价值主要是机场衔接，而不是巴黎观光。早班机、晚到或转机时，住机场附近通常比凌晨进出市区稳很多。 这家更适合作为一晚中转或早晚班机住宿。"
+  caution_note: "预订前一定确认对应航站楼、接驳方式和步行/摆渡距离，不要只看“机场酒店”几个字。"
+  affiliate_urls:
+    trip: "https://www.trip.com/hotels/detail/?cityEnName=Roissy-en-France&cityId=80383&hotelId=15113899&Allianceid=5840493&SID=157301299&trip_sub1=paris-cdg-airport-roissypole&trip_sub3=D19475913"
+  preferred_platform: trip
+  last_checked: "2026-08-25"
+
+- id: "moxy-paris-charles-de-gaulle-airport"
+  status: active
+  priority: P1
+  hotel_name: "Moxy Paris Charles de Gaulle Airport"
+  city: "巴黎戴高乐机场"
+  country: "法国"
+  area_id: "paris-cdg-airport-roissypole"
+  area: "CDG Airport / Roissypole"
+  address: "5 Rue du Signe, Roissy-en-France, Ile-de-France, 95700, France"
+  hotel_id_trip: "48244915"
+  image: "assets/img/hotels/paris/moxy-paris-charles-de-gaulle-airport.webp"
+  image_alt: "Moxy Paris Charles de Gaulle Airport 住宿图片"
+  category: "机场生活方式酒店"
+  star_level: ""
+  budget_level: "中等预算"
+  rating: "9.0"
+  review_count: "606"
+  nearby:
+    - "Parc Pr"
+    - "Le Pignon Est, Pignon des Ecuries"
+    - "Fresque Mermoz dans la lumière des Andes"
+  destination_tags:
+    - "巴黎"
+    - "戴高乐机场"
+    - "机场住宿"
+  traveler_type:
+    - "早班机或深夜抵达"
+    - "转机或只在机场附近住一晚"
+  best_for:
+    - "不想凌晨横穿巴黎"
+    - "需要机场航站楼或接驳交通方便"
+  not_for:
+    - "主要行程都在巴黎市中心且住两晚以上"
+  recommendation_reason: "这类酒店的价值主要是机场衔接，而不是巴黎观光。早班机、晚到或转机时，住机场附近通常比凌晨进出市区稳很多。 这家更适合作为一晚中转或早晚班机住宿。"
+  caution_note: "预订前一定确认对应航站楼、接驳方式和步行/摆渡距离，不要只看“机场酒店”几个字。"
+  affiliate_urls:
+    trip: "https://www.trip.com/hotels/detail/?cityEnName=Roissy-en-France&cityId=80383&hotelId=48244915&Allianceid=5840493&SID=157301299&trip_sub1=paris-cdg-airport-roissypole&trip_sub3=D19475913"
+  preferred_platform: trip
+  last_checked: "2026-08-25"
+
+- id: "ibis-styles-paris-charles-de-gaulle-airport"
+  status: active
+  priority: P1
+  hotel_name: "Ibis Styles Paris Charles de Gaulle Airport"
+  city: "巴黎戴高乐机场"
+  country: "法国"
+  area_id: "paris-cdg-airport-roissypole"
+  area: "CDG Airport / Roissypole"
+  address: "Paris Charles de Gaulle Airport, 1 Bis Rue De La Haye Accès Gps / Tremblay-En-France, Roissypole, Cs 20009, Tremblay-en-France, Ile-de-France, 93290, France"
+  hotel_id_trip: "5298531"
+  image: "assets/img/hotels/paris/ibis-styles-paris-charles-de-gaulle-airport.webp"
+  image_alt: "Ibis Styles Paris Charles de Gaulle Airport 住宿图片"
+  category: "机场家庭友好型酒店"
+  star_level: ""
+  budget_level: "中等预算"
+  rating: "8.7"
+  review_count: "224"
+  nearby:
+    - "Aeroport Roissy Charles-de-Gaulle 1 Station"
+    - "Air France Museum"
+  destination_tags:
+    - "巴黎"
+    - "戴高乐机场"
+    - "机场住宿"
+  traveler_type:
+    - "早班机或深夜抵达"
+    - "转机或只在机场附近住一晚"
+  best_for:
+    - "不想凌晨横穿巴黎"
+    - "需要机场航站楼或接驳交通方便"
+  not_for:
+    - "主要行程都在巴黎市中心且住两晚以上"
+  recommendation_reason: "这类酒店的价值主要是机场衔接，而不是巴黎观光。早班机、晚到或转机时，住机场附近通常比凌晨进出市区稳很多。 这家更适合作为一晚中转或早晚班机住宿。"
+  caution_note: "预订前一定确认对应航站楼、接驳方式和步行/摆渡距离，不要只看“机场酒店”几个字。"
+  affiliate_urls:
+    trip: "https://www.trip.com/hotels/detail/?cityEnName=Tremblay-en-France&cityId=25125&hotelId=5298531&Allianceid=5840493&SID=157301299&trip_sub1=paris-cdg-airport-roissypole&trip_sub3=D19475913"
+  preferred_platform: trip
+  last_checked: "2026-08-25"
+
+- id: "all-suites-val-d-europe-near-disneyland-paris"
+  status: active
+  priority: P1
+  hotel_name: "All Suites | Val d’Europe near Disneyland Paris"
+  city: "巴黎迪士尼"
+  country: "法国"
+  area_id: "disneyland-paris-chessy-val-europe"
+  area: "Disneyland Paris / Val d’Europe"
+  address: "16 Rue Magellan, Serris, Ile-de-France, 77700, France"
+  hotel_id_trip: "132242410"
+  image: "assets/img/hotels/disneyland-paris/all-suites-val-d-europe-near-disneyland-paris.webp"
+  image_alt: "All Suites | Val d’Europe near Disneyland Paris 住宿图片"
+  category: "迪士尼家庭公寓型住宿"
+  star_level: ""
+  budget_level: "经济到中等预算"
+  rating: "9.1"
+  review_count: "51"
+  nearby:
+    - "Disneyland Paris"
+    - "Skatepark Flow Park"
+    - "The leisure center \"1 2 3 Sun\""
+  destination_tags:
+    - "巴黎迪士尼"
+    - "Val d’Europe"
+    - "家庭旅行"
+  traveler_type:
+    - "带孩子的家庭"
+    - "准备连续玩一到两天迪士尼"
+  best_for:
+    - "想减少每天巴黎市区往返"
+    - "希望靠近 RER A 或有迪士尼接驳"
+  not_for:
+    - "迪士尼只安排半天且全程住巴黎市中心"
+  recommendation_reason: "如果迪士尼是行程重点，住在 Val d’Europe / Serris 一带会明显减少往返时间，带孩子尤其轻松。 对家庭来说，优先看家庭房、接驳和 RER A 会比单纯看星级更实用。"
+  caution_note: "要优先确认到园区的接驳方式、RER 距离和家庭房配置；“离迪士尼近”不等于可以直接步行。"
+  affiliate_urls:
+    trip: "https://www.trip.com/hotels/detail/?cityEnName=Serris&cityId=23841&hotelId=132242410&Allianceid=5840493&SID=157301299&trip_sub1=disneyland-paris-chessy-val-europe&trip_sub3=D19475913"
+  preferred_platform: trip
+  last_checked: "2026-08-25"
+
+- id: "moxy-paris-val-d-europe-disneyland-paris"
+  status: active
+  priority: P2
+  hotel_name: "Moxy Paris Val D’Europe"
+  city: "巴黎迪士尼"
+  country: "法国"
+  area_id: "disneyland-paris-chessy-val-europe"
+  area: "Disneyland Paris / Val d’Europe"
+  address: "2 Av. de l'Europe, Montevrain, Ile-de-France, 77144, France"
+  hotel_id_trip: "96338418"
+  image: "assets/img/hotels/disneyland-paris/moxy-paris-val-d-europe-disneyland-paris.webp"
+  image_alt: "Moxy Paris Val D’Europe 住宿图片"
+  category: "迪士尼生活方式酒店"
+  star_level: ""
+  budget_level: "中等预算"
+  rating: "9.1"
+  review_count: "352"
+  nearby:
+    - "Disneyland Paris"
+    - "Val d'Europe Station"
+    - "Centre Commercial Val d'Europe"
+  destination_tags:
+    - "巴黎迪士尼"
+    - "Val d’Europe"
+    - "家庭旅行"
+  traveler_type:
+    - "带孩子的家庭"
+    - "准备连续玩一到两天迪士尼"
+  best_for:
+    - "想减少每天巴黎市区往返"
+    - "希望靠近 RER A 或有迪士尼接驳"
+  not_for:
+    - "迪士尼只安排半天且全程住巴黎市中心"
+  recommendation_reason: "如果迪士尼是行程重点，住在 Val d’Europe / Serris 一带会明显减少往返时间，带孩子尤其轻松。 对家庭来说，优先看家庭房、接驳和 RER A 会比单纯看星级更实用。"
+  caution_note: "要优先确认到园区的接驳方式、RER 距离和家庭房配置；“离迪士尼近”不等于可以直接步行。"
+  affiliate_urls:
+    trip: "https://www.trip.com/hotels/detail/?cityEnName=Montevrain&cityId=23365&hotelId=96338418&Allianceid=5840493&SID=157301299&trip_sub1=disneyland-paris-chessy-val-europe&trip_sub3=D19475913"
+  preferred_platform: trip
+  last_checked: "2026-08-25"
+
+- id: "b-and-b-hotel-marne-la-vallee-val-d-europe-disneyland-paris"
+  status: active
+  priority: P1
+  hotel_name: "B&B Hotel Marne-la-Vallée Val d'Europe"
+  city: "巴黎迪士尼"
+  country: "法国"
+  area_id: "disneyland-paris-chessy-val-europe"
+  area: "Disneyland Paris / Val d’Europe"
+  address: "ZAC Couternois -11 impasse Dorothée le Maître, Serris, Ile-de-France, 77700, France"
+  hotel_id_trip: "117014505"
+  image: "assets/img/hotels/disneyland-paris/b-and-b-hotel-marne-la-vallee-val-d-europe-disneyland-paris.webp"
+  image_alt: "B&B Hotel Marne-la-Vallée Val d'Europe 住宿图片"
+  category: "迪士尼经济型家庭酒店"
+  star_level: ""
+  budget_level: "经济预算"
+  rating: "8.8"
+  review_count: "87"
+  nearby:
+    - "Library De Serris"
+  destination_tags:
+    - "巴黎迪士尼"
+    - "Val d’Europe"
+    - "家庭旅行"
+  traveler_type:
+    - "带孩子的家庭"
+    - "准备连续玩一到两天迪士尼"
+  best_for:
+    - "想减少每天巴黎市区往返"
+    - "希望靠近 RER A 或有迪士尼接驳"
+  not_for:
+    - "迪士尼只安排半天且全程住巴黎市中心"
+  recommendation_reason: "如果迪士尼是行程重点，住在 Val d’Europe / Serris 一带会明显减少往返时间，带孩子尤其轻松。 对家庭来说，优先看家庭房、接驳和 RER A 会比单纯看星级更实用。"
+  caution_note: "要优先确认到园区的接驳方式、RER 距离和家庭房配置；“离迪士尼近”不等于可以直接步行。"
+  affiliate_urls:
+    trip: "https://www.trip.com/hotels/detail/?cityEnName=Serris&cityId=23841&hotelId=117014505&Allianceid=5840493&SID=157301299&trip_sub1=disneyland-paris-chessy-val-europe&trip_sub3=D19475913"
+  preferred_platform: trip
+  last_checked: "2026-08-25"
+
+- id: "hotel-l-elysee-val-d-europe-disneyland-paris"
+  status: active
+  priority: P1
+  hotel_name: "Hotel l'Elysee Val d'Europe"
+  city: "巴黎迪士尼"
+  country: "法国"
+  area_id: "disneyland-paris-chessy-val-europe"
+  area: "Disneyland Paris / Val d’Europe"
+  address: "7 Cr du Danube, Serris, Ile-de-France, 77700, France"
+  hotel_id_trip: "2198440"
+  image: "assets/img/hotels/disneyland-paris/hotel-l-elysee-val-d-europe-disneyland-paris.webp"
+  image_alt: "Hotel l'Elysee Val d'Europe 住宿图片"
+  category: "迪士尼品质型酒店"
+  star_level: "4星"
+  budget_level: "中高预算"
+  rating: "9.3"
+  review_count: "162"
+  nearby:
+    - "Disneyland Paris"
+    - "Médiathèque du Val d'Europe"
+    - "Centre Commercial Val d'Europe"
+  destination_tags:
+    - "巴黎迪士尼"
+    - "Val d’Europe"
+    - "家庭旅行"
+  traveler_type:
+    - "带孩子的家庭"
+    - "准备连续玩一到两天迪士尼"
+  best_for:
+    - "想减少每天巴黎市区往返"
+    - "希望靠近 RER A 或有迪士尼接驳"
+  not_for:
+    - "迪士尼只安排半天且全程住巴黎市中心"
+  recommendation_reason: "如果迪士尼是行程重点，住在 Val d’Europe / Serris 一带会明显减少往返时间，带孩子尤其轻松。 对家庭来说，优先看家庭房、接驳和 RER A 会比单纯看星级更实用。"
+  caution_note: "要优先确认到园区的接驳方式、RER 距离和家庭房配置；“离迪士尼近”不等于可以直接步行。"
+  affiliate_urls:
+    trip: "https://www.trip.com/hotels/detail/?cityEnName=Serris&cityId=23841&hotelId=2198440&Allianceid=5840493&SID=157301299&trip_sub1=disneyland-paris-chessy-val-europe&trip_sub3=D19475913"
+  preferred_platform: trip
+  last_checked: "2026-08-25"
+
+- id: "hotel-des-lys-versailles"
+  status: active
+  priority: P1
+  hotel_name: "Hotel des Lys"
+  city: "凡尔赛"
+  country: "法国"
+  area_id: "versailles-centre"
+  area: "Versailles Centre"
+  address: "16 Rue Richaud, Versailles, Ile-de-France, 78000, France"
+  hotel_id_trip: "9874656"
+  image: "assets/img/hotels/versailles/hotel-des-lys-versailles.webp"
+  image_alt: "Hotel des Lys 住宿图片"
+  category: "凡尔赛高性价比酒店"
+  star_level: ""
+  budget_level: "中等预算"
+  rating: "9.1"
+  review_count: "138"
+  nearby:
+    - "Palace of Versailles"
+    - "Versailles Rive Droite"
+    - "Jardins de l'ancien Hôpital royal"
+  destination_tags:
+    - "凡尔赛"
+    - "凡尔赛宫"
+    - "巴黎周边过夜"
+  traveler_type:
+    - "想在凡尔赛住一晚"
+    - "希望慢慢参观宫殿和花园"
+  best_for:
+    - "不想当天赶回巴黎"
+    - "想看游客散去后的凡尔赛"
+  not_for:
+    - "只安排凡尔赛半日游"
+  recommendation_reason: "适合把凡尔赛当成真正停留点的人。住一晚可以把宫殿、花园和市区节奏放慢，而不是看完就赶回巴黎。 从住宿位置看，去 Palace of Versailles 一带比较方便。"
+  caution_note: "如果第二天主要还是巴黎市区行程，通常没有必要为了凡尔赛专门换一次酒店。"
+  affiliate_urls:
+    trip: "https://www.trip.com/hotels/detail/?cityEnName=Versailles&cityId=9187&hotelId=9874656&Allianceid=5840493&SID=157301299&trip_sub1=versailles-centre&trip_sub3=D19475913"
+  preferred_platform: trip
+  last_checked: "2026-08-25"
+
+- id: "hotel-d-angleterre-versailles"
+  status: active
+  priority: P1
+  hotel_name: "Hôtel d'Angleterre Versailles"
+  city: "凡尔赛"
+  country: "法国"
+  area_id: "versailles-centre"
+  area: "Versailles Centre"
+  address: "2bis Rue de Fontenay, Versailles, Ile-de-France, 78000, France"
+  hotel_id_trip: "4379477"
+  image: "assets/img/hotels/versailles/hotel-d-angleterre-versailles.webp"
+  image_alt: "Hôtel d'Angleterre Versailles 住宿图片"
+  category: "凡尔赛经济型酒店"
+  star_level: ""
+  budget_level: "经济到中等预算"
+  rating: "8.8"
+  review_count: "121"
+  nearby:
+    - "Palace of Versailles"
+    - "Versailles Rive Gauche Chateau Station"
+    - "Hameau de Marie Antoinette"
+  destination_tags:
+    - "凡尔赛"
+    - "凡尔赛宫"
+    - "巴黎周边过夜"
+  traveler_type:
+    - "想在凡尔赛住一晚"
+    - "预算比较敏感"
+  best_for:
+    - "希望控制住宿预算"
+    - "不想当天赶回巴黎"
+  not_for:
+    - "希望酒店本身有明显度假感或奢华体验"
+  recommendation_reason: "适合把凡尔赛当成真正停留点的人。住一晚可以把宫殿、花园和市区节奏放慢，而不是看完就赶回巴黎。 从住宿位置看，去 Palace of Versailles 一带比较方便。"
+  caution_note: "如果第二天主要还是巴黎市区行程，通常没有必要为了凡尔赛专门换一次酒店。"
+  affiliate_urls:
+    trip: "https://www.trip.com/hotels/detail/?cityEnName=Versailles&cityId=9187&hotelId=4379477&Allianceid=5840493&SID=157301299&trip_sub1=versailles-centre&trip_sub3=D19475913"
+  preferred_platform: trip
+  last_checked: "2026-08-25"
+
+- id: "hotel-la-residence-du-berry-versailles"
+  status: active
+  priority: P1
+  hotel_name: "Hôtel la Résidence du Berry"
+  city: "凡尔赛"
+  country: "法国"
+  area_id: "versailles-centre"
+  area: "Versailles Centre"
+  address: "14 Rue d'Anjou, Versailles, Ile-de-France, 78000, France"
+  hotel_id_trip: "715043"
+  image: "assets/img/hotels/versailles/hotel-la-residence-du-berry-versailles.webp"
+  image_alt: "Hôtel la Résidence du Berry 住宿图片"
+  category: "凡尔赛舒适精品型酒店"
+  star_level: ""
+  budget_level: "中等到中高预算"
+  rating: "8.7"
+  review_count: "119"
+  nearby:
+    - "Palace of Versailles"
+    - "Versailles Rive Gauche Chateau Station"
+    - "Square Saint Louis"
+  destination_tags:
+    - "凡尔赛"
+    - "凡尔赛宫"
+    - "巴黎周边过夜"
+  traveler_type:
+    - "想在凡尔赛住一晚"
+    - "情侣或更看重住宿体验的人"
+  best_for:
+    - "不想当天赶回巴黎"
+    - "希望位置之外也有更好的住宿质感"
+  not_for:
+    - "只按最低价格选择住宿"
+  recommendation_reason: "适合把凡尔赛当成真正停留点的人。住一晚可以把宫殿、花园和市区节奏放慢，而不是看完就赶回巴黎。 从住宿位置看，去 Palace of Versailles 一带比较方便。"
+  caution_note: "如果第二天主要还是巴黎市区行程，通常没有必要为了凡尔赛专门换一次酒店。"
+  affiliate_urls:
+    trip: "https://www.trip.com/hotels/detail/?cityEnName=Versailles&cityId=9187&hotelId=715043&Allianceid=5840493&SID=157301299&trip_sub1=versailles-centre&trip_sub3=D19475913"
+  preferred_platform: trip
+  last_checked: "2026-08-25"
 
 # Paris nearby villages hotel affiliate recommendations

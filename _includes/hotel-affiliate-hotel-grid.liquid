@@ -3,49 +3,154 @@
 {% assign selected_hotel_ids = hotel_ids_raw | split: "," %}
 
 {% assign limit_count = include.limit | default: 3 | plus: 0 %}
-{% if limit_count > 4 %}
-  {% assign limit_count = 4 %}
-{% endif %}
-{% if limit_count < 1 %}
-  {% assign limit_count = 1 %}
+
+{% if limit_count > 6 %}
+{% assign limit_count = 6 %}
 {% endif %}
 
-{% assign col_class = include.col | default: "col-12 col-md-6" %}
+{% if limit_count < 1 %}
+{% assign limit_count = 1 %}
+{% endif %}
+
+
+{%- comment -%}
+先计算真正会显示多少家 active 酒店。
+这样即使传入的 hotel_ids 中有失效酒店，
+列宽也不会算错。
+{%- endcomment -%}
+
+{% assign display_count = 0 %}
+
+{% if hotel_ids_raw != "" %}
+
+  {% for raw_id in selected_hotel_ids %}
+
+    {% if display_count >= limit_count %}
+      {% break %}
+    {% endif %}
+
+    {% assign id = raw_id | strip %}
+    {% assign hotel = site.data.hotels | where: "id", id | first %}
+
+    {% if hotel and hotel.status == "active" %}
+      {% assign display_count = display_count | plus: 1 %}
+    {% endif %}
+
+  {% endfor %}
+
+{% elsif area_id and area_id != "" %}
+
+  {% assign hotels = site.data.hotels
+     | where: "status", "active"
+     | where: "area_id", area_id
+     | sort: "priority"
+  %}
+
+  {% assign display_count = hotels.size %}
+
+  {% if display_count > limit_count %}
+    {% assign display_count = limit_count %}
+  {% endif %}
+
+{% endif %}
+
+
+{%- comment -%}
+根据实际卡片数量决定桌面列宽：
+
+1家：整行
+2家：每家 1/2
+3家及以上：每家 1/3，超过3家自动换第二排
+
+平板：最多2列
+手机：始终1列
+{%- endcomment -%}
+
+{% if display_count <= 1 %}
+
+  {% assign col_class = "col-12" %}
+
+{% elsif display_count == 2 %}
+
+  {% assign col_class = "col-12 col-md-6" %}
+
+{% else %}
+
+  {% assign col_class = "col-12 col-md-6 col-lg-4" %}
+
+{% endif %}
+
+
+{%- comment -%}
+如果某篇文章手动传入 col，
+仍允许覆盖自动列宽。
+{%- endcomment -%}
+
+{% if include.col and include.col != "" %}
+  {% assign col_class = include.col %}
+{% endif %}
+
 
 <div class="row hotel-affiliate-grid">
 
-  {% if hotel_ids_raw != "" %}
+{% if hotel_ids_raw != "" %}
 
-    {% assign rendered = 0 %}
+  {% assign rendered = 0 %}
 
-    {% for raw_id in selected_hotel_ids %}
+  {% for raw_id in selected_hotel_ids %}
 
-      {% if rendered >= limit_count %}
-        {% break %}
-      {% endif %}
+    {% if rendered >= limit_count %}
+      {% break %}
+    {% endif %}
 
-      {% assign id = raw_id | strip %}
-      {% assign hotel = site.data.hotels | where: "id", id | first %}
+    {% assign id = raw_id | strip %}
+    {% assign hotel = site.data.hotels | where: "id", id | first %}
 
-      {% if hotel and hotel.status == "active" %}
-        <div class="{{ col_class }} mb-4 d-flex">
-          {% include hotel-affiliate-hotel-card.liquid hotel=hotel platform=include.platform placement=include.placement button=include.button show_caution=include.show_caution %}
-        </div>
-        {% assign rendered = rendered | plus: 1 %}
-      {% endif %}
+    {% if hotel and hotel.status == "active" %}
 
-    {% endfor %}
-
-  {% elsif area_id and area_id != "" %}
-
-    {% assign hotels = site.data.hotels | where: "status", "active" | where: "area_id", area_id | sort: "priority" %}
-
-    {% for hotel in hotels limit: limit_count %}
       <div class="{{ col_class }} mb-4 d-flex">
-        {% include hotel-affiliate-hotel-card.liquid hotel=hotel platform=include.platform placement=include.placement button=include.button show_caution=include.show_caution %}
-      </div>
-    {% endfor %}
 
-  {% endif %}
+        {% include hotel-affiliate-hotel-card.liquid
+           hotel=hotel
+           platform=include.platform
+           placement=include.placement
+           button=include.button
+           show_caution=include.show_caution
+        %}
+
+      </div>
+
+      {% assign rendered = rendered | plus: 1 %}
+
+    {% endif %}
+
+  {% endfor %}
+
+
+{% elsif area_id and area_id != "" %}
+
+  {% assign hotels = site.data.hotels
+     | where: "status", "active"
+     | where: "area_id", area_id
+     | sort: "priority"
+  %}
+
+  {% for hotel in hotels limit: limit_count %}
+
+    <div class="{{ col_class }} mb-4 d-flex">
+
+      {% include hotel-affiliate-hotel-card.liquid
+         hotel=hotel
+         platform=include.platform
+         placement=include.placement
+         button=include.button
+         show_caution=include.show_caution
+      %}
+
+    </div>
+
+  {% endfor %}
+
+{% endif %}
 
 </div>

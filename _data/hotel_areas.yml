@@ -1,69 +1,166 @@
+paris-louvre-palais-royal:
+  status: active
+  city: paris
+  display_name: 卢浮宫 / 皇家宫殿
+  local_name: Louvre / Palais-Royal
+  best_for:
+  - 第一次来巴黎，希望主要景点步行可达
+  - 卢浮宫、杜乐丽花园、塞纳河沿线行程
+  description: 这一带最大的优势是位置非常中心，很多巴黎核心景点可以步行串起来，适合行程紧凑、希望减少换乘的人。
+  caution: 位置好通常意味着房价更高、房间偏小，订房时要同时看面积、隔音和是否有电梯。
+  guide_url: /paris/paris-map-arr/
+  guide_button: 看巴黎住宿区域攻略
+paris-saint-germain-latin-quarter:
+  status: active
+  city: paris
+  display_name: 圣日耳曼 / 拉丁区
+  local_name: Saint-Germain / Latin Quarter
+  best_for:
+  - 圣母院、卢森堡公园、左岸散步
+  - 喜欢咖啡馆、书店和巴黎街区氛围
+  description: 左岸这一带很适合第一次来巴黎又想住得有生活感的人，步行和公共交通都方便，晚上吃饭选择也多。
+  caution: 不同街道安静程度差异明显，预算型住宿尤其要看房间面积、隔音和近期评价。
+  guide_url: /paris/paris-map-arr/
+  guide_button: 看巴黎住宿区域攻略
+paris-eiffel-invalides:
+  status: active
+  city: paris
+  display_name: 埃菲尔铁塔 / 荣军院
+  local_name: Eiffel Tower / Invalides
+  best_for:
+  - 想步行到埃菲尔铁塔、战神广场
+  - 第一次来巴黎，希望住在标志性景点附近
+  description: 如果行程重点在埃菲尔铁塔、塞纳河西段和荣军院，这一带住起来很直观，晚上散步看铁塔也方便。
+  caution: 景点周边价格普遍偏高，而且有些街区晚上餐饮选择不如市中心密集，不要只为了看到铁塔就忽略交通和房间条件。
+  guide_url: /paris/paris-map-arr/
+  guide_button: 看巴黎住宿区域攻略
+paris-marais-hotel-de-ville:
+  status: active
+  city: paris
+  display_name: 玛黑区 / 巴黎市政厅
+  local_name: Marais / Hôtel de Ville
+  best_for:
+  - 玛黑区、蓬皮杜中心、塞纳河右岸
+  - 喜欢逛街、咖啡馆和晚上还能继续散步
+  description: 玛黑区位置中心、街区感强，白天逛景点和晚上吃饭都方便，很适合不想每天坐很多地铁的人。
+  caution: 热门街道周末和晚上会比较热闹，睡眠敏感的人要特别看房间朝向和隔音评价。
+  guide_url: /paris/paris-map-arr/
+  guide_button: 看巴黎住宿区域攻略
 paris-saint-lazare-opera:
   status: active
   city: paris
-  display_name: "圣拉扎尔车站 / 歌剧院"
-  local_name: "Saint-Lazare / Opéra"
+  display_name: 圣拉扎尔车站 / 歌剧院
+  local_name: Saint-Lazare / Opéra
   best_for:
-    - "吉维尼、奥维尔、拉罗什居永方向"
-    - "想兼顾巴黎市区和周边一日游"
-  description: "如果行程里有较多巴黎西北方向的小镇，这一带会比较省事。晚上回巴黎以后，吃饭、购物和市区交通也方便。"
-  caution: "旺季价格偏高，别只看离火车站几百米，也要看夜间回酒店的路线和近期评价。"
-  guide_url: "/paris/paris-map-arr/"
-  guide_button: "看巴黎住宿区域攻略"
-  affiliate_urls:
-    hotels: ""
-    booking: ""
-
+  - 吉维尼、奥维尔、拉罗什居永方向
+  - 想兼顾巴黎市区和周边一日游
+  description: 如果行程里有较多巴黎西北方向的小镇，这一带会比较省事。晚上回巴黎以后，吃饭、购物和市区交通也方便。
+  caution: 旺季价格偏高，别只看离火车站几百米，也要看夜间回酒店的路线和近期评价。
+  guide_url: /paris/paris-map-arr/
+  guide_button: 看巴黎住宿区域攻略
 paris-gare-de-lyon-bastille:
   status: active
   city: paris
-  display_name: "巴黎里昂火车站 / 巴士底狱"
-  local_name: "Gare de Lyon / Bastille"
+  display_name: 巴黎里昂火车站 / 巴士底狱
+  local_name: Gare de Lyon / Bastille
   best_for:
-    - "枫丹白露、巴比松、莫雷卢万方向"
-    - "之后准备坐 TGV 前往法国南部"
-  description: "如果巴黎周边行程主要往东南方向走，住这一带会少很多横穿巴黎的交通时间。"
-  caution: "火车站周围不同街道住宿体验差异不小，带老人孩子时尤其要看具体位置。"
-  guide_url: "/paris/paris-map-arr/"
-  guide_button: "看巴黎住宿区域攻略"
-
-
+  - 枫丹白露、巴比松、莫雷卢万方向
+  - 之后准备坐 TGV 前往法国南部
+  description: 如果巴黎周边行程主要往东南方向走，住这一带会少很多横穿巴黎的交通时间。
+  caution: 火车站周围不同街道住宿体验差异不小，带老人孩子时尤其要看具体位置。
+  guide_url: /paris/paris-map-arr/
+  guide_button: 看巴黎住宿区域攻略
 paris-gare-est-nord:
   status: active
   city: paris
-  display_name: "巴黎东站 / 巴黎北站"
-  local_name: "Gare de l’Est / Gare du Nord"
+  display_name: 巴黎东站 / 巴黎北站
+  local_name: Gare de l’Est / Gare du Nord
   best_for:
-    - "普罗万和巴黎东部方向"
-    - "需要东站或北站火车衔接"
-  description: "去普罗万一日往返时，住得离巴黎东站近一点会很实用，尤其是准备早出发的人。"
-  caution: "交通非常方便，但街区感受差异比较明显，订房时不要只按最低价格排序。"
-  guide_url: "/paris/paris-map-arr/"
-  guide_button: "看巴黎住宿区域攻略"
-  affiliate_urls:
-    hotels: ""
-    booking: ""
-
+  - 普罗万和巴黎东部方向
+  - 需要东站或北站火车衔接
+  description: 去普罗万一日往返时，住得离巴黎东站近一点会很实用，尤其是准备早出发的人。
+  caution: 交通非常方便，但街区感受差异比较明显，订房时不要只按最低价格排序。
+  guide_url: /paris/paris-map-arr/
+  guide_button: 看巴黎住宿区域攻略
+disneyland-paris-chessy-val-europe:
+  status: active
+  city: paris
+  display_name: 巴黎迪士尼 / 谢西 / 欧洲谷
+  local_name: Disneyland Paris / Chessy / Val d'Europe
+  best_for:
+  - 准备玩巴黎迪士尼一到两天
+  - 家庭出行，希望减少每天往返巴黎市区的时间
+  description: 如果迪士尼是行程重点，住在 Chessy 或 Val d'Europe 一带通常比每天从巴黎市区往返轻松，尤其适合带孩子和准备连续玩两天的人。
+  caution: 目前平台比较链接先使用 Paris 城市级入口；具体酒店推荐仍优先选择迪士尼接驳方便或靠近 RER A 的住宿。
+  guide_url: /paris/visit-disneyland-paris/
+  guide_button: 看巴黎迪士尼攻略
+versailles-centre:
+  status: active
+  city: versailles
+  display_name: 凡尔赛市中心
+  local_name: Versailles Centre
+  best_for:
+  - 想慢慢参观凡尔赛宫和花园
+  - 不想当天赶回巴黎
+  description: 大多数人从巴黎当天往返就够，但如果想把宫殿、花园和凡尔赛市区慢慢走完，住一晚会从容很多。
+  caution: 如果第二天主要还是巴黎市区行程，通常没必要为了凡尔赛专门换一次酒店。
+  guide_url: /paris/visit-versailles/
+  guide_button: 看凡尔赛攻略
 fontainebleau-centre:
   status: active
   city: fontainebleau
-  display_name: "枫丹白露市中心"
-  local_name: "Fontainebleau"
+  display_name: 枫丹白露市中心
+  local_name: Fontainebleau
   best_for:
-    - "枫丹白露宫、森林、巴比松"
-    - "准备在这一带住一晚"
-  description: "如果准备把枫丹白露周边连起来玩，当地住一晚比第二天再从巴黎重新出发舒服很多。"
-  caution: "如果只是看枫丹白露宫，没有必要为了住宿专门换酒店。"
-  guide_url: "/paris/visit-fontainebleau/"
-  guide_button: "看枫丹白露攻略"
-
+  - 枫丹白露宫、森林、巴比松
+  - 准备在这一带住一晚
+  description: 如果准备把枫丹白露周边连起来玩，当地住一晚比第二天再从巴黎重新出发舒服很多。
+  caution: 如果只是看枫丹白露宫，没有必要为了住宿专门换酒店。
+  guide_url: /paris/visit-fontainebleau/
+  guide_button: 看枫丹白露攻略
 provins-centre:
   status: active
   city: provins
-  display_name: "普罗万"
-  local_name: "Provins"
+  display_name: 普罗万
+  local_name: Provins
   best_for:
-    - "想看清晨和傍晚的中世纪古城"
-    - "不想当天赶回巴黎"
-  description: "普罗万住一晚的价值主要是旅行体验，而不是交通效率。游客散去之后的小镇会安静很多。"
-  caution: "如果第二天有飞机或长途火车，还是回巴黎住更稳。"
+  - 想看清晨和傍晚的中世纪古城
+  - 不想当天赶回巴黎
+  description: 普罗万住一晚的价值主要是旅行体验，而不是交通效率。游客散去之后的小镇会安静很多。
+  caution: 如果第二天有飞机或长途火车，还是回巴黎住更稳。
+paris-champs-elysees-arc:
+  status: active
+  city: paris
+  display_name: 香榭丽舍 / 凯旋门
+  local_name: Champs-Élysées / Arc de Triomphe
+  best_for:
+  - 凯旋门、香榭丽舍和西巴黎行程
+  - 第一次来巴黎，希望住在成熟核心区
+  description: 这一带位置成熟、交通方便，适合把凯旋门、香榭丽舍和西巴黎景点放在行程重点的人。
+  caution: 整体住宿价格偏高，订房时不要只看星级，也要比较房型面积、隔音和具体街道。
+  guide_url: /paris/paris-map-arr/
+  guide_button: 看巴黎住宿区域攻略
+paris-montparnasse-denfert:
+  status: active
+  city: paris
+  display_name: 蒙帕纳斯 / 丹费尔-罗什罗
+  local_name: Montparnasse / Denfert-Rochereau
+  best_for:
+  - 想兼顾住宿预算、餐饮和交通
+  - 需要蒙帕纳斯火车站衔接
+  description: 蒙帕纳斯一带比最核心旅游区更容易找到价格与交通的平衡，左岸生活感也比较强。
+  caution: 不同位置到核心景点的距离差异较大，建议先确认最近地铁站和实际通勤时间。
+  guide_url: /paris/paris-map-arr/
+  guide_button: 看巴黎住宿区域攻略
+paris-cdg-airport-roissypole:
+  status: active
+  city: paris
+  display_name: 戴高乐机场 / Roissypole
+  local_name: CDG Airport / Roissypole
+  best_for:
+  - 早班机、深夜抵达或转机
+  - 只需要机场附近住一晚
+  description: 机场住宿的核心价值是减少早晚班机的交通风险，适合转机、晚到或第二天很早起飞的人。
+  caution: 一定要确认对应航站楼、接驳方式和摆渡距离，不要只看“机场酒店”的名称。
+  guide_url: /paris/public-transport-paris-airports/
+  guide_button: 看巴黎机场交通攻略
