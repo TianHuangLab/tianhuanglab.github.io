@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 巴黎住宿怎么选？安全、交通和酒店完整推荐
-description: 第一次来、带孩子、预算优先或赶交通，按行程选位置，比单看区号更实用
+description: 第一次来、带孩子、预算优先或赶交通，按行程选位置比单看区号更实用
 img: assets/img/7paris-map-arr/7paris-map-arr-6.jpg
 importance: 5
 category: 巴黎
@@ -22,13 +22,13 @@ pretty_table: true
 
 我以前长期住在巴黎，现在帮家人、朋友或客人排巴黎住宿，也越来越少用“哪个区绝对安全、哪个区一定不能住”这种判断。**巴黎同一个行政区里，不同街道的体验可以差很多；游客最密集的核心区域，反而尤其要注意扒窃和晚归路线。**
 
-如果你只想先拿一个答案：
+这里我先给你一个答案：
 
-> **第一次来巴黎，我会优先看卢浮宫 / Palais-Royal、Saint-Germain / 拉丁区、Opéra / Saint-Lazare、玛黑区。想住铁塔附近，再看Eiffel / Invalides；预算更理性、带家人或需要火车衔接，可以看Montparnasse和Gare de Lyon。**
+**第一次来巴黎，我会优先看卢浮宫 / Palais-Royal、Saint-Germain / 拉丁区、Opéra / Saint-Lazare、玛黑区。想住铁塔附近，再看Eiffel / Invalides；预算更理性、带家人或需要火车衔接，可以看Montparnasse和Gare de Lyon。**
 
 > **关于我：**我在法国生活多年，也曾长期住在巴黎，现在主要生活在法国南部。除了自己和家人旅行，我也会带客人走巴黎、南法和法国跨区域路线。所以这篇不会只告诉你“哪个区评分高”，而是尽量从真正住进去后的体验出发：每天要不要反复坐车、晚上回酒店方不方便、拖行李会不会累。如果还在规划整趟法国行程，也可以看看我整理的[**精选路线**](https://aolitravel.com/tours/)。
 
-> *巴黎20个行政区呈螺旋状从市中心向外展开，大家常说的“小巴黎”就是这20个区。大巴黎 Île-de-France 范围更大，包括92、93、94、95等周边地区。订酒店时不要只看页面上写着“Paris”，最好确认实际地址和最近车站。*
+巴黎20个行政区呈螺旋状从市中心向外展开，大家常说的“小巴黎”就是这20个区。大巴黎 Île-de-France 范围更大，包括92、93、94、95等周边地区。订酒店时不要只看页面上写着“Paris”，最好确认实际地址和最近车站。
 
 {% include figure.liquid loading="eager" path="assets/img/7paris-map-arr/7paris-map-arr-2.jpg" title="巴黎20区地图" class="img-fluid rounded z-depth-1" alt="巴黎20个行政区地图和住宿区域" %}
 
@@ -85,7 +85,7 @@ pretty_table: true
 
 住宿选得好可以减少晚归和换乘的不方便，但不能替代基本的旅行安全习惯。尤其是地铁、RER和热门景点周边，手机、钱包和护照还是要自己看好。
 
-### 女性独行、带孩子或老人，我更看重“回酒店简单”
+### 女性独行、带孩子或老人，我更推荐你关注“是否回酒店简单”
 
 不一定要住最贵的位置。
 
@@ -111,7 +111,7 @@ pretty_table: true
 
 如果第一次来巴黎只有三四天，又准备看卢浮宫、杜乐丽花园、塞纳河、歌剧院、圣母院这些经典景点，这一带最大的优势就是：
 
-> **每天少坐几次地铁。**
+**每天能少坐几次地铁！**
 
 不少路线直接步行就能串起来。
 
@@ -222,7 +222,7 @@ pretty_table: true
 
 但这里有一个很容易被误会的问题，是我之前跟朋友聊天发现的：
 
-> 很多酒店名称或介绍写着“Marais”，实际可能在玛黑区边缘甚至邻近行政区。
+**很多酒店名称或介绍写着“Marais”，实际可能在玛黑区边缘甚至邻近行政区。**
 
 所以这里比其他地方更应该看**真实地址和步行路线**。
 
@@ -259,7 +259,7 @@ pretty_table: true
 
 所以这里更适合：
 
-> **铁塔本身就是行程重点的人。**
+**将参观铁塔安排成行程重点的朋友。**
 
 {% include hotel-affiliate-hotel-grid.liquid
    hotel_ids="residence-hoteliere-champ-de-mars-paris,hotel-baldi-by-magna-arbor-paris,mercure-paris-centre-tour-eiffel"
@@ -305,7 +305,7 @@ pretty_table: true
 
 这是一个典型的：
 
-> **未必最符合你对巴黎想象的街区，但非常实用和方便。**
+**未必最符合你对巴黎想象的街区，但非常实用和方便。**
 
 如果后面要：
 
@@ -406,9 +406,9 @@ pretty_table: true
 
 问题是这些区内部差异很大，而且对于只来巴黎3天的游客，**通勤便利性往往比“酒店便宜一点”更重要。**
 
-所以我更倾向把它理解成：
+所以我更倾向把它理解为：
 
-> **短途游客是否划算的问题，而不是整个行政区能不能住的问题。**
+**短途游客是否划算的问题，而不是整个区域能不能住、该不该住的问题。**
 
 ### 靠近环城快速路 Périphérique，只因为便宜
 
@@ -420,16 +420,9 @@ pretty_table: true
 
 每天多30分钟，住4天就是4小时。
 
----
+{% include figure.liquid loading="eager" path="assets/img/7paris-map-arr/7paris-map-arr-5.jpg" title="巴黎街区和住宿选择" class="img-fluid rounded z-depth-1" alt="巴黎住宿街区与市中心环境" %}
 
-<div class="row justify-content-sm-center">
-  <div class="col-sm mt-3 mt-md-0">
-    {% include figure.liquid loading="eager" path="assets/img/7paris-map-arr/7paris-map-arr-5.jpg" title="巴黎街区和住宿选择" class="img-fluid rounded z-depth-1" alt="巴黎住宿街区与市中心环境" %}
-  </div>
-  <div class="col-sm mt-3 mt-md-0">
-    {% include figure.liquid loading="eager" path="assets/img/7paris-map-arr/7paris-map-arr-3.jpg" title="巴黎住宿安全和交通" class="img-fluid rounded z-depth-1" alt="巴黎酒店区域与公共交通" %}
-  </div>
-</div>
+
 
 ---
 
@@ -571,7 +564,7 @@ Saint-Germain、15区部分位置、Montparnasse，以及预算允许时的核�
 
 ## 巴黎住宿常见问题
 
-### 巴黎第一次去住哪里最好？
+**巴黎第一次去住哪里最好？**
 
 如果预算允许，我会先看：
 
@@ -579,7 +572,7 @@ Saint-Germain、15区部分位置、Montparnasse，以及预算允许时的核�
 
 它们共同的优势是位置成熟、餐饮方便、第一次来比较省时间。
 
-### 巴黎住哪里比较安全？
+**巴黎住哪里比较安全？**
 
 没有哪个行政区能保证“完全安全”。
 
@@ -587,37 +580,37 @@ Saint-Germain、15区部分位置、Montparnasse，以及预算允许时的核�
 
 核心旅游区同样要注意扒窃。
 
-### 巴黎住1区好吗？
+**巴黎住1区好吗？**
 
 很好，但通常贵。
 
 如果只来3—4天、预算足够，1区能显著减少交通时间。
 
-### 巴黎住7区好吗？
+**巴黎住7区好吗？**
 
 适合很想住铁塔附近、喜欢相对安静环境的人。
 
 但如果每天都要去右岸和巴黎东部，它不一定比卢浮宫、Saint-Germain、Opéra方便。
 
-### 巴黎住9区好吗？
+**巴黎住9区好吗？**
 
 我觉得非常实用。
 
 尤其Opéra / Saint-Lazare，购物、餐饮、地铁和巴黎西北方向火车都能兼顾。
 
-### 巴黎10区安全吗？
+**巴黎10区安全吗？**
 
 不能把整个10区放在一个结论里。
 
 Gare du Nord、Gare de l'Est、Canal Saint-Martin和République附近体验差别很大。第一次来、晚上经常晚归时，要重点看具体地址。
 
-### 巴黎18区能住吗？
+**巴黎18区能住吗？**
 
 当然可以，蒙马特就在18区。
 
 但18区内部差别很大，Abbesses / Montmartre核心和Barbès / La Chapelle不是同一种住宿体验。
 
-### 带孩子住巴黎哪里方便？
+**带孩子住巴黎哪里方便？**
 
 我优先考虑：
 
@@ -625,7 +618,7 @@ Gare du Nord、Gare de l'Est、Canal Saint-Martin和République附近体验差�
 
 比“哪个区最适合家庭”更重要的是房型、电梯、餐饮和每天换乘次数。
 
-### 巴黎住机场附近好吗？
+**巴黎住机场附近好吗？**
 
 如果只是正常几天巴黎旅行，没有必要。
 
@@ -661,6 +654,8 @@ Gare du Nord、Gare de l'Est、Canal Saint-Martin和République附近体验差�
 - [巴黎周边小镇怎么选](https://aolitravel.com/paris/paris-nearby-10-top-villages/)
 
 如果你不想自己一段一段拼路线，也可以看看我实际整理和运营的[**巴黎与法国精选路线**](https://aolitravel.com/tours/)；带父母、孩子，或者巴黎之后还要接南法、瑞士和意大利时，住宿和交通节点一起规划，通常比单独追一家“网红酒店”更重要。
+
+{% include figure.liquid loading="eager" path="assets/img/7paris-map-arr/7paris-map-arr-3.jpg" title="巴黎住宿安全和交通" class="img-fluid rounded z-depth-1" alt="巴黎酒店区域与公共交通" %}
 
 ---
 
