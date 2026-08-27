@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 巴黎圣母院游记攻略｜历史建筑与周边旅行指南
-description: 带你领略这座跨越八百多年的历史与建筑瑰宝，赶紧收藏！
+title: 巴黎圣母院怎么参观？预约、登顶和路线
+description: 教堂免费怎么预约？钟楼门票、开放时间、必看位置和西岱岛路线一次理清。
 img: assets/img/104paris-notre-dame/notre-dame-paris-0.webp
 importance: 5.2
 category: 巴黎
@@ -9,613 +9,581 @@ related_publications: false
 related_posts: true
 toc:
   sidebar: left
-tags: 法国 巴黎 巴黎圣母院 巴黎圣母大教堂 巴黎景点 巴黎地标 维克多雨果 小说巴黎圣母院
+tags: 法国 巴黎 巴黎圣母院 巴黎圣母大教堂 巴黎圣母院预约 巴黎圣母院门票 巴黎圣母院登顶 巴黎景点 西岱岛
 map: true
+pretty_table: true
+published: true
 ---
 
-{% include figure.liquid loading="eager" path="assets/img/104paris-notre-dame/notre-dame-paris-0.webp" title="巴黎圣母院全攻略-paris-notre-dame-guide" class="img-fluid rounded z-depth-1" alt="巴黎圣母院全攻略-paris-notre-dame-guide" %}
+{% include figure.liquid loading="eager" path="assets/img/104paris-notre-dame/notre-dame-paris-0.webp" title="巴黎圣母院参观攻略" class="img-fluid rounded z-depth-1" alt="巴黎圣母院 Notre-Dame de Paris 西立面" %}
 
+巴黎圣母院（Notre-Dame de Paris）已经重新开放，如果你最近准备去参观，那么最需要先弄清楚的其实不是历史，而是以下三个问题：
 
-在法国生活了十多年，我对这座浪漫的国度有着自己独特的感受。
+**教堂本身免费、免费预约不是强制；钟楼已经重新开放，但需要另外预约和购票；如果还想规划旁边的西岱岛、圣礼拜堂一起玩，最好预留半天时间。**
 
-搬到南法之前，我在巴黎住了好多年，对这座城市的大街小巷几乎了如指掌。而每当谈到巴黎的文化象征，我脑海中第一时间浮现的，除了卢浮宫、埃菲尔铁塔之外，下一个就是**巴黎圣母院（Notre-Dame de Paris）**。
+我以前长期住在巴黎，后来搬到法国南部。圣母院对我来说一直不只是“巴黎必打卡景点”，它也是最适合和塞纳河、西岱岛、拉丁区一起慢慢逛的一块区域。2019年大火以后，它经历了五年多修复，2024年12月重新开放；2025年9月，双塔也重新对游客开放。现在再去，参观方式和大火前已经不完全一样了。
 
-它傲然矗立在巴黎中心的**西岱岛（Île de la Cité）**上，这座宏伟的巴黎圣母院不仅是一座教堂，它更像一件跨越时空的艺术杰作。经历了革命、战争与大火的洗礼，这座大教堂承载了法国的历史与文化，是巴黎乃至整个法国的心灵圣地。
+如果你只想快速安排，可以先看这张表，我总结了所有圣母院的核心知识点：
 
-如果你正在计划巴黎之旅，我的这篇攻略将为你提供全方位指南：从圣母院的历史与建筑，到门票信息、周边宝藏景点、实用交通、餐饮美食及摄影建议（我相信不管你是不是摄影爱好者，这些建议都会对你很有帮助！）。跟随这份指南，你不仅能轻松游览圣母院，还能深入感受巴黎的文化底蕴与浪漫气息，让你的旅程充实而难忘～
+| 问题 | 我的答案 |
+| --- | --- |
+| 巴黎圣母院现在开放吗？ | **开放** |
+| 教堂门票多少钱？ | **免费** |
+| 一定要预约吗？ | **不需要，但热门时段建议预约** |
+| 免费预约能提前很久买吗？ | **不能，官网会在临近参观时逐步放出时段** |
+| 钟楼可以登顶吗？ | **可以，已重新开放** |
+| 钟楼门票 | **16€，需单独预约** |
+| 钟楼有多少台阶？ | **424级，没有电梯** |
+| 教堂参观多久？ | **约45—60分钟比较合适** |
+| 加上钟楼要多久？ | **再预留约1小时** |
+| 西岱岛一起玩多久？ | **2—4小时更舒服** |
 
-> 关于我：现常驻南法，几年前从巴黎搬到了这里，在地中海的阳光下开启了全新的生活篇章。走过十几个国家，足迹遍布三大洲，但无论走多远，旅行始终是我灵魂的栖息地，爱在山间徒步、海边吹风，冬天则滑雪畅玩。超懂**法国**——如果你被这篇**巴黎圣母院攻略**吸引，不妨顺便参考我的其他**法国旅游攻略（含[巴黎](https://aolitravel.com/paris/)、[南法](https://aolitravel.com/south-of-france/)、[法国全集](https://aolitravel.com/france-travel/)、[精选路线](https://aolitravel.com/tours/)）**，帮你把欧洲之旅延伸得更精彩、更顺畅。从南法阳光海岸到北部历史名城，我把旅行路线、景点和实用经验都整理好了，让你的旅程轻松不踩雷！
->
+> **关于我：**我在法国生活多年，也曾长期住在巴黎。现在主要生活在法国南部，平时除了自己和家人旅行，也会帮客人规划巴黎、南法以及法国跨区域路线。所以这篇更想解决你真正到了巴黎以后会遇到的问题：到底要不要预约、钟楼值不值得爬、周边怎么规划，而不是只把历史介绍一遍。如果你还在规划整趟法国旅行，也可以看看我的[巴黎攻略合集](https://aolitravel.com/paris/)和[精选路线](https://aolitravel.com/tours/)。
 
-{% include figure.liquid loading="eager" path="assets/img/104paris-notre-dame/notre-dame-paris-0a.webp" title="巴黎圣母院全攻略-paris-notre-dame-guide" class="img-fluid rounded z-depth-1" alt="巴黎圣母院全攻略-paris-notre-dame-guide" %}
-
-更多关于巴黎的旅游攻略，欢迎查看我的：[巴黎旅游攻略合集](https://aolitravel.com/paris/)
-
-
----
-
-## 1. 圣母院历史概览：见证千年巴黎风云
-
-可以说，巴黎圣母院（Notre-Dame de Paris）已经不仅是一座教堂了，更是一部用石头写成的法国历史书。它静静矗立在塞纳河西岱岛上，几乎与巴黎这座城市的命运同步起伏，见证了法国近千年的政治、宗教与文化变迁。
-
-### 从中世纪奠基：一座城市的信仰中心
-
-圣母院的建设始于 **1163年**，相传由当时的巴黎主教 **莫里斯·迪·苏利（Maurice de Sully）** 发起，法国国王**路易七世**也出席了奠基仪式。这是一个哥特式建筑刚刚兴起的时代，人们渴望用更高、更明亮的建筑来接近上帝。
-
-整座教堂的建造横跨近 **180多年**，直到 **1345年** 才最终完工。期间，巴黎经历了王朝更迭、战争与瘟疫，而圣母院始终在施工、修缮与使用中不断“生长”。
-
-可以想象，**几代石匠、木匠、玻璃工匠**在没有现代机械的情况下，用双手抬起巨石、雕刻飞扶壁、拼接彩色玫瑰窗——他们中的大多数甚至没有留下姓名，却共同塑造了这座不朽的地标。
-{% include figure.liquid loading="eager" path="assets/img/104paris-notre-dame/notre-dame-paris-1.webp" title="巴黎圣母院全攻略-paris-notre-dame-guide" class="img-fluid rounded z-depth-1" alt="巴黎圣母院全攻略-paris-notre-dame-guide" %}
-
-
-### 王权、革命与信仰的舞台
-
-在中世纪和近代，巴黎圣母院是法国最重要的宗教与政治场所之一：
-
-- **1302年**，法王腓力四世在此召开三级会议，奠定法国王权的重要一步
-- **1804年**，**拿破仑·波拿巴**在这里为自己加冕为法国皇帝，甚至亲手将王冠戴在自己头上，这一幕成为欧洲历史上最具象征性的画面之一
-
-然而，圣母院也曾遭遇低谷。**法国大革命时期**，教堂被洗劫、雕像被砸毁，一度被当作“理性神庙”和仓库使用，几乎沦为废墟。
-{% include figure.liquid loading="eager" path="assets/img/104paris-notre-dame/notre-dame-paris-1a.webp" title="巴黎圣母院全攻略-paris-notre-dame-guide" class="img-fluid rounded z-depth-1" alt="巴黎圣母院全攻略-paris-notre-dame-guide" %}
-
-
-### 文学拯救建筑：雨果的“神来之笔”
-
-真正让巴黎圣母院重获新生的，是文学史上的一次奇迹。
-
-**1831年**，法国大文豪 **维克多·雨果**发表小说《**巴黎圣母院**》，通过卡西莫多、爱斯梅拉达的悲剧故事，深情描绘了这座古老建筑的灵魂与沧桑。
-
-小说引发巨大社会反响，公众开始重新认识并珍视这座被忽视的哥特式杰作。随后，法国政府启动了大规模修复工程，使圣母院得以保存至今。可以说，**一部小说，拯救了一座教堂**。
-{% include figure.liquid loading="eager" path="assets/img/104paris-notre-dame/notre-dame-paris-1b.webp" title="巴黎圣母院全攻略-paris-notre-dame-guide" class="img-fluid rounded z-depth-1" alt="巴黎圣母院全攻略-paris-notre-dame-guide" %}
-
-
-### 为什么说圣母院值得细细品味？
-
-因为它不仅“古老”，更“鲜活”：
-
-- 它见证了**中世纪信仰的虔诚**
-- 经历了**革命的破坏与重生**
-- 承载了**文学、艺术与民族记忆**
-- 至今仍是巴黎最重要的文化与精神象征之一
-
-每一次风雨，都让巴黎圣母院更加庄严；
-
-每一块石头，都在低声讲述属于巴黎、也属于欧洲的故事。
-
-如果你站在它面前，不妨慢一点，看一看飞扶壁的曲线、玫瑰窗的光影——那是跨越八百年的时间，在与你对话。
-{% include figure.liquid loading="eager" path="assets/img/104paris-notre-dame/notre-dame-paris-1c.webp" title="巴黎圣母院全攻略-paris-notre-dame-guide" class="img-fluid rounded z-depth-1" alt="巴黎圣母院全攻略-paris-notre-dame-guide" %}
-
+{% include figure.liquid loading="lazy" path="assets/img/104paris-notre-dame/notre-dame-paris-0a.webp" title="巴黎圣母院与西岱岛" class="img-fluid rounded z-depth-1" alt="巴黎圣母院与巴黎西岱岛街景" %}
 
 ---
 
-## 2. 哥特式建筑与艺术之美
+## 巴黎圣母院门票和预约：教堂免费，钟楼另外买票
 
-我们再从建筑美学的角度来看看巴黎圣母院。事实上，它被公认为**法国哥特式建筑的巅峰之作之一**，不仅定义了巴黎的天际线，也深刻影响了此后数百年的欧洲教堂设计。如果说罗马式建筑厚重而内敛，那么哥特式建筑的目标只有一个：**向上、向光、向神圣**。而巴黎圣母院，正是这一理念最早、也最完整的实践者之一。
+这是现在我看到很多比较旧的旅游攻略里没写清楚的地方。
 
-### 为什么巴黎圣母院是哥特式建筑代表？
+### 教堂内部：免费
 
-哥特式建筑诞生于12世纪的法兰西岛地区，强调**垂直感、结构创新与光的艺术**。巴黎圣母院几乎囊括了这一风格的所有核心元素，而且并非装饰堆砌，而是结构与美学的完美结合。
+**进入巴黎圣母院主教堂不收门票。**
 
-### 双塔楼：中世纪巴黎的“天际线地标”
+如果你不预约也可以现场排队进入。免费预约的作用，主要是减少等待、让入场更顺畅，并不是把免费教堂变成收费景点。
 
-西立面的**双塔楼**高达 **69米**，在中世纪已是令人震撼的高度。它们没有尖顶，造型稳重而克制，既象征着通向天堂的阶梯，也体现了法国哥特式不同于英德风格的理性与秩序感。
+目前官网采用临近参观逐步开放预约时段的方式，实际预约页面会持续放出当天可订的时间，所以不用提前几周守票。
 
-站在塔楼前，人会不自觉地抬头——这正是哥特建筑最成功的“心理设计”。
-{% include figure.liquid loading="eager" path="assets/img/104paris-notre-dame/notre-dame-paris-2.webp" title="巴黎圣母院全攻略-paris-notre-dame-guide" class="img-fluid rounded z-depth-1" alt="巴黎圣母院全攻略-paris-notre-dame-guide" %}
+如果你看到第三方平台在卖“巴黎圣母院普通入场票”，先看清楚卖的到底是什么。很多产品实际包含的是：
 
-### 飞扶壁：力学与艺术的天才发明
+- 中文或英文导览
+- 西岱岛步行团
+- 钟楼门票
+- 其他景点套票
 
-**飞扶壁**是巴黎圣母院最具革命性的结构之一。它将屋顶与拱顶的重量“转移”到外部支撑点，使墙体可以变得更薄、更高，也为大面积彩色玻璃窗创造了条件。
+**教堂本身的普通入场仍然免费。**
 
-从结构工程的角度看，这是中世纪建筑师的智慧结晶；从视觉上看，它们宛如张开的石翼，让整座教堂显得轻盈而优雅。
-{% include figure.liquid loading="eager" path="assets/img/104paris-notre-dame/notre-dame-paris-2a.webp" title="巴黎圣母院全攻略-paris-notre-dame-guide" class="img-fluid rounded z-depth-1" alt="巴黎圣母院全攻略-paris-notre-dame-guide" %}
+[巴黎圣母院官方免费预约页面](https://www.notredamedeparis.fr/en/visit/reservation-free/)
 
-### 玫瑰花窗：用光书写的神学
+### 钟楼：16€，必须单独预约
 
-巴黎圣母院拥有三扇著名的**玫瑰花窗**，分别位于西、北、南立面，直径可达13米以上。
+巴黎圣母院双塔在2025年9月20日重新开放。
 
-在中世纪，人们不识字，却能“读懂”这些玻璃窗——圣经故事、圣徒形象与神学象征，都被转化为色彩与光影。当阳光穿过玻璃，整个教堂仿佛被注入生命，像一座缓缓呼吸的光之殿堂。
-{% include figure.liquid loading="eager" path="assets/img/104paris-notre-dame/notre-dame-paris-2b.webp" title="巴黎圣母院全攻略-paris-notre-dame-guide" class="img-fluid rounded z-depth-1" alt="巴黎圣母院全攻略-paris-notre-dame-guide" %}
+现在的塔楼路线不是简单“爬上去看一眼巴黎”：
 
+- 全程约 **50分钟**
+- 一共 **424级台阶**
+- 最高到约 **69米**
+- 可以看到巴黎360°城市景观
+- 能近距离看钟楼、石像和重建后的尖塔
+- **没有电梯**
+- 部分通道只有约45厘米宽
 
-### 石像鬼与怪兽雕塑：功能与想象力并存
+普通票目前是 **16€**。塔楼实行独立预约，没有现场临时买票直接上塔这种玩法。
 
-那些看似“张牙舞爪”的**石像鬼（Gargoyles）**，其实既是雨水排水口，也是中世纪人对善恶、恐惧与守护的象征表达。
+如果你使用Paris Museum Pass，或者符合其他免费条件，也仍然要先预约塔楼参观时段。
 
-它们俯瞰巴黎，像沉默的守夜人——有的诞生于中世纪，有的则是在19世纪修复时由建筑师**维奥莱-勒-迪克**重新设计，赋予圣母院更多浪漫主义色彩。
-{% include figure.liquid loading="eager" path="assets/img/104paris-notre-dame/notre-dame-paris-2c.webp" title="巴黎圣母院全攻略-paris-notre-dame-guide" class="img-fluid rounded z-depth-1" alt="巴黎圣母院全攻略-paris-notre-dame-guide" %}
+[巴黎圣母院塔楼官方信息与购票](https://www.tours-notre-dame-de-paris.fr/)
 
+### 宝库 Treasury：也是另外收费
 
-### 走进圣母院：石头写成的诗
+教堂内部的Treasury宝库可以参观，但它不是免费教堂参观的一部分。
 
-踏入教堂内部，最先震撼你的，是**高耸的中殿柱廊**与层层叠起的尖拱。柱子仿佛成排的石林，将视线自然引向祭坛与穹顶。
+目前：
 
-光线不再直射，而是被彩窗柔化、过滤，洒在古老石墙上，营造出一种介于现实与神圣之间的宁静。
+- 成人 **12€**
+- 优惠票 **6€**
+- 在宝库入口现场购票
+- 不提供网上预约
 
-在这里，**结构就是美学，空间就是信仰**。
-
-每一块石头都在低语历史，每一道拱门都像一行凝固的诗句——你不需要懂建筑学，也能感受到那种跨越八百年的震撼与温柔。
-
-这正是巴黎圣母院的魅力：
-
-它不是冷冰冰的纪念碑，而是一座会用光、石头和时间与你对话的建筑。
-{% include figure.liquid loading="eager" path="assets/img/104paris-notre-dame/notre-dame-paris-2d.webp" title="巴黎圣母院全攻略-paris-notre-dame-guide" class="img-fluid rounded z-depth-1" alt="巴黎圣母院全攻略-paris-notre-dame-guide" %}
-
-
----
-
-## 3. 火灾与修复：见证圣母院重生
-
-当然，历史总是曲折前行的，巴黎圣母院的命运也不例外。2019年4月15日的下午开始，巴黎的天空被火光点亮，也让全世界的心同时揪紧——巴黎圣母院大火突如其来。当时我还清楚地记得我当时刚从巴黎回到荷兰（当时我在荷兰[马斯特里赫特大学](https://www.maastrichtuniversity.nl/)做交换学者），第二天我就从朋友圈得知了这个惊人的新闻。
-
-随后，随着更多的视频的发布，我看到熊熊烈焰吞噬了圣母院的木质屋架，这座被称为“森林”的中世纪屋顶在数小时内化为灰烬；人们最熟悉、也最心痛的画面，是标志性尖塔在火中倾斜、倒塌。
-
-我相信，那一刻，不只是巴黎在流泪，全球无数人都意识到：一段历史正在燃烧。
-{% include figure.liquid loading="eager" path="assets/img/104paris-notre-dame/notre-dame-paris-3.webp" title="巴黎圣母院全攻略-paris-notre-dame-guide" class="img-fluid rounded z-depth-1" alt="巴黎圣母院全攻略-paris-notre-dame-guide" %}
-
-
-### 从震惊到行动：世界共同守护一座教堂
-
-所幸，主体结构、双塔楼与三大玫瑰花窗得以保全。灾后不久，法国总统马克龙宣布重建计划，目标明确而坚定：**修复巴黎圣母院，并让它“比从前更忠于历史”**。
-
-随之而来的，我们看到的是一场罕见的全球响应：
-
-- 来自世界各地的**捐赠金额超过8亿欧元**
-- 法国国内外的建筑师、历史学家、工程师通力合作
-- **数千位传统工匠**——木匠、石匠、玻璃工、金属工——重新回到中世纪工坊式的工作状态
-
-他们使用的，不是最快的方式，而是**最接近12世纪的方式**：
-
-手工雕刻橡木梁、用传统技法修复彩色玻璃、甚至连铅焊与石材来源都严格对照历史档案。
-
-### 五年半的耐心：让时间尊重时间
-
-修复工程并非简单“重建”，而是一场对历史的深度考古与再理解。
-
-每一块石头、每一根梁木，都要经过编号、检测、比对与复原。尖塔则完全按照**19世纪建筑师维奥莱-勒-迪克**的设计复刻，既忠于历史，也经得起现代安全标准的考验。
-
-历经**五年半**的日夜打磨，这项被誉为“21世纪最重要文化修复工程之一”的项目，终于在
-
-👉 **2024年12月7日**
-
-正式向公众重新开放。
-{% include figure.liquid loading="eager" path="assets/img/104paris-notre-dame/notre-dame-paris-3a.webp" title="巴黎圣母院全攻略-paris-notre-dame-guide" class="img-fluid rounded z-depth-1" alt="巴黎圣母院全攻略-paris-notre-dame-guide" %}
-
-
-### 今天的圣母院：不是“修好”，而是“重生”
-
-如今走进巴黎圣母院，你看到的不只是修复如初的拱顶与尖塔，还有一座**经历火焰、时间与人类善意洗礼后的建筑**。
-
-空气中仿佛仍残留着木香与石粉的气息，而光线比以往更清澈——那是一种经历过失去之后，才显得格外珍贵的美。
-
-所以，此时参观巴黎圣母院，意义早已超越普通观光：
-
-- 你在见证**历史建筑的重生时刻**
-- 你在触摸**中世纪技艺与现代科技的交汇**
-- 更是在参与一段**仍在继续书写的世界文化史**
-
-更多关于巴黎圣母院重建背后的工作，可以[查看这里](https://rebatirnotredamedeparis.fr/en)。
-{% include figure.liquid loading="eager" path="assets/img/104paris-notre-dame/notre-dame-paris-3b.webp" title="巴黎圣母院全攻略-paris-notre-dame-guide" class="img-fluid rounded z-depth-1" alt="巴黎圣母院全攻略-paris-notre-dame-guide" %}
-
+如果第一次来、时间只有一小时，我觉得主教堂本身优先级更高；对宗教艺术、圣物和法国宗教史很感兴趣，再把宝库加进去。
 
 ---
 
-## 4. 实用参观信息
+## 巴黎圣母院开放时间
 
-### 地址：巴黎的“起点”——西岱岛（Île de la Cité）
+巴黎圣母院目前正常开放，但它首先仍然是一座正在使用的天主教教堂，所以宗教仪式、特殊活动可能影响游客参观。
 
-巴黎圣母院位于**西岱岛**，这里被认为是巴黎城市的发源地。早在罗马时代，这里就是行政与宗教中心。
+目前常规开放时间为：
 
-换句话说，你站在圣母院门前，脚下踩着的，是**两千多年巴黎历史的原点**。
+- **周一、周二、周三、周五：7:50—19:00**
+- **周四：7:50—22:00**
+- **周六、周日：8:15—19:30**
+- 最晚入场一般为关闭前30分钟
 
-📌 导航时可直接搜索：**Notre-Dame de Paris**
-{% include figure.liquid loading="eager" path="assets/img/104paris-notre-dame/notre-dame-paris-4.webp" title="巴黎圣母院全攻略-paris-notre-dame-guide" class="img-fluid rounded z-depth-1" alt="巴黎圣母院全攻略-paris-notre-dame-guide" %}
+如果碰到重要宗教节日或特殊活动，建议出发当天再看一次官网。
 
+我个人更喜欢两个时间：
 
-### 最近地铁站：三站可达，步行即是风景
+**上午较早：**人相对少，内部更安静，彩窗和中殿也更容易慢慢看。
 
-- **Cité（地铁4号线）**：最近、最直接
-- **Saint-Michel–Notre-Dame（RER B / C）**：适合从机场或左岸运动过来
-- **Hôtel de Ville（地铁1、11号线）**：顺路还能逛玛黑区
+**周四傍晚：**如果当天开放至22点，可以把圣母院和塞纳河夜景一起安排，行程会比白天硬塞很多景点舒服。
 
-从任何一个站出来，步行几分钟就能看到圣母院的轮廓，**沿途就是标准的巴黎明信片风景**。
-{% include figure.liquid loading="eager" path="assets/img/104paris-notre-dame/notre-dame-paris-4a.webp" title="巴黎圣母院全攻略-paris-notre-dame-guide" class="img-fluid rounded z-depth-1" alt="巴黎圣母院全攻略-paris-notre-dame-guide" %}
-
-
-### 门票信息：信仰免费，风景收费（但很值）
-
-- **教堂主殿**：免费入场
-    
-    > 这是中世纪以来的传统——信仰之门，向所有人敞开。
-    > 
-- **登塔参观 / 圣物宝库**：约10–15欧元
-    - 可近距离欣赏石像鬼
-    - 俯瞰塞纳河与巴黎老城
-    - 宝库中收藏有与法国历史密切相关的宗教文物
-
-📌 **实用建议**：
-
-热门时段排队较长，建议提前[**官网在线预订**](https://www.notredamedeparis.fr/en/visit/reservation-free/)，节省体力，把精力留给登塔后的风景。
-
-### 开放时间：请务必提前确认
-
-虽然巴黎圣母院现在正常开放，但仍可能根据活动、宗教仪式或维护工作调整具体的开放时间。
-
-👉 **出发前一晚或当天早晨，务必查看官网最新时间安排**，避免扑空。（如果你是节假日出行，这一点对节假日尤其重要）
-{% include figure.liquid loading="eager" path="assets/img/104paris-notre-dame/notre-dame-paris-4b.webp" title="巴黎圣母院全攻略-paris-notre-dame-guide" class="img-fluid rounded z-depth-1" alt="巴黎圣母院全攻略-paris-notre-dame-guide" %}
-
-
-### 最佳参观时间：给光线，也给自己
-
-- **清晨**：游客最少、教堂内部安静、适合慢慢欣赏彩色玻璃与拱顶结构
-- **日落前后**：夕阳洒在立面石雕上、塞纳河倒影极美、拍照、散步、发呆都刚刚好
-
-📷 摄影建议：
-
-如果你喜欢摄影，**傍晚从对岸河畔拍圣母院全景**，是很多巴黎老饕级玩家的私藏机位。
-{% include figure.liquid loading="eager" path="assets/img/104paris-notre-dame/notre-dame-paris-4c.webp" title="巴黎圣母院全攻略-paris-notre-dame-guide" class="img-fluid rounded z-depth-1" alt="巴黎圣母院全攻略-paris-notre-dame-guide" %}
-
+{% include figure.liquid loading="lazy" path="assets/img/104paris-notre-dame/notre-dame-paris-4b.webp" title="巴黎圣母院开放时间和参观入口" class="img-fluid rounded z-depth-1" alt="巴黎圣母院入口和游客参观区域" %}
 
 ---
 
-## 5. 教堂内部必看亮点
+## 巴黎圣母院怎么去？
 
-巴黎圣母院不仅是哥特式建筑的杰作，更是一座**立体的历史博物馆**。每一砖每一瓦，都讲述着巴黎千年的风云。走进教堂，你会发现这里的每一个角落都值得驻足。
+巴黎圣母院位于巴黎市中心的**西岱岛 Île de la Cité**：
 
-### 中殿（Grand Nave）：光影与结构的交响曲
+**6 Parvis Notre-Dame – Place Jean-Paul II, 75004 Paris**
 
-中殿是教堂的核心空间，高耸的柱廊直指穹顶，呈现出典型的哥特式“垂直向上”的美学。
+导航直接搜 **Notre-Dame de Paris** 就可以。
 
-阳光透过**玫瑰花窗和彩色玻璃**洒在石柱与拱顶上，映出**金色与红蓝交错的光影**，宛如神灵在低语。
+{% include figure.liquid loading="lazy" path="assets/img/104paris-notre-dame/notre-dame-paris-4.webp" title="巴黎圣母院地址与西岱岛" class="img-fluid rounded z-depth-1" alt="巴黎圣母院位于西岱岛的位置" %}
 
-站在中殿中央，你会感受到一种**跨越八百年的庄严与宁静**。
-{% include figure.liquid loading="eager" path="assets/img/104paris-notre-dame/notre-dame-paris-5a.webp" title="巴黎圣母院全攻略-paris-notre-dame-guide" class="img-fluid rounded z-depth-1" alt="巴黎圣母院全攻略-paris-notre-dame-guide" %}
+比较方便的车站：
 
+- **Cité｜地铁4号线**：离圣母院最近，第一次来最直接
+- **Saint-Michel–Notre-Dame｜RER B / C**：住左岸或者从RER方向过来很方便
+- **Hôtel de Ville｜地铁1、11号线**：可以顺便把玛黑区、巴黎市政厅一起走
+- **Saint-Michel｜地铁4号线**：从拉丁区步行过去很自然
 
-### 侧堂：宗教与艺术的私密空间
+{% include figure.liquid loading="lazy" path="assets/img/104paris-notre-dame/notre-dame-paris-4a.webp" title="巴黎圣母院交通" class="img-fluid rounded z-depth-1" alt="巴黎圣母院附近地铁与塞纳河街景" %}
 
-教堂两侧共设有 **37座侧堂**，每个小堂都独具特色：
+其实到了巴黎市中心，我很少为了两三个站的距离反复坐地铁，其实可以直接走过去。
 
-- 收藏**圣徒遗物**
-- 展示中世纪与文艺复兴时期的宗教艺术
-- 部分小堂保留了**精美彩色玻璃和壁画**
+**卢浮宫、Saint-Germain、拉丁区、玛黑区和圣母院之间，天气好时很多路段直接走反而更舒服。**
 
-这些侧堂仿佛一条条时间走廊，让人一步步探索巴黎的宗教信仰与艺术传承。
-{% include figure.liquid loading="eager" path="assets/img/104paris-notre-dame/notre-dame-paris-5b.webp" title="巴黎圣母院全攻略-paris-notre-dame-guide" class="img-fluid rounded z-depth-1" alt="巴黎圣母院全攻略-paris-notre-dame-guide" %}
-
-
-### 圣母抱子像 & 13世纪合唱席屏风：雕刻中的圣经故事
-
-- **圣母抱子像（Virgin and Child）**：由中世纪艺术家精雕细琢，表现出母子之间温柔而神圣的情感
-- **13世纪合唱席屏风（Choir Stalls）**：雕刻精美，刻画了《圣经》故事及动物、怪兽的装饰图案
-
-每一次仔细观看，你都像在读一本用石头与木头写成的**中世纪图画书**。
-{% include figure.liquid loading="eager" path="assets/img/104paris-notre-dame/notre-dame-paris-5c.webp" title="巴黎圣母院全攻略-paris-notre-dame-guide" class="img-fluid rounded z-depth-1" alt="巴黎圣母院全攻略-paris-notre-dame-guide" %}
-
-
-### 塔楼：与巴黎“天际线”零距离接触
-
-登上塔楼，你不仅能**俯瞰塞纳河与巴黎全景**，还可以近距离观察**石像鬼雕塑**——它们像守护者般俯瞰城市。
-
-塔楼内悬挂着著名大钟 **“伊曼纽尔”（Emmanuel）**，重达 **13吨**，从中世纪传来低沉的钟声，仿佛讲述着法国王朝的历史。
-{% include figure.liquid loading="eager" path="assets/img/104paris-notre-dame/notre-dame-paris-5d.webp" title="巴黎圣母院全攻略-paris-notre-dame-guide" class="img-fluid rounded z-depth-1" alt="巴黎圣母院全攻略-paris-notre-dame-guide" %}
-
-
-### 宝库（Treasury）：珍贵圣物的守护之地
-
-宝库中收藏了众多**宗教圣物**：
-
-- 传说中的**荆棘冠**碎片
-- **真十字架碎片**
-- **17世纪圣物盒**
-    
-    这些文物不仅有宗教意义，也折射出法国数百年的历史、信仰与王权。
-{% include figure.liquid loading="eager" path="assets/img/104paris-notre-dame/notre-dame-paris-5e.webp" title="巴黎圣母院全攻略-paris-notre-dame-guide" class="img-fluid rounded z-depth-1" alt="巴黎圣母院全攻略-paris-notre-dame-guide" %}
-
-
-### 考古地下室（Crypt Archaeologique）：穿越巴黎的时光隧道
-
-位于教堂下方的考古地下室展示了巴黎从**罗马时期到中世纪**的城市遗迹：
-
-- 古罗马城市道路
-- 中世纪防御工事
-- 遗址出土文物
-
-走进地下室，你仿佛踏入了**历史的地下长廊**，每一步都是穿越千年的奇妙体验。
-{% include figure.liquid loading="eager" path="assets/img/104paris-notre-dame/notre-dame-paris-5f.webp" title="巴黎圣母院全攻略-paris-notre-dame-guide" class="img-fluid rounded z-depth-1" alt="巴黎圣母院全攻略-paris-notre-dame-guide" %}
-
+巴黎交通票和Navigo如果还没弄清楚，可以看我的[巴黎交通怎么选？地铁、车票和Navigo指南](https://aolitravel.com/paris/paris-public-transportation/)。
 
 ---
 
-## 6. 圣母院周边景点推荐
+## 第一次参观巴黎圣母院，我推荐怎么看？
 
-巴黎圣母院不仅自身精彩，周边的历史建筑和文化街区同样值得一探。无论你是**历史迷、摄影爱好者还是文艺青年**，这些景点都能让你的巴黎之行丰富而难忘。
+现在进入教堂以后，官方重新设计了参观动线。
 
-### 圣礼拜堂（Sainte-Chapelle）：光影中的哥特艺术奇迹
+如果你不是专门研究宗教艺术，我觉得不用给自己列二十个“必看作品”。第一次去，把下面几处认真看完已经足够。
 
-距离圣母院仅几步之遥，**圣礼拜堂**是法国哥特式建筑的另一颗明珠。
+### 中殿：先别急着往前走
 
-- **高度约15米的彩色玻璃窗**几乎覆盖整面墙，将圣经故事用光与色彩讲述出来
-- 每一扇窗都是中世纪工匠精心设计的杰作
-- 光线穿透玻璃，洒在地面和拱顶上，仿佛置身彩色梦境
+进入以后最先看到的就是高耸的中殿。
 
-📸 对于摄影或绘画爱好者，这里几乎是**必打卡景点**：早晨或阳光充足时，光影最为柔美。
-{% include figure.liquid loading="eager" path="assets/img/104paris-notre-dame/notre-dame-paris-6a.webp" title="巴黎圣母院全攻略-paris-notre-dame-guide" class="img-fluid rounded z-depth-1" alt="巴黎圣母院全攻略-paris-notre-dame-guide" %}
+哥特式建筑真正厉害的地方，在这里体现的淋漓尽致：柱子、尖拱、层层向上的结构会自然把视线拉高。
 
+我建议刚进门先停几十秒，不要马上跟着人群往前走。
 
-### 巴黎谷监狱（Conciergerie）：历史的阴影与王权记忆
+{% include figure.liquid loading="lazy" path="assets/img/104paris-notre-dame/notre-dame-paris-5a.webp" title="巴黎圣母院中殿" class="img-fluid rounded z-depth-1" alt="巴黎圣母院中殿和哥特式拱顶" %}
 
-圣母院旁的**公寓监狱**曾是法国国王的宫殿，后来转为监狱。
+### 三大玫瑰花窗：圣母院最值得看的光
 
-- **大革命时期**，玛丽·安托瓦内特、革命前的重要人物曾被囚于此
-- 石墙、铁门、古老囚室，诉说着法国历史上**权力与悲剧的交织**
-- 参观监狱，还可以了解巴黎司法历史及大革命时期的社会变迁
+巴黎圣母院的西、北、南三面都有著名玫瑰花窗。
 
-这里不仅适合历史爱好者，也让人对巴黎的政治与文化背景有更深理解。
-{% include figure.liquid loading="eager" path="assets/img/104paris-notre-dame/notre-dame-paris-6b.webp" title="巴黎圣母院全攻略-paris-notre-dame-guide" class="img-fluid rounded z-depth-1" alt="巴黎圣母院全攻略-paris-notre-dame-guide" %}
+其中南北玫瑰窗尺度尤其震撼。天气好时，彩色玻璃的光落到石墙和内部空间上，比单纯在外面看建筑更能理解哥特式教堂为什么如此强调“光”。
 
+{% include figure.liquid loading="lazy" path="assets/img/104paris-notre-dame/notre-dame-paris-2b.webp" title="巴黎圣母院玫瑰花窗" class="img-fluid rounded z-depth-1" alt="巴黎圣母院彩色玻璃玫瑰花窗" %}
 
-### 拉丁区（Quartier Latin）：书香与咖啡的巴黎日常
+### 圣母抱子像与内部雕塑
 
-沿着塞纳河南岸，就是著名的**拉丁区**，巴黎学术与文化的心脏地带：
+这个是我很喜欢这一部分，因为圣母院并不是只有建筑尺度值得看。
 
-- **咖啡馆与书店林立**：如世界闻名的**莎士比亚书店（Shakespeare & Company）**
-- **小巷里的平价餐馆**：提供经典法式简餐与地道甜点
-- **街头艺人、市场与艺术画廊**：让漫步充满惊喜
+内部的圣母像、宗教雕塑、祭坛与侧堂，会把这个巨大的建筑重新拉回到人的尺度，也是教会与普通信众拉近距离的方式。
 
-拉丁区的街道小而迷人，非常适合**休闲散步、拍照或感受巴黎文艺气息**。
+{% include figure.liquid loading="lazy" path="assets/img/104paris-notre-dame/notre-dame-paris-5c.webp" title="巴黎圣母院圣母像与雕塑" class="img-fluid rounded z-depth-1" alt="巴黎圣母院圣母抱子像和宗教雕塑" %}
 
-傍晚时，沿着塞纳河走回圣母院，夕阳与河面交相辉映，更是巴黎经典画面。
+### 侧堂：不用每一个都停
 
-更多关于巴黎旅行的攻略，欢迎查看我的[巴黎攻略](https://aolitravel.com/paris/)。
+圣母院内部两侧分布着大量侧堂。
 
-如果你想知道更多巴黎景点内容，欢迎查阅我的[巴黎top20景点攻略](https://aolitravel.com/paris/paris-top-20/)。
-{% include figure.liquid loading="eager" path="assets/img/104paris-notre-dame/notre-dame-paris-6c.webp" title="巴黎圣母院全攻略-paris-notre-dame-guide" class="img-fluid rounded z-depth-1" alt="巴黎圣母院全攻略-paris-notre-dame-guide" %}
+这里最容易出现的问题是：每个都想看，最后走到后半段已经疲劳。
 
+我更建议顺着官方动线慢慢走，有特别吸引你的彩窗、绘画或雕塑再停下来。
 
----
+{% include figure.liquid loading="lazy" path="assets/img/104paris-notre-dame/notre-dame-paris-5b.webp" title="巴黎圣母院侧堂" class="img-fluid rounded z-depth-1" alt="巴黎圣母院内部侧堂和宗教艺术" %}
 
-## 7. 周边美食推荐
+### 宝库：时间够再加
 
-游览完巴黎圣母院及周边景点，别忘了给味蕾也安排一次“文化之旅”。西岱岛与拉丁区不仅有历史建筑，也藏着**巴黎最地道的美味**，从街边小吃到河畔野餐，每一口都充满法式情调。
+如果对法国宗教史和圣物有兴趣，可以进入Treasury。
 
-### 步行可达美食街区
+这里收藏宗教器物、礼仪用品和与圣母院历史相关的珍贵藏品。
 
-- **Rue de la Huchette**：
-    - 紧邻圣母院，巴黎老城区的狭窄街道，两侧咖啡馆、烘焙坊林立
-    - 街道历史悠久，中世纪建筑环绕，漫步其中，仿佛穿越回几百年前的巴黎
-{% include figure.liquid loading="eager" path="assets/img/104paris-notre-dame/notre-dame-paris-7a.webp" title="巴黎圣母院全攻略-paris-notre-dame-guide" class="img-fluid rounded z-depth-1" alt="巴黎圣母院全攻略-paris-notre-dame-guide" %}
-
-
-- **Boulevard Saint-Michel**：
-    - 拉丁区主干道之一
-    - 集中各式咖啡馆、面包店与小餐馆，适合随手买一份可颂或甜点，继续探索城市风光
-{% include figure.liquid loading="eager" path="assets/img/104paris-notre-dame/notre-dame-paris-7b.webp" title="巴黎圣母院全攻略-paris-notre-dame-guide" class="img-fluid rounded z-depth-1" alt="巴黎圣母院全攻略-paris-notre-dame-guide" %}
-
-### 不容错过的经典法式美味
-
-1. **热可颂（Croissant chaud）**
-    - 刚出炉的香脆层层可颂，外酥内软
-    - 在街头咖啡馆点上一杯浓郁咖啡，感受巴黎人的晨间生活
-2. **奶油可颂三明治（Croissant sandwich）**
-    - 加入火腿、奶酪或鸡蛋，既方便携带，又美味满足
-    - 适合边走边吃，轻松继续行程
-3. **涂榛子酱的糕点（Chocolat / Praliné viennoiserie）**
-    - 甜而不腻，适合下午茶
-    - 配上小巧咖啡，坐在咖啡馆户外感受拉丁区的文艺氛围
-{% include figure.liquid loading="eager" path="assets/img/104paris-notre-dame/notre-dame-paris-7c.webp" title="巴黎圣母院全攻略-paris-notre-dame-guide" class="img-fluid rounded z-depth-1" alt="巴黎圣母院全攻略-paris-notre-dame-guide" %}
-
-### 推荐河畔野餐：慢享巴黎风光
-
-- 在塞纳河边或圣母院广场找个安静角落，铺上小餐布，把可颂、三明治、奶酪与水果组合成简易野餐
-- 春夏季尤其适合，微风拂面，河水倒映着教堂与桥梁
-- 既是休息，也是将巴黎建筑美景与味觉体验融合的绝佳方式
-{% include figure.liquid loading="eager" path="assets/img/104paris-notre-dame/notre-dame-paris-7d.webp" title="巴黎圣母院全攻略-paris-notre-dame-guide" class="img-fluid rounded z-depth-1" alt="巴黎圣母院全攻略-paris-notre-dame-guide" %}
+{% include figure.liquid loading="lazy" path="assets/img/104paris-notre-dame/notre-dame-paris-5e.webp" title="巴黎圣母院宝库" class="img-fluid rounded z-depth-1" alt="巴黎圣母院 Treasury 宝库宗教藏品" %}
 
 ---
 
-## 8. 参观注意事项
+## 巴黎圣母院登顶值得吗？
 
-自**1163年开工**至今已有**860多年历史**，经历了风雨、革命与火灾重建，它承载着法国文化与信仰的记忆。走进圣母院，每一步都是与历史对话，每一个细节都值得细细品味。为了让你的参观既安全又有意义，这里有几点贴心提示。
+如果身体条件没问题、时间也允许的话，我觉得**值得，而且现在比大火前更值得单独考虑**。
 
-### 尊重历史：每一步都是穿越时空的体验
+2025年重新开放以后，塔楼参观路线重新设计，除了经典巴黎高处视角，还加入了修复后的钟楼、木结构以及新的参观动线。
 
-- 圣母院不仅是旅游景点，更是**世界文化遗产**
-- 教堂经历过**中世纪建造、法国大革命破坏、2019年火灾重建**等历史事件，每一块石头和雕像都饱含故事
-- 参观时请保持安静，尤其是在中殿、祭坛及宝库区域，让历史的厚重感得以延续
+{% include figure.liquid loading="lazy" path="assets/img/104paris-notre-dame/notre-dame-paris-5d.webp" title="巴黎圣母院塔楼与巴黎天际线" class="img-fluid rounded z-depth-1" alt="巴黎圣母院钟楼和塔顶巴黎景观" %}
 
-💡 建议：
+但我不会推荐所有人都爬。
 
-站在中殿中央或塔楼俯瞰巴黎时，闭上眼睛感受风声与光影，这也是与历史交流的一种方式
+**适合：**
 
-### 遵守规定：文明参观，安全第一
+- 喜欢城市高处景观
+- 对圣母院建筑本身感兴趣
+- 想近距离看钟楼和石雕
+- 体力正常，不怕狭窄楼梯
 
-- **不触碰文物**：雕像、彩色玻璃及古老木雕都是中世纪匠人心血结晶
-- **文明拍照**：内部可拍照，但请关闭闪光灯，尊重文物保护规范
-- **注意秩序**：登塔、参观宝库或地下考古区时，遵循工作人员指示，保持队伍整齐
+**不太适合：**
 
-这些规定不仅是保护圣母院，也是**保障游客安全**，尤其是在高塔或楼梯区域
+- 带低龄孩子
+- 怀孕
+- 明显恐高或眩晕
+- 心肺条件不适合连续爬楼
+- 膝盖不舒服
+- 当天已经安排大量步行
 
-### 珍惜体验：亲眼见证历史重生
+424级台阶不是“坐电梯上去，最后走几步”，而是得真的爬上去。😂
 
-2019年的大火几乎摧毁了巴黎圣母院的屋顶与尖塔，而经过**全球捐赠与数千工匠五年半的努力修复**，它在**2024年12月7日重新开放**。
+而且塔楼内没有电梯、厕所和饮水点。夏天热的时候，即使教堂内比较凉爽，登塔楼前也最好提前考量一下自己的体力和身体状态。
 
-如今参观圣母院，不仅是旅游，更是一次**历史重生的见证**：
+### 石像鬼和“怪兽”为什么这么有名？
 
-- 看飞扶壁、塔楼与彩色玫瑰窗依旧屹立
-- 感受石像鬼雕塑守护城市的神秘力量
-- 体会光影穿透教堂的庄严与温柔
-{% include figure.liquid loading="eager" path="assets/img/104paris-notre-dame/notre-dame-paris-8.webp" title="巴黎圣母院全攻略-paris-notre-dame-guide" class="img-fluid rounded z-depth-1" alt="巴黎圣母院全攻略-paris-notre-dame-guide" %}
+很多人最熟悉的圣母院高处形象，就是那些俯瞰巴黎的石像。
 
+严格说来，负责排水的是**滴水嘴兽 Gargoyles**；大家照片里经常看到、趴在栏杆上看巴黎的幻想生物，很多属于19世纪修复时期加入的**Chimères**。
 
----
+它们也和维奥莱-勒-迪克（Viollet-le-Duc）主持的19世纪修复密切相关。
 
-无论你是艺术爱好者、历史迷，还是喜欢悠闲漫步巴黎街头的旅人，巴黎圣母院都能带给你**跨越八百年的震撼与感动**。从哥特式飞扶壁到彩色玫瑰花窗，从石像鬼守护的塔楼到地下考古遗址，每一个细节都在讲述巴黎的历史故事。提前规划行程，并顺道游览西岱岛周边的圣礼拜堂、公寓监狱和拉丁区，不仅能让你深入了解巴黎的文化底蕴，还能在旅途中收获意想不到的惊喜与浪漫瞬间。
-
-所以，赶紧收藏这篇攻略吧，把巴黎圣母院列入你的必游清单！
-
-下一次踏上塞纳河畔，你将亲眼见证这座历史与艺术交汇的瑰宝重生的辉煌，让你的巴黎之旅更加充实而难忘。
-
-> 出发前，总少不了做点功课，对吧？为了让你的行程更轻松，我整理了三大实用资源：👉1.[**精选路线**](https://aolitravel.com/tours/)：汇集我们自己运营、靠谱的巴黎和南法游览路线，让你玩得尽兴又不踩雷。 👉2.[**旅行工具**](https://aolitravel.com/travel-prep/)：酒店、机票、车票、租车或包车预订，以及各种旅行资源，一站搞定行程安排。 👉3.[**旅行商城**](https://aolitravel.com/store/)：我们陆续上新精选旅行好物，从出行装备到当地特色小物，让旅程更舒适、更有趣。用上这些推荐，你再也不用东奔西找，既省时又省心。想让你的欧洲或瑞士之旅顺利又精彩？从这里开始，就对了！
->
-
-{% include figure.liquid loading="eager" path="assets/img/104paris-notre-dame/notre-dame-paris-9.webp" title="巴黎圣母院全攻略-paris-notre-dame-guide" class="img-fluid rounded z-depth-1" alt="巴黎圣母院全攻略-paris-notre-dame-guide" %}
+{% include figure.liquid loading="lazy" path="assets/img/104paris-notre-dame/notre-dame-paris-2c.webp" title="巴黎圣母院石像鬼与怪兽雕塑" class="img-fluid rounded z-depth-1" alt="巴黎圣母院塔楼 Chimères 与石像雕塑" %}
 
 ---
 
-想了解更多法国或瑞士的旅行灵感？快来探索我的其他旅游攻略吧！😊🇫🇷
+## 只有1小时、2小时或半天，路线怎么排？
 
-**法国旅游**
+接下来我给你推荐几条适合不同游览时间的路线安排：
 
-[法国旅行前准备攻略：一站式指南](https://aolitravel.com/france-travel/france-travel-information/)
+### 只有1小时
 
-[法国旅行入门攻略：申根旅游签证申请指南](https://aolitravel.com/france-travel/france-visa-information/)
+你可以直接把时间留给圣母院：
 
-[法国文化小课堂｜礼仪、语言、饮食文化、餐馆用餐指南](https://aolitravel.com/france-travel/french-culture-101-etiquette-language-culinary-dining/)
+**西立面 → 教堂内部 → 中殿 → 玫瑰花窗 → 侧堂 → 从塞纳河南岸看一次外观**
 
-[🇫🇷法兰西十二时辰：每个月最该去的绝美秘境，错过等一年！](https://aolitravel.com/france-travel/explore-france-12-best-monthly-destinations/)
+不建议这时候再硬塞塔楼。
 
-[法国滑雪🇫🇷入门全攻略｜我的多年经验总结](https://aolitravel.com/france-travel/france-ski-guide/)
+### 有2小时
 
-[法国TOP20滑雪胜地全攻略 ❄️｜探秘阿尔卑斯顶级滑雪天堂](https://aolitravel.com/france-travel/french-top-20-ski-resort-guide/)
+我会推荐：
 
-[法国打折村「不完全指南」带你省钱买大牌！](https://aolitravel.com/france-travel/france-outlet-shopping-mall-village-guide/)
+**圣母院内部 → 教堂外观 → Square René Viviani附近 → 莎士比亚书店 Shakespeare & Company → Quai de Montebello塞纳河边**
 
-[法国看球之旅⚽｜探秘法甲六大豪门](https://aolitravel.com/france-travel/france-football-league-1-visit-top-6-clubs/)
+这条路线很轻松，也能同时看到圣母院正面、侧面和塞纳河视角。
 
-[波尔多旅游指南｜探索葡萄酒之城15个宝藏景点](https://aolitravel.com/france-travel/visit-bordeaux-top-15-things-to-do/)
+### 有半天
 
-[里昂必打卡18大景点：从古迹到艺术，玩转法国“光之城”！](https://aolitravel.com/france-travel/visit-lyon-top-18-things-to-do/)
+第一次来，我最推荐：
 
-[南法 vs 南意：地中海风情的双面魅力，你Pick哪一边？](https://aolitravel.com/france-travel/south-france-south-italy-trip-comparison/)
+**Sainte-Chapelle圣礼拜堂 → Conciergerie巴黎古监狱（按兴趣取舍）→ 巴黎圣母院 → 塞纳河南岸 → Shakespeare & Company → 拉丁区**
 
-[玫瑰之城「图卢兹」解锁浪漫与科技的完美之旅](https://aolitravel.com/france-travel/visit-toulouse-top-12-things-to-do/)
+如果要登塔，再额外预留约1小时，并且围绕塔楼预约时段倒推路线。
 
-[欧洲之心「斯特拉斯堡」Top12景点深度游攻略](https://aolitravel.com/france-travel/visit-strasbourg-top-12-things-to-do/)
+{% include figure.liquid loading="lazy" path="assets/img/104paris-notre-dame/notre-dame-paris-6a.webp" title="圣礼拜堂 Sainte-Chapelle" class="img-fluid rounded z-depth-1" alt="巴黎圣礼拜堂 Sainte-Chapelle 彩色玻璃窗" %}
 
-[最美小镇「科尔马」一日游攻略｜仿佛误入童话世界✨](https://aolitravel.com/france-travel/visit-colmar-1-day-trip/)
+### Sainte-Chapelle：和圣母院很适合放一起
 
-[「格勒诺布尔」终极攻略｜8大必玩景点&美食、远足、滑雪](https://aolitravel.com/france-travel/visit-grenoble-guide/)
+圣礼拜堂就在西岱岛上。
 
-[南特必玩12大景点全攻略｜教你玩转法国最潮文艺之城！](https://aolitravel.com/france-travel/visit-nantes-top-12-things-to-do/)
+如果你喜欢彩色玻璃，这里和圣母院不是重复体验。圣母院体现的是建筑尺度、宗教空间和历史层次；Sainte-Chapelle最强且最有特色的是几乎整面墙都被彩色玻璃覆盖的视觉效果。如果你喜欢、好奇这一类的艺术，一定不要错过！
 
-[3天玩转法国布列塔尼！圣马洛、迪纳尔、迪南、圣米歇尔山全攻略](https://aolitravel.com/france-travel/visit-brittany-bretagne-saint-malo-dinard-dinan-mont-saint-michel/)
+### Conciergerie：对法国历史（尤其是法国大革命）有兴趣再去
 
-[雷恩旅游全攻略｜布列塔尼的心脏，历史与活力的魅力之城！](https://aolitravel.com/france-travel/visit-rennes-top-12-things-to-do/)
+Conciergerie中文常译作巴黎古监狱。
 
-[🇫🇷里尔必玩15大景点全攻略！一次玩透，轻松有趣！](https://aolitravel.com/france-travel/visit-lille-top-15-things-to-do/)
+它最有名的一段历史和法国大革命、玛丽·安托瓦内特有关。
 
-[诺曼底之心「鲁昂」城市旅游深度指南｜距离巴黎1.5小时](https://aolitravel.com/france-travel/visit-rouen-city-guide/)
+如果你对这段历史兴趣一般，半天路线里可以直接跳过，把时间留给圣母院和拉丁区。
 
-[🌿 蒙彼利埃2日生态旅行攻略：徒步、海鲜、运河骑行](https://aolitravel.com/france-travel/visit-montpellier-city-guide/)
+{% include figure.liquid loading="lazy" path="assets/img/104paris-notre-dame/notre-dame-paris-6b.webp" title="巴黎古监狱 Conciergerie" class="img-fluid rounded z-depth-1" alt="巴黎西岱岛 Conciergerie 巴黎古监狱" %}
 
-[🍾香槟之城「兰斯」终极旅行指南](https://aolitravel.com/france-travel/visit-reims-city-guide/)
+### 拉丁区：我会把午饭和散步的时间安排到这里
 
-[法国勃艮第童话小城「第戎」的一日旅游攻略](https://aolitravel.com/france-travel/visit-dijon-city-guide/)
+从圣母院跨过塞纳河就是拉丁区。
 
-[探访阿尔卑斯的威尼斯｜我的「安纳西」独家旅游攻略](https://aolitravel.com/france-travel/visit-alps-annecy-city-guide/)
+Shakespeare & Company、Saint-Michel、小街、咖啡馆都在附近。相比在圣母院门口赶着吃一顿，我更愿意把后半段慢慢逛。
 
-[法国世界文化遗产「圣米歇尔山」最全旅行指南！](https://aolitravel.com/france-travel/visit-saint-michel-mount-normandie/)
+{% include figure.liquid loading="lazy" path="assets/img/104paris-notre-dame/notre-dame-paris-6c.webp" title="巴黎拉丁区" class="img-fluid rounded z-depth-1" alt="巴黎圣母院附近拉丁区街道和咖啡馆" %}
 
-[法国美丽岛「科西嘉」全攻略｜这个地中海神仙小岛也太绝了](https://aolitravel.com/france-travel/visit-france-corse-guide/)
+另外有一个考古地下室，叫做 **Crypte archéologique de l'île de la Cité**。它也在圣母院广场附近，但它是独立景点，不是“圣母院内部地下室”。如果你对巴黎从古罗马时期开始的城市遗迹感兴趣，可以单独加入。
 
-[穿越时光的城堡之旅｜法国卢瓦尔河谷最全游览指南](https://aolitravel.com/france-travel/visit-castles-the-loire-france/)
+{% include figure.liquid loading="lazy" path="assets/img/104paris-notre-dame/notre-dame-paris-5f.webp" title="西岱岛考古地下室" class="img-fluid rounded z-depth-1" alt="巴黎圣母院广场附近考古地下室遗址" %}
 
-[比利牛斯山深藏的安道尔🇦🇩小到离谱，好玩到炸](https://aolitravel.com/france-travel/visit-pyrenees-andorra-guide/)
+---
 
-[🇫🇷法国最值得打卡的世界文化遗产TOP15｜一生必去清单](https://aolitravel.com/france-travel/france-15-unesco-historic-cultural-sites/)
+## 巴黎圣母院哪里拍照最好？
 
-[🍷法国葡萄酒旅行攻略｜六大产区，一文看懂！](https://aolitravel.com/france-travel/france-wine-region-travel-guide/)
+圣母院本身很大，只站在正门广场容易得到一张“建筑证件照”。
 
-[去法国看网球？法网、巴黎大师赛、蒙特卡洛大师赛全攻略](https://aolitravel.com/france-travel/roland-garros-paris-masters-monte-carlo-tennis-tournament-guide/)
+我更喜欢三个方向。
 
-**巴黎**
+### 正面：Parvis Notre-Dame
 
-[巴黎住宿安全指南｜区域推荐与避坑攻略](https://aolitravel.com/paris/paris-map-arr/)
+第一次来一定还是要拍，毕竟是最明显的打卡机位！
 
-[巴黎必去景点Top20｜一文带你玩转浪漫之都](https://aolitravel.com/paris/paris-top-20/)
+这里最适合看双塔、西立面雕塑和三个大门的整体比例。
 
-[2025年最新巴黎机场交通攻略](https://aolitravel.com/paris/public-transport-paris-airports/)
+{% include figure.liquid loading="lazy" path="assets/img/104paris-notre-dame/notre-dame-paris-2.webp" title="巴黎圣母院双塔西立面" class="img-fluid rounded z-depth-1" alt="巴黎圣母院双塔和西立面" %}
 
-[巴黎四天三夜经典行程推荐](https://aolitravel.com/paris/paris-4days-trip/)
+### 塞纳河南岸：Quai de Montebello一带
 
-[最实用的巴黎公共交通指南｜一文看懂怎么选！](https://aolitravel.com/paris/paris-public-transportation/)
+这里更容易把：
 
-[法国必打卡｜巴黎歌剧院超详细图文全攻略](https://aolitravel.com/paris/paris-garnier-opera-guide/)
+**圣母院 + 塞纳河 + 巴黎河岸**
 
-[巴黎中餐馆卷王争霸赛（上篇）｜干饭人速存！](https://aolitravel.com/paris/paris-top-50-chinese-restaurants-1/)
+一起放进画面。
 
-[巴黎中餐馆卷王争霸赛（下篇）｜干饭人速存！](https://aolitravel.com/paris/paris-top-50-chinese-restaurants-2/)
+傍晚尤其舒服，拍完以后直接走进拉丁区吃饭。
 
-[巴黎戴高乐机场最全直飞航班&交通攻略](https://aolitravel.com/paris/paris-airport-flights-and-pickup/)
+{% include figure.liquid loading="lazy" path="assets/img/104paris-notre-dame/notre-dame-paris-4c.webp" title="塞纳河畔巴黎圣母院" class="img-fluid rounded z-depth-1" alt="Quai de Montebello拍摄巴黎圣母院和塞纳河" %}
 
-[巴黎迪士尼乐园游玩攻略｜玩转巴黎的魔法世界！](https://aolitravel.com/paris/visit-disneyland-paris/)
+### 教堂东侧：看飞扶壁
 
-[必看！凡尔赛宫游览全攻略｜半天&一天行程完美规划](https://aolitravel.com/paris/visit-versailles/)
+如果你真正喜欢建筑，不要只看正面。
 
-[枫丹白露宫一日游攻略：解锁皇室秘境！](https://aolitravel.com/paris/visit-fontainebleau/)
+绕到后侧才能更清楚看到圣母院最经典的飞扶壁系统。不过圣母院周边和东侧外部空间仍可能随修复及城市工程有所调整，现场能走到哪里以当天的交通情况为准。
 
-[巴黎周边必去的十个绝美小镇｜1小时交通圈](https://aolitravel.com/paris/paris-nearby-10-top-villages/)
+{% include figure.liquid loading="lazy" path="assets/img/104paris-notre-dame/notre-dame-paris-2a.webp" title="巴黎圣母院飞扶壁" class="img-fluid rounded z-depth-1" alt="巴黎圣母院哥特式飞扶壁建筑结构" %}
 
-**南法**
+---
 
-[最新普罗旺斯薰衣草花期预报💜｜最佳观赏时间与路线](https://aolitravel.com/south-of-france/visit-france-provence-lavender-season/)
+## 为什么巴黎圣母院值得看？历史和建筑别完全跳过
 
-[🌟南法7天怎么玩？收下这份保姆级攻略！](https://aolitravel.com/south-of-france/visit-south-france-7-day-trip/)
+虽然圣母院的外观和名气就值得你去一探究竟，但如果完全不知道它经历过什么，看到的很容易只是一座漂亮教堂。
 
-[南法Top15最美宝藏小镇推荐!](https://aolitravel.com/south-of-france/visit-south-france-top-15-villages/)
+关于它的历史，巴黎圣母院始建于 **1163年**，建设持续了近两个世纪。它所在的西岱岛，本身就是巴黎城市历史最核心的区域之一。
 
-[法国马赛-普罗旺斯机场最全指南（含接机服务推荐）！](https://aolitravel.com/south-of-france/marseille-provence-airport-guide/)
+{% include figure.liquid loading="lazy" path="assets/img/104paris-notre-dame/notre-dame-paris-1.webp" title="巴黎圣母院中世纪历史" class="img-fluid rounded z-depth-1" alt="巴黎圣母院历史建筑细节" %}
 
-[🔥巴塞罗那到南法终极交通指南｜私藏路线大公开！](https://aolitravel.com/south-of-france/from-barcelona-to-marseille-guide/)
+### 王权、革命和拿破仑
 
-[南法马赛一日游攻略｜本地向导经典路线推荐](https://aolitravel.com/south-of-france/marseille-1day-trip/)
+巴黎圣母院不仅是宗教建筑，也多次成为法国政治历史的舞台。
 
-[马赛城市住宿指南｜帮你轻松规划马赛之旅](https://aolitravel.com/south-of-france/marseille-quartier-hotel-recommandation/)
+1804年，拿破仑在这里举行加冕典礼。
 
-[马赛必打卡！Top15景点全攻略｜本地向导推荐指南](https://aolitravel.com/south-of-france/visit-marseille-top15-things-to-do/)
+法国大革命时期，圣母院则遭到严重破坏，雕像和宗教装饰被毁，一度失去原来的宗教功能。
 
-[南法圣十字湖和看薰衣草最美攻略｜详细停车地点分享](https://aolitravel.com/south-of-france/visit-lavande-champ-saint-croix-verdon-moustiers-sainte-marie/#%EF%B8%8F-%E7%9C%8B%E6%B9%96%E6%94%BB%E7%95%A5)
+{% include figure.liquid loading="lazy" path="assets/img/104paris-notre-dame/notre-dame-paris-1a.webp" title="巴黎圣母院法国历史" class="img-fluid rounded z-depth-1" alt="巴黎圣母院与法国历史" %}
 
-[阿尔勒城市旅行指南｜探索普罗旺斯的魅力](https://aolitravel.com/south-of-france/visit-arles-city-guide/)
+### 雨果真的改变了圣母院的命运
 
-[「阿维尼翁旅行攻略」解锁教皇之城 🏰 Top15景点！](https://aolitravel.com/south-of-france/visit-avignon-city-guide-top-15-things-to-do/)
+1831年，维克多·雨果发表《巴黎圣母院》。
 
-[南法马赛「城市沙滩」不完全指南](https://aolitravel.com/south-of-france/marseille-top-beach-guide/)
+小说让公众重新关注当时状况不佳的中世纪建筑遗产，也推动了之后的大规模修复。
 
-[马赛法餐指南｜10家本地人也爱的高分餐厅推荐](https://aolitravel.com/south-of-france/10-marseille-restaurants-recommandation/)
+所以现在很多人把这段故事概括为：
 
-[南法粉色盐湖+中世纪古镇艾格莫尔怎么玩？](https://aolitravel.com/south-of-france/visit-salin-aigues-mortes-camargue-travel-guide/)
+**一本小说，重新唤起了法国人对一座教堂的重视。**
 
-[尼斯最强旅行指南｜Top 18必游景点全攻略](https://aolitravel.com/south-of-france/nice-top-18-things-to-do/)
+{% include figure.liquid loading="lazy" path="assets/img/104paris-notre-dame/notre-dame-paris-1b.webp" title="雨果与巴黎圣母院" class="img-fluid rounded z-depth-1" alt="维克多雨果巴黎圣母院历史与建筑" %}
 
-[尼斯住宿全攻略｜7大街区带你解锁南法度假魅力 🌊](https://aolitravel.com/south-of-france/where-to-stay-in-nice-top7-quariters-hotel-recommandation/)
+19世纪修复由建筑师维奥莱-勒-迪克等人主持。我们今天熟悉的很多圣母院视觉元素，也和这次修复有关。
 
-[蔚蓝海岸尼斯、摩纳哥、戛纳最强三日游攻略](https://aolitravel.com/south-of-france/nice-eze-monaco-menton-cannes-3days-trip/)
+{% include figure.liquid loading="lazy" path="assets/img/104paris-notre-dame/notre-dame-paris-1c.webp" title="巴黎圣母院历史修复" class="img-fluid rounded z-depth-1" alt="巴黎圣母院历史建筑和19世纪修复" %}
 
-[南法宝藏城市「土伦」旅游全攻略](https://aolitravel.com/south-of-france/visit-toulon-city-guide/)
+---
 
-[蔚蓝海岸艺术之旅｜尼斯及周边12大博物馆全攻略](https://aolitravel.com/south-of-france/france-cote-dazur-nice-art-trip/)
+## 哥特式建筑，真正值得看哪几个细节？
 
-**瑞士**
+不需要懂建筑史，记住四个就够。
 
-[瑞士滑雪终极攻略｜13大顶级滑雪胜地推荐！](https://aolitravel.com/switzerland/swiss-ski-resorts-guide/)
+### 双塔
 
-[🇨🇭日内瓦最全旅行攻略｜16大必去景点一次玩遍](https://aolitravel.com/switzerland/geneva-top-16-attractions-guide/)
+西立面两座塔楼高约69米，是巴黎最有辨识度的中世纪城市轮廓之一。
 
-[从日内瓦出发的一日慢行｜8个推荐的湖畔小镇](https://aolitravel.com/switzerland/geneva-lake-town-guide/)
+与很多后来欧洲哥特教堂不同，圣母院西立面整体非常稳定、对称，没有用极端高耸的尖塔去制造视觉效果。
 
-[日内瓦6大街区推荐与住宿指南](https://aolitravel.com/switzerland/geneva-6-neighborhoods-guide-accommodation/)
+### 飞扶壁
 
-[苏黎世攻略｜16个必去景点带你玩转瑞士之心](https://aolitravel.com/switzerland/explore-zurich-16-must-see/)
+飞扶壁不只是装饰。
 
-[卢塞恩两日游攻略｜玩遍湖光山色与童话小镇](https://aolitravel.com/switzerland/switzerland-lucerne-two-days-tour/)
+它把拱顶产生的侧向力量传到外部支撑结构，让教堂墙体可以做得更高、更轻，也能开出更大的窗。
 
-[伯尔尼一日游攻略｜深度体验历史文化、自然风光](https://aolitravel.com/switzerland/switzerland-bern-one-day-tour/)
+这也是为什么哥特式建筑内部会有如此强烈的“向上”和“光”的感觉。
 
-[卢加诺最全攻略｜瑞士南部最具意式风情的城市](https://aolitravel.com/switzerland/visit-lugano-top-10-things-to-do/)
+### 玫瑰花窗
 
-**Blog**
+彩色玻璃不是单纯好看。
 
-[更多关于我的生活记录和感受](https://aolitravel.com/blog/)
+在中世纪，它也是讲述圣经故事、宗教人物和象征体系的重要媒介。
 
+### 中殿和尖拱
+
+真正站进教堂以后，会发现圣母院最强的不是某一件“镇馆之宝”，而是整个空间把人的视线向上牵引。
+
+{% include figure.liquid loading="lazy" path="assets/img/104paris-notre-dame/notre-dame-paris-2d.webp" title="巴黎圣母院内部哥特式建筑" class="img-fluid rounded z-depth-1" alt="巴黎圣母院中殿尖拱和哥特式建筑内部" %}
+
+---
+
+## 2019大火以后，巴黎圣母院发生了什么？
+
+2019年4月15日，巴黎圣母院发生严重火灾。
+
+我到现在还记得，当时我刚从巴黎回到荷兰，在马斯特里赫特大学做交换。当天晚上就从朋友圈、新闻和不断出现的视频里看到现场火势，以及尖塔在火中倒下，那种冲击非常直接。
+
+{% include figure.liquid loading="lazy" path="assets/img/104paris-notre-dame/notre-dame-paris-3.webp" title="2019巴黎圣母院大火" class="img-fluid rounded z-depth-1" alt="2019年巴黎圣母院火灾和尖塔" %}
+
+火灾摧毁了中世纪木质屋架和尖塔，但主体结构、两座钟楼和玫瑰花窗等重要部分得以保存。
+
+之后法国启动大规模修复工程，大批木匠、石匠、金属工、玻璃修复师等传统工艺人员参与其中。
+
+新的尖塔依照维奥莱-勒-迪克19世纪设计重建，木结构也大量采用传统工艺重新制作。
+
+{% include figure.liquid loading="lazy" path="assets/img/104paris-notre-dame/notre-dame-paris-3a.webp" title="巴黎圣母院修复工程" class="img-fluid rounded z-depth-1" alt="巴黎圣母院大火后的修复和重建工程" %}
+
+经过五年多修复，巴黎圣母院在 **2024年12月7日**举行重新开放仪式，随后恢复公众参观。
+
+2025年9月，塔楼也重新开放，整个圣母院参观体验才真正进入新的阶段。
+
+{% include figure.liquid loading="lazy" path="assets/img/104paris-notre-dame/notre-dame-paris-3b.webp" title="巴黎圣母院重新开放" class="img-fluid rounded z-depth-1" alt="修复完成后重新开放的巴黎圣母院" %}
+
+如果对重建过程本身感兴趣，可以继续看[Rebâtir Notre-Dame de Paris修复项目](https://rebatirnotredamedeparis.fr/en)。
+
+---
+
+## 带孩子、老人去巴黎圣母院，要注意什么？
+
+教堂本身和钟楼，要分开考虑。
+
+**只参观教堂内部：**整体压力不大，路线也比很多大型博物馆简单。
+
+**登塔：**424级台阶、无电梯、通道狭窄，这已经属于需要一定体力的项目。
+
+如果带父母，我不会为了“来都来了”就默认一定要去登塔。
+
+如果带低龄孩子，也更适合把时间放在教堂、西岱岛和河边散步。
+
+行动不便的游客可以参观教堂内部；官方也提供无障碍服务。不过附近Metro和RER车站本身的无障碍条件并不完全一致，出发前最好单独确认车站电梯情况。
+
+---
+
+## 参观巴黎圣母院，还有几个实用提醒
+
+### 它仍然是一座教堂
+
+这里不是单纯的博物馆。
+
+参观时尽量保持安静，尤其遇到弥撒、祈祷和礼拜活动。
+
+服装也建议以进入宗教场所的标准来准备，不要穿得过于暴露。
+
+### 不要把行李带到塔楼
+
+塔楼没有行李寄存处，而且对大件物品有限制。
+
+如果当天刚到巴黎或者正准备换酒店，我会先放置好行李，再来圣母院参观。
+
+### 官方App值得下载
+
+重新开放以后，巴黎圣母院推出了新的官方App，可以用来查看参观信息和了解内部作品。
+
+{% include figure.liquid loading="lazy" path="assets/img/104paris-notre-dame/notre-dame-paris-8.webp" title="巴黎圣母院官方参观信息" class="img-fluid rounded z-depth-1" alt="巴黎圣母院参观和官方导览信息" %}
+
+---
+
+## 想在圣母院附近吃饭，我更推荐往拉丁区看看
+
+如果参观完要吃饭，我通常会直接过河去拉丁区。
+
+Rue de la Huchette、Saint-Michel周围餐馆密度很高，不过越靠纯游客街，越建议先看菜单和近期评价，不需要为了“圣母院附近”几个字就随便选一家。
+
+{% include figure.liquid loading="lazy" path="assets/img/104paris-notre-dame/notre-dame-paris-7a.webp" title="巴黎圣母院附近拉丁区餐饮" class="img-fluid rounded z-depth-1" alt="巴黎拉丁区 Rue de la Huchette 附近餐厅街" %}
+
+如果只是想简单吃一点，再继续逛，我反而喜欢买面包、三明治或甜点，走到塞纳河边休息，坐在河边边看风景边用餐。如果你没体验过，那么我也强烈建议你体验一下，因为天气好的傍晚在河边野餐是最惬意的体验！
+
+{% include figure.liquid loading="lazy" path="assets/img/104paris-notre-dame/notre-dame-paris-7c.webp" title="巴黎拉丁区面包甜点" class="img-fluid rounded z-depth-1" alt="巴黎拉丁区面包店和法式甜点" %}
+
+---
+
+## 想住巴黎圣母院附近，住哪边方便？
+
+如果圣母院、西岱岛、拉丁区和塞纳河是你巴黎行程的重点，**我更推荐住Saint-Germain / Latin Quarter左岸，而不是为了“离圣母院最近”一定住在西岱岛上。**
+
+原因很简单：
+
+- 步行到圣母院方便
+- Saint-Michel交通好
+- 晚上吃饭选择更多
+- 可以继续走到卢森堡公园、先贤祠、Saint-Germain
+- 比纯景点周边更有“住在巴黎”的感觉
+
+当然，这一带酒店房间普遍不算大，睡眠敏感的人要重点看隔音、楼层和是否有电梯。
+
+确定想住左岸以后，不需要一次比较几十家。我会推荐你看看下面3家不同定位的住宿：
+
+{% include hotel-affiliate-disclosure.liquid %}
+
+{% include hotel-affiliate-hotel-grid.liquid
+   hotel_ids="grand-hotel-des-balcons-paris,hotel-central-saint-germain-paris,hotel-design-sorbonne-paris"
+   button="查看实时房价"
+   col="col-12 col-md-4"
+   placement="notre-dame-stay-latin-quarter"
+%}
+
+如果你还没决定整个巴黎应该住哪一区，可以看我的[巴黎住宿怎么选？安全、交通和酒店推荐](https://aolitravel.com/paris/paris-map-arr/)。
+
+---
+
+## 巴黎圣母院常见问题
+
+**巴黎圣母院现在可以进去吗？**
+
+可以。巴黎圣母院已经重新开放，目前教堂内部正常接待游客，但特殊宗教活动可能调整开放安排。
+
+**巴黎圣母院门票多少钱？**
+
+教堂本身免费。钟楼和宝库属于另外的参观项目，目前钟楼普通票16€，宝库成人票12€。
+
+**巴黎圣母院一定要预约吗？**
+
+不一定。没有预约也可以现场排队进入免费教堂，但热门时间可能等待较久。官网会在临近参观时开放免费时段。
+
+**巴黎圣母院预约为什么一直没票？**
+
+因为免费预约不是提前几个月开放。官网目前采用临近参观逐步放出时段的方式，建议当天人在巴黎以后再多刷几次官方预约页。
+
+**巴黎圣母院钟楼开放了吗？**
+
+开放。双塔已经在2025年9月20日重新开放，需要通过塔楼官方系统单独预约。
+
+**巴黎圣母院登顶要爬多少级台阶？**
+
+完整塔楼路线约424级台阶，没有电梯，部分通道较窄。
+
+**巴黎圣母院登顶值得吗？**
+
+如果体力正常、喜欢城市高处景观和哥特式建筑，我觉得值得。如果膝盖不好、恐高、怀孕或带低龄孩子，不需要为了打卡硬上。
+
+**巴黎圣母院参观需要多久？**
+
+只看教堂内部，我建议45—60分钟。加塔楼，再多留约1小时；如果把Sainte-Chapelle、西岱岛和拉丁区一起玩，最好留半天。
+
+**巴黎圣母院和卢浮宫可以安排同一天吗？**
+
+可以，但我不建议把两个都安排成深度参观。更舒服的方式是上午圣母院 + 西岱岛，下午卢浮宫；或者把卢浮宫单独留半天。卢浮宫具体路线可以看我的[卢浮宫地图、必看作品和3小时路线](https://aolitravel.com/paris/louvre-travel-guide/)。
+
+**巴黎圣母院附近还有什么值得去？**
+
+最值得一起安排的是Sainte-Chapelle、西岱岛、Conciergerie、Shakespeare & Company和拉丁区。时间只有2小时就少选几个，半天再慢慢串起来。
+
+**巴黎圣母院附近适合住宿吗？**
+
+适合，尤其是Saint-Germain / Latin Quarter这一侧。第一次来巴黎、喜欢步行、晚上想在左岸吃饭散步的人会比较舒服。
+
+---
+
+## 继续规划巴黎
+
+圣母院安排好以后，下面几篇最适合接着看：
+
+- [巴黎交通怎么选？地铁、车票和Navigo指南](https://aolitravel.com/paris/paris-public-transportation/)
+- [巴黎住宿怎么选？安全、交通和酒店推荐](https://aolitravel.com/paris/paris-map-arr/)
+- [卢浮宫地图、必看作品和3小时路线](https://aolitravel.com/paris/louvre-travel-guide/)
+- [埃菲尔铁塔怎么玩？登塔、购票和拍照位置](https://aolitravel.com/paris/eiffel-tower-paris-guide/)
+- [巴黎四天三夜经典行程](https://aolitravel.com/paris/paris-4days-trip/)
+- [巴黎必去景点Top20](https://aolitravel.com/paris/paris-top-20/)
+
+如果你不想自己把巴黎、凡尔赛、南法和法国后续行程一段一段拼起来，也可以看看我整理的[精选路线](https://aolitravel.com/tours/)。
+
+{% include figure.liquid loading="lazy" path="assets/img/104paris-notre-dame/notre-dame-paris-9.webp" title="巴黎圣母院与巴黎旅行" class="img-fluid rounded z-depth-1" alt="巴黎圣母院与塞纳河巴黎旅行风景" %}
+
+---
+
+<div class="alert alert-info" role="alert">
+  <strong>2026年更新：</strong>重新核对巴黎圣母院免费预约、开放时间、钟楼登顶和宝库信息，并补充1小时 / 2小时 / 半天路线、周边住宿和实际参观取舍，方便你按自己的行程直接安排。
+</div>
