@@ -12,6 +12,9 @@ toc:
 tags: 法国 巴黎 巴黎交通 巴黎地铁 Navigo RER
 map: true
 pretty_table: true
+hub_group: planning
+hub_order: 3
+hub_visible: true
 ---
 
 在巴黎旅行，我最常用的方式其实是 步行 + 地铁 / RER（快线）。市中心很多景点之间的距离没有想象中那么远，天气好的时候直接走过去，反而更能感受巴黎的街道和城市氛围。遇到跨区、赶时间，或者去凡尔赛、迪士尼这类郊区目的地时，再搭公共交通会更高效。

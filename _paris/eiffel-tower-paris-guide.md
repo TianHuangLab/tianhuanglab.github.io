@@ -11,6 +11,9 @@ toc:
   sidebar: left
 tags: 法国 巴黎 埃菲尔铁塔 巴黎景点 巴黎地标 塞纳河
 map: true
+hub_group: attractions
+hub_order: 1
+hub_visible: true
 ---
 
 {% include figure.liquid loading="eager" path="assets/img/2paris-top-20-0.jpg" title="巴黎埃菲尔铁塔" class="img-fluid rounded z-depth-1" alt="巴黎塞纳河畔的埃菲尔铁塔" %}

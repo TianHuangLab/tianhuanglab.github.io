@@ -1,6 +1,7 @@
 ---
 layout: page
-title: 瑞士
+title: 瑞士旅游攻略
+nav_title: 瑞士
 permalink: /switzerland/
 description: 邂逅瑞士风光，漫游阿尔卑斯心脏
 nav: false

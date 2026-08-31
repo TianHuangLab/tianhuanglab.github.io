@@ -8,6 +8,9 @@ category: 巴黎
 related_publications: false
 related_posts: true
 map: true
+hub_group: lifestyle
+hub_order: 3
+hub_visible: true
 ---
 
 {% include figure.liquid loading="eager" path="assets/img/24paris-top-chinese-restaurants-a/aolitravel.com-paris-chinese-top-50-restaurants-0a.webp" title="paris-top-chinese-restaurants" class="img-fluid rounded z-depth-1" alt="巴黎人气中餐馆paris-top-chinese-restaurants"%}

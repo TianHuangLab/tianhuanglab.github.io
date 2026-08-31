@@ -11,6 +11,9 @@ map: true
 pretty_table: true
 toc:
   sidebar: left
+hub_group: lifestyle
+hub_order: 4
+hub_visible: true
 ---
 
 {% include figure.liquid loading="eager" path="assets/img/60paris-airport-flights/paris-airport-flights-0.webp" title="paris-airport-flights-and-pickup" class="img-fluid rounded z-depth-1" alt="巴黎机场全球直航航班汇总"%}

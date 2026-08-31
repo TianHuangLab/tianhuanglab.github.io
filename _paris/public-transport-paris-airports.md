@@ -10,6 +10,9 @@ related_posts: true
 toc:
   sidebar: left
 tags: 法国 巴黎 
+hub_group: planning
+hub_order: 5
+hub_visible: true
 ---
 {% include figure.liquid loading="eager" path="assets/img/1cdg-1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
 初次来巴黎，面对一个比迷宫还复杂的戴高乐机场，是否感到有点慌？人生地不熟、语言不通、该坐什么车进城心里没谱，是不是觉得脑袋嗡嗡的？别担心——2025年看这一篇戴高乐机场攻略就够了！

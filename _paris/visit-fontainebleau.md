@@ -11,6 +11,9 @@ toc:
   sidebar: left
 tags: 法国 巴黎 
 map: true
+hub_group: daytrips
+hub_order: 3
+hub_visible: true
 ---
 
 **枫丹白露宫旅游攻略：历史、游玩体验、交通一网打尽！**

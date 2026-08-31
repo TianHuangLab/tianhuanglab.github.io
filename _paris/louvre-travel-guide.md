@@ -11,6 +11,9 @@ toc:
   sidebar: left
 tags: 法国 巴黎 卢浮宫 卢浮宫博物馆 巴黎景点 巴黎地标 法国景点 世界地标 杜乐丽花园 法国皇家宫殿 巴黎1区
 map: true
+hub_group: attractions
+hub_order: 2
+hub_visible: true
 ---
 
 {% include figure.liquid loading="eager" path="assets/img/107louvre/louvre-0.webp" title="巴黎卢浮宫博物馆全攻略-paris-louvre-guide" class="img-fluid rounded z-depth-1" alt="巴黎卢浮宫博物馆全攻略-paris-louvre-guide" %}

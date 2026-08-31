@@ -13,6 +13,9 @@ tags: 法国 巴黎 巴黎圣母院 巴黎圣母大教堂 巴黎圣母院预约 
 map: true
 pretty_table: true
 published: true
+hub_group: attractions
+hub_order: 3
+hub_visible: true
 ---
 
 {% include figure.liquid loading="eager" path="assets/img/104paris-notre-dame/notre-dame-paris-0.webp" title="巴黎圣母院参观攻略" class="img-fluid rounded z-depth-1" alt="巴黎圣母院 Notre-Dame de Paris 西立面" %}

@@ -1,6 +1,7 @@
 ---
 layout: page
-title: 南法
+title: 南法旅游攻略
+nav_title: 南法
 permalink: /south-of-france/
 description: 收藏起来，这里是你的南法旅游攻略中心，在普罗旺斯阳光与蔚蓝海岸海风里，找到旅行灵感。
 nav: true

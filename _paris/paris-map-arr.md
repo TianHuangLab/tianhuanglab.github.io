@@ -12,6 +12,9 @@ toc:
 tags: 法国 巴黎 巴黎住宿 巴黎住哪里 巴黎酒店 巴黎住宿安全 巴黎住宿推荐
 map: true
 pretty_table: true
+hub_group: planning
+hub_order: 4
+hub_visible: true
 ---
 
 {% include figure.liquid loading="eager" path="assets/img/7paris-map-arr/7paris-map-arr-4.jpg" title="巴黎住宿区域指南" class="img-fluid rounded z-depth-1" alt="巴黎住宿区域和酒店选择指南" %}

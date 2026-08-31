@@ -11,6 +11,9 @@ map: true
 pretty_table: true
 toc:
   sidebar: left
+hub_group: lifestyle
+hub_order: 1
+hub_visible: true
 ---
 
 {% include figure.liquid loading="eager" path="assets/img/86paris-luxury-hotels/paris-luxury-hotels-0.webp" title="paris-paris-luxury-hotels-top8" class="img-fluid rounded z-depth-1" alt="巴黎奢华酒店推荐paris-luxury-hotels-top8"%}

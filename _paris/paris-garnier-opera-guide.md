@@ -11,6 +11,9 @@ toc:
   sidebar: left
 tags: 法国 巴黎 巴黎歌剧院 加尼叶歌剧院 巴黎景点 酒店
 map: true
+hub_group: attractions
+hub_order: 4
+hub_visible: true
 ---
 
 {% include figure.liquid loading="eager" path="assets/img/103paris-opera/paris-garnier-opera-0.webp" title="巴黎歌剧院全攻略-paris-garnier-opera-guide" class="img-fluid rounded z-depth-1" alt="巴黎歌剧院全攻略-paris-garnier-opera-guide" %}

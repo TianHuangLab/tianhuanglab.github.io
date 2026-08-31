@@ -12,6 +12,9 @@ toc:
 tags: 法国 巴黎 凡尔赛宫 凡尔赛宫一日游 巴黎周边一日游 凡尔赛
 map: true
 pretty_table: true
+hub_group: daytrips
+hub_order: 1
+hub_visible: true
 ---
 
 如果巴黎只留三四天，凡尔赛宫要不要专门拿出一天？这是我觉得比“凡尔赛宫有多豪华”更值得先想清楚的问题。

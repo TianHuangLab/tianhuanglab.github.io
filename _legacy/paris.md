@@ -1,16 +1,15 @@
 ---
 layout: page
-title: 西班牙旅游攻略
-nav_title: 西班牙
-permalink: /spain/
-description: 邂逅西班牙风情，漫游伊比利亚半岛阳光、艺术与海岸之间
-nav: false
-nav_order: 5
-display_categories: [西班牙全境与路线, 加泰罗尼亚与东北, 马德里与中部, 安达卢西亚与南部, 北部西班牙, 西班牙海岛]
+title: 巴黎
+permalink: /paris/
+description: 漫步浪漫巴黎，感受法式风情
+nav: true
+nav_order: 0.4
+display_categories: [巴黎, 大巴黎地区]
 horizontal: false
 ---
 
-<!-- pages/spain.md -->
+<!-- pages/paris.md -->
 <div class="projects">
 {% if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->
@@ -18,7 +17,7 @@ horizontal: false
   <a id="{{ category }}" href=".#{{ category }}">
     <h2 class="category">{{ category }}</h2>
   </a>
-  {% assign categorized_projects = site.spain | where: "category", category %}
+  {% assign categorized_projects = site.paris | where: "category", category %}
   {% assign sorted_projects = categorized_projects | sort: "importance" %}
   <!-- Generate cards for each project -->
   {% if page.horizontal %}
@@ -42,7 +41,7 @@ horizontal: false
 
 <!-- Display projects without categories -->
 
-{% assign sorted_projects = site.spain | sort: "importance" %}
+{% assign sorted_projects = site.paris | sort: "importance" %}
 
   <!-- Generate cards for each project -->
 

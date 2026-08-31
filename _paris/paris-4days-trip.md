@@ -11,6 +11,9 @@ toc:
   sidebar: left
 tags: 法国 巴黎 线路攻略 行程
 map: true
+hub_group: planning
+hub_order: 2
+hub_visible: true
 ---
 
 巴黎，一座充满浪漫和艺术气息的城市，四天三夜的旅程让你既能感受地标性的宏伟景点，也能沉浸在法式生活的悠闲步调中。

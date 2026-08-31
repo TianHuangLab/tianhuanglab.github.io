@@ -11,6 +11,9 @@ toc:
   sidebar: left
 tags: 法国 巴黎 
 map: true
+hub_group: planning
+hub_order: 1
+hub_visible: true
 ---
 {% include figure.liquid loading="eager" path="assets/img/2paris-top-20-0.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
 

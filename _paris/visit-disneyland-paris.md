@@ -11,6 +11,9 @@ toc:
   sidebar: left
 tags: 法国 巴黎 线路攻略 行程
 map: true
+hub_group: daytrips
+hub_order: 2
+hub_visible: true
 ---
 
 Hello，来一场超梦幻的迪士尼冒险，你准备好了吗？

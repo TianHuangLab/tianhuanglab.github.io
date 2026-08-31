@@ -11,6 +11,7 @@ toc:
   sidebar: left
 tags: 法国 巴黎 住宿 酒店
 map: true
+hub_visible: false
 ---
 
 在法国做地接这些年，经常有客户朋友问我一句话：

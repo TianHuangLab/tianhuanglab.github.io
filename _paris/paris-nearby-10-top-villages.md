@@ -12,6 +12,9 @@ toc:
 tags: 法国 巴黎 大巴黎地区 法国小镇
 map: true
 pretty_table: true
+hub_group: daytrips
+hub_order: 4
+hub_visible: true
 ---
 
 {% include figure.liquid loading="eager" path="assets/img/49paris-nearby-10-top-villages/paris-nearby-10-top-villages-6a.webp" title="aolitravel.com-visit-paris-nearby-10-villages" class="img-fluid rounded z-depth-1 watermarked" alt="巴黎周边最美小镇指南visit-paris-nearby-10-villages"%}
