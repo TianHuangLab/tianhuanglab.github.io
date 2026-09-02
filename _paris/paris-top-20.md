@@ -296,6 +296,7 @@ hub_visible: true
    placement="paris-top20-latin-quarter-stay"
 %}
 
+---
 
 ## **4.香榭丽舍大道 & 凯旋门**
 
@@ -333,6 +334,8 @@ hub_visible: true
 你可以从香榭丽舍大道或杜乐丽花园方向步行到协和广场，广场四周交通繁忙，但这里的美景和历史气息值得你驻足。广场中央的方尖碑和古老的喷泉，是拍照和感受巴黎浪漫气息的最佳位置。
 {% include figure.liquid loading="eager" path="assets/img/2paris-top-20-21.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
 
+---
+
 ## **5.蒙马特高地 & 圣心大教堂**
 
 **蒙马特高地（Montmartre）**
@@ -357,6 +360,7 @@ hub_visible: true
 {% include figure.liquid loading="eager" path="assets/img/2paris-top-20-23.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
 {% include figure.liquid loading="eager" path="assets/img/2paris-top-20-24.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
 
+---
 
 ## **6.奥赛博物馆**
 
@@ -441,6 +445,8 @@ Palais Garnier自助参观目前按居住地和年龄区分票价：法国 / EEA
    placement="paris-top20-opera-stay"
 %}
 
+---
+
 ## **8.凡尔赛宫**
 
 凡尔赛宫**（Château de Versailles）**不仅是法国绝对王权的象征，更是欧洲最辉煌的宫殿之一。它的起源可追溯至路易十三时期的小型狩猎行宫，随后在路易十四的主导下，被改建为金碧辉煌的皇家住所。无论是豪华的镜厅、精美的皇室公寓，还是规模宏大的法式花园，都展示了法国古典建筑的巅峰成就。今天，它已成为世界文化遗产，每年吸引数百万游客。
@@ -489,6 +495,7 @@ Palais Garnier自助参观目前按居住地和年龄区分票价：法国 / EEA
 [请参阅官网](https://jardin.senat.fr/)
 {% include figure.liquid loading="eager" path="assets/img/2paris-top-20-31.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
 
+---
 
 ## **10.大皇宫 & 小皇宫**
 
@@ -515,6 +522,7 @@ Palais Garnier自助参观目前按居住地和年龄区分票价：法国 / EEA
 
 {% include figure.liquid loading="eager" path="assets/img/2paris-top-20-34.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
 
+---
 
 ## **11.蓬皮杜中心**
 
@@ -527,6 +535,8 @@ Palais Garnier自助参观目前按居住地和年龄区分票价：法国 / EEA
 Beaubourg主楼已于2025年9月22日关闭，进入整体改造，预计2030年重新开放。现在已经没有旧版攻略里的固定博物馆开放时间和15欧门票；如果想看Centre Pompidou的展览，需要按当期“Constellation”项目查看具体合作场馆。[请参阅官网](https://www.centrepompidou.fr/fr/le-centre-pompidou-se-metamorphose)
 {% include figure.liquid loading="eager" path="assets/img/2paris-top-20-35.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
 {% include figure.liquid loading="eager" path="assets/img/2paris-top-20-36.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+
+---
 
 ## **12.塞纳河游船**
 
@@ -593,6 +603,7 @@ Beaubourg主楼已于2025年9月22日关闭，进入整体改造，预计2030年
 如果你想了解更多关于巴士底狱广场的历史信息，可以参看[这篇文章](https://zh.wikipedia.org/wiki/%E5%B7%B4%E5%A3%AB%E5%BA%95%E5%B9%BF%E5%9C%BA)
 {% include figure.liquid loading="eager" path="assets/img/2paris-top-20-39.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
 
+---
 
 ## **14.先贤祠 & 拉丁区**
 
@@ -619,6 +630,8 @@ Beaubourg主楼已于2025年9月22日关闭，进入整体改造，预计2030年
 拉丁区作为巴黎的公共区域，全年无休，白天至晚上均可参观。不同商店、咖啡馆和餐厅有各自的营业时间，周末通常更热闹。
 {% include figure.liquid loading="eager" path="assets/img/2paris-top-20-41.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
 {% include figure.liquid loading="eager" path="assets/img/2paris-top-20-42.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+
+---
 
 
 ## **15.孚日广场 & 维克多·雨果之家**
@@ -650,6 +663,8 @@ Beaubourg主楼已于2025年9月22日关闭，进入整体改造，预计2030年
 - 部分节假日可能调整开放时间，[请参阅官网](https://www.maisonsvictorhugo.paris.fr/paris)
 {% include figure.liquid loading="eager" path="assets/img/2paris-top-20-44.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
 
+---
+
 
 ## **16.巴黎荣军院 & 巴黎军事博物馆**
 
@@ -673,6 +688,9 @@ Beaubourg主楼已于2025年9月22日关闭，进入整体改造，预计2030年
 巴黎军事博物馆和巴黎荣军院通常每天上午10点至下午6点开放，部分日期和夜场可能调整。成人全价票目前为17欧元；优惠票为12欧元，适用范围请参考官网。售票和最后入场时间也会随具体参观区域调整。
 
 [请参阅官网](https://www.musee-armee.fr/zh/%E5%8F%82%E8%A7%82%E6%8C%87%E5%8D%97.html)
+
+
+---
 
 ## **17.毕加索美术馆 & 玛黑区**
 
@@ -709,6 +727,8 @@ Beaubourg主楼已于2025年9月22日关闭，进入整体改造，预计2030年
 {% include figure.liquid loading="eager" path="assets/img/2paris-top-20-50.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
 
 
+---
+
 ## **18.枫丹白露宫**
 
 枫丹白露宫**（Château de Fontainebleau）**距巴黎约60公里，在巴黎郊区东南方向，是法国历史最悠久的皇家宫殿之一。其历史可追溯至12世纪，并在历代国王的扩建下，成为法国文艺复兴建筑的杰作。拿破仑曾在此签署退位诏书，这里也见证了法国历史的关键时刻。宫殿融合了中世纪、文艺复兴和古典主义的建筑风格，拥有丰富的艺术藏品和风景如画的花园。
@@ -725,6 +745,8 @@ Beaubourg主楼已于2025年9月22日关闭，进入整体改造，预计2030年
 - 宫殿票价目前为全票17欧、优惠票15欧；18岁以下以及部分符合条件的人群免费。另有导览和特别活动，具体[请参阅官网](https://www.chateaudefontainebleau.fr/zh-hans/)
 {% include figure.liquid loading="eager" path="assets/img/2paris-top-20-51.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
 {% include figure.liquid loading="eager" path="assets/img/2paris-top-20-52.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+
+---
 
 ## **19.巴黎迪士尼乐园**
 
